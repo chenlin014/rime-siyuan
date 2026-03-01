@@ -3,7 +3,7 @@
 
 schema:
     schema_id: xinzheng
-    name: 新鄭形碼
+    name: 新鄭字形
     version: "0.0"
     author:
         - 陈林 <1chen0bryan@gmail.com>
@@ -49,7 +49,8 @@ engine:
         - uniquifier
 
 speller:
-    alphabet: 'abcdefghijklmnopqrstuvwxyz'
+    alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA~`1234567890!@#$%^&*()-_+=[]{}\|:;"',.<>/?
+    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
     delimiter: " '"
     max_code_length: 6
     #auto_select: true
@@ -60,7 +61,8 @@ speller:
       - xform/^(..)(.).(.).(.).$/$1$2$3$4/
 
 translator:
-    dictionary: xz-siyuan
+    dictionary: xz-xingyi-ft # 繁體形意
+    #dictionary: xz-xingyi-jt # 简体形意
     enable_user_dict: false
     max_phrase_length: 6
 

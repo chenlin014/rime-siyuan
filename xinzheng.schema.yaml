@@ -53,7 +53,7 @@ speller:
     initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
     delimiter: " '"
     max_code_length: 6
-    #auto_select: true
+    auto_select: true
     #auto_select_unique_candidate: true
     algebra:
       - xform/^(....).+(....)$/$1$2/
@@ -84,6 +84,9 @@ punctuator:
 
 key_binder:
     import_preset: default
+    bindings:
+      - { when: has_menu, accept: period, send: period}
+      - { when: has_menu, accept: comma, send: comma}
 
 editor:
   bindings:

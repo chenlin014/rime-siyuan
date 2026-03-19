@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-ft
-version: "2026-03-17"
+version: "2026-03-19"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -758,7 +758,7 @@ encoder:
 寄	cfufja
 古	j;	j;;
 首	ii	iii
-思	ajif
+思	ig	igg
 橋	ffwjufck
 燈	sfl;b;
 郭	coc;
@@ -2887,7 +2887,7 @@ encoder:
 蠶	upupsjnfnf
 嘰	jfvdvdxfmf
 靴	z.mg
-慮	p;ajif
+慮	p;ig
 眸	ijqapf
 烟	sfqjuf
 惱	ifddig
@@ -2925,7 +2925,7 @@ encoder:
 剎	wlrugj
 濁	dfng
 茬	rfflaf
-濾	dfp;ajif
+濾	dfp;ig
 珂	gdja
 嗅	jfilpl
 簫	fjtedh
@@ -2963,7 +2963,7 @@ encoder:
 尅	xxkl
 貶	njwjls
 魄	sltl
-崽	adajif
+崽	adig
 斧	zizk
 裔	vjccjf
 湛	dfje
@@ -3169,7 +3169,7 @@ encoder:
 緋	vfyd
 紛	vfgm
 褚	vksd
-腮	djajif
+腮	djig
 枉	ffgd
 旳	sjbh
 鍍	gfcjemkf
@@ -4231,7 +4231,7 @@ encoder:
 皿	bk	bkk
 纂	fjzmvf
 徊	ofdl
-鰓	nkajif
+鰓	nkig
 誨	jjhi
 焗	sfmlqfjf
 鬍	hlw;j;dj
@@ -4482,7 +4482,7 @@ encoder:
 蟮	nfpm
 踰	lloi
 彡	w;	w;;
-鍶	gfajif
+鍶	gfig
 対	ukkl
 庖	cjhjhs
 鶩	xwk;yf
@@ -5419,7 +5419,7 @@ encoder:
 譲	jjvu
 麝	pehmkl
 沌	dfrc
-勰	eszjajif
+勰	eszjig
 婀	ujaaja
 縞	vfck
 瑁	gdv;ij
@@ -5654,7 +5654,7 @@ encoder:
 唲	jfbams
 咜	jfne
 彫	aiw;
-偲	mfajif
+偲	mfig
 鐿	gfjlif
 胂	djsc
 忤	ifz;
@@ -5793,7 +5793,7 @@ encoder:
 灕	dfzzyj
 窨	cvjl
 厾	qeug
-緦	vfajif
+緦	vfig
 耄	hoi/
 杴	ffu;
 蚵	nfja
@@ -7341,7 +7341,7 @@ encoder:
 紕	vfmm
 殪	icgsqkb;
 掤	kknm
-葸	rfajif
+葸	rfig
 貰	eunj
 蓊	rfjsy;
 柈	ffgl
@@ -7922,7 +7922,7 @@ encoder:
 伀	mfjs
 盦	brblbk
 凮	besl
-颸	yaajif
+颸	yaig
 厹	keqa
 惝	ifca
 溽	dfnlkl
@@ -7983,7 +7983,7 @@ encoder:
 垝	afmaasmk
 垵	afcfuj
 搢	kkxi
-攄	kkp;ajif
+攄	kkp;ig
 拡	kkcjqa
 鞐	z.eke;
 蟿	ojqlxsnf
@@ -9412,7 +9412,7 @@ encoder:
 顜	evik
 葹	rfovnd
 檮	ffh.
-楒	ffajif
+楒	ffig
 椸	ffovnd
 櫠	ffcjl;
 耏	ivw;
@@ -9494,7 +9494,7 @@ encoder:
 磏	awku
 虤	p;p;
 虡	p;zlwk
-勴	p;ajifzj
+勴	p;igzj
 蟐	nfcavl
 嗊	jfzfnj
 咈	jfxu
@@ -9755,7 +9755,7 @@ encoder:
 硊	awmaasmk
 磳	awbm
 畷	ajkb
-罳	eaajif
+罳	eaig
 黵	ssmaaswkjj
 簁	fjoflflf
 侐	mfbi
@@ -10001,7 +10001,7 @@ encoder:
 潠	dfm.
 寱	cfolilff
 窵	cvyf
-禗	tjajif
+禗	tjig
 闚	cduaim
 劀	xwccjfgj
 纎	vfx/rh
@@ -10035,7 +10035,7 @@ encoder:
 嶍	ady;sl
 箾	fjwddjgj
 餲	bjsjhjt;
-鑢	gfp;ajif
+鑢	gfp;ig
 玃	plijijyjkf
 鱄	nkvg
 觺	lupr
@@ -10337,7 +10337,7 @@ encoder:
 鞧	z.bo
 胾	x/id
 蕋	rfeslf
-藘	rfp;ajif
+藘	rfp;ig
 蔨	rfqjrimk
 薃	rfdfck
 柣	ffkm
@@ -11159,7 +11159,7 @@ encoder:
 毨	i/lx
 簓	fjaiw;
 伻	mfjv
-儢	mfp;ajif
+儢	mfp;ig
 豻	p.xh
 褹	vkazuo
 膉	djdz
@@ -12031,7 +12031,7 @@ encoder:
 豟	pkcsqe
 砨	awcsqe
 欳	tftbu;
-顋	ajifik
+顋	igik
 峅	adqaks
 鼭	pgko
 倇	mfcfdkmk
@@ -12673,7 +12673,7 @@ encoder:
 鮸	nkv/
 鮟	nkcfuj
 譊	jjar
-諰	jjajif
+諰	jjig
 譅	jjgjwfgjwflflf
 旛	ovpwaj
 凅	dsqjj;
@@ -13641,7 +13641,7 @@ encoder:
 鲲	nksjmm
 鲁	nksj
 迩	ljvw
-鳃	nkajif
+鳃	nkig
 鲣	nkedkfaf
 鳎	nksjy;
 龟	nh	nhh
@@ -14773,7 +14773,7 @@ encoder:
 镘	gfsjeakf
 𬭯	gfvlwak;
 锟	gfsjmm
-锶	gfajif
+锶	gfig
 铿	gfedkfaf
 𬭶	gfss
 镮	gfvi
@@ -14855,7 +14855,7 @@ encoder:
 镴	gfddpg
 䥽	gfl;
 飐	yatv
-飔	yaajif
+飔	yaig
 凤	bekf
 飗	yagkaj
 飏	yasi
@@ -14917,7 +14917,7 @@ encoder:
 颎	mjsfik
 鲸	nkcl
 鳣	nkcxsh
-惫	ldajif
+惫	ldig
 鲛	nkui
 鳑	nkoe
 鳉	nkolidkl
@@ -14956,7 +14956,7 @@ encoder:
 脔	uzid
 谒	jjsjhjt;
 恋	uzif
-𠅤	chajif
+𠅤	chig
 孪	uzhf
 𫍽	jjvi
 诈	jjzd
@@ -15226,7 +15226,7 @@ encoder:
 缊	vfsjbk
 缆	vftpim
 绲	vfsjmm
-缌	vfajif
+缌	vfig
 缳	vfvi
 缈	vfijwe
 𬙊	vfssaf
@@ -16079,7 +16079,7 @@ encoder:
 𫏻	uuoj
 𠵩	jffa
 𥒃	awgsnd
-揌	kkajif
+揌	kkig
 𫧧	ljojbx
 𫋟	nft/kfbk
 𥺒	rkxazx
@@ -17217,7 +17217,7 @@ encoder:
 㘓	jfcdfe
 𨧠	gfdjxh
 𢞆	ifudasw;
-𪮏	kjajif
+𪮏	kjig
 𥋔	ijadefmvk;
 𪷧	dftejfpj
 𫭚	afwd
@@ -17821,7 +17821,7 @@ encoder:
 𣝀	ffh/zj
 㦗	iffgtj
 𨭏	gfdjcvzf
-𬜉	jkajif
+𬜉	jkig
 𱓱	j;vkgj
 𧐸	nfaiw;
 𬑑	ijho
@@ -19378,7 +19378,7 @@ encoder:
 𥻡	rkiu
 𥋶	ijcxrj
 𣛭	ffsdc;
-𬕻	fji;ajif
+𬕻	fji;ig
 橷	ffslmums
 𬡋	vkq;vl
 𡚦	ujwf
@@ -20733,7 +20733,7 @@ encoder:
 𫇖	jkukjf
 𥌈	ijtp
 𤮟	zwaftl
-𥵖	fjdjajif
+𥵖	fjdjig
 𬯩	aajafdgjnj
 𣙦	ffooko
 𪷃	dfedkfim
@@ -21705,14 +21705,14 @@ encoder:
 𧁸	rfp,cffa
 䏧	djie
 𣶈	dfvst;
-𦖻	i;ajif
+𦖻	i;ig
 𪢏	nljfdfnd
 𣾵	dfvfmans
 𬐩	fkbkjw
 𠫅	rfhwassjhf
 𧞋	vkcjku
 𨄁	lli;qkms
-𡃖	jfp;ajif
+𡃖	jfp;ig
 𠢞	kkuotmzj
 𧋻	nfukjf
 𡥤	hfzu
@@ -22297,220 +22297,220 @@ encoder:
 㗚	jfylff
 𪳘	ffv;pk
 𪲝	ffcjff
-⼀	ef	eff
-⼁	eh	ehh
-⼂	wf	wff
-⼃	wj	wjj
-⼄	qe	qee
-⼅	eh	ehh
-⼆	ed	edd
-⼇	ch	chh
-⼈	mf	mff
-⼉	ms	mss
-⼊	mf	mff
-⼋	wk	wkk
-⼌	qk	qkk
-⼍	qk	qkk
-⼎	ds	dss
-⼏	o;	o;;
-⼐	ql	qll
-⼑	gj	gjj
-⼒	zj	zjj
-⼓	hj	hjj
-⼔	mj	mjj
-⼕	q;	q;;
-⼖	q;	q;;
-⼗	ej	ejj
-⼘	tf	tff
-⼙	mk	mkk
-⼚	as	ass
-⼛	qa	qaa
-⼜	kf	kff
-⼝	jf	jff
-⼞	qj	qjj
-⼟	af	aff
-⼠	gs	gss
-⼡	ld	ldd
-⼢	ld	ldd
-⼣	dk	dkk
-⼤	uf	uff
-⼥	uj	ujj
-⼦	hf	hff
-⼧	cf	cff
-⼨	kl	kll
-⼩	wd	wdd
-⼪	ux	uxx
-⼫	ml	mll
-⼬	rd	rdd
-⼭	ad	add
-⼮	dd	ddd
-⼯	zf	zff
-⼰	qs	qss
-⼱	vl	vll
-⼲	xh	xhh
-⼳	vd	vdd
-⼴	cj	cjj
-⼵	og	ogg
-⼶	ks	kss
-⼷	x;	x;;
-⼸	xj	xjj
-⼹	k.	k..
-⼺	w;	w;;
-⼻	of	off
-⼼	if	iff
-⼽	xf	xff
-⼾	cs	css
-⼿	kj	kjj
-⽀	fm	fmm
-⽁	k;	k;;
-⽂	uk	ukk
-⽃	bw	bww
-⽄	zk	zkk
-⽅	od	odd
-⽆	uh	uhh
-⽇	sj	sjj
-⽈	j.	j..
-⽉	dj	djj
-⽊	ff	fff
-⽋	u;	u;;
-⽌	lf	lff
-⽍	ic	icc
-⽎	xs	xss
-⽏	hk	hkk
-⽐	mm	mmm
-⽑	i/	i//
-⽒	tq	tqq
-⽓	do	doo
-⽔	df	dff
-⽕	sf	sff
-⽖	ka	kaa
-⽗	zi	zii
-⽘	ws	wss
-⽙	ol	oll
-⽚	o.	o..
-⽛	ia	iaa
-⽜	pf	pff
-⽝	pl	pll
-⽞	ve	vee
-⽟	gg	ggg
-⽠	f;	f;;
-⽡	zw	zww
-⽢	jd	jdd
-⽣	rs	rss
-⽤	ak	akk
-⽥	aj	ajj
-⽦	lo	loo
-⽧	oo	ooo
-⽨	l;	l;;
-⽩	sl	sll
-⽪	i.	i..
-⽫	bk	bkk
-⽬	ij	ijj
-⽭	xw	xww
-⽮	xl	xll
-⽯	aw	aww
-⽰	tj	tjj
-⽱	nz	nzz
-⽲	rj	rjj
-⽳	cv	cvv
-⽴	ud	udd
-⽵	fj	fjj
-⽶	rk	rkk
-⽷	vf	vff
-⽸	bz	bzz
-⽹	vs	vss
-⽺	pj	pjj
-⽻	y;	y;;
-⽼	ho	hoo
-⽽	iv	ivv
-⽾	zu	zuu
-⽿	i;	i;;
-⾀	td	tdd
-⾁	id	idd
-⾂	t/	t//
-⾃	il	ill
-⾄	xk	xkk
-⾅	ba	baa
-⾆	jk	jkk
-⾇	lq	lqq
-⾈	ok	okk
-⾉	ul	ull
-⾊	mans
-⾋	rf	rff
-⾌	p;	p;;
-⾍	nf	nff
-⾎	bi	bii
-⾏	of	off
-⾐	vj	vjj
-⾑	yl	yll
-⾒	im	imm
-⾓	pr	prr
-⾔	jj	jjj
-⾕	d,	d,,
-⾖	b;	b;;
-⾗	pk	pkk
-⾘	p.	p..
-⾙	nj	njj
-⾚	uz	uzz
-⾛	lk	lkk
-⾜	ll	lll
-⾝	hm	hmm
-⾞	oj	ojj
-⾟	tk	tkk
-⾠	nl	nll
-⾡	lj	ljj
-⾢	c;	c;;
-⾣	bl	bll
-⾤	pw	pww
-⾥	al	all
-⾦	gf	gff
-⾧	hl	hll
-⾨	cd	cdd
-⾩	aa	aaa
-⾪	tc	tcc
-⾫	yj	yjj
-⾬	da	daa
-⾭	ra	raa
-⾮	yd	ydd
-⾯	i,	i,,
-⾰	z.	z..
-⾱	lz	lzz
-⾲	rh	rhh
-⾳	jl	jll
-⾴	ik	ikk
-⾵	ya	yaa
-⾶	ye	yee
-⾷	bj	bjj
-⾸	ii	iii
-⾹	j,	j,,
-⾺	pd	pdd
-⾻	iw	iww
-⾼	ck	ckk
-⾽	hlw;
-⾾	u.	u..
-⾿	b/	b//
-⿀	bb	bbb
-⿁	tl	tll
-⿂	nk	nkk
-⿃	yf	yff
-⿄	bp	bpp
-⿅	pe	pee
-⿆	rlld
-⿇	rx	rxx
-⿈	h;	h;;
-⿉	rjfo
-⿊	ss	sss
-⿋	zlvlwa
-⿌	na	naa
-⿍	bt	btt
-⿎	jgfm
-⿏	pg	pgg
-⿐	io	ioo
-⿑	ro	roo
-⿒	iq	iqq
-⿓	n;	n;;
-⿔	nh	nhh
-⿕	jt	jtt
+⼀	wgef
+⼁	wgeh
+⼂	wgwf
+⼃	wgwj
+⼄	wgqe
+⼅	wgeh
+⼆	wged
+⼇	wgch
+⼈	wgmf
+⼉	wgms
+⼊	wgmf
+⼋	wgwk
+⼌	wgqk
+⼍	wgqk
+⼎	wgds
+⼏	wgo;
+⼐	wgql
+⼑	wggj
+⼒	wgzj
+⼓	wghj
+⼔	wgmj
+⼕	wgq;
+⼖	wgq;
+⼗	wgej
+⼘	wgtf
+⼙	wgmk
+⼚	wgas
+⼛	wgqa
+⼜	wgkf
+⼝	wgjf
+⼞	wgqj
+⼟	wgaf
+⼠	wggs
+⼡	wgld
+⼢	wgld
+⼣	wgdk
+⼤	wguf
+⼥	wguj
+⼦	wghf
+⼧	wgcf
+⼨	wgkl
+⼩	wgwd
+⼪	wgux
+⼫	wgml
+⼬	wgrd
+⼭	wgad
+⼮	wgdd
+⼯	wgzf
+⼰	wgqs
+⼱	wgvl
+⼲	wgxh
+⼳	wgvd
+⼴	wgcj
+⼵	wgog
+⼶	wgks
+⼷	wgx;
+⼸	wgxj
+⼹	wgk.
+⼺	wgw;
+⼻	wgof
+⼼	wgif
+⼽	wgxf
+⼾	wgcs
+⼿	wgkj
+⽀	wgfm
+⽁	wgk;
+⽂	wguk
+⽃	wgbw
+⽄	wgzk
+⽅	wgod
+⽆	wguh
+⽇	wgsj
+⽈	wgj.
+⽉	wgdj
+⽊	wgff
+⽋	wgu;
+⽌	wglf
+⽍	wgic
+⽎	wgxs
+⽏	wghk
+⽐	wgmm
+⽑	wgi/
+⽒	wgtq
+⽓	wgdo
+⽔	wgdf
+⽕	wgsf
+⽖	wgka
+⽗	wgzi
+⽘	wgws
+⽙	wgol
+⽚	wgo.
+⽛	wgia
+⽜	wgpf
+⽝	wgpl
+⽞	wgve
+⽟	wggg
+⽠	wgf;
+⽡	wgzw
+⽢	wgjd
+⽣	wgrs
+⽤	wgak
+⽥	wgaj
+⽦	wglo
+⽧	wgoo
+⽨	wgl;
+⽩	wgsl
+⽪	wgi.
+⽫	wgbk
+⽬	wgij
+⽭	wgxw
+⽮	wgxl
+⽯	wgaw
+⽰	wgtj
+⽱	wgnz
+⽲	wgrj
+⽳	wgcv
+⽴	wgud
+⽵	wgfj
+⽶	wgrk
+⽷	wgvf
+⽸	wgbz
+⽹	wgvs
+⽺	wgpj
+⽻	wgy;
+⽼	wgho
+⽽	wgiv
+⽾	wgzu
+⽿	wgi;
+⾀	wgtd
+⾁	wgid
+⾂	wgt/
+⾃	wgil
+⾄	wgxk
+⾅	wgba
+⾆	wgjk
+⾇	wglq
+⾈	wgok
+⾉	wgul
+⾊	wgmans
+⾋	wgrf
+⾌	wgp;
+⾍	wgnf
+⾎	wgbi
+⾏	wgof
+⾐	wgvj
+⾑	wgyl
+⾒	wgim
+⾓	wgpr
+⾔	wgjj
+⾕	wgd,
+⾖	wgb;
+⾗	wgpk
+⾘	wgp.
+⾙	wgnj
+⾚	wguz
+⾛	wglk
+⾜	wgll
+⾝	wghm
+⾞	wgoj
+⾟	wgtk
+⾠	wgnl
+⾡	wglj
+⾢	wgc;
+⾣	wgbl
+⾤	wgpw
+⾥	wgal
+⾦	wggf
+⾧	wghl
+⾨	wgcd
+⾩	wgaa
+⾪	wgtc
+⾫	wgyj
+⾬	wgda
+⾭	wgra
+⾮	wgyd
+⾯	wgi,
+⾰	wgz.
+⾱	wglz
+⾲	wgrh
+⾳	wgjl
+⾴	wgik
+⾵	wgya
+⾶	wgye
+⾷	wgbj
+⾸	wgii
+⾹	wgj,
+⾺	wgpd
+⾻	wgiw
+⾼	wgck
+⾽	wghlw;
+⾾	wgu.
+⾿	wgb/
+⿀	wgbb
+⿁	wgtl
+⿂	wgnk
+⿃	wgyf
+⿄	wgbp
+⿅	wgpe
+⿆	wgrlld
+⿇	wgrx
+⿈	wgh;
+⿉	wgrjfo
+⿊	wgss
+⿋	wgzlvlwa
+⿌	wgna
+⿍	wgbt
+⿎	wgjgfm
+⿏	wgpg
+⿐	wgio
+⿑	wgro
+⿒	wgiq
+⿓	wgn;
+⿔	wgnh
+⿕	wgjt
 
 # 簡碼
 的	s	slbh
@@ -22797,7 +22797,7 @@ encoder:
 蔡	rik	rfidkftj
 糖	rjb	rkjbjf
 雜	vfy	vjffyj
-潘	dfp	dfpwaj
+潘	dpa	dfpwaj
 蔣	roi	rfolidkl
 幣	vwk	vlwak;vl
 絕	vgn	vfgjns
@@ -23479,7 +23479,6 @@ encoder:
 霆	dom	daogmv
 蠶	uun	upupsjnfnf
 嘰	jvm	jfvdvdxfmf
-慮	pai	p;ajif
 眸	iqp	ijqapf
 惱	idi	ifddig
 艇	oom	okogmv
@@ -23496,7 +23495,7 @@ encoder:
 窺	cui	cvuaim
 奮	uya	ufyjaj
 剎	wrg	wlrugj
-濾	dpa	dfp;ajif
+濾	dfp	dfp;ig
 嗅	jip	jfilpl
 簫	ftd	fjtedh
 慰	mtk	mltjklif
@@ -23600,7 +23599,6 @@ encoder:
 窟	cml	cvmllv
 奚	kav	kavduf
 誼	jct	jjcftm
-腮	dja	djajif
 鍍	gce	gfcjemkf
 涓	dfd	dfjfdj
 蠱	enb	esnfbk
@@ -23811,7 +23809,7 @@ encoder:
 窘	ctj	cvtejf
 溯	dud	dfucdj
 匿	qrk	q;rfkdjf
-顱	pbi	p;ajbkik
+顱	pai	p;ajbkik
 噤	jft	jffgtj
 弒	wrx	wlrux;zf
 謬	jym	jjy;mfw;
@@ -23954,7 +23952,6 @@ encoder:
 筵	fow	fjogwjlf
 掬	khr	kkhjrk
 纂	fzv	fjzmvf
-鰓	nai	nkajif
 鬍	hwj	hlw;j;dj
 嗽	jfu	jffdu;
 悖	ieh	ifejqkhf

@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 ---
-name: siyuan
-version: "2026-03-17"
+name: siyuan-wb
+version: "2026-03-19"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -758,7 +758,7 @@ encoder:
 寄	feueas
 古	at	att
 首	tg	tgg
-思	sate
+思	td	tdd
 橋	eevauefi
 燈	rentht
 郭	fpft
@@ -2887,7 +2887,7 @@ encoder:
 蠶	ujujraqeqe
 嘰	aecocoweme
 靴	ybmd
-慮	ptsate
+慮	pttd
 眸	tazspe
 烟	rezaue
 惱	teootd
@@ -2925,7 +2925,7 @@ encoder:
 剎	vnluda
 濁	oeqd
 茬	leense
-濾	oeptsate
+濾	oepttd
 珂	doas
 嗅	aetnpn
 簫	eaxkoh
@@ -2963,7 +2963,7 @@ encoder:
 尅	wwin
 貶	qavanr
 魄	rnxn
-崽	sosate
+崽	sotd
 斧	ygyi
 裔	caffae
 湛	oeak
@@ -3169,7 +3169,7 @@ encoder:
 緋	cejo
 紛	cedm
 褚	ciro
-腮	oasate
+腮	oatd
 枉	eedo
 旳	rahh
 鍍	defakmie
@@ -4231,7 +4231,7 @@ encoder:
 皿	hi	hii
 纂	eaymce
 徊	beon
-鰓	qisate
+鰓	qitd
 誨	aagg
 焗	remnzeae
 鬍	gnvtatoa
@@ -4482,7 +4482,7 @@ encoder:
 蟮	qepm
 踰	nnbg
 彡	vt	vtt
-鍶	desate
+鍶	detd
 対	uiin
 庖	fagagr
 鶩	wvitje
@@ -5419,7 +5419,7 @@ encoder:
 譲	aacu
 麝	pkgmin
 沌	oelf
-勰	kryasate
+勰	kryatd
 婀	uassas
 縞	cefi
 瑁	doctta
@@ -5654,7 +5654,7 @@ encoder:
 唲	aehsmr
 咜	aeqk
 彫	sgvt
-偲	mesate
+偲	metd
 鐿	deante
 胂	oarf
 忤	teyt
@@ -5793,7 +5793,7 @@ encoder:
 灕	oeyxja
 窨	fcan
 厾	zkud
-緦	cesate
+緦	cetd
 耄	gptq
 杴	eeut
 蚵	qeas
@@ -7341,7 +7341,7 @@ encoder:
 紕	cemm
 殪	tfdrziht
 掤	iiqm
-葸	lesate
+葸	letd
 貰	kuqa
 蓊	learjt
 柈	eedn
@@ -7922,7 +7922,7 @@ encoder:
 伀	mear
 盦	hlhnhi
 凮	hkrn
-颸	jssate
+颸	jstd
 厹	ikzs
 惝	tefs
 溽	oeqnin
@@ -7983,7 +7983,7 @@ encoder:
 垝	semssrmi
 垵	sefeua
 搢	iiwg
-攄	iiptsate
+攄	iipttd
 拡	iifazs
 鞐	ybkikt
 蟿	baznwrqe
@@ -9412,7 +9412,7 @@ encoder:
 顜	kcti
 葹	lebcqo
 檮	eegb
-楒	eesate
+楒	eetd
 椸	eebcqo
 櫠	eefant
 耏	tcvt
@@ -9494,7 +9494,7 @@ encoder:
 磏	sviu
 虤	ptpt
 虡	ptynvi
-勴	ptsateya
+勴	pttdya
 蟐	qefscn
 嗊	aeyeqa
 咈	aewu
@@ -9755,7 +9755,7 @@ encoder:
 硊	svmssrmi
 磳	svhm
 畷	sai,
-罳	crsate
+罳	crtd
 黵	rrmssrviaa
 簁	eabenene
 侐	mehg
@@ -10001,7 +10001,7 @@ encoder:
 潠	oemb
 寱	febntnee
 窵	fcje
-禗	xasate
+禗	xatd
 闚	foustm
 劀	wvffaeda
 纎	cewqlh
@@ -10035,7 +10035,7 @@ encoder:
 嶍	sojtrn
 箾	eavooada
 餲	haragaxt
-鑢	deptsate
+鑢	depttd
 玃	pntatajaie
 鱄	qicd
 觺	nupl
@@ -10337,7 +10337,7 @@ encoder:
 鞧	ybhp
 胾	wqto
 蕋	lekrne
-藘	leptsate
+藘	lepttd
 蔨	lezalgmi
 薃	leoefi
 柣	eeim
@@ -11159,7 +11159,7 @@ encoder:
 毨	tqnw
 簓	easgvt
 伻	meac
-儢	meptsate
+儢	mepttd
 豻	pbwh
 褹	cisxup
 膉	oaox
@@ -12031,7 +12031,7 @@ encoder:
 豟	pifrzk
 砨	svfrzk
 欳	xex,ut
-顋	sateti
+顋	tdti
 峅	sozsir
 鼭	pdip
 倇	mefeoimi
@@ -12673,7 +12673,7 @@ encoder:
 鮸	qicq
 鮟	qifeua
 譊	aasl
-諰	aasate
+諰	aatd
 譅	aanononene
 旛	bcpvsa
 凅	orzaat
@@ -13641,7 +13641,7 @@ encoder:
 鲲	qiramm
 鲁	qira
 迩	nacv
-鳃	qisate
+鳃	qitd
 鲣	qikoiese
 鳎	qirajt
 龟	qh	qhh
@@ -14773,7 +14773,7 @@ encoder:
 镘	decttaie
 𬭯	decnvsit
 锟	deramm
-锶	desate
+锶	detd
 铿	dekoiese
 𬭶	derr
 镮	decg
@@ -14855,7 +14855,7 @@ encoder:
 镴	deoopd
 䥽	dent
 飐	jsxc
-飔	jssate
+飔	jstd
 凤	hkie
 飗	jsdisa
 飏	jsrg
@@ -14917,7 +14917,7 @@ encoder:
 颎	mareti
 鲸	qifn
 鳣	qifwrh
-惫	nosate
+惫	notd
 鲛	qiug
 鳑	qibk
 鳉	qibntoin
@@ -14956,7 +14956,7 @@ encoder:
 脔	uxto
 谒	aaragaxt
 恋	uxte
-𠅤	fhsate
+𠅤	fhtd
 孪	uxge
 𫍽	aacg
 诈	aayo
@@ -15226,7 +15226,7 @@ encoder:
 缊	cerahi
 缆	cexjtm
 绲	ceramm
-缌	cesate
+缌	cetd
 缳	cecg
 缈	cetavk
 𬙊	cerrse
@@ -16079,7 +16079,7 @@ encoder:
 𫏻	uuba
 𠵩	aees
 𥒃	svdrqo
-揌	iisate
+揌	iitd
 𫧧	nabahw
 𫋟	qexqiehi
 𥺒	liwsyw
@@ -17217,7 +17217,7 @@ encoder:
 㘓	aefoek
 𨧠	deoawh
 𢞆	teuosrvt
-𪮏	iasate
+𪮏	iatd
 𥋔	tagnmcit
 𪷧	oexkaepa
 𫭚	sevo
@@ -17821,7 +17821,7 @@ encoder:
 𣝀	eegqya
 㦗	teedxa
 𨭏	deoafcye
-𬜉	aisate
+𬜉	aitd
 𱓱	atcida
 𧐸	qesgvt
 𬑑	tagp
@@ -19378,7 +19378,7 @@ encoder:
 𥻡	litu
 𥋶	tafwla
 𣛭	eeroft
-𬕻	eattsate
+𬕻	eatttd
 橷	eernmumr
 𬡋	ciztcn
 𡚦	uave
@@ -20733,7 +20733,7 @@ encoder:
 𫇖	aiuiae
 𥌈	taxj
 𤮟	yvsexn
-𥵖	eaoasate
+𥵖	eaoatd
 𬯩	ssaseodaqa
 𣙦	eebpip
 𪷃	oekoietm
@@ -21705,14 +21705,14 @@ encoder:
 𧁸	lepyfees
 䏧	oatk
 𣶈	oecrxt
-𦖻	ttsate
+𦖻	tttd
 𪢏	qnaeoeqo
 𣾵	oecedami
 𬐩	eihiav
 𠫅	legvsrrage
 𧞋	cifaiu
 𨄁	nnttzimr
-𡃖	aeptsate
+𡃖	aepttd
 𠢞	iiupxmya
 𧋻	qeuiae
 𡥤	geyu
@@ -22796,7 +22796,7 @@ encoder:
 蔡	lti	letoiexa
 糖	la,	lia,ae
 雜	cej	caeeja
-潘	oep	oepvsa
+潘	ops	oepvsa
 蔣	lbt	lebntoin
 幣	cvi	cnvsitcn
 絕	cdm	cedami
@@ -23476,7 +23476,6 @@ encoder:
 霆	obm	osbdmc
 蠶	uuq	ujujraqeqe
 嘰	acm	aecocoweme
-慮	pst	ptsate
 眸	tzp	tazspe
 惱	tot	teootd
 艇	bbm	bibdmc
@@ -23493,7 +23492,7 @@ encoder:
 窺	fut	fcustm
 奮	ujs	uejasa
 剎	vld	vnluda
-濾	ops	oeptsate
+濾	oep	oepttd
 嗅	atp	aetnpn
 簫	exo	eaxkoh
 慰	mxi	mnxainte
@@ -23597,7 +23596,6 @@ encoder:
 窟	fmn	fcmnnc
 奚	isc	iscoue
 誼	afx	aafexm
-腮	ost	oasate
 鍍	dfk	defakmie
 涓	oeo	oeaeoa
 蠱	kqh	krqehi
@@ -23805,7 +23803,7 @@ encoder:
 窘	fxa	fcxkae
 溯	ouo	oeufoa
 匿	zli	ztleioae
-顱	pht	ptsahiti
+顱	pst	ptsahiti
 噤	aex	aeedxa
 弒	vly	vnluwtye
 謬	ajm	aajtmevt
@@ -23886,7 +23884,7 @@ encoder:
 濂	oef	oefaiu
 謁	arx	aaragaxt
 讒	aph	aaphph
-溥	oin	oestin
+溥	ost	oestin
 緇	cos	ceoosa
 懇	put	pbunte
 鄙	aff	aefwft
@@ -23948,7 +23946,6 @@ encoder:
 筵	ebv	eabdvane
 掬	igl	iigali
 纂	eyc	eaymce
-鰓	qst	qisate
 鬍	gva	gnvtatoa
 嗽	aeu	aeeout
 悖	tlv	telovige

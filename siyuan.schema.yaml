@@ -17,8 +17,8 @@ switches:
       states: [ 中文, 西文 ]
     - name: full_shape
       states: [ 半角, 全角 ]
-    - options: [ zh_trad, zh_jt, no_change ]
-      states: [ 傳統漢字, 简化汉字, 无转换 ]
+    - options: [ no_change, zh_trad, zh_simp ]
+      states: [ 无轉換, 傳統漢字, 简化汉字 ]
       reset: 0
     - name: ascii_punct
       states: [ 。，, ．， ]
@@ -72,7 +72,7 @@ reverse_lookup:
 
 simplifier:
     tips: all
-    option_name: zh_jt
+    option_name: zh_simp
 
 traditional:
     opencc_config: s2t.json

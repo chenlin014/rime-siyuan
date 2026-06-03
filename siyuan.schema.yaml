@@ -53,6 +53,7 @@ speller:
     initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
     max_code_length: 5
     auto_select: true
+    auto_select_pattern: "..;"
     #auto_select_unique_candidate: true
     algebra:
       - xform/^(....).+(....)$/$1$2/

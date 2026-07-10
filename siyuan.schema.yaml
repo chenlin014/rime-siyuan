@@ -51,20 +51,19 @@ engine:
 speller:
     alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA~`!@#$%^&*()-_+=[]{}\|:;"',.<>/?
     initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
-    max_code_length: 5
+    max_code_length: 4
     auto_select: true
     auto_select_pattern: "..;"
     #auto_select_unique_candidate: true
     algebra:
       - xform/^(....).+(....)$/$1$2/
-      - xform/^(.....).$/$1/
-      - xform/^(..)(.).(.).(.).$/$1$2$3$4/
+      - xform/^(..)(.).(.).$/$1$2$3;/
+      - xform/^(.).(.).(.).(.).$/$1$2$3$4;/
 
 translator:
     dictionary: siyuan-ft # 繁體
     #dictionary: siyuan-jt # 简体
     enable_user_dict: false
-    max_phrase_length: 5
 
 reverse_lookup:
     dictionary: luna_pinyin

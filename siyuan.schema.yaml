@@ -49,8 +49,7 @@ engine:
         - uniquifier
 
 speller:
-    alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA~`!@#$%^&*()-_+=[]{}\|:;"',.<>/?
-    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;,./
+    alphabet: zyxwvutsrqponmlkjihgfedcba;,./=
     max_code_length: 4
     auto_select: true
     auto_select_pattern: ".{1,3}="

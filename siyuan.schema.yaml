@@ -50,15 +50,16 @@ engine:
 
 speller:
     alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA~`!@#$%^&*()-_+=[]{}\|:;"',.<>/?
-    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+    initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;,./
     max_code_length: 4
     auto_select: true
-    auto_select_pattern: "..;"
+    auto_select_pattern: ".{1,3}="
     #auto_select_unique_candidate: true
     algebra:
+      - xform/^([a-z])=$/$1/
       - xform/^(....).+(....)$/$1$2/
-      - xform/^(..)(.).(.).$/$1$2$3;/
-      - xform/^(.).(.).(.).(.).$/$1$2$3$4;/
+      - xform/^(..)(.).(.).$/$1$2$3=/
+      - xform/^(.).(.).(.).(.).$/$1$2$3$4=/
 
 translator:
     dictionary: siyuan-ft # 繁體
@@ -84,8 +85,9 @@ punctuator:
 key_binder:
     import_preset: default
     bindings:
-      - { when: has_menu, accept: period, send: period}
-      - { when: has_menu, accept: comma, send: comma}
+      - { when: has_menu, accept: period, send: period }
+      - { when: has_menu, accept: comma, send: comma }
+      - { when: composing, accept: z, send: equal }
 
 editor:
   bindings:

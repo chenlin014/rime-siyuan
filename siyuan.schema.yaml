@@ -87,7 +87,7 @@ key_binder:
     bindings:
       - { when: has_menu, accept: period, send: period }
       - { when: has_menu, accept: comma, send: comma }
-      - { when: composing, accept: z, send: equal }
+      - { when: composing, accept: b, send: equal }
 
 editor:
   bindings:

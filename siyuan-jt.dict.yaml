@@ -16,9 +16,11 @@ encoder:
     - length_equal: 2
       formula: "AaAcBaBc"
     - length_equal: 3
-      formula: "AaBaBcCa"
-    - length_in_range: [4, 10]
-      formula: "AaBaCaDa"
+      formula: "AaBaBcCaCc"
+    - length_equal: 4
+      formula: "AaBaCaDaDc"
+    - length_in_range: [5, 10]
+      formula: "AaBaCaDaEa"
 ...
 
 的	ssgh

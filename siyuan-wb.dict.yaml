@@ -5,7 +5,8 @@
 name: siyuan-wb
 version: "2026-07-18"
 sort: by_weight
-use_preset_vocabulary: true
+use_preset_vocabulary: false
+vocabulary: essay-sy
 columns:
   - text
   - code
@@ -16,9 +17,11 @@ encoder:
     - length_equal: 2
       formula: "AaAcBaBc"
     - length_equal: 3
-      formula: "AaBaBcCa"
-    - length_in_range: [4, 10]
-      formula: "AaBaCaDa"
+      formula: "AaBaBcCaCc"
+    - length_equal: 4
+      formula: "AaBaCaDaDc"
+    - length_in_range: [5, 10]
+      formula: "AaBaCaDaEa"
 ...
 
 的	rrdh
@@ -22680,7 +22683,6 @@ encoder:
 雪	oi=	otig
 跳	no=	nnog
 養	td=	tada
-電	or=	otrg
 知	ye=	yiee
 配	dm=	dkms
 調	ec=	eack
@@ -23002,6 +23004,7 @@ encoder:
 冤	zt=	zith
 輩	jb=	joba
 匹	za=	ztar
+注	or=	oars
 夷	uy=	ueya
 恭	ih=	ivhe
 耕	gp=	gupm
@@ -23112,13 +23115,11 @@ encoder:
 晒	rd=	redr
 沒	ooi	oaorie
 對	gsi	grsein
-個	aze	aezaet
 呢	eaa	eeanaa
 恩	zuh	zauehe
 做	aei	aeetit
 想	lhh	lahahe
 後	bvn	bevono
-從	ban	beaone
 將	bhi	brhoin
 啦	eiu	eeiiuo
 嗯	ezu	eezauehe
@@ -23140,12 +23141,10 @@ encoder:
 機	lvv	lavovoyeae
 殺	xli	xnlkid
 些	nas	neaaso
-網	vvw	vevrwt
 裝	bfv	brfnva
 挺	iba	iibdac
 圖	zep	zaeepw
 應	paj	paaejahe
-強	yzq	yazhqe
 類	lth	lotnhi
 送	nku	nakdue
 接	iwu	iiwiua
@@ -23208,7 +23207,7 @@ encoder:
 操	ise	iisreela
 聲	eih	ehidht
 德	bsh	besahasehe
-局	anz	anzeee
+局	aze	anzeee
 整	lin	liitnd
 傻	ahx	aehdxino
 呃	eea	eecnai
@@ -23958,7 +23957,7 @@ encoder:
 雌	naj	neaaja
 伽	age	aegaee
 嬰	qqu	qaqaua
-痣	bwn	bwnrhe
+痣	bnh	bwnrhe
 廂	plh	palaha
 隋	cih	ctiogeho
 蘊	kvz	kevezaaedt
@@ -24016,6 +24015,7 @@ encoder:
 雍	ppj	phpqja
 群	wet	wkeeta
 麵	lnh	lrnohy
+强	yeq	yaeeqe
 髓	hni	hvnaiogeho
 苟	kze	kezlee
 篩	kcs	kacssevn
@@ -24078,7 +24078,7 @@ encoder:
 唆	ezn	eezharno
 綜	vep	vepewa
 詢	emr	eamare
-聳	bah	beaoneht
+聳	ban	beaoneht
 臘	hht	hoh,td
 堰	czr	caztreua
 棺	lac	lapecs
@@ -24338,7 +24338,7 @@ encoder:
 秧	lzu	leziue
 沼	ofe	oafeee
 襠	vip	vipsce
-慫	bnh	beaonehe
+慫	bah	beaonehe
 懲	bih	bemnacithe
 逞	nea	naeeac
 鰭	qmr	qimpre

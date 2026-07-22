@@ -22575,6 +22575,7 @@ encoder:
 問	pe=	poee
 該	et=	eatg
 別	hf=	hwfe
+裏	vc=	vacr
 加	ge=	gaee
 所	pg=	prgn
 寫	pj=	pejf
@@ -22645,7 +22646,6 @@ encoder:
 量	rc=	rdcr
 式	yg=	ytge
 間	pr=	pore
-裡	vc=	vicr
 貼	qw=	qawc
 往	br=	bers
 費	yq=	yuqa
@@ -23111,6 +23111,7 @@ encoder:
 螃	qb=	qebk
 遘	ns=	nasc
 紕	va=	veam
+众	sa=	srae
 晒	rd=	redr
 沒	ooi	oaorie
 對	gsi	grsein

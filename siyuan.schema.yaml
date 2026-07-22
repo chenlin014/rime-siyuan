@@ -80,7 +80,7 @@ traditional:
     option_name: zh_trad
 
 punctuator:
-    import_preset: symbols
+    import_preset: default
 
 key_binder:
     import_preset: default
@@ -95,5 +95,4 @@ editor:
 
 recognizer:
     patterns:
-        punct: '^/([0-9]0?|[A-Za-z]+)$'
         reverse_lookup: "`[a-z]*'?$|[a-z]+'$"

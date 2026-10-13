@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-jt
-version: "2026-10-12"
+version: "2026-10-13"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -634,7 +634,7 @@ encoder:
 解	;rcf;f
 室	of,l
 底	ojxn
-業	isrj
+業	isks
 代	jf,;
 孫	mfzjwf
 朱	r.	r..
@@ -996,7 +996,7 @@ encoder:
 娘	ujoz
 登	l;gl
 悶	odhf
-微	.f.bk;
+微	.f.b
 佳	jfvh
 瞭	hjso
 雅	hapj
@@ -1493,7 +1493,7 @@ encoder:
 盃	ekg;
 童	mg	mgg
 蟲	as/f
-徵	.f.bjvk;
+徵	.f.bjv
 靚	eahu
 杯	rjek
 暨	gmmpsg
@@ -1762,7 +1762,7 @@ encoder:
 浜	djilks
 齣	hqqe
 錫	cjgg
-薇	ef.f.bk;
+薇	ef.f.b
 淫	djkaig
 拽	kksizj
 職	h;fl,f
@@ -2462,7 +2462,7 @@ encoder:
 察	ofhdkfxj
 駿	;dqhzkld
 繪	wfgi
-黴	.f.bslk;
+黴	.f.bsl
 鈞	cjmjdl
 憐	hfrdlq
 昆	sfjm
@@ -2624,7 +2624,7 @@ encoder:
 簾	ejojk,
 巡	ljdk
 墩	vjook;
-徽	.f.bwfk;
+徽	.f.bwf
 謹	fjux
 脹	dfml
 噓	ff;;vi
@@ -3756,7 +3756,7 @@ encoder:
 夯	ufij
 毗	vfjm
 慫	.fjdlfhf
-懲	.f.bjvk;hf
+懲	.f.bjvhf
 炬	sjiv
 逞	ljffck
 曖	sfm/
@@ -4700,7 +4700,7 @@ encoder:
 葽	efuu
 枳	rjffzk
 杓	rjgh
-鄴	isrjo;
+鄴	iskso;
 岬	vk,t
 誥	fj;v
 汏	djuf
@@ -4982,7 +4982,7 @@ encoder:
 卮	fwjk
 氷	djzf
 詬	fjfw
-癥	.x.f.bjvk;
+癥	.x.f.bjv
 湫	djrfsj
 綵	wfr/
 娓	uj;x
@@ -6879,7 +6879,7 @@ encoder:
 斿	.vmf
 邶	juo;
 犖	sjsjqk;f
-溦	dj.bk;
+溦	dj.b
 窞	ovjaga
 紒	wfjh
 堞	vjaurj
@@ -7457,7 +7457,7 @@ encoder:
 堥	,ak;vj
 夃	mhkf
 妧	ujul
-媺	uj.bk;
+媺	uj.b
 毿	asqhjfz;h/
 拫	kkgm
 搦	kkpv
@@ -8486,7 +8486,7 @@ encoder:
 嗢	ffsfg;
 昣	sfjfz;
 嫳	wlzak;uj
-嶪	vkisrj
+嶪	vkisks
 箶	ejf;df
 箙	ej.m
 仱	jfgu
@@ -9392,7 +9392,7 @@ encoder:
 譓	fjwghf
 裛	wjo;
 庈	ojgu
-癓	.x.f.bk;
+癓	.x.f.b
 煆	sjkh
 慴	hfprss
 璗	djsech
@@ -11349,7 +11349,7 @@ encoder:
 嶀	vkd;zm
 馧	f,sfg;
 齀	hoip
-鰴	.f.b/kk;
+鰴	.f.b/k
 饡	gjlxlx/j
 艓	.kaurj
 羭	;j.i
@@ -12552,7 +12552,7 @@ encoder:
 洟	djuf,j
 睍	hjhu
 佪	jfds
-澂	dj.bjvk;
+澂	dj.bjv
 彊	,jasvfvf
 﨟	efdfsfmjxl
 蓢	efozdf
@@ -17219,7 +17219,7 @@ encoder:
 𨧠	cjdf,h
 𢞆	hfudvlz;
 𪮏	kjhg
-𥋔	hj.bjvk;
+𥋔	hj.bjv
 𪷧	djxeff;j
 𫭚	vjzd
 𬦹	llldrj
@@ -22705,6 +22705,7 @@ encoder:
 答	eg=	ejgk
 社	xv=	xjvj
 娘	uo=	ujoz
+微	..=	.f.b
 雅	hp=	hapj
 魔	ex=	e;x;
 充	mj=	mvjs
@@ -23013,7 +23014,6 @@ encoder:
 袭	/w=	/hwj
 态	uh=	uvhf
 连	l.=	lj.j
-输	..=	.j.i
 较	.u=	.jui
 轻	.w=	.jwa
 顿	eh=	echk
@@ -23257,7 +23257,6 @@ encoder:
 紫	ljw	lfjjwf
 熟	ous	oou;sj
 厚	vsm	vlsfmf
-微	..k	.f.bk;
 形	akz	afksz;
 害	orf	ofraff
 酸	gqz	geqhzkld
@@ -23328,7 +23327,7 @@ encoder:
 控	koi	kkovif
 覆	g.l	gs.flc
 烤	smi	sjmoi/
-徵	.jk	.f.bjvk;
+徵	.f.	.f.bjv
 暨	gms	gmmpsg
 庭	o.j	oj.gjv
 割	orc	ofraffcf
@@ -23380,7 +23379,7 @@ encoder:
 渡	doa	djojamkf
 乳	kmq	kamfqd
 浜	dil	djilks
-薇	e..	ef.f.bk;
+薇	e..	ef.f.b
 淫	dki	djkaig
 拽	ksz	kksizj
 莉	erc	efrfcf
@@ -23586,7 +23585,7 @@ encoder:
 蔚	exk	efjlxjkl
 瓣	xrx	xkrxxk
 墩	vok	vjook;
-徽	..w	.f.bwfk;
+徽	..w	.f.bwf
 蓄	ewv	efwevf
 寇	ouk	ofulk;
 蓬	ell	efljldra
@@ -24336,7 +24335,7 @@ encoder:
 樘	roa	rjoavj
 楦	rsf	rjofadsf
 蜒	/.z	/f.gzjlf
-癜	.xk	.xjlkwkg
+癜	.jk	.xjlkwkg
 葶	eoi	efoki;
 榱	rjw	rjwjhr
 煳	sfd	sjf;df
@@ -24374,7 +24373,7 @@ encoder:
 徇	.ms	.fmjsf
 腆	dxk	dfxaks
 胗	dz;	dfjfz;
-瘢	.x.	.x.kkg
+瘢	..k	.x.kkg
 匏	uzm	ufzmmj
 蝴	/fd	/ff;df
 隳	vkh	v;kdifdfjfhf

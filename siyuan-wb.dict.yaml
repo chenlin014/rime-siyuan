@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-wb
-version: "2026-10-12"
+version: "2026-10-13"
 sort: by_weight
 use_preset_vocabulary: false
 vocabulary: essay-sy
@@ -635,7 +635,7 @@ encoder:
 解	tlfete
 室	peyn
 底	paw.
-業	grla
+業	grir
 代	aeyt
 孫	mexave
 朱	lb	lbb
@@ -997,7 +997,7 @@ encoder:
 娘	uapx
 登	ntdn
 悶	pohe
-微	beb,it
+微	beb,
 佳	aech
 瞭	harp
 雅	hsja
@@ -1494,7 +1494,7 @@ encoder:
 盃	kidt
 童	md	mdd
 蟲	srqe
-徵	beb,acit
+徵	beb,ac
 靚	kshu
 杯	laki
 暨	damjrd
@@ -1763,7 +1763,7 @@ encoder:
 浜	oagnir
 齣	hzzk
 錫	fadd
-薇	kebeb,it
+薇	kebeb,
 淫	oaisgd
 拽	iirgxa
 職	htenye
@@ -2463,7 +2463,7 @@ encoder:
 察	pehoiewa
 駿	tozharno
 繪	vedg
-黴	beb,rnit
+黴	beb,rn
 鈞	faikso
 憐	helonz
 昆	ream
@@ -2625,7 +2625,7 @@ encoder:
 簾	kapaiy
 巡	naoi
 墩	cappit
-徽	beb,veit
+徽	beb,ve
 謹	eauw
 脹	homn
 噓	eettcg
@@ -3757,7 +3757,7 @@ encoder:
 夯	uega
 毗	ceam
 慫	beaonehe
-懲	beb,acithe
+懲	beb,ache
 炬	ragc
 逞	naeeac
 曖	remq
@@ -4701,7 +4701,7 @@ encoder:
 葽	keuu
 枳	laeexi
 杓	ladh
-鄴	grlapt
+鄴	grirpt
 岬	ciy'
 誥	eatc
 汏	oaue
@@ -4983,7 +4983,7 @@ encoder:
 卮	evai
 氷	oaxe
 詬	eaev
-癥	bwbeb,acit
+癥	bwbeb,ac
 湫	oalera
 綵	velq
 娓	uatw
@@ -6880,7 +6880,7 @@ encoder:
 斿	bcme
 邶	aupt
 犖	rarazite
-溦	oab,it
+溦	oab,
 窞	pcasds
 紒	veah
 堞	casula
@@ -7458,7 +7458,7 @@ encoder:
 堥	ysitca
 夃	mhie
 妧	uaun
-媺	uab,it
+媺	uab,
 毿	srzhaexthq
 拫	iidm
 搦	iijc
@@ -8487,7 +8487,7 @@ encoder:
 嗢	eeredt
 昣	reaext
 嫳	vnxsitua
-嶪	cigrla
+嶪	cigrir
 箶	kaetho
 箙	kabm
 仱	aedu
@@ -9393,7 +9393,7 @@ encoder:
 譓	eavdhe
 裛	vapt
 庈	padu
-癓	bwbeb,it
+癓	bwbeb,
 煆	raih
 慴	hejlrr
 璗	oarkfh
@@ -11350,7 +11350,7 @@ encoder:
 嶀	ciotxm
 馧	eyredt
 齀	hpgj
-鰴	beb,qiit
+鰴	beb,qi
 饡	danwnwqa
 艓	bisula
 羭	tabg
@@ -12553,7 +12553,7 @@ encoder:
 洟	oaueya
 睍	hahu
 佪	aeor
-澂	oab,acit
+澂	oab,ac
 彊	yasrcece
 﨟	kehoremawn
 蓢	kepxoe
@@ -17220,7 +17220,7 @@ encoder:
 𨧠	fahoyh
 𢞆	heuocnxt
 𪮏	iahd
-𥋔	hab,acit
+𥋔	hab,ac
 𪷧	oawkeeta
 𫭚	caxo
 𬦹	nnnola
@@ -22536,7 +22536,7 @@ encoder:
 經	v=	vevs
 國	z=	zayr
 現	f=	fihu
-業	g=	grla
+業	g=	grir
 然	h=	hotnra
 觀	j=	jhhu
 資	s=	somtqa
@@ -22739,7 +22739,6 @@ encoder:
 竟	ea=	enar
 亮	pa=	piar
 戴	yw=	yvwq
-衝	bb=	bebb
 疼	bo=	bwob
 雷	oc=	otce
 狼	tp=	tnpx
@@ -22797,6 +22796,7 @@ encoder:
 答	kd=	kadi
 社	wc=	waca
 娘	up=	uapx
+微	bb=	beb,
 雅	hj=	hsja
 形	px=	pmxt
 圓	zf=	zafm
@@ -23327,7 +23327,6 @@ encoder:
 滅	oyr	oaykra
 運	nib	naikba
 溫	oza	oazaaedt
-微	bbi	beb,it
 拋	iug	iiubga
 編	vpw	veprws
 憑	oth	ontohe
@@ -23472,7 +23471,7 @@ encoder:
 擋	ipc	iipsce
 覆	dbn	drbenf
 烤	rmg	rampgq
-徵	bba	beb,acit
+徵	bba	beb,ac
 暨	dmr	damjrd
 庭	pba	pabdac
 濃	ozq	oazgqn
@@ -23563,7 +23562,7 @@ encoder:
 渡	ops	oapasmie
 奪	uji	uejain
 乳	imz	ismezo
-薇	kbb	kebeb,it
+薇	kbb	kebeb,
 淫	oig	oaisgd
 拽	irx	iirgxa
 職	hey	htenye
@@ -23848,7 +23847,7 @@ encoder:
 溶	ope	oapces
 察	phi	pehoiewa
 駿	tza	tozharno
-黴	bbr	beb,rnit
+黴	bbr	beb,rn
 鈞	fis	faikso
 憐	hln	helonz
 橙	lnd	lantdn
@@ -23900,7 +23899,7 @@ encoder:
 瓣	wlw	wilwwi
 況	oea	oaeear
 簾	kpi	kapaiy
-徽	bbv	beb,veit
+徽	bbv	beb,ve
 噓	etc	eettcg
 瞞	hss	hasmsk
 蓄	kvc	kevkce
@@ -24326,7 +24325,7 @@ encoder:
 秧	lzu	leziue
 沼	ofe	oafeee
 襠	vip	vipsce
-懲	bbh	beb,acithe
+懲	bbh	beb,ache
 逞	nea	naeeac
 鰭	qmr	qimpre
 窘	pwe	pcwkee
@@ -24655,7 +24654,7 @@ encoder:
 鏘	fbh	fabrhoin
 騖	yit	ysitto
 髦	mxh	mnxthq
-癥	bbb	bwbeb,acit
+癥	bbb	bwbeb,ac
 蘚	kqt	keqita
 籟	klq	kalifeqa
 榫	ljs	lajasa

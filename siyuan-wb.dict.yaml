@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-wb
-version: "2026-09-09"
+version: "2026-10-12"
 sort: by_weight
 use_preset_vocabulary: false
 vocabulary: essay-sy
@@ -131,7 +131,7 @@ encoder:
 誰	eaja
 哈	eedi
 當	psce
-向	peee
+向	pz	pzz
 家	peti
 問	poee
 之	nr	nrr
@@ -1929,7 +1929,7 @@ encoder:
 肌	hobs
 薰	keru
 映	reziue
-粵	petvxm
+粵	pztvxm
 鼻	hp	hpp
 泵	cpoa
 銷	faxoho
@@ -2063,7 +2063,7 @@ encoder:
 罩	vrbx
 蓉	kepces
 憶	heenhe
-卵	fson
+卵	qz	qzz
 遷	nadrirai
 尺	gf	gff
 禍	wahr
@@ -4035,7 +4035,7 @@ encoder:
 檻	lawp
 隕	ctfm
 饋	daiuqa
-餉	dapeee
+餉	dapz
 鈥	fara
 狙	tnwm
 惶	hefy
@@ -4320,7 +4320,7 @@ encoder:
 嘩	eekl
 僚	aerp
 忿	fche
-孵	fsonisme
+孵	qzisme
 紊	uive
 罄	emiddx
 髯	mnxthl
@@ -4411,7 +4411,7 @@ encoder:
 殆	hfmv
 鬃	mnxtpewa
 啶	eepend
-晌	repeee
+晌	repz
 睫	haseigne
 飭	daatga
 鈿	face
@@ -7284,7 +7284,7 @@ encoder:
 阼	ctgo
 牂	brta
 姞	uafp
-垧	capeee
+垧	capz
 逹	naw'
 栭	lahc
 砒	cpam
@@ -7930,7 +7930,7 @@ encoder:
 溽	oaqnin
 涊	oafdhe
 婥	uabx
-珦	fipeee
+珦	fipz
 輜	baoice
 碹	cppesoor
 鯝	qizaet
@@ -10499,7 +10499,7 @@ encoder:
 簒	kagmxazh
 鸒	hxje
 獌	tnvthaie
-贕	fsonncvrqa
+贕	qzncvrqa
 粊	amlo
 鰞	qijv
 譪	eakeremawn
@@ -11974,7 +11974,7 @@ encoder:
 爂	iwdezira
 豼	tbam
 鰖	qiiogeho
-毈	fsoncb
+毈	qzcb
 觓	tlzl
 鷾	enheje
 罋	phpqjadx
@@ -12615,7 +12615,7 @@ encoder:
 屝	anjo
 嗧	gaeewx
 紬	veyd
-嚮	pqpeee
+嚮	pqpz
 殻	ejid
 搆	iisc
 搯	iiisds
@@ -13169,7 +13169,7 @@ encoder:
 郧	fmpt
 跃	nnxaue
 躜	nnnwnwqa
-响	eepeee
+响	eepz
 哗	eekl
 囵	zawx
 呛	eepv
@@ -13316,7 +13316,7 @@ encoder:
 笃	kato
 笾	kanaga
 俩	aesk
-粤	peloxm
+粤	pzloxm
 侠	aeuekd
 伟	aenx
 伥	aemn
@@ -13376,7 +13376,7 @@ encoder:
 饿	dayo
 饰	daatvn
 饬	daatga
-饷	dapeee
+饷	dapz
 馊	daryie
 丛	aose
 耸	aoht
@@ -16144,7 +16144,7 @@ encoder:
 𨦭	fapete
 𣘃	laketg
 𨮉	fawkeeta
-𫷇	peeenv
+𫷇	pznv
 𥬨	kacg
 𢈖	pasf
 𤋷	raleir
@@ -16370,7 +16370,7 @@ encoder:
 𧄈	kemvrp
 𢯦	iilr
 𨨠	famalo
-𠟲	petvxmfe
+𠟲	pztvxmfe
 𫤾	onzr
 𢠿	heix
 𨤧	crvv
@@ -16396,7 +16396,7 @@ encoder:
 𬈿	oapezedtgt
 𤼕	bwhtenye
 𢀨	gcpxpt
-𬡢	vipeaeue
+𬡢	vipzaeue
 𠶢	eeoayd
 𫴮	qyaeso
 𠑋	gyfiir
@@ -16462,7 +16462,7 @@ encoder:
 𤹽	bweapf
 𢬐	iiikre
 𠥤	ztkeioeedk
-𬪁	fsonpt
+𬪁	qzpt
 㲸	oazr
 𡅋	eelawp
 𠳚	eemsit
@@ -17381,7 +17381,7 @@ encoder:
 𧒌	qennnk
 𪡊	eetb
 䒜	kete
-𪥌	peaeue
+𪥌	pzaeue
 𠲓	eenons
 𫠹	sitr
 𬧺	bamakomako
@@ -18867,7 +18867,7 @@ encoder:
 𪫵	fiirhe
 𥖕	ehcphb
 獜	tnlonz
-𫧾	fsonbrfn
+𫧾	qzbrfn
 𪷥	oauony
 𪽽	rrcg
 𠡺	udptga
@@ -19288,7 +19288,7 @@ encoder:
 𨇍	nnururba
 𢽙	twit
 𢪲	iiam
-𱑛	brfnfson
+𱑛	brfnqz
 𪂰	jepaw.
 𬐎	rrv.
 𪨜	gfbelk
@@ -20760,7 +20760,7 @@ encoder:
 𠲢	eeeevn
 𫢼	mvaeyt
 蜅	qecf
-𠽘	eelnpeee
+𠽘	eelnpz
 𠿯	eeciwt
 𠲺	eeciil
 㵧	oakeremawn
@@ -20957,7 +20957,7 @@ encoder:
 𦟋	hoaekg
 𨠵	dkrt
 𬩁	nakmhwfe
-鎫	fapexnarno
+鎫	fapzxnarno
 𫤎	aeaahibend
 𫺎	helspt
 𠅻	wnoaeeho
@@ -23637,7 +23637,7 @@ encoder:
 瓊	fap	fiaspchait
 髒	hkh	hvkohfaa
 映	rzu	reziue
-粵	ptx	petvxm
+粵	ptx	pztvxm
 銷	fxh	faxoho
 候	aac	aeascnyi
 堅	wic	wbieca
@@ -23985,7 +23985,7 @@ encoder:
 臻	ygi	yngiirle
 寂	pki	pekqie
 醣	dee	dkefee
-晏	reu	repeua
+晏	rep	repeua
 蘿	kvj	kevrveja
 藻	kos	keoasreela
 螺	qcv	qeceve
@@ -24420,7 +24420,6 @@ encoder:
 澎	oex	oaeuxt
 煽	rpj	raprjl
 澱	oab	oaanbsbsid
-餉	dpe	dapeee
 輒	bhz	bahtzo
 顰	nhy	nlhiy,
 煦	rzr	rezkra
@@ -24500,7 +24499,7 @@ encoder:
 甌	zsg	ztsreegj
 峭	cxh	cixoho
 惺	her	herekr
-孵	foi	fsonisme
+孵	qim	qzisme
 罄	eid	emiddx
 髯	mnx	mnxthl
 魘	cew	cneohotnwt
@@ -24529,7 +24528,6 @@ encoder:
 狩	tpi	tnpein
 蠡	ttq	tytiqeqe
 鬃	mxw	mnxtpewa
-晌	rep	repeee
 睫	hsi	haseigne
 飭	dag	daatga
 琍	fil	filefe
@@ -24978,7 +24976,6 @@ encoder:
 搾	igo	iipcgo
 偺	anr	aenowere
 濬	ohh	oahfxixiha
-嚮	ppe	pqpeee
 蘗	kal	keaneewila
 啣	egn	eegineai
 勦	olt	oiltga

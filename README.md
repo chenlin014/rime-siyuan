@@ -147,7 +147,7 @@
 
 ## 異根同碼
 
-多个字根可以共用同一个編碼。
+多个字根可能共用同一个編碼。
 
 <table>
 	<tr>
@@ -161,75 +161,95 @@
 	</tr>
 </table>
 
+<table>
+	<tr>
+		<td>亼（命）</td>
+		<td>𠂇（有）</td>
+		<td>扌（承）</td>
+		<td>𦥑（興兴）</td>
+		<td>癶（發发）</td>
+		<td>屮（卉）</td>
+		<td>䒑（着）</td>
+	</tr>
+</table>
+
 ## 拆字規則
 
 <table>
   <tr>
-    <td>眾</td><td>四㐺</td>
-    <td>衆</td><td>血㐺</td>
-    <td>丟</td><td>一去</td>
+    <td>眾</td><td>四㐺</td><td></td>
+    <td>衆</td><td>血㐺</td><td></td>
+    <td>丟</td><td>一去</td><td></td>
     <td>丢</td><td>丿去</td>
-    <td>康</td><td>庚𭕄</td>
-    <td>唐</td><td>庚口</td>
   </tr>
   <tr>
-    <td>兵</td><td>斤廾</td>
+    <td>康</td><td>庚𭕄</td><td></td>
+    <td>唐</td><td>庚口</td><td></td>
+    <td>兵</td><td>斤廾</td><td></td>
     <td>典</td><td>冊廾</td>
-    <td>印</td><td>爪卩</td>
-    <td>虐</td><td>虎爪</td>
-    <td>貴</td><td>臾貝</td>
+  </tr>
+  <tr>
+    <td>印</td><td>爪卩</td><td></td>
+    <td>虐</td><td>虎爪</td><td></td>
+    <td>貴</td><td>臾貝</td><td></td>
     <td>遣</td><td>辵臾㠯</td>
   </tr>
   <tr>
-    <td>祭</td><td>肉又示</td>
-    <td>蚩</td><td>之虫</td>
-    <td>憂</td><td>頁心夊</td>
+    <td>祭</td><td>肉又示</td><td></td>
+    <td>蚩</td><td>之虫</td><td></td>
+    <td>憂</td><td>頁心夊</td><td></td>
     <td>德</td><td>行直心</td>
-    <td>徳</td><td>行直心</td>
-    <td>那</td><td>冄邑</td>
   </tr>
   <tr>
-    <td>衰</td><td>衣冄</td>
+    <td>徳</td><td>行直心</td><td></td>
+    <td>那</td><td>冄邑</td><td></td>
+    <td>衰</td><td>衣冄</td><td></td>
     <td>犀</td><td>尾牛</td>
-    <td>屬</td><td>尾蜀</td>
-    <td>巤</td><td>𡿺鼠</td>
-    <td>齋</td><td>齊示</td>
+  </tr>
+  <tr>
+    <td>屬</td><td>尾蜀</td><td></td>
+    <td>巤</td><td>𡿺鼠</td><td></td>
+    <td>齋</td><td>齊示</td><td></td>
     <td>斎</td><td>齊示</td>
   </tr>
   <tr>
-    <td>桼</td><td>木黎</td>
-    <td>黍</td><td>禾黎</td>
-    <td>虛</td><td>虎丘</td>
+    <td>桼</td><td>木黎</td><td></td>
+    <td>黍</td><td>禾黎</td><td></td>
+    <td>虛</td><td>虎丘</td><td></td>
     <td>在</td><td>才土</td>
-    <td>存</td><td>才子</td>
-    <td>啇</td><td>帝口</td>
   </tr>
   <tr>
-    <td>丝</td><td>糸糸</td>
+    <td>存</td><td>才子</td><td></td>
+    <td>啇</td><td>帝口</td><td></td>
+    <td>丝</td><td>糸糸</td><td></td>
     <td>惠</td><td>專心</td>
-    <td>恵</td><td>專心</td>
-    <td>冡</td><td>冃豕</td>
-    <td>爭</td><td>爪尹</td>
+  </tr>
+  <tr>
+    <td>恵</td><td>專心</td><td></td>
+    <td>冡</td><td>冃豕</td><td></td>
+    <td>爭</td><td>爪尹</td><td></td>
     <td>争</td><td>⺈尹</td>
   </tr>
   <tr>
-    <td>曷</td><td>日勹亡</td>
-    <td>對</td><td>丵一寸</td>
-    <td>叢</td><td>丵耳又</td>
+    <td>曷</td><td>日勹亡</td><td></td>
+    <td>對</td><td>丵一寸</td><td></td>
+    <td>叢</td><td>丵耳又</td><td></td>
     <td>算</td><td>竹具</td>
-    <td>戍</td><td>戈人</td>
-    <td>臧</td><td>戈爿臣</td>
   </tr>
   <tr>
-    <td>雋</td><td>隹弓</td>
+    <td>戍</td><td>戈人</td><td></td>
+    <td>臧</td><td>戈爿臣</td><td></td>
+    <td>雋</td><td>隹弓</td><td></td>
     <td>第</td><td>竹弟</td>
-    <td>啚</td><td>口㐭</td>
-    <td>容</td><td>穴公</td>
-    <td>旅</td><td>㫃从</td>
+  </tr>
+  <tr>
+    <td>啚</td><td>口㐭</td><td></td>
+    <td>容</td><td>穴公</td><td></td>
+    <td>旅</td><td>㫃从</td><td></td>
     <td>乾</td><td>倝乙</td>
   </tr>
   <tr>
-    <td>桌</td><td>卓木</td>
+    <td>桌</td><td>卓木</td><td></td>
     <td>㒼</td><td>廿兩</td>
   </tr>
 </table>

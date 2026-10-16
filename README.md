@@ -10,7 +10,7 @@
 
 ## 同根字形
 
-繁簡字形大多同根：
+繁簡字形大多同根。
 
 <table>
 	<tr>
@@ -102,8 +102,6 @@
 	</tr>
 </table>
 
-其餘同根字形：
-
 <table>
 	<tr>
 		<td>人亻</td>
@@ -141,13 +139,15 @@
 		<td>真眞</td>
 		<td>业丵</td>
 		<td>行彳</td>
+		<td>倝𠦝</td>
+		<td>八丷</td>
 		<td>冂冖</td>
 	</tr>
 </table>
 
 ## 異根同碼
 
-多个字根可能共用同一个編碼。
+多个字根可共用同一个編碼。
 
 <table>
 	<tr>
@@ -209,47 +209,102 @@
   <tr>
     <td>屬</td><td>尾蜀</td><td></td>
     <td>巤</td><td>𡿺鼠</td><td></td>
-    <td>齋</td><td>齊示</td><td></td>
-    <td>斎</td><td>齊示</td>
+	<td>留</td><td>卯田</td><td></td>
+    <td>劉</td><td>卯金刀</td>
   </tr>
   <tr>
+	<td>齋</td><td>齊示</td><td></td>
+    <td>斎</td><td>齊示</td><td></td>
     <td>桼</td><td>木黎</td><td></td>
-    <td>黍</td><td>禾黎</td><td></td>
-    <td>虛</td><td>虎丘</td><td></td>
-    <td>在</td><td>才土</td>
+    <td>黍</td><td>禾黎</td>
   </tr>
   <tr>
+	<td>虛</td><td>虎丘</td><td></td>
+    <td>在</td><td>才土</td><td></td>
     <td>存</td><td>才子</td><td></td>
-    <td>啇</td><td>帝口</td><td></td>
-    <td>丝</td><td>糸糸</td><td></td>
-    <td>惠</td><td>專心</td>
+    <td>啇</td><td>帝口</td>
   </tr>
   <tr>
+	<td>丝</td><td>糸糸</td><td></td>
+    <td>惠</td><td>專心</td><td></td>
     <td>恵</td><td>專心</td><td></td>
-    <td>冡</td><td>冃豕</td><td></td>
-    <td>爭</td><td>爪尹</td><td></td>
-    <td>争</td><td>⺈尹</td>
+    <td>冡</td><td>冃豕</td>
   </tr>
   <tr>
-    <td>曷</td><td>日勹亡</td><td></td>
+	<td>爭</td><td>爪尹</td><td></td>
+    <td>争</td><td>⺈尹</td><td></td>
+	<td>覽</td><td>監見</td><td></td>
+	<td>览</td><td>監見</td>
+  </tr>
+  <tr>
+	<td>曷</td><td>日勹亡</td><td></td>
     <td>對</td><td>丵一寸</td><td></td>
-    <td>叢</td><td>丵耳又</td><td></td>
-    <td>算</td><td>竹具</td>
+	<td>叢</td><td>丵耳又</td><td></td>
+	<td>菐</td><td>丵廾</td>
   </tr>
   <tr>
+	<td>算</td><td>竹具</td><td></td>
     <td>戍</td><td>戈人</td><td></td>
     <td>臧</td><td>戈爿臣</td><td></td>
-    <td>雋</td><td>隹弓</td><td></td>
-    <td>第</td><td>竹弟</td>
+	<td>雋</td><td>隹弓</td>
   </tr>
   <tr>
+	<td>第</td><td>竹弟</td><td></td>
     <td>啚</td><td>口㐭</td><td></td>
     <td>容</td><td>穴公</td><td></td>
-    <td>旅</td><td>㫃从</td><td></td>
-    <td>乾</td><td>倝乙</td>
+	<td>旅</td><td>㫃从</td>
   </tr>
   <tr>
+	<td>乾</td><td>倝乙</td><td></td>
     <td>桌</td><td>卓木</td><td></td>
     <td>㒼</td><td>廿兩</td>
   </tr>
+</table>
+
+<table>
+	<tr>
+		<td>船沿等</td><td>＊公</td>
+		<td></td>
+		<td>嬴羸等</td><td>贏＊</td>
+		<td></td>
+		<td>豪亭等</td><td>高＊</td>
+	</tr>
+	<tr>
+		<td>衷裏等</td><td>衣＊</td>
+		<td></td>
+		<td>纂篡等</td><td>竹具＊</td>
+		<td></td>
+		<td>威咸等</td><td>戌＊</td>
+	</tr>
+	<tr>
+		<td>街術等</td><td>行＊</td>
+		<td></td>
+		<td>族施等</td><td>㫃＊</td>
+		<td></td>
+		<td>幹斡等</td><td>倝＊</td>
+	</tr>
+	<tr>
+		<td>勝騰等</td><td>朕＊</td>
+		<td></td>
+		<td>黴徽等</td><td>行𢼸＊</td>
+		<td></td>
+		<td>希肴等</td><td>爻＊</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td>阝在左則爲阜、在右則爲邑。</td>
+		<td>陳、阜東。都、者邑。</td>
+	</tr>
+	<tr>
+		<td>
+			𡨄既屬於寒、也屬於塞。<br>
+			帶𡨄的字有兩種拆法。
+		</td>
+		<td>
+			賽、寒貝。騫、寒馬。<br>
+			賽、塞貝。騫、塞馬。
+		</td>
+	</tr>
 </table>

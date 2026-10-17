@@ -15,15 +15,16 @@
 <table>
 	<tr>
 		<td>僉佥㑒</td>
+		<td>奐奂</td>
 		<td>無无</td>
 		<td>婁娄</td>
 		<td>長长</td>
 		<td>壽寿</td>
 		<td>愛爱</td>
 		<td>言讠</td>
-		<td>吳吴呉</td>
 	</tr>
 	<tr>
+		<td>吳吴呉</td>
 		<td>爲為为</td>
 		<td>韋韦</td>
 		<td>達达</td>
@@ -31,9 +32,9 @@
 		<td>頁页</td>
 		<td>齒齿歯</td>
 		<td>與与</td>
-		<td>腦脑脳</td>
 	</tr>
 	<tr>
+		<td>腦脑脳</td>
 		<td>馬马</td>
 		<td>麗丽</td>
 		<td>貝贝</td>
@@ -41,9 +42,9 @@
 		<td>龍龙</td>
 		<td>龜龟亀</td>
 		<td>黽黾㫣</td>
-		<td>鳥鸟</td>
 	</tr>
 	<tr>
+		<td>鳥鸟</td>
 		<td>烏乌</td>
 		<td>風风</td>
 		<td>飛飞</td>
@@ -51,9 +52,9 @@
 		<td>金钅</td>
 		<td>乘乗</td>
 		<td>柬𫠣</td>
-		<td>來来</td>
 	</tr>
 	<tr>
+		<td>來来</td>
 		<td>豐豊</td>
 		<td>齊齐斉</td>
 		<td>肅肃粛</td>
@@ -61,9 +62,9 @@
 		<td>堯尧</td>
 		<td>岡冈</td>
 		<td>畫画</td>
-		<td>食饣</td>
 	</tr>
 	<tr>
+		<td>食饣</td>
 		<td>會会</td>
 		<td>盡尽</td>
 		<td>鹵卤</td>
@@ -71,9 +72,9 @@
 		<td>糸纟</td>
 		<td>巠𢀖</td>
 		<td>專专専</td>
-		<td>縣县県</td>
 	</tr>
 	<tr>
+		<td>縣县県</td>
 		<td>帶带帯</td>
 		<td>侖仑</td>
 		<td>貞贞</td>
@@ -81,9 +82,9 @@
 		<td>睪𠬤</td>
 		<td>單单単</td>
 		<td>畢毕</td>
-		<td>彔录</td>
 	</tr>
 	<tr>
+		<td>彔录</td>
 		<td>傘伞</td>
 		<td>戔戋</td>
 		<td>晉晋</td>
@@ -91,9 +92,9 @@
 		<td>戶户戸</td>
 		<td>倉仓</td>
 		<td>舍舎</td>
-    <td>奧奥</td>
 	</tr>
 	<tr>
+        <td>奧奥</td>
 		<td>車车</td>
 		<td>東东</td>
 		<td>爿丬</td>
@@ -105,44 +106,48 @@
 <table>
 	<tr>
 		<td>人亻</td>
+		<td>众𫡑乑</td>
 		<td>堇𦰩</td>
 		<td>母毋</td>
 		<td>耂老</td>
 		<td>兌兑</td>
 		<td>呂吕</td>
 		<td>攴攵</td>
-		<td>辵辶</td>
 	</tr>
 	<tr>
+		<td>辵辶</td>
 		<td>心忄㣺</td>
-    <td>肉𱼀⺼</td>
-    <td>歹歺</td>
+        <td>肉𱼀⺼</td>
+        <td>歹歺</td>
 		<td>犬犭</td>
 		<td>刀刂</td>
 		<td>水氵</td>
 		<td>巛川𫶧</td>
+    </tr>
+    <tr>
 		<td>火灬</td>
-  </tr>
+        <td>冉冄</td>
+        <td>插挿</td>
+        <td>艸艹</td>
+        <td>竹𥫗</td>
+        <td>青靑</td>
+        <td>个亇</td>
+        <td>衣𠅃</td>
+    </tr>
 	<tr>
-		<td>冉冄</td>
-		<td>插挿</td>
-		<td>艸艹</td>
-		<td>竹𥫗</td>
-		<td>青靑</td>
-		<td>个亇</td>
-    <td>衣𠅃</td>
+        <td>敝㡀</td>
 		<td>冊册</td>
-  </tr>
-	<tr>
 		<td>亡亾</td>
 		<td>示礻</td>
 		<td>真眞</td>
 		<td>业丵</td>
 		<td>行彳</td>
 		<td>倝𠦝</td>
+	</tr>
+    <tr>
 		<td>八丷</td>
 		<td>冂冖</td>
-	</tr>
+    </tr>
 </table>
 
 ## 異根同碼
@@ -151,7 +156,6 @@
 
 <table>
 	<tr>
-		<td>从·㐺</td>
 		<td>丮·丸</td>
 		<td>串·毌</td>
 		<td>𠂤·㠯</td>

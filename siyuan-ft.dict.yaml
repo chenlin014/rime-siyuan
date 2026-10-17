@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-ft
-version: "2026-10-14"
+version: "2026-10-17"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -168,7 +168,7 @@ encoder:
 剛	v,cf
 成	,v	,vv
 無	ua	uaa
-換	kkjaocuf
+換	kkjq
 只	ffzk
 哪	ffhro;
 愛	m/	m//
@@ -176,7 +176,7 @@ encoder:
 聽	h;jvhhhf
 少	ze	zee
 元	ul	ull
-喫	ffracfuf
+喫	ffcxuf
 卡	ao	aoo
 靠	;vpd
 幫	vhklsswl
@@ -700,7 +700,7 @@ encoder:
 虧	;;pjzm
 湯	djse
 民	xh	xhh
-極	rjjw
+極	rjai
 命	fg	fgg
 睇	hj,m
 忘	xlhf
@@ -725,7 +725,7 @@ encoder:
 盡	g/	g//
 百	sw	sww
 兵	ilks
-英	efqkuf
+英	efuo
 蘇	ef/krf
 般	.kkg
 演	dj,,
@@ -969,7 +969,7 @@ encoder:
 印	kajk
 味	ffrl
 鎖	cjzd/j
-衆	gpjd
+衆	gpjw
 零	d;fr
 環	ckwi
 角	;r	;rr
@@ -1002,7 +1002,7 @@ encoder:
 雅	hapj
 魔	e;x;
 司	fx	fxx
-拋	kku.ij
+拋	kkuqij
 志	clhf
 奇	uffs
 編	wfosxa
@@ -1132,7 +1132,7 @@ encoder:
 妹	ujrl
 鋼	cjv,
 蔣	ef.shdkl
-幣	wlzvk;wl
+幣	w.wl
 宜	ofxm
 尼	jljj
 灰	s.	s..
@@ -1198,7 +1198,7 @@ encoder:
 射	mmkl
 智	,kffsf
 索	ajqkwf
-聚	h;kfjd
+聚	h;kfjw
 拼	kkjc
 燕	pq	pqq
 撞	kkmg
@@ -1445,7 +1445,7 @@ encoder:
 剩	rpcf
 域	vj,s
 祖	xjxm
-肺	dfw.
+肺	dfwp
 附	v;jfkl
 制	ih	ihh
 玄	we	wee
@@ -1676,8 +1676,8 @@ encoder:
 柏	rjss
 騰	.,;d
 焦	pjsj
-憋	wlzvk;hf
-潔	djracfwf
+憋	w.hf
+潔	djcxwf
 盟	sfdfg;
 延	.gzjlf
 柔	,arj
@@ -1927,7 +1927,7 @@ encoder:
 債	jf/i
 肌	df.a
 薰	efsu
-映	sfqkuf
+映	sfuo
 粵	oq;wzm
 鼻	ho	hoo
 泵	vodj
@@ -2392,7 +2392,7 @@ encoder:
 憲	ofraaahf
 遺	ljku/j
 聘	h;,gi/
-喚	ffjaocuf
+喚	ffjq
 閘	od,t
 刊	,hcf
 裁	,wwj
@@ -2474,7 +2474,7 @@ encoder:
 暮	ewsf
 祕	xj,/
 薪	efudrjil
-煥	sjjaocuf
+煥	sjjq
 巢	dkr;
 鉀	cj,t
 脾	df,b
@@ -2524,7 +2524,7 @@ encoder:
 詳	fj;j
 腐	ojjfklhd
 皓	ss;v
-央	qkuf
+央	uo	uoo
 氟	dw,u
 冤	qk;h
 据	kkjlf;
@@ -2567,7 +2567,7 @@ encoder:
 汽	djdw
 婕	ujafkilf
 恭	kwhf
-弊	wlzvk;ks
+弊	w.ks
 屌	jlffwl
 摳	kkq;asff
 貳	,;ad/j
@@ -2604,7 +2604,7 @@ encoder:
 渴	djsfmjxl
 曝	sfsc
 閔	oduk
-撇	kkwlzvk;
+撇	kkw.
 梗	rjk/
 絡	wfle
 貫	/u/j
@@ -2747,7 +2747,7 @@ encoder:
 芙	efus
 棲	rjafxeuj
 刁	cr	crr
-瑛	ckefqkuf
+瑛	ckefuo
 禽	pg	pgg
 腺	dfdu
 迦	ljijff
@@ -2806,7 +2806,7 @@ encoder:
 販	/jkv
 泣	djud
 嗆	ffow
-眾	aajd
+眾	aajw
 袍	wkmj
 菴	efufsi
 僵	jfasvfvf
@@ -2849,7 +2849,7 @@ encoder:
 淤	djps
 描	kkefvf
 膚	;;vfdf
-契	racfuf
+契	cxuf
 靳	ixil
 祠	xjfx
 陝	v;ufoeoe
@@ -2972,7 +2972,7 @@ encoder:
 淌	djoa
 簇	ej.v,k
 償	jfoa/j
-沛	djw.
+沛	djwp
 澗	djodsf
 殤	hcj;se
 掠	kkol
@@ -2997,7 +2997,7 @@ encoder:
 蟻	/f;j,d
 澈	djmvdfk;
 葦	eflz
-瞥	wlzvk;hj
+瞥	w.hj
 崑	vksfjm
 墮	v;kdifdfvj
 輓	.jw/
@@ -3100,12 +3100,12 @@ encoder:
 剁	.arjcf
 愧	hfx;
 拙	kklv
-彆	wlzvk;,j
+彆	w.,j
 竿	ej,h
 鈔	cjze
 鏟	cjudvles
 驛	;dxb
-鱉	wlzvk;/k
+鱉	w./k
 稜	rfl,
 憤	hfed/j
 綽	wf.z
@@ -3259,7 +3259,7 @@ encoder:
 汶	djuk
 糸	wf	wff
 嘀	ffe,ff
-斃	wlzvk;hcjj
+斃	w.hcjj
 犁	rfcf;f
 怔	hflg
 焚	rhsj
@@ -3359,7 +3359,7 @@ encoder:
 凳	l;gl.a
 隙	v;zdsfzd
 娣	uj,m
-驟	;dh;kfjd
+驟	;dh;kfjw
 莞	efoful
 曆	vlrfrfsf
 躥	llov;g
@@ -3439,7 +3439,7 @@ encoder:
 藩	efdj;wvf
 楨	rjxr
 奢	ufsk
-尬	u.jh
+尬	uqjh
 趾	lllf
 贖	/jclaa/j
 瘀	.xps
@@ -3451,7 +3451,7 @@ encoder:
 孓	mdzf
 滌	djjfahk;rj
 浣	djoful
-兀	uo	uoo
+兀	u.	u..
 蹟	ll/i
 囿	qjkd
 嶽	vk;lfj;l
@@ -3589,7 +3589,7 @@ encoder:
 迴	ljds
 駒	;dqe
 瑕	ckkh
-蔽	efwlzvk;
+蔽	efw.
 鐳	cjd;vf
 糯	rdd;hv
 茫	efdjxl
@@ -3746,7 +3746,7 @@ encoder:
 焙	sjei
 蹈	llkaga
 牡	;fvj
-秧	rfqkuf
+秧	rfuo
 飢	gj.a
 狸	;lvs
 訶	fjfs
@@ -3809,7 +3809,7 @@ encoder:
 檸	rjofhfg;i;
 硃	vor.
 戌	,e	,ee
-敝	wlzvk;
+敝	w.	w..
 壟	/hvj
 諮	fjadm;ff
 疹	.xjfz;
@@ -3907,7 +3907,7 @@ encoder:
 冕	w;w/
 頜	gkhk
 褶	wkprss
-巿	w.	w..
+巿	wp	wpp
 垛	vj.arj
 髻	mlz;co
 擂	kkd;vf
@@ -4139,7 +4139,7 @@ encoder:
 嫡	uje,ff
 磬	fmkgvo
 嗖	ffs,kf
-鍥	cjracfuf
+鍥	cjcxuf
 哺	ffvc
 踝	llr;
 叱	ffjj
@@ -4220,7 +4220,7 @@ encoder:
 誡	fj,fks
 吝	ukff
 沏	djcdcf
-渙	djjaocuf
+渙	djjq
 穹	ov,j
 媞	ujsd
 嘌	ffgsxj
@@ -4266,7 +4266,7 @@ encoder:
 簍	ejuh
 筏	ejjf,f
 銬	cjmoi/
-奐	jaocuf
+奐	jq	jqq
 癩	.xrkcf/j
 淅	djrjil
 澹	djjavlzkfj
@@ -4294,7 +4294,7 @@ encoder:
 汰	djuv
 濯	djprpj
 萼	efffffzm
-楔	rjracfuf
+楔	rjcxuf
 軻	.jfs
 輻	.jxu
 呲	fflfjj
@@ -4369,7 +4369,7 @@ encoder:
 燎	sjso
 熠	sjprss
 闔	odugg;
-殃	hcqkuf
+殃	hcuo
 軫	.jjfz;
 噼	ffjlffxk
 遏	ljsfmjxl
@@ -4418,7 +4418,7 @@ encoder:
 鯤	/ksfjm
 琍	ckrfcf
 捍	kksf,h
-芾	efw.
+芾	efwp
 彧	,;ffafz;
 蝠	/fxu
 嘣	ffvk/m
@@ -4642,7 +4642,7 @@ encoder:
 鋈	djzjufcj
 滘	djqkjsifff
 戾	os;l
-亟	jw	jww
+亟	ai	aii
 嬈	ujvu
 堀	vjjllv
 莧	efhu
@@ -4680,7 +4680,7 @@ encoder:
 娉	uj,gi/
 垟	vj;j
 硌	vole
-盎	qkufg;
+盎	uog;
 睢	hjpj
 徠	.frs
 斛	;rgo
@@ -4769,7 +4769,7 @@ encoder:
 皎	ssui
 龕	gk/h
 諼	fjkn
-瘓	.xjaocuf
+瘓	.xjq
 癆	.xsjsjqkij
 煅	sjv.
 慵	hfojxevd
@@ -4989,7 +4989,7 @@ encoder:
 恚	vhhf
 莜	efjfahk;
 蘚	ef/k;j
-尢	u.	u..
+尢	uq	uqq
 匭	q;.jke
 籟	ejrkcf/j
 魑	x;iz
@@ -5034,7 +5034,7 @@ encoder:
 姘	ujjc
 畿	wdwd,fvf
 坭	vjjljj
-霈	d;djw.
+霈	d;djwp
 呔	ffuv
 崧	vkrjfa
 箸	ejsk
@@ -5131,7 +5131,7 @@ encoder:
 轡	wf.jwfff
 挹	kko;
 逑	lj/r
-鞅	ixqkuf
+鞅	ixuo
 桜	rjzvuj
 蚧	/fjh
 骯	hwu,
@@ -5228,7 +5228,7 @@ encoder:
 痧	.xdjze
 袢	wkcc
 黿	ul/a
-髡	mlz;uo
+髡	mlz;u.
 擢	kkprpj
 麴	rsldmjrd
 厴	vlsfdf;l,t
@@ -5358,7 +5358,7 @@ encoder:
 餳	gjse
 鉺	cjh;
 鎌	cjk,
-旆	.vw.
+旆	.vwp
 癇	.xoddf
 燧	sjljzk;k
 遑	ljc,
@@ -5530,7 +5530,7 @@ encoder:
 齔	hqjj
 屾	vkvk
 鶻	hwpf
-泱	djqkuf
+泱	djuo
 泫	djwe
 鴆	qkjspf
 帚	i.	i..
@@ -5575,7 +5575,7 @@ encoder:
 垌	vjgf
 璀	ckvkpj
 芘	efjm
-蹩	wlzvk;ll
+蹩	w.ll
 昉	sf.d
 鱈	/kd;ki
 鮒	/kjfkl
@@ -5631,7 +5631,7 @@ encoder:
 鷸	,aocffpf
 続	wfclqkjs
 梘	rjhu
-虺	uo/f
+虺	u./f
 磋	vokc
 蠛	/fefaa,fjf
 蠖	/fpukf
@@ -5643,7 +5643,7 @@ encoder:
 紆	wfzu
 紈	wfu;
 埗	vjlr
-鄹	h;kfjdo;
+鄹	h;kfjwo;
 瓁	ckpukf
 鸛	phpf
 蓑	efwjhr
@@ -5847,7 +5847,7 @@ encoder:
 駑	ujkf;d
 擤	kkho
 匏	ufzmmj
-尷	u.xo
+尷	uqxo
 蝴	/ff;df
 虼	/fdx
 曈	sfmg
@@ -5863,7 +5863,7 @@ encoder:
 櫳	rj/h
 哚	ff.arj
 眭	hjvh
-鴦	qkufpf
+鴦	uopf
 峰	vkldra
 侞	jfujff
 飩	gjec
@@ -6000,7 +6000,7 @@ encoder:
 鬻	,jrd,jc.
 綆	wfk/
 彘	;,jj,kjj
-殛	hcjw
+殛	hcai
 堊	qmvj
 琵	ckckjm
 頊	ckhk
@@ -6036,7 +6036,7 @@ encoder:
 牝	;fjj
 怹	jf/dhf
 鏑	cje,ff
-瘛	.xracfhf
+瘛	.xcxhf
 巻	rcma
 懌	hfxb
 瀞	djeakaxe
@@ -6251,7 +6251,7 @@ encoder:
 泔	djfd
 専	wg	wgg
 墀	vj;x;f
-挈	racfkj
+挈	cxkj
 玹	ckwe
 騅	;dpj
 嘏	f;kh
@@ -6459,12 +6459,12 @@ encoder:
 愾	hfdwrd
 捯	kk,lcf
 摭	kkojamsj
-葜	efracfuf
+葜	efcxuf
 榦	.rrj
 藁	efokrj
 醢	gekdffg;
 喞	ffssjjjk
-屼	vkuo
+屼	vku.
 烀	sjz,
 繴	jlffxkwf
 紇	wfdx
@@ -6482,7 +6482,7 @@ encoder:
 騮	;dcavf
 莠	efrfmh
 茳	efdjif
-暁	sfeduo
+暁	sfedu.
 偅	jf..
 錡	cjuffs
 鏹	cj,jqh/f
@@ -6633,7 +6633,7 @@ encoder:
 麮	rsldug
 桷	rj;r
 歴	vlrhlf
-尥	u.gh
+尥	uqgh
 噱	ff;;;k
 唿	ffcshf
 禸	/z	/zz
@@ -6700,7 +6700,7 @@ encoder:
 舨	.kkv
 亶	oxsg
 癯	.xhjhjpj
-焼	sjeduo
+焼	sjedu.
 滈	djok
 滝	djudsi
 褟	wksfpr
@@ -6708,7 +6708,7 @@ encoder:
 菥	efrjil
 菖	effo
 栳	rjmo
-杌	rjuo
+杌	rju.
 椥	rj,kff
 桴	rjkamf
 螓	/fksrf
@@ -6925,7 +6925,7 @@ encoder:
 臸	,l,l
 蜩	/fve
 鴞	ffi/pf
-黼	iswlzvvc
+黼	isw.vc
 嵖	vkro
 睺	hjjfqg,k
 侀	jfafkscf
@@ -6968,7 +6968,7 @@ encoder:
 顁	oflghk
 衯	wkcv
 襞	jlffxkwj
-姉	ujw.
+姉	ujwp
 彖	;,;k
 姙	ujjfig
 帑	ujkfwl
@@ -7061,7 +7061,7 @@ encoder:
 祓	xj;o
 紲	wfau
 垜	vjmhrj
-齧	racfhq
+齧	cxhq
 栫	rjelmf
 枘	rjoc
 権	rjph
@@ -7153,7 +7153,7 @@ encoder:
 鱧	/kcu
 麈	;esa
 淏	djsfur
-禊	xjracfuf
+禊	xjcxuf
 烝	kysj
 纋	wfhkhfld
 繰	wfasffrj
@@ -7181,7 +7181,7 @@ encoder:
 靦	h,hu
 蛯	/fmo
 喨	ffokjs
-黻	iswlzv;o
+黻	isw.;o
 鍚	cjse
 凖	dlpjaj
 廨	oj;rcf;f
@@ -7291,7 +7291,7 @@ encoder:
 澌	djgdil
 綮	osk;wf
 趄	lkxm
-絜	racfwf
+絜	cxwf
 掭	kkurhf
 戁	uxpjhf
 茺	efmvjs
@@ -7309,7 +7309,7 @@ encoder:
 妢	ujcv
 檉	rjh;ffjv
 霪	d;djkaig
-尪	u.ck
+尪	uqck
 崟	vkcj
 呑	zjufff
 玀	;laawfpj
@@ -7478,7 +7478,7 @@ encoder:
 偛	jfgq
 犽	;lha
 羑	;jjz
-怏	hfqkuf
+怏	hfuo
 灄	djash;
 洿	djufzm
 渉	djlfze
@@ -7677,7 +7677,7 @@ encoder:
 蹣	llamae
 畤	vfko
 晫	sf.z
-黹	iswlzv
+黹	isw.
 賎	/j,r
 惣	;fcshf
 皝	c,s;
@@ -7742,7 +7742,7 @@ encoder:
 聹	h;ofhfg;i;
 捔	kk;r
 菍	efguhf
-杮	rjw.
+杮	rjwp
 勅	rkij
 輊	.j,l
 栃	rjzhjx
@@ -7858,7 +7858,7 @@ encoder:
 摛	kkiz
 苨	efjljj
 厰	vloak;
-尰	u...
+尰	uq..
 躞	llsjfjsjkf
 囃	ffwjrjpj
 婓	pduj
@@ -8006,7 +8006,7 @@ encoder:
 毞	jmh/
 豋	hdkfgl
 庨	ojmomf
-緳	ojracfwf
+緳	ojcxwf
 羕	;jda
 愯	hfpjkf
 欻	shm;
@@ -8036,7 +8036,7 @@ encoder:
 唼	ffuduj
 峠	vkaka;
 笵	ejdjjk
-偰	jfracfuf
+偰	jfcxuf
 谻	dru;
 餠	gjjc
 巟	xldk
@@ -8062,7 +8062,7 @@ encoder:
 莁	efifjd
 醑	gelodf
 彯	gsxjz;
-霙	d;efqkuf
+霙	d;efuo
 雰	d;cv
 跢	llhe
 甽	vfdk
@@ -8165,9 +8165,9 @@ encoder:
 粋	rdkeaj
 裀	wkqjuf
 襜	wkjavlzkfj
-閦	odasjf
+閦	odjw
 剟	kbcf
-恝	racfhf
+恝	cxhf
 蒻	efpv
 唪	ffkskk
 踺	ll.gxd
@@ -8300,7 +8300,7 @@ encoder:
 羉	aawr
 崥	vk,b
 歃	gqm;
-鍈	cjefqkuf
+鍈	cjefuo
 凧	grwl
 颭	paxv
 膰	df;wvf
@@ -8330,7 +8330,7 @@ encoder:
 蜍	/foi
 啀	ffvlvh
 餥	pdgj
-暎	sfefqkuf
+暎	sfefuo
 畯	vfqhjsld
 幏	wlof;k
 皦	ssss.dk;
@@ -8434,7 +8434,7 @@ encoder:
 岍	vkafks
 劁	pjsjcf
 銤	cjrd
-猰	;lracfuf
+猰	;lcxuf
 訌	fjif
 濩	djpukf
 塨	vjkwhf
@@ -8485,7 +8485,7 @@ encoder:
 蟓	/f;a
 嗢	ffsfg;
 昣	sfjfz;
-嫳	wlzvk;uj
+嫳	w.uj
 嶪	vkisks
 箶	ejf;df
 箙	ej.m
@@ -8732,7 +8732,7 @@ encoder:
 嬃	z;hkuj
 惏	hfrh
 潾	djrdlq
-阢	v;uo
+阢	v;u.
 耥	iuoa
 駉	;dqkff
 萳	eff/
@@ -8788,7 +8788,7 @@ encoder:
 瘜	.xhlhf
 憕	hfl;gl
 濔	djwx
-潎	djwlzvk;
+潎	djw.
 濶	djodfk
 祣	xjj;jd
 褵	wkiz
@@ -8851,7 +8851,7 @@ encoder:
 驓	;dg,
 騄	;diw
 搋	kkzh;;
-靰	ixuo
+靰	ixu.
 剳	efgkcf
 蔉	efwjfa
 醁	geiw
@@ -8970,7 +8970,7 @@ encoder:
 頄	kehk
 鱚	/kfuff
 讙	fjph
-瘈	.xracfuf
+瘈	.xcxuf
 庛	ojlfjj
 鷁	dhpf
 惙	hfkb
@@ -8993,7 +8993,7 @@ encoder:
 蔝	efhjrd
 柂	rjj;/d
 豲	;kdm
-豗	uo;k
+豗	u.;k
 皻	;;xmh.
 嚬	fflrhk
 暩	sfhdkfxj
@@ -9026,14 +9026,14 @@ encoder:
 挀	kkdz
 捖	kkoful
 蒚	efc.
-藂	efh;kfjd
+藂	efh;kfjw
 轀	.jqjjfg;
 梲	rjfz
 枌	rjcv
 霢	d;dfdz
 攲	uffsem
 耎	hvuf
-黺	iswlzvcv
+黺	isw.cv
 牷	;fci
 臿	gq	gqq
 秺	rfofeo
@@ -9087,14 +9087,14 @@ encoder:
 忳	hfec
 熜	sjoghf
 湋	djlz
-窫	ovracfuf
+窫	ovcxuf
 禷	xjrd;lhk
 襶	wk,wx/
 襡	wk/g
 閊	odvk
 婍	ujuffs
 挐	ujffkj
-媖	ujefqkuf
+媖	ujefuo
 綛	wfcghf
 鄕	o/ssjjo;
 殭	hcasvfvf
@@ -9194,7 +9194,7 @@ encoder:
 攦	kk;c
 挓	kkofeo
 捥	kkofddjk
-尭	eduo
+尭	edu.
 藙	efud;kkg
 蓪	efljgw
 楬	rjsfmjxl
@@ -9217,7 +9217,7 @@ encoder:
 忣	hfkr
 韣	lz/g
 癹	l;kg
-姎	ujqkuf
+姎	ujuo
 絻	wfw/
 纕	wfwu
 笴	ejfs
@@ -9459,7 +9459,7 @@ encoder:
 髇	hwok
 鵞	,dpf
 儓	jfon
-臮	hljd
+臮	hljw
 斶	il/g
 鈒	cjkr
 鉾	cjqh;f
@@ -9744,7 +9744,7 @@ encoder:
 悁	hfffdf
 夒	hklfmsld
 堐	vjvlvh
-栔	racfrj
+栔	cxrj
 揊	kkxu
 薣	effuem
 醧	geq;asff
@@ -9804,7 +9804,7 @@ encoder:
 髴	mlz;,u
 耞	iuijff
 騇	;do,
-揳	kkracfuf
+揳	kkcxuf
 鞳	ixefgk
 蔾	efrfzjcfrj
 蓨	efjfahk;df
@@ -9826,7 +9826,7 @@ encoder:
 踖	lldv
 踾	llxu
 踛	llv/
-鼈	wlzvk;/a
+鼈	w./a
 罿	aamg
 睌	hjw/
 穟	rfljzk;k
@@ -9924,7 +9924,7 @@ encoder:
 藋	efprpj
 輑	.jxeff
 軷	.j;o
-柍	rjqkuf
+柍	rjuo
 桼	rjrv
 磌	voxg
 磹	vogx
@@ -10137,8 +10137,8 @@ encoder:
 踠	llofddjk
 肙	ffdf
 呟	ffwe
-蟞	wlzvk;/f
-鷩	wlzvk;pf
+蟞	w./f
+鷩	w.pf
 瞁	hjhj;l
 郔	.gzjlfo;
 皭	sscp
@@ -10364,7 +10364,7 @@ encoder:
 翏	prjfz;
 絏	wfsizj
 蠁	o//f
-扤	kkuo
+扤	kku.
 荎	ef,l
 棷	rjh;kf
 跧	llci
@@ -10619,7 +10619,7 @@ encoder:
 酳	gewddf
 樧	rjzlrekg
 礧	voasvf
-卼	uojavljk
+卼	u.javljk
 磍	voofraff
 顣	,qhk
 朁	mpmpsf
@@ -10769,7 +10769,7 @@ encoder:
 鷞	ufaazlpf
 贙	;;;;/j
 蹞	lljjhk
-咉	ffqkuf
+咉	ffuo
 巏	vkph
 嵲	vkhlrj
 崷	vkgc
@@ -10880,7 +10880,7 @@ encoder:
 檕	.jqlkgrj
 橅	rjua
 豥	;k;i
-尳	u.hw
+尳	uqhw
 齾	;;c.;lhq
 躟	llwu
 踤	llwn
@@ -10903,7 +10903,7 @@ encoder:
 粭	rdgk
 熰	sjq;asff
 焍	sj,m
-襒	wkwlzvk;
+襒	wkw.
 隺	qkpj
 緅	wfh;kf
 螿	.shdkl/f
@@ -10963,7 +10963,7 @@ encoder:
 鄅	/xo;
 笰	ej,u
 籊	ejprpj
-佒	jfqkuf
+佒	jfuo
 貆	;.adsf
 媻	.kkguj
 鄐	wevfo;
@@ -10993,7 +10993,7 @@ encoder:
 膲	dfpjsj
 肒	dfu;
 鄾	hkhfldo;
-坱	vjqkuf
+坱	vjuo
 塯	vjcavf
 髶	mlz;h;
 黈	uwsa
@@ -11007,7 +11007,7 @@ encoder:
 蝿	/f/a
 蚥	/fio
 昒	sfcs
-鄨	wlzvk;o;
+鄨	w.o;
 眃	hjd/
 幧	wlasffrj
 罻	aajlxjkl
@@ -11052,11 +11052,11 @@ encoder:
 蘁	efckaaff
 鞜	ixdjsf
 葧	efajqkmfij
-虌	efwlzvk;/a
+虌	efw./a
 藡	eflje,ff
 鸏	efofaf;kpf
 輤	.jea
-軮	.jqkuf
+軮	.juo
 楰	rjku
 鶆	rspf
 奝	ufve
@@ -11251,7 +11251,7 @@ encoder:
 躈	llss.dk;
 嚃	ffljaadj
 哅	ffmjzlql
-獘	wlzvk;;l
+獘	w.;l
 瞚	hj,,
 劗	lxlx/jcf
 篧	ejqkpj
@@ -11312,7 +11312,7 @@ encoder:
 庴	ojdv
 麎	;e/l
 憉	hffuz;
-潀	djaajd
+潀	djaajw
 溌	djl;adjs
 裋	wkgl
 隇	v;,euj
@@ -11446,7 +11446,7 @@ encoder:
 瞉	fphjkg
 鬠	mlz;gi
 髼	mlz;ldra
-蛪	racf/f
+蛪	cx/f
 撠	kk.r,f
 蓩	ef,aldij
 葌	efasuj
@@ -11750,7 +11750,7 @@ encoder:
 圫	vjeo
 鵱	v/pf
 鬗	mlz;amae
-觢	racf;r
+觢	cx;r
 兞	,yh/
 鞊	ixco
 榰	rjmosf
@@ -11818,7 +11818,7 @@ encoder:
 鵋	mahfpf
 婟	ujqjf;
 茥	efvh
-矹	vouo
+矹	vou.
 汆	oedj
 膆	dfwv
 憴	hf/a
@@ -12103,7 +12103,7 @@ encoder:
 廜	ojjlsk
 窑	ovgz
 弤	,jxn
-鉠	cjqkuf
+鉠	cjuo
 鮵	/kfz
 騴	;dsfofuj
 擨	kkzh;;m;
@@ -12111,7 +12111,7 @@ encoder:
 攐	kkvmwj
 橶	rj.r,f
 鵫	.zpf
-岟	vkqkuf
+岟	vkuo
 犣	;fhb;g
 穙	rfisuf
 鵴	mjrdpf
@@ -12352,7 +12352,7 @@ encoder:
 复	lc	lcc
 笋	ejxe
 偬	jfoghf
-众	asjf
+众	jw	jww
 脚	dfugjk
 胆	dfsg
 庄	ojvj
@@ -12453,7 +12453,7 @@ encoder:
 腘	dfqjch
 釆	;w	;ww
 摀	kkpw
-碶	voracfuf
+碶	vocxuf
 厢	vlrjhj
 厠	vl/jcf
 籴	oerd
@@ -12652,13 +12652,13 @@ encoder:
 䓖	efovij
 蘗	efjlffxkrj
 鶒	rkijpf
-軏	.juo
+軏	.ju.
 輗	.jgajs
 軨	.jfr
 㰀	rjrv
 楙	rj,arj
 碕	vouffs
-囓	ffracflfhq
+囓	ffcxlfhq
 啣	ffiklfjk
 㘎	ffodkp
 僊	jfgsufjk
@@ -12916,7 +12916,7 @@ encoder:
 抛	kkkeij
 絷	kku;wf
 撸	kk/ksf
-换	kkjaqkuf
+换	kkjq
 搀	kkw/dl
 挣	kkjaxe
 挤	kkrw
@@ -13176,7 +13176,7 @@ encoder:
 叽	ff.a
 鹃	ffdfpf
 噜	ff/ksf
-唤	ffjaqkuf
+唤	ffjq
 图	qjd.
 鸣	ffpf
 跻	llrw
@@ -13241,7 +13241,7 @@ encoder:
 颛	ehhk
 眬	hj/h
 贿	/jkd
-鸯	qkufpf
+鸯	uopf
 贼	/j,z
 岽	vk.l
 岖	vkq;zl
@@ -13648,7 +13648,7 @@ encoder:
 龟	/;	/;;
 鲷	/kve
 鲖	/kgf
-奂	jaqkuf
+奂	jq	jqq
 鳏	/kaadj
 岛	pfvk
 负	ja/j
@@ -13925,7 +13925,7 @@ encoder:
 烨	sjer
 烃	sjwa
 烁	sjzhrj
-焕	sjjaqkuf
+焕	sjjq
 恼	hfhb
 悯	hfoduk
 焖	sjodhf
@@ -13982,7 +13982,7 @@ encoder:
 潴	dj;lsk
 鼗	difuem
 涤	djldrj
-涣	djjaqkuf
+涣	djjq
 渔	dj/k
 滦	djuzrj
 浐	djudvl
@@ -14047,7 +14047,7 @@ encoder:
 巯	wamvdk
 劲	waij
 𬴃	;dravo
-骤	;dh;kfjd
+骤	;dh;kfjw
 怼	kfklhf
 骐	;dgd
 剧	jlf;cf
@@ -14306,8 +14306,8 @@ encoder:
 䴖	eapf
 麦	rald
 麹	raldmjrd
-䂮	racfvo
-㛃	racfuj
+䂮	cxvo
+㛃	cxuj
 琐	ckzd/j
 珰	ckzdki
 瓒	cklxlx/j
@@ -14481,7 +14481,7 @@ encoder:
 矾	vogr
 豮	;ked/j
 砾	vozhrj
-尴	u.xo
+尴	uqxo
 䃅	voia
 硁	vowa
 砀	vose
@@ -14492,7 +14492,7 @@ encoder:
 轲	.jfs
 轱	.jf;
 轪	.juf
-𫐄	.juo
+𫐄	.ju.
 𫟦	.jljzk;k
 轭	.jvljk
 轼	.j,;if
@@ -14603,7 +14603,7 @@ encoder:
 颢	sfolhk
 㬚	sfmvdfk;
 㫰	sfoz
-鳖	wlzvk;/k
+鳖	w./k
 晖	sfqk.j
 旸	sfse
 㬎	sfwdwdsj
@@ -14743,7 +14743,7 @@ encoder:
 𬭳	cjfuff
 铻	cjagff
 𬭬	cjraraki
-锲	cjracfuf
+锲	cjcxuf
 颀	ilhk
 䴘	zh;;pf
 慇	mmkghf
@@ -14754,7 +14754,7 @@ encoder:
 镆	cjew
 锚	cjefvf
 𨱑	cjuw
-锳	cjefqkuf
+锳	cjefuo
 铹	cjefqkij
 镖	cjgsxj
 镈	cjvckl
@@ -14772,7 +14772,7 @@ encoder:
 𬬹	cjs,
 镋	cjoajs
 镘	cjsfaakf
-𬭯	cjwlzvk;
+𬭯	cjw.
 锟	cjsfjm
 锶	cjhg
 铿	cjadkfvj
@@ -15039,7 +15039,7 @@ encoder:
 阖	odugg;
 阙	oducm;
 疭	.xjd
-痪	.xjaqkuf
+痪	.xjq
 瘅	.xia
 痉	.xwa
 瘆	.xqhufz;
@@ -15663,7 +15663,7 @@ encoder:
 𤏢	sjv;zk;k
 𠑬	jfgjvu
 𣰙	h/rhxj
-𣺻	djqkufg;
+𣺻	djuog;
 𠶝	ffxx
 𬙞	aaugcd
 𩭵	mlz;ofva
@@ -16199,7 +16199,7 @@ encoder:
 𥄯	hjgu
 𥍎	hj/vhk
 𫽶	kk/ss;
-𤍆	sj.juo
+𤍆	sj.ju.
 𬥪	fuh./j
 𠑢	jfefv/u;d/
 𤊬	sjpd
@@ -16333,7 +16333,7 @@ encoder:
 𥾋	wfmh
 𨎞	.j.h
 捛	kkfh
-𢝛	hfracfuf
+𢝛	hfcxuf
 𣋜	sfrhxj
 𫮡	vjdjsh
 𢺝	kkefwfqjjfg;
@@ -16514,7 +16514,7 @@ encoder:
 𡑳	vjxeff;j
 𦜘	dfkamfqd
 𠸣	ffwfif
-𢭿	kkdjw.
+𢭿	kkdjwp
 𡼇	vkhgjsld
 𫫫	ffhkld
 𢙩	hfiu
@@ -16721,7 +16721,7 @@ encoder:
 㖸	ff;;ka
 𨒺	ljs;
 𣟩	rjrf.ahk
-𫳹	of,/vkuo
+𫳹	of,/vku.
 𡝔	ugijuj
 𬃪	rjudfs
 𢋠	e,ojxn
@@ -16929,7 +16929,7 @@ encoder:
 槯	rjvkpj
 𣙺	rjhgjsld
 𭋙	ffxjiw
-𣾃	dj,effuo
+𣾃	dj,effu.
 𠛤	xvcf
 𨇶	llovss.dk;
 𨆞	llqi/l
@@ -17225,7 +17225,7 @@ encoder:
 𬦹	llldrj
 𫆶	.zosdf
 𤇣	sjes
-䁐	hjefqkuf
+䁐	hjefuo
 𦝬	dfov;l
 𦞓	dfdjdz
 䰼	/kgu
@@ -17337,7 +17337,7 @@ encoder:
 𥫭	ejuj
 𬙾	;jufaurj
 𧸓	/jdjsk
-𡰏	uodjol
+𡰏	u.djol
 煏	sjxu
 𣛪	rjz;hk
 𤾓	swrh
@@ -17701,7 +17701,7 @@ encoder:
 攑	kkhzkk
 𠿶	ffdjpjaj
 𠴙	ffkk/s
-緓	wfefqkuf
+緓	wfefuo
 𫏖	llkn
 𨭒	cjdfovif
 㾑	.xgk
@@ -18001,7 +18001,7 @@ encoder:
 𧋀	/fd,
 𠊫	jfmjsfmf
 𤶼	.xefxl
-𫵄	efqkufzd
+𫵄	efuozd
 𬒩	vok/.e
 𡓟	vjrkk;lg
 𬷸	pfgjkauj
@@ -18264,7 +18264,7 @@ encoder:
 𦢾	dfvklu
 𫄼	gzfdrj
 𡀮	ffpfwj
-𢯨	kkefw.
+𢯨	kkefwp
 𱔒	fffjkg
 𥄵	hjre
 𱤒	ruew
@@ -18338,7 +18338,7 @@ encoder:
 𣩸	vownhcjj
 𣼸	djhk,f
 撴	kkook;
-𧏱	/fqkufg;
+𧏱	/fuog;
 𠊙	jfofxm
 𢙽	mihf
 㨂	kk.l
@@ -18538,7 +18538,7 @@ encoder:
 𨀕	llq;ck
 䮴	;dl;gl
 𠽒	ffi;hk
-𤮃	ipqkufg;
+𤮃	ipuog;
 𠆍	ohdfxg
 𢟘	hfh;,f
 𫠧	ika;
@@ -18669,7 +18669,7 @@ encoder:
 𢷹	kkojvszkvj
 𧛋	wkguhf
 𡞕	ujldvf
-𨖙	ljaajd
+𨖙	ljaajw
 𫤢	lxudvles
 𧏯	/f/lkl
 𩶝	/klg
@@ -18704,7 +18704,7 @@ encoder:
 𫩉	xjqdh;kf
 𤹘	.x/lkl
 𥈳	hjov;l
-𢹫	racfkjof,/vk
+𢹫	cxkjof,/vk
 𣞽	rjl;glo;
 𬛯	hl;lfl
 𤆹	sjha
@@ -18936,7 +18936,7 @@ encoder:
 𨃈	llkwms
 𡅪	ffdmhk
 𠰏	ffzjls
-𤋸	sjracfuf
+𤋸	sjcxuf
 𧷝	ffm;cm
 𫺈	hfdjuj
 𢹣	kk,kzjufok
@@ -18959,7 +18959,7 @@ encoder:
 𢵽	kklork
 𱫳	,fpw
 𠽐	ff/k
-𫊬	/fqkuf
+𫊬	/fuo
 囄	ffizpj
 𢟟	hfsw,f
 𤿍	h.zu
@@ -19107,7 +19107,7 @@ encoder:
 𥩉	ovhad;vf
 𦅲	wflk,x
 𠺵	ffh;,f
-𫇐	,ljw
+𫇐	,lai
 𡏘	vjhkld
 𠶘	fshccf
 𢀥	ivrao;
@@ -19311,7 +19311,7 @@ encoder:
 𧋇	/fvllf
 𣈞	sfovif
 𨉟	mmfg
-𤎏	sjg;jd
+𤎏	sjg;jw
 𥟌	rfefgr
 𨄑	llmjxu
 𩪵	hwuhk;
@@ -19322,7 +19322,7 @@ encoder:
 𠔦	hxilks
 𢷣	kkhz
 𫧬	ikfjsk
-𧓏	/fh;kfjd
+𧓏	/fh;kfjw
 𤰁	hzkkes
 𥮇	ejrao;
 𪞅	mvjsefmw
@@ -19456,7 +19456,7 @@ encoder:
 虶	/fzu
 𤻫	.xisafkl
 𡭲	zelv
-𤏦	sjracfwf
+𤏦	sjcxwf
 𨠴	gegs
 𬨵	ljilzjls
 𬂨	rjkleu
@@ -19535,7 +19535,7 @@ encoder:
 囒	ffefodri
 𠺹	ffefuf,j
 𫥜	dlfrwn
-𠸄	ffefqkuf
+𠸄	ffefuo
 𤏨	sjrfzswl
 𪔚	fuemgf
 㺔	;lkz
@@ -19629,7 +19629,7 @@ encoder:
 𢷯	kkq;asffuf
 𢘮	hfud
 𡶀	vkoc
-𡵉	vkuo
+𡵉	vku.
 㧼	kkwm
 㜥	ujaa/j
 𢯔	kkfkcf
@@ -19878,18 +19878,18 @@ encoder:
 𦟍	dfef;i
 𦜀	dfff;l
 𢹨	kkwfasqhjfz;
-𣲍	djuo
+𣲍	dju.
 𪉾	gymik;
 𤼓	.xefxo
 𪰃	.vgdcc
 𥧪	ckksovif
 𪾋	adkfg;
-𬆃	lgdjw.
+𬆃	lgdjwp
 𪽖	hro;vf
 𩮔	mlz;qk.j
 𫡭	vjvsqs
-𢴞	kjaajd
-𨖼	ljzjaajd
+𢴞	kjaajw
+𨖼	ljzjaajw
 𩙻	pepdhf
 𥑶	voiu
 𨮈	cjflm;
@@ -20033,7 +20033,7 @@ encoder:
 𨴦	kfraod
 𤟂	;lxldf
 檒	rhpa
-𨅰	llrjjw
+𨅰	llrjai
 𠻉	ffljfk
 𤔷	mhkfg;kaxe
 𮬩	hfpf
@@ -20231,7 +20231,7 @@ encoder:
 𬖆	ejudsickks
 𢥷	hlhflu
 𨘘	;xljrk
-𤮾	uofd
+𤮾	u.fd
 𣙫	rjejud
 𨅻	llov;v
 噒	ffrdlq
@@ -20781,7 +20781,7 @@ encoder:
 𪭳	kjgm
 𪡦	ff.xxfmd
 𦹱	ef/jil
-𤈡	sjvkuo
+𤈡	sjvku.
 𪹾	sjofhdkfxj
 𣖘	rjwfif
 𫵊	zewfco
@@ -20842,7 +20842,7 @@ encoder:
 𪨄	zecv/j
 𨖅	ljozo;
 𢮀	kkwkcf
-𱪤	sjuo
+𱪤	sju.
 𫧪	g.qi/l
 𦓡	e;hv
 𣋑	sfefaurj
@@ -21049,7 +21049,7 @@ encoder:
 𣔡	rjvjh.
 𠽃	ffxtu;
 𤃛	djgsxjrx
-𪭮	kkasjf
+𪭮	kkjw
 𥽡	cvrdvfkw
 𪡩	ffvkvlsj
 𢚷	hf.j
@@ -21245,7 +21245,7 @@ encoder:
 䖷	/fzswl
 𡽫	vkujrkk;
 𢴙	kkffrs
-𦁾	wfifqkuf
+𦁾	wfifuo
 𣗑	rjv;.j
 𫙍	x;mfg;
 𡉕	vju;
@@ -21351,7 +21351,7 @@ encoder:
 𣫲	mkjfi;
 𩵽	/khf
 𠂎	zjqr
-𩴅	x;racfuf
+𩴅	x;cxuf
 𡮪	zdgdm;
 𤃧	djkklm
 𧋺	/fclhf
@@ -21452,7 +21452,7 @@ encoder:
 𡝃	ujlr
 𫔭	odafks
 𢒞	riz;
-㓶	racfufcf
+㓶	cxufcf
 垉	vjmj
 撘	kkejgk
 㹥	;lsa
@@ -21629,7 +21629,7 @@ encoder:
 𱘅	vjllle
 𩵾	/kem
 𬷩	pjkfpf
-𤮿	fduo
+𤮿	fdu.
 逎	ljge
 𠀿	a;ffm;
 𤃢	djojoxrf
@@ -21977,7 +21977,7 @@ encoder:
 𫚶	z,pf
 𢹅	kkdj/g
 𠁀	aujf,;
-𩂁	d;uo
+𩂁	d;u.
 𤐝	sjd;vf
 𪪅	ziufsi
 𬗓	wfegwl
@@ -21993,7 +21993,7 @@ encoder:
 𤷒	.xvf;f
 𨗮	ljs,zkks
 𣛨	rjsr
-𠮾	ffuo
+𠮾	ffu.
 𪸊	djkaxevu
 𡀔	ffllle
 䏠	dfud
@@ -22032,7 +22032,7 @@ encoder:
 𡏦	vjkc
 𣘓	rjaaug
 𪤸	ddxfeu
-𠏭	jfh;kfjd
+𠏭	jfh;kfjw
 𩝻	gjxg
 懙	hfhz
 媠	ujkdifdf
@@ -22081,7 +22081,7 @@ encoder:
 𩺥	/kmjedmjed
 㖽	ffhk
 𢷀	kk.ihf
-𠚯	uocf
+𠚯	u.cf
 𢭺	kk;.
 𬈫	dj.f/,
 𤒢	sjojoxrf
@@ -22096,7 +22096,7 @@ encoder:
 𩼸	isafkl/k
 櫈	rjl;gl.a
 𪥻	uj,hzjls
-𨙛	ljrkgpjd
+𨙛	ljrkgpjw
 𢺹	cvem
 𱠳	kkvszkvj
 溳	djcm
@@ -22125,7 +22125,7 @@ encoder:
 𣹙	djkdo;
 𫑇	ljilgd
 𣍗	pgqi
-𦬂	efuo
+𦬂	efu.
 𫻎	flm;hf
 𪚚	/hal
 𫡐	mheu
@@ -22203,7 +22203,7 @@ encoder:
 𫯖	heljeguf
 鵶	qmpf
 𡳩	;xxd
-𨓢	ljiluo
+𨓢	ljilu.
 𪰨	sfhfos
 𡗎	he.jilsf
 𦀫	wfoj;l
@@ -22340,7 +22340,7 @@ encoder:
 ⼧	zgof
 ⼨	zgkl
 ⼩	zgzd
-⼪	zgu.
+⼪	zguq
 ⼫	zgjl
 ⼬	zged
 ⼭	zgvk
@@ -22501,7 +22501,7 @@ encoder:
 ⿈	zguw
 ⿉	zgrfrv
 ⿊	zgsl
-⿋	zgiswlzv
+⿋	zgisw.
 ⿌	zg/a
 ⿍	zgc/
 ⿎	zgfuem
@@ -22725,12 +22725,13 @@ encoder:
 君	xf=	xeff
 利	rc=	rfcf
 存	em=	elmf
-極	rj=	rjjw
+極	ra=	rjai
 品	af=	asff
 造	l;=	lj;v
 抱	km=	kkmj
 野	vq=	vsqu
 兵	ik=	ilks
+英	eu=	efuo
 演	d,=	dj,,
 夏	hl=	hkld
 題	sh=	sdhk
@@ -22881,7 +22882,7 @@ encoder:
 剪	lc=	lhcf
 羽	pp=	prpr
 稿	ro=	rfok
-肺	dw=	dfw.
+肺	dw=	dfwp
 置	ah=	aahh
 助	xi=	xmij
 欣	im=	ilm;
@@ -22919,6 +22920,7 @@ encoder:
 企	jl=	jflf
 箭	el=	ejlh
 柔	,r=	,arj
+檢	rj=	rjje
 瑪	c;=	ck;d
 翼	px=	prx/
 鈣	cj=	cjj/
@@ -22951,6 +22953,7 @@ encoder:
 脣	/d=	/ldf
 堡	mv=	mrvj
 肌	d.=	df.a
+映	su=	sfuo
 育	md=	mvdf
 閉	oe=	odel
 決	dc=	djc;
@@ -23000,7 +23003,6 @@ encoder:
 駱	;l=	;dle
 襲	/w=	/hwj
 祕	x,=	xj,/
-構	ra=	rjav
 雀	zp=	zdpj
 冤	q;=	qk;h
 輩	p.=	pd.j
@@ -23028,10 +23030,9 @@ encoder:
 跡	lu=	lluz
 緒	ws=	wfsk
 勻	ma=	mjad
-芙	eu=	efus
 肆	mx=	mlxd
 旬	ms=	mjsf
-眾	aj=	aajd
+眾	aj=	aajw
 栗	gr=	gsrj
 刨	mc=	mjcf
 烙	sl=	sjle
@@ -23059,7 +23060,6 @@ encoder:
 怯	hu=	hfug
 躬	m,=	mm,j
 睦	hv=	hjv/
-炕	su=	sju,
 孓	mz=	mdzf
 邸	xo=	xno;
 暑	ss=	sfsk
@@ -23102,6 +23102,7 @@ encoder:
 祉	xl=	xjlf
 迂	lz=	ljzu
 垃	vu=	vjud
+鞅	iu=	ixuo
 肓	xd=	xldf
 乩	xq=	xvqd
 賂	/l=	/jle
@@ -23142,7 +23143,6 @@ encoder:
 您	jwh	jfwwhf
 賣	ca/	claa/j
 暈	sfq	sfqk.j
-換	kjo	kkjaocuf
 哪	fho	ffhro;
 聽	hjh	h;jvhhhf
 幫	vks	vhklsswl
@@ -23265,7 +23265,6 @@ encoder:
 案	our	ofujrj
 獎	.h;	.shdkl;l
 緊	xkw	x.kfwf
-英	equ	efqkuf
 蘇	e/r	ef/krf
 嘴	flj	fflfjj;r
 雞	kwu	kawdufpj
@@ -23334,7 +23333,7 @@ encoder:
 滅	d,s	dj,esj
 運	lq.	ljqk.j
 溫	dqg	djqjjfg;
-拋	kui	kku.ij
+拋	kui	kkuqij
 編	wox	wfosxa
 憑	d;h	dl;dhf
 形	akz	afksz;
@@ -23365,7 +23364,6 @@ encoder:
 雜	wrp	wjrjpj
 潘	d;v	dj;wvf
 蔣	e.h	ef.shdkl
-幣	wzk	wlzvk;wl
 絕	wc/	wfcf/s
 幾	ww,	wdwd,fjf
 屆	jvq	jlvjql
@@ -23388,7 +23386,7 @@ encoder:
 輝	sq.	s;qk.j
 智	,fs	,kffsf
 索	aqw	ajqkwf
-聚	hkj	h;kfjd
+聚	hkj	h;kfjw
 魏	rux	rfujx;
 側	j/c	jf/jcf
 諾	fek	fjefkdff
@@ -23545,7 +23543,7 @@ encoder:
 傾	jjh	jfjjhk
 瞧	hps	hjpjsj
 沉	dq.	djqk.a
-潔	drc	djracfwf
+潔	dcw	djcxwf
 盟	sdg	sfdfg;
 延	.zl	.gzjlf
 嶺	vfh	vkfrhk
@@ -23644,7 +23642,6 @@ encoder:
 協	aai	ajasij
 瓊	cjo	ckjaochjk;
 髒	heh	hwefhcjjks
-映	squ	sfqkuf
 粵	o;z	oq;wzm
 銷	czd	cjzddf
 候	jaq	jfahqg,k
@@ -23820,7 +23817,6 @@ encoder:
 憲	ora	ofraaahf
 遺	lk/	ljku/j
 聘	h,i	h;,gi/
-喚	fjo	ffjaocuf
 逝	lki	ljkkil
 際	vhk	v;hdkfxj
 誌	fjc	fjclhf
@@ -23863,7 +23859,6 @@ encoder:
 橙	rlg	rjl;gl
 辨	xcx	xkcfxk
 薪	eur	efudrjil
-煥	sjo	sjjaocuf
 藕	ei/	efiu/v
 劈	jxc	jlffxkcf
 燥	saf	sjasffrj
@@ -23887,7 +23882,6 @@ encoder:
 嫂	usk	ujs,kf
 黛	j,s	jf,;sl
 挨	kq,	kkqh,k
-弊	wkk	wlzvk;ks
 貳	,a/	,;ad/j
 蠟	/h;	/fhb;g
 稻	rkg	rfkaga
@@ -23903,7 +23897,6 @@ encoder:
 磕	vug	vougg;
 顫	osh	oxsghk
 渴	dsm	djsfmjxl
-撇	kwk	kkwlzvk;
 蔚	exk	efjlxjkl
 鎂	c;u	cj;juf
 瓣	xrx	xkrxxk
@@ -23964,7 +23957,7 @@ encoder:
 隋	vkd	v;kdifdf
 蘊	ewq	efwfqjjfg;
 棲	rax	rjafxeuj
-瑛	ceq	ckefqkuf
+瑛	ceu	ckefuo
 迦	lif	ljijff
 矯	,zu	,kzjufok
 竅	os.	ovss.dk;
@@ -23976,7 +23969,7 @@ encoder:
 糕	r;s	rd;jsj
 彙	;qr	;,qkr;
 蘸	egp	efgepjsj
-茵	efq	efqjuf
+茵	equ	efqjuf
 簿	edk	ejdjvckl
 呸	fea	ffekaf
 胤	jwd	jswddf
@@ -24011,7 +24004,6 @@ encoder:
 勃	aqm	ajqkmfij
 描	kev	kkefvf
 膚	;vd	;;vfdf
-契	rcu	racfuf
 陝	vuo	v;ufoeoe
 峻	vqj	vkqhjsld
 雍	oop	oho/pj
@@ -24065,7 +24057,6 @@ encoder:
 淹	dus	djufsi
 蟻	/;,	/f;j,d
 澈	ddk	djmvdfk;
-瞥	wzh	wlzvk;hj
 崑	vsj	vksfjm
 墮	vkv	v;kdifdfvj
 懼	hhh	hfhjhjpj
@@ -24110,9 +24101,7 @@ encoder:
 遵	ljg	ljgckl
 摺	kps	kkprss
 剁	.ar	.arjcf
-彆	wz,	wlzvk;,j
 鏟	cuv	cjudvles
-鱉	wz/	wlzvk;/k
 憤	he/	hfed/j
 鶯	ssp	sjsjqkpf
 緻	w,l	wf,lld
@@ -24173,7 +24162,7 @@ encoder:
 挾	kuj	kkufjd
 捎	kzd	kkzddf
 嘀	fef	ffe,ff
-斃	wzj	wlzvk;hcjj
+斃	whj	w.hcjj
 犁	rc;	rfcf;f
 鷗	qap	q;asffpf
 癖	.jf	.xjlffxk
@@ -24209,10 +24198,10 @@ encoder:
 蓓	eje	efjfei
 癱	.up	.xuxpj
 鞘	izd	ixzddf
-瀨	dr/	djrkcf/j
+瀨	drc	djrkcf/j
 凳	lg.	l;gl.a
 隙	vzs	v;zdsfzd
-驟	;hk	;dh;kfjd
+驟	;hk	;dh;kfjw
 莞	eou	efoful
 曆	vrs	vlrfrfsf
 謠	fhg	fjhdgz
@@ -24284,7 +24273,6 @@ encoder:
 嘮	fsi	ffsjsjqkij
 樵	rps	rjpjsj
 漪	d;u	dj;luffs
-蔽	ewz	efwlzvk;
 鐳	cdv	cjd;vf
 糯	rdh	rdd;hv
 茫	edx	efdjxl
@@ -24334,7 +24322,6 @@ encoder:
 羈	ai;	aaix;d
 熹	fuf	fuffsj
 蹈	lkg	llkaga
-秧	rqu	rfqkuf
 沼	dcf	djcfff
 襠	wko	wkoavf
 慫	.lh	.fjdlfhf
@@ -24360,7 +24347,6 @@ encoder:
 詭	fjv	fjjavljk
 滔	dkg	djkaga
 檸	roh	rjofhfg;i;
-敝	wlz	wlzvk;
 諮	fam	fjadm;ff
 疹	.jz	.xjfz;
 瑣	ckz	ckzd/j
@@ -24460,7 +24446,7 @@ encoder:
 慚	h.i	hf.jil
 嫡	uef	uje,ff
 磬	fkv	fmkgvo
-鍥	crc	cjracfuf
+鍥	ccu	cjcxuf
 婿	uld	ujlodf
 晰	sri	sfrjil
 揩	kjs	kkjmss
@@ -24492,7 +24478,6 @@ encoder:
 榛	rkr	rjksrf
 筏	ejj	ejjf,f
 銬	cmi	cjmoi/
-奐	jou	jaocuf
 癩	.r/	.xrkcf/j
 淅	dri	djrjil
 澹	dzf	djjavlzkfj
@@ -24506,7 +24491,7 @@ encoder:
 痢	.rc	.xrfcf
 濯	dpp	djprpj
 萼	ezm	efffffzm
-楔	rrc	rjracfuf
+楔	rcu	rjcxuf
 甌	qai	q;asffip
 峭	vzd	vkzddf
 惺	hse	hfsfes
@@ -24526,7 +24511,6 @@ encoder:
 疵	.lj	.xlfjj
 霾	d;;	d;;.vs
 闔	oug	odugg;
-殃	hqu	hcqkuf
 遏	lsm	ljsfmjxl
 銼	cjj	cjjdvj
 騾	;vw	;dvfwf
@@ -24541,7 +24525,7 @@ encoder:
 鬃	mzx	mlz;ofxj
 睫	hak	hjafkilf
 飭	gji	gjj;ij
-琍	ckr	ckrfcf
+琍	crc	ckrfcf
 鑣	c;s	cj;esj
 靛	eol	eaoflg
 礪	vv/	vovl/c
@@ -24600,7 +24584,6 @@ encoder:
 蒞	edu	efdjjfud
 脩	jad	jfahk;df
 寤	o.a	of.sagff
-盎	qug	qkufg;
 灤	dwr	djwrrj
 歿	hmk	hcmjkf
 哮	fmm	ffmomf
@@ -24617,7 +24600,6 @@ encoder:
 孺	mdh	mfd;hv
 緝	wfh	wfffh;
 儼	jkp	jfffffvlkp
-瘓	.jo	.xjaocuf
 癆	.ss	.xsjsjqkij
 蜇	ki/	kkil/f
 橇	rah	rjash/
@@ -24699,7 +24681,6 @@ encoder:
 簣	ek/	ejku/j
 讖	fje	fjjd,fez
 轡	w.w	wf.jwfff
-鞅	iqu	ixqkuf
 檳	roa	rjofafla/j
 匱	qk/	q;ku/j
 罹	ahp	aahfpj
@@ -24778,7 +24759,6 @@ encoder:
 俎	jjx	jfjfxm
 彗	rar	raraki
 鞦	irs	ixrfsj
-泱	duf	djqkuf
 鴆	qjp	qkjspf
 檄	rs.	rjss.dk;
 咨	amf	adm;ff
@@ -24793,7 +24773,7 @@ encoder:
 嚶	f//	ff/j/juj
 牖	.ov	.wosvc
 皴	qjl	qhjsldh.
-鄹	hko	h;kfjdo;
+鄹	hko	h;kfjwo;
 鏍	cvw	cjvfwf
 踴	lgi	llgwij
 驃	;gx	;dgsxj
@@ -24815,7 +24795,6 @@ encoder:
 駑	uk;	ujkf;d
 匏	uzm	ufzmmj
 蝴	/fd	/ff;df
-鴦	qup	qkufpf
 峰	vlr	vkldra
 餾	gcv	gjcavf
 獰	;oh	;lofhfg;i;
@@ -24860,7 +24839,6 @@ encoder:
 鄱	;vo	;wvfo;
 賃	ji/	jfig/j
 墀	v;;	vj;x;f
-挈	rck	racfkj
 狷	;fd	;lffdf
 縲	wvw	wfvfwf
 瓠	uzr	ufzmrx
@@ -24874,7 +24852,7 @@ encoder:
 鵡	,lp	,flfpf
 剽	gxc	gsxjcf
 蟈	/q,	/fqj,s
-愜	huj	hfq;ufjd
+愜	hqu	hfq;ufjd
 瘩	.eg	.xefgk
 迢	ljc	ljcfff
 畚	quv	qhufvf
@@ -24947,7 +24925,6 @@ encoder:
 蝙	/ox	/fosxa
 褫	wz;	wkzh;;
 籐	ej.	ej.,dj
-怏	hfu	hfqkuf
 蜢	/mg	/fmfg;
 崁	vvm	vkvjm;
 孳	ewm	egwdwdmf

@@ -8,9 +8,7 @@
 
 ![字根圖](layout.png)
 
-## 同根字形
-
-繁簡字形大多同根。
+## 字根變躰
 
 <table>
 	<tr>
@@ -100,6 +98,7 @@
 		<td>爿丬</td>
 		<td>兩两両</td>
 		<td>亞亚亜</td>
+		<td>樂乐楽</td>
 	</tr>
 </table>
 
@@ -150,7 +149,7 @@
     </tr>
 </table>
 
-## 異根同碼
+## 一碼多根
 
 多个字根可共用同一个編碼。
 
@@ -160,6 +159,7 @@
 		<td>串·毌</td>
 		<td>𠂤·㠯</td>
 		<td>艮·皀</td>
+		<td>屮·卉</td>
 		<td>衤·𧘇</td>
 		<td>几·丌</td>
 		<td>匚·匸</td>
@@ -168,12 +168,12 @@
 
 <table>
 	<tr>
+		<td>㗊（器）</td>
 		<td>亼（命）</td>
 		<td>𠂇（有）</td>
 		<td>扌（承）</td>
 		<td>𦥑（興兴）</td>
 		<td>癶（發发）</td>
-		<td>屮（卉）</td>
 		<td>䒑（着）</td>
 	</tr>
 </table>
@@ -182,10 +182,10 @@
 
 <table>
   <tr>
+    <td>噩</td><td>王㗊</td><td></td>
+    <td>爽</td><td>大爻爻</td><td></td>
     <td>丟</td><td>一去</td><td></td>
-    <td>丢</td><td>丿去</td><td></td>
-    <td>康</td><td>庚𭕄</td><td></td>
-    <td>唐</td><td>庚口</td>
+    <td>丢</td><td>丿去</td>
   </tr>
   <tr>
     <td>兵</td><td>斤廾</td><td></td>
@@ -260,7 +260,7 @@
     <td>桌</td><td>卓木</td>
   </tr>
   <tr>
-    <td>㒼</td><td>廿兩</td>
+    <td>㒼</td><td>廿兩</td><td</td>
   </tr>
 </table>
 
@@ -293,6 +293,11 @@
 		<td></td>
 		<td>希肴等</td><td>爻＊</td>
 	</tr>
+    <tr>
+        <td>森淼等</td><td>疊＊</td>
+        <td></td>
+        <td>囂嘂等</td><td>㗊＊</td>
+    </tr>
 </table>
 
 <table>

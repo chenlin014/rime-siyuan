@@ -139,7 +139,7 @@
 		<td>亡亾</td>
 		<td>示礻</td>
 		<td>真眞</td>
-		<td>丵业業</td>
+		<td>丵業业</td>
 		<td>行彳</td>
 		<td>倝𠦝</td>
 	</tr>
@@ -149,7 +149,7 @@
     </tr>
 </table>
 
-## 一碼多根
+## 異根同碼
 
 多个字根可共用同一个編碼。
 
@@ -266,44 +266,49 @@
 
 <table>
 	<tr>
+		<td>囂嘂等</td><td>㗊＊</td>
+		<td></td>
 		<td>船沿等</td><td>＊公</td>
 		<td></td>
 		<td>嬴羸等</td><td>贏＊</td>
-		<td></td>
-		<td>豪亭等</td><td>高＊</td>
 	</tr>
 	<tr>
+		<td>豪亭等</td><td>高＊</td>
+		<td></td>
 		<td>衷裏等</td><td>衣＊</td>
 		<td></td>
 		<td>纂篡等</td><td>竹具＊</td>
-		<td></td>
-		<td>威咸等</td><td>戌＊</td>
 	</tr>
 	<tr>
+		<td>威咸等</td><td>戌＊</td>
+		<td></td>
 		<td>街術等</td><td>行＊</td>
 		<td></td>
 		<td>族施等</td><td>㫃＊</td>
-		<td></td>
-		<td>幹斡等</td><td>倝＊</td>
 	</tr>
 	<tr>
+		<td>幹斡等</td><td>倝＊</td>
+		<td></td>
 		<td>勝騰等</td><td>朕＊</td>
 		<td></td>
 		<td>黴徽等</td><td>行𢼸＊</td>
-		<td></td>
-		<td>希肴等</td><td>爻＊</td>
 	</tr>
     <tr>
+		<td>希肴等</td><td>爻＊</td>
+		<td></td>
         <td>森淼等</td><td>疊＊</td>
-        <td></td>
-        <td>囂嘂等</td><td>㗊＊</td>
     </tr>
 </table>
 
 <table>
 	<tr>
-		<td>阝在左則爲阜、在右則爲邑。</td>
-		<td>陳、阜東。都、者邑。</td>
+		<td>
+			阝在左則爲阜、在右則爲邑。
+		</td>
+		<td>
+			陳、阜東。<br>
+			都、者邑。
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -313,6 +318,24 @@
 		<td>
 			賽、寒貝。騫、寒馬。<br>
 			賽、塞貝。騫、塞馬。
+		</td>
+	</tr>
+	<tr>
+		<td>
+			品的單字碼是「疊」、<br>
+			而品的組字碼則是「疊口」。
+		</td>
+		<td>
+			品、疊。<br>
+			區、匚疊口。
+		</td>
+	</tr>
+	<tr>
+		<td>
+			「熙」是特殊字根、用於輸入康熙部首。
+		</td>
+		<td>
+			⾋（康熙部首）、熙艸。
 		</td>
 	</tr>
 </table>

@@ -140,7 +140,7 @@
 		<td>亡亾</td>
 		<td>示礻</td>
 		<td>真眞</td>
-		<td>业丵</td>
+		<td>丵业業</td>
 		<td>行彳</td>
 		<td>倝𠦝</td>
 	</tr>
@@ -159,6 +159,7 @@
 		<td>丮·丸</td>
 		<td>串·毌</td>
 		<td>𠂤·㠯</td>
+		<td>艮·皀</td>
 		<td>衤·𧘇</td>
 		<td>几·丌</td>
 		<td>匚·匸</td>
@@ -181,86 +182,84 @@
 
 <table>
   <tr>
-    <td>眾</td><td>四㐺</td><td></td>
-    <td>衆</td><td>血㐺</td><td></td>
     <td>丟</td><td>一去</td><td></td>
-    <td>丢</td><td>丿去</td>
-  </tr>
-  <tr>
+    <td>丢</td><td>丿去</td><td></td>
     <td>康</td><td>庚𭕄</td><td></td>
-    <td>唐</td><td>庚口</td><td></td>
+    <td>唐</td><td>庚口</td>
+  </tr>
+  <tr>
     <td>兵</td><td>斤廾</td><td></td>
-    <td>典</td><td>冊廾</td>
-  </tr>
-  <tr>
+    <td>典</td><td>冊廾</td><td></td>
     <td>印</td><td>爪卩</td><td></td>
-    <td>虐</td><td>虎爪</td><td></td>
+    <td>虐</td><td>虎爪</td>
+  </tr>
+  <tr>
     <td>貴</td><td>臾貝</td><td></td>
-    <td>遣</td><td>辵臾㠯</td>
-  </tr>
-  <tr>
+    <td>遣</td><td>辵臾㠯</td><td></td>
     <td>祭</td><td>肉又示</td><td></td>
-    <td>蚩</td><td>之虫</td><td></td>
+    <td>蚩</td><td>之虫</td>
+  </tr>
+  <tr>
     <td>憂</td><td>頁心夊</td><td></td>
-    <td>德</td><td>行直心</td>
-  </tr>
-  <tr>
+    <td>德</td><td>行直心</td><td></td>
     <td>徳</td><td>行直心</td><td></td>
-    <td>那</td><td>冄邑</td><td></td>
+    <td>那</td><td>冄邑</td>
+  </tr>
+  <tr>
     <td>衰</td><td>衣冄</td><td></td>
-    <td>犀</td><td>尾牛</td>
-  </tr>
-  <tr>
+    <td>犀</td><td>尾牛</td><td></td>
     <td>屬</td><td>尾蜀</td><td></td>
-    <td>巤</td><td>𡿺鼠</td><td></td>
+    <td>巤</td><td>𡿺鼠</td>
+  </tr>
+  <tr>
 	<td>留</td><td>卯田</td><td></td>
-    <td>劉</td><td>卯金刀</td>
-  </tr>
-  <tr>
+    <td>劉</td><td>卯金刀</td><td></td>
 	<td>齋</td><td>齊示</td><td></td>
-    <td>斎</td><td>齊示</td><td></td>
+    <td>斎</td><td>齊示</td>
+  </tr>
+  <tr>
     <td>桼</td><td>木黎</td><td></td>
-    <td>黍</td><td>禾黎</td>
-  </tr>
-  <tr>
+    <td>黍</td><td>禾黎</td><td></td>
 	<td>虛</td><td>虎丘</td><td></td>
-    <td>在</td><td>才土</td><td></td>
+    <td>在</td><td>才土</td>
+  </tr>
+  <tr>
     <td>存</td><td>才子</td><td></td>
-    <td>啇</td><td>帝口</td>
-  </tr>
-  <tr>
+    <td>啇</td><td>帝口</td><td></td>
 	<td>丝</td><td>糸糸</td><td></td>
-    <td>惠</td><td>專心</td><td></td>
+    <td>惠</td><td>專心</td>
+  </tr>
+  <tr>
     <td>恵</td><td>專心</td><td></td>
-    <td>冡</td><td>冃豕</td>
-  </tr>
-  <tr>
+    <td>冡</td><td>冃豕</td><td></td>
 	<td>爭</td><td>爪尹</td><td></td>
-    <td>争</td><td>⺈尹</td><td></td>
+    <td>争</td><td>⺈尹</td>
+  </tr>
+  <tr>
 	<td>覽</td><td>監見</td><td></td>
-	<td>览</td><td>監見</td>
-  </tr>
-  <tr>
+	<td>览</td><td>監見</td><td></td>
 	<td>曷</td><td>日勹亡</td><td></td>
-    <td>對</td><td>丵一寸</td><td></td>
+    <td>對</td><td>丵一寸</td>
+  </tr>
+  <tr>
 	<td>叢</td><td>丵耳又</td><td></td>
-	<td>菐</td><td>丵廾</td>
-  </tr>
-  <tr>
+	<td>菐</td><td>丵廾</td><td></td>
 	<td>算</td><td>竹具</td><td></td>
-    <td>戍</td><td>戈人</td><td></td>
+    <td>戍</td><td>戈人</td>
+  </tr>
+  <tr>
     <td>臧</td><td>戈爿臣</td><td></td>
-	<td>雋</td><td>隹弓</td>
-  </tr>
-  <tr>
+	<td>雋</td><td>隹弓</td><td></td>
 	<td>第</td><td>竹弟</td><td></td>
-    <td>啚</td><td>口㐭</td><td></td>
-    <td>容</td><td>穴公</td><td></td>
-	<td>旅</td><td>㫃从</td>
+    <td>啚</td><td>口㐭</td>
   </tr>
   <tr>
+    <td>容</td><td>穴公</td><td></td>
+	<td>旅</td><td>㫃从</td><td></td>
 	<td>乾</td><td>倝乙</td><td></td>
-    <td>桌</td><td>卓木</td><td></td>
+    <td>桌</td><td>卓木</td>
+  </tr>
+  <tr>
     <td>㒼</td><td>廿兩</td>
   </tr>
 </table>
@@ -304,7 +303,7 @@
 	<tr>
 		<td>
 			𡨄既屬於寒、也屬於塞。<br>
-			帶𡨄的字有兩種拆法。
+			因此、帶𡨄的字有兩種拆法。
 		</td>
 		<td>
 			賽、寒貝。騫、寒馬。<br>

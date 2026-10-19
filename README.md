@@ -264,7 +264,7 @@
   </tr>
   <tr>
 	<td>乾</td><td>倝乙</td><td></td>
-    <td>桌</td><td>卓木</td><td</td>
+    <td>桌</td><td>卓木</td><td></td>
     <td>㒼</td><td>廿兩</td>
   </tr>
 </table>
@@ -344,3 +344,21 @@
 		</td>
 	</tr>
 </table>
+
+## 編碼規則
+
+### 字碼
+
+|單根字|二根字|三根字|四根字|四根以上|
+|:-:|:-:|:-:|:-:|:-:|
+|Aa|AaBb|AaBC=|ABCD=|ABYZ=|
+
+「=」代表特殊鍵。
+
+### 詞碼
+
+|双字|三字|四字|四字以上|
+|:-:|:-:|:-:|:-:|
+|AaAcBaBc|AaBaBcCaCc|AaBaCaDaDc|AaBaCaDaEa|
+
+單根字的組詞碼是「Aaa」。

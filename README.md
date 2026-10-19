@@ -160,10 +160,13 @@
 		<td>𠂤·㠯</td>
 		<td>艮·皀</td>
 		<td>屮·卉</td>
+	</tr>
+    <tr>
 		<td>衤·𧘇</td>
 		<td>几·丌</td>
 		<td>匚·匸</td>
-	</tr>
+        <td>开·幵</td>
+    </tr>
 </table>
 
 <table>
@@ -207,60 +210,62 @@
   </tr>
   <tr>
     <td>衰</td><td>衣冄</td><td></td>
+    <td>慶</td><td>鹿心夊</td><td></td>
     <td>犀</td><td>尾牛</td><td></td>
-    <td>屬</td><td>尾蜀</td><td></td>
-    <td>巤</td><td>𡿺鼠</td>
+    <td>屬</td><td>尾蜀</td>
   </tr>
   <tr>
+    <td>巤</td><td>𡿺鼠</td><td></td>
 	<td>留</td><td>卯田</td><td></td>
     <td>劉</td><td>卯金刀</td><td></td>
-	<td>齋</td><td>齊示</td><td></td>
-    <td>斎</td><td>齊示</td>
+	<td>齋</td><td>齊示</td>
   </tr>
   <tr>
+    <td>斎</td><td>齊示</td><td></td>
     <td>桼</td><td>木黎</td><td></td>
     <td>黍</td><td>禾黎</td><td></td>
-	<td>虛</td><td>虎丘</td><td></td>
-    <td>在</td><td>才土</td>
+	<td>虛</td><td>虎丘</td>
   </tr>
   <tr>
+    <td>在</td><td>才土</td><td></td>
     <td>存</td><td>才子</td><td></td>
     <td>啇</td><td>帝口</td><td></td>
-	<td>丝</td><td>糸糸</td><td></td>
-    <td>惠</td><td>專心</td>
+	<td>丝</td><td>糸糸</td>
   </tr>
   <tr>
+    <td>惠</td><td>專心</td><td></td>
     <td>恵</td><td>專心</td><td></td>
     <td>冡</td><td>冃豕</td><td></td>
-	<td>爭</td><td>爪尹</td><td></td>
-    <td>争</td><td>⺈尹</td>
+	<td>爭</td><td>爪尹</td>
   </tr>
   <tr>
+    <td>争</td><td>⺈尹</td><td></td>
 	<td>覽</td><td>監見</td><td></td>
 	<td>览</td><td>監見</td><td></td>
+	<td>临</td><td>監口</td>
+  </tr>
+  <tr>
 	<td>曷</td><td>日勹亡</td><td></td>
-    <td>對</td><td>丵一寸</td>
-  </tr>
-  <tr>
+    <td>對</td><td>丵一寸</td><td></td>
 	<td>叢</td><td>丵耳又</td><td></td>
-	<td>菐</td><td>丵廾</td><td></td>
+	<td>菐</td><td>丵廾</td>
+  </tr>
+  <tr>
 	<td>算</td><td>竹具</td><td></td>
-    <td>戍</td><td>戈人</td>
-  </tr>
-  <tr>
+    <td>戍</td><td>戈人</td><td></td>
     <td>臧</td><td>戈爿臣</td><td></td>
-	<td>雋</td><td>隹弓</td><td></td>
+	<td>雋</td><td>隹弓</td>
+  </tr>
+  <tr>
 	<td>第</td><td>竹弟</td><td></td>
-    <td>啚</td><td>口㐭</td>
-  </tr>
-  <tr>
+    <td>啚</td><td>口㐭</td><td></td>
     <td>容</td><td>穴公</td><td></td>
-	<td>旅</td><td>㫃从</td><td></td>
-	<td>乾</td><td>倝乙</td><td></td>
-    <td>桌</td><td>卓木</td>
+	<td>旅</td><td>㫃从</td>
   </tr>
   <tr>
-    <td>㒼</td><td>廿兩</td><td</td>
+	<td>乾</td><td>倝乙</td><td></td>
+    <td>桌</td><td>卓木</td><td</td>
+    <td>㒼</td><td>廿兩</td>
   </tr>
 </table>
 

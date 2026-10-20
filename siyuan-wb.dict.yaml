@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-wb
-version: "2026-10-18"
+version: "2026-10-19"
 sort: by_weight
 use_preset_vocabulary: false
 vocabulary: essay-sy
@@ -30,7 +30,7 @@ encoder:
 是	ro	roo
 在	knca
 你	aevv
-和	leee
+和	loee
 有	io	ioo
 不	ki	kii
 就	pnib
@@ -86,7 +86,7 @@ encoder:
 過	nahr
 打	iigt
 大	ue	uee
-年	ll	lll
+年	lk	lkk
 麼	ktvo
 啦	eeiiuo
 以	mk	mkk
@@ -221,7 +221,7 @@ encoder:
 怕	herr
 女	ua	uaa
 講	easc
-殺	xnlkid
+殺	xnllid
 組	vewm
 錯	faoc
 些	neaaso
@@ -248,7 +248,7 @@ encoder:
 因	zaue
 子	me	mee
 強	yazhqe
-類	lotnhi
+類	letnhi
 作	aego
 送	nakdue
 書	wo	woo
@@ -288,7 +288,7 @@ encoder:
 手	ia	iaa
 黃	uv	uvv
 道	nahg
-米	lo	loo
+米	le	lee
 座	paaoca
 豬	tiri
 聊	htfs
@@ -325,7 +325,7 @@ encoder:
 位	aeuo
 貴	iuqa
 部	kgcs
-稱	leisqi
+稱	loisqi
 處	ttnobs
 選	naag
 站	uowc
@@ -384,7 +384,7 @@ encoder:
 飛	jk	jkk
 劉	fsfafe
 度	pasmie
-種	lebb
+種	lobb
 俄	aeyo
 歌	erermt
 報	w'aiie
@@ -439,7 +439,7 @@ encoder:
 留	fsce
 動	bbga
 特	teip
-氣	ovlo
+氣	ovle
 係	aexave
 神	wary
 鳥	je	jee
@@ -609,7 +609,7 @@ encoder:
 身	mm	mmm
 奧	p?	p??
 章	wy	wyy
-科	ledp
+科	lodp
 倆	aesk
 星	rekr
 牌	bvy,
@@ -668,7 +668,7 @@ encoder:
 丫	xish
 徐	bepg
 騙	toprws
-秒	lexk
+秒	loxk
 青	ks	kss
 耍	hcua
 夜	od	odd
@@ -683,7 +683,7 @@ encoder:
 直	hh	hhh
 公	es	ess
 苦	keet
-秀	lemh
+秀	lomh
 博	sacfin
 皮	hb	hbb
 朝	rl	rll
@@ -691,7 +691,7 @@ encoder:
 詩	eaip
 爛	rapolg
 靜	ksiswk
-利	lefe
+利	lofe
 素	vc	vcc
 立	uo	uoo
 存	knme
@@ -727,7 +727,7 @@ encoder:
 百	rv	rvv
 兵	gnir
 英	keup
-蘇	keqile
+蘇	keqilo
 般	biid
 演	oayy
 嘴	eeneaatl
@@ -768,7 +768,7 @@ encoder:
 干	yh	yhh
 屬	twqd
 窮	pcmmya
-粉	lofc
+粉	lefc
 爆	rarf
 韓	blnx
 刪	wsfe
@@ -779,7 +779,7 @@ encoder:
 雷	otce
 蓋	keuddt
 港	oaivmr
-租	lewm
+租	lowm
 狼	tnpx
 蘭	kepolg
 狂	tnfi
@@ -839,8 +839,8 @@ encoder:
 設	eaid
 猜	tnks
 伊	aewk
-秦	giirle
-秋	lera
+秦	giirlo
+秋	lora
 毒	lsmi
 架	gaeela
 熊	trra
@@ -855,8 +855,8 @@ encoder:
 呆	eela
 基	doca
 困	zala
-圈	zalfai
-迷	nalo
+圈	zalcai
+迷	nale
 趕	nireyh
 踢	nndd
 勝	byga
@@ -889,7 +889,7 @@ encoder:
 漢	oauw
 富	pewu
 姓	uakr
-料	lodp
+料	ledp
 嘎	eehiye
 結	vefp
 閃	poae
@@ -903,7 +903,7 @@ encoder:
 醒	dkrekr
 狠	tndm
 逛	natnfi
-精	loks
+精	leks
 瘦	bwryie
 瘋	bwjs
 踩	nnlq
@@ -963,7 +963,7 @@ encoder:
 武	yene
 湖	oaetho
 聯	htvovokd
-程	leeeac
+程	loeeac
 柳	lafs
 偏	aeprws
 實	pequqa
@@ -1030,7 +1030,7 @@ encoder:
 免	vq	vqq
 景	repn
 擬	iinu
-穩	leisgeighe
+穩	loisgeighe
 曹	bp	bpp
 曉	recu
 煮	rira
@@ -1060,7 +1060,7 @@ encoder:
 琴	fifidu
 錄	fagv
 餵	dawj
-稅	leex
+稅	loex
 宏	peiozh
 例	aehffe
 專	vd	vdd
@@ -1111,7 +1111,7 @@ encoder:
 絲	veve
 校	laug
 氏	w?	w??
-糖	lo?l
+糖	le?l
 吉	fp	fpp
 押	iiy'
 馮	onto
@@ -1175,7 +1175,7 @@ encoder:
 銅	fade
 犯	tnai
 族	bcyi
-季	leme
+季	lome
 尋	iggeeein
 顯	revovorahi
 骨	hv	hvv
@@ -1183,11 +1183,11 @@ encoder:
 鏈	fanaba
 擺	iivrtr
 擠	iilv
-黎	lc	lcc
+黎	lf	lff
 騎	toueer
 密	peyqci
 士	fn	fnn
-術	belk
+術	bell
 炸	rago
 祇	waw?
 洪	oaiv
@@ -1206,7 +1206,7 @@ encoder:
 膜	hokv
 普	ukre
 竹	ka	kaa
-魏	leuawt
+魏	louawt
 澤	oaw,
 乜	zezo
 側	aeqafe
@@ -1240,7 +1240,7 @@ encoder:
 彩	lqxt
 甚	ek	ekk
 厄	cnai
-粗	lowm
+粗	lewm
 傑	aenzla
 噸	eekfhi
 慶	tkheno
@@ -1279,7 +1279,7 @@ encoder:
 盧	ttcedt
 森	svla
 瞎	hapelsee
-卷	lfai
+卷	lcai
 于	?i	?ii
 井	pt	ptt
 針	fasa
@@ -1312,7 +1312,7 @@ encoder:
 敲	piit
 凱	b'bs
 鐘	famd
-愁	lerahe
+愁	lorahe
 鋪	facf
 薩	kectuocnkr
 揚	iirk
@@ -1337,9 +1337,9 @@ encoder:
 液	oaod
 泉	ou	ouu
 嫁	uapeti
-捲	iilfai
+捲	iilcai
 汪	oafi
-稍	lexoho
+稍	loxoho
 薛	kecqwi
 賈	drqa
 豆	dn	dnn
@@ -1348,7 +1348,7 @@ encoder:
 儂	aezgqn
 攻	geit
 祥	wata
-委	leua
+委	loua
 佐	aeioge
 臨	wbatsvee
 隔	ctfb
@@ -1367,7 +1367,7 @@ encoder:
 框	laztfi
 鬥	uq	uqq
 暴	rf	rff
-湊	oaleir
+湊	oaloir
 陣	ctba
 識	eaenye
 娃	uach
@@ -1381,7 +1381,7 @@ encoder:
 珠	filb
 劑	lvfe
 尿	anoa
-透	nalemh
+透	nalomh
 惠	vdhe
 譚	eadw
 營	rarazieh
@@ -1414,7 +1414,7 @@ encoder:
 剪	nhfe
 羽	jljl
 哩	eecr
-稿	lepi
+稿	lopi
 棟	labn
 邦	lscs
 撿	iiak
@@ -1516,7 +1516,7 @@ encoder:
 楓	lajs
 隆	ctnosekr
 撤	iimchoit
-粥	yaloya
+粥	yaleya
 馨	?ridey
 誤	eaef
 滑	oahv
@@ -1591,7 +1591,7 @@ encoder:
 吼	eemezo
 云	oq	oqq
 研	cpgg
-咪	eelo
+咪	eele
 俗	aeol
 爺	gphtcs
 啓	pritee
@@ -1601,7 +1601,7 @@ encoder:
 韋	nx	nxx
 歡	jhmt
 嗨	eeoamg
-積	leqg
+積	loqg
 擡	iipj
 捧	iilsirii
 鳴	eeje
@@ -1637,7 +1637,7 @@ encoder:
 鴨	y'je
 染	oaikla
 餅	daaf
-粘	lowc
+粘	lewc
 藝	kecmutoq
 炮	rama
 桌	bxla
@@ -1660,7 +1660,7 @@ encoder:
 荷	keaeer
 畝	puceax
 棉	larrvn
-私	lezh
+私	lozh
 擊	baznidia
 姜	taua
 貸	aeytqa
@@ -1683,7 +1683,7 @@ encoder:
 延	bdxane
 柔	ysla
 資	somtqa
-粒	louo
+粒	leuo
 嶺	cieuhi
 盆	fcdt
 檢	laak
@@ -1705,7 +1705,7 @@ encoder:
 哲	iignee
 涵	oayg
 鈣	faaq
-菌	kezale
+菌	kezalo
 敵	kyeeit
 桶	ladv
 抹	iilu
@@ -1741,12 +1741,12 @@ encoder:
 翠	jlv.
 邁	naqf
 孝	mpme
-移	lehk
+移	lohk
 搖	iihodx
 畢	gz	gzz
 予	zu	zuu
 岳	cgci
-屎	anlo
+屎	anle
 融	fbqe
 棋	lado
 勞	raraziga
@@ -1759,7 +1759,7 @@ encoder:
 奪	uejain
 采	lq	lqq
 乳	ismezo
-拳	lfia
+拳	lcia
 浜	oagnir
 齣	hzzk
 錫	fadd
@@ -1770,7 +1770,7 @@ encoder:
 宅	pekp
 掌	psia
 培	cakg
-莉	kelefe
+莉	kelofe
 損	iifm
 櫃	laztiuqa
 盼	hafc
@@ -1793,7 +1793,7 @@ encoder:
 醋	dkoc
 朵	bsla
 膽	hoascnxiea
-穆	lerrxoxt
+穆	lorrxoxt
 姬	uawb
 龜	qt	qtt
 啃	eeneho
@@ -1810,16 +1810,16 @@ encoder:
 壁	aneewica
 霍	otja
 爐	rattcedt
-漆	oalalc
+漆	oalalf
 暫	bagnre
 虹	qege
 丸	ut	utt
-券	lffe
+券	lcfe
 獃	b'tn
 辭	vxwi
 縫	venanols
 俱	aegm
-菊	kemalo
+菊	kemale
 奴	uaie
 岸	cicnyh
 凝	onnu
@@ -1829,7 +1829,7 @@ encoder:
 脈	hoox
 嚐	eepseg
 烈	hffera
-矮	yileua
+矮	yiloua
 貪	duqa
 婆	oahbua
 俞	bg	bgg
@@ -1864,7 +1864,7 @@ encoder:
 悲	johe
 殷	mmid
 茲	kevovo
-穎	aalehi
+穎	aalohi
 萌	kereoe
 斑	fiuifi
 澡	oasveela
@@ -1886,7 +1886,7 @@ encoder:
 忽	frhe
 津	oawo
 胎	homv
-糧	lordcr
+糧	lerdcr
 濟	oalv
 參	svzhaext
 譜	eaukre
@@ -1938,7 +1938,7 @@ encoder:
 陞	ctdbca
 候	aeascnyi
 堅	wbieca
-种	lesn
+种	losn
 邀	narrboit
 閉	pokn
 妝	brua
@@ -1979,7 +1979,7 @@ encoder:
 漂	oadrwa
 序	pazu
 巷	ivmr
-梨	lefela
+梨	lofela
 舌	ei	eii
 蒂	keky
 腹	honf
@@ -2091,7 +2091,7 @@ encoder:
 束	li	lii
 牢	pete
 齋	lvwa
-揍	iileir
+揍	iiloir
 仕	aefn
 鉤	fazk
 劫	udga
@@ -2121,7 +2121,7 @@ encoder:
 寨	pdla
 掐	iiasds
 監	wp	wpp
-稀	lexrvn
+稀	loxrvn
 恰	hedi
 牴	tew.
 棍	laream
@@ -2145,7 +2145,7 @@ encoder:
 驗	toak
 齒	hz	hzz
 廷	bdac
-糊	loetho
+糊	leetho
 翹	cujl
 儲	aeeari
 楠	la?s
@@ -2167,7 +2167,7 @@ encoder:
 堯	cu	cuu
 繁	mgitve
 坦	card
-穗	levdhe
+穗	lovdhe
 紗	vexk
 屯	kf	kff
 虐	ttis
@@ -2195,7 +2195,7 @@ encoder:
 釘	fagt
 阮	ctun
 丙	sl	sll
-歷	cnlelene
+歷	cnlolone
 躍	nnjlja
 署	vrri
 範	kabaai
@@ -2203,7 +2203,7 @@ encoder:
 邢	ggcs
 擰	iipehedtgt
 莎	keoaxk
-糞	lodoir
+糞	ledoir
 嵐	cijs
 濱	oapesensqa
 夕	oo	ooo
@@ -2251,7 +2251,7 @@ encoder:
 喵	eekece
 競	eaareaar
 靖	uoks
-奏	leir
+奏	loir
 咒	eeeebs
 釋	tvw,
 盲	wnha
@@ -2272,7 +2272,7 @@ encoder:
 閻	poasds
 攪	iixphu
 硅	cpch
-述	nalk
+述	nall
 籠	kaqh
 泛	oaxanr
 甫	cf	cff
@@ -2285,7 +2285,7 @@ encoder:
 倩	aeks
 袖	viyd
 貧	fcqa
-糟	lobp
+糟	lebp
 激	oarrboit
 階	ctamrr
 珊	fiws
@@ -2311,7 +2311,7 @@ encoder:
 桐	lade
 痰	bwrh
 捂	iisdee
-鄰	lonzcs
+鄰	lenzcs
 癡	bwnu
 揀	iilg
 艙	bipv
@@ -2335,8 +2335,8 @@ encoder:
 碩	cphi
 煲	mlra
 杖	lagk
-謎	eanalo
-磷	cplonz
+謎	eanale
+磷	cplenz
 竄	pctd
 脆	hoascnai
 刃	fd	fdd
@@ -2355,7 +2355,7 @@ encoder:
 鄂	eeee?gcs
 捅	iidv
 叢	grhtie
-禾	le	lee
+禾	lo	loo
 磁	cpkdvovo
 錶	favm
 沃	oaxaue
@@ -2381,7 +2381,7 @@ encoder:
 宴	pereua
 堪	caek
 擱	iiponk
-麟	tklonz
+麟	tklenz
 祿	wagv
 翟	jlja
 仗	aegk
@@ -2419,7 +2419,7 @@ encoder:
 虞	ttef
 沁	oahe
 瑟	fifiyq
-揪	iilera
+揪	iilora
 棵	lalt
 閆	posr
 拐	iihw
@@ -2465,7 +2465,7 @@ encoder:
 繪	vedg
 黴	beb,rn
 鈞	faikso
-憐	helonz
+憐	helenz
 昆	ream
 禹	qw	qww
 娥	uayo
@@ -2502,8 +2502,8 @@ encoder:
 澄	oantdn
 冥	zireieio
 媒	uaeola
-燦	rahfielo
-酥	dkle
+燦	rahfiele
+酥	dklo
 垮	caue?g
 枯	laet
 軌	baik
@@ -2549,7 +2549,7 @@ encoder:
 虫	qe	qee
 恥	hthe
 匹	ztar
-曦	retaleyegq
+曦	retaloyegq
 仰	aea,
 煞	asigitra
 羞	taiz
@@ -2581,7 +2581,7 @@ encoder:
 孰	pput
 耕	gupt
 飆	svtnjs
-稻	leisds
+稻	loisds
 屠	anri
 綺	veueer
 荊	keptfe
@@ -2666,7 +2666,7 @@ encoder:
 岡	cy	cyy
 挂	iich
 掀	iignmt
-誘	ealemh
+誘	ealomh
 翰	bljl
 睜	haiswk
 撓	iicu
@@ -2704,10 +2704,10 @@ encoder:
 菱	keny
 梯	laym
 僑	aexauepi
-籽	lome
+籽	leme
 腕	hopeooai
 挫	iiaoca
-膝	holalc
+膝	holalf
 嗦	eesazive
 璇	fibcnp
 眨	haxanr
@@ -2773,7 +2773,7 @@ encoder:
 遣	naiucq
 岑	cidu
 皖	rrpeun
-糕	lotara
+糕	letara
 斐	joui
 閤	podi
 釀	dkvu
@@ -2793,7 +2793,7 @@ encoder:
 鎚	fanacq
 桓	lasoor
 碘	cpwsir
-瞅	halera
+瞅	halora
 廊	papxcs
 焰	raasds
 壘	svceca
@@ -2814,12 +2814,12 @@ encoder:
 饞	dathth
 沫	oalu
 滯	oavh
-臻	yngiirle
+臻	yngiirlo
 眺	haog
 寂	pekqie
 醣	dk?l
 晏	repeua
-秤	le?n
+秤	lo?n
 嗚	eejv
 蘿	kevrveja
 誅	ealb
@@ -2837,7 +2837,7 @@ encoder:
 貿	fsqa
 療	bwrp
 滲	oasvzhaext
-瀝	oacnlelene
+瀝	oacnlolone
 陡	ctni
 栗	drla
 筍	kamare
@@ -2856,9 +2856,9 @@ encoder:
 陝	ctuxpk
 鞏	glgw
 峻	cizharno
-稠	leck
+稠	lock
 爵	fj	fjj
-秉	leig
+秉	loig
 刨	mafe
 雍	pucxja
 群	wkeeta
@@ -2879,7 +2879,7 @@ encoder:
 斥	pm	pmm
 棕	lapewa
 匡	ztfi
-倦	aelfai
+倦	aelcai
 疆	yacasrcece
 蔓	kevthaie
 樺	lakl
@@ -2924,7 +2924,7 @@ encoder:
 埠	cact
 酚	dkfc
 奮	uejace
-剎	xnlkfe
+剎	xnllfe
 濁	oaqd
 茬	keknca
 濾	oatthd
@@ -2982,7 +2982,7 @@ encoder:
 蕩	keoark
 菇	keuaet
 砌	cpfofe
-眯	halo
+眯	hale
 闌	polg
 嬲	cegauacega
 辱	qnin
@@ -3015,7 +3015,7 @@ encoder:
 疇	cemb
 揣	iikh
 槐	lawt
-粟	drlo
+粟	drle
 唆	eezharno
 誦	eadv
 綜	vepewa
@@ -3089,7 +3089,7 @@ encoder:
 硯	cphu
 錳	famedt
 旨	eg	egg
-鱗	qilonz
+鱗	qilenz
 巳	mr	mrr
 辜	etwi
 筐	kaztfi
@@ -3107,7 +3107,7 @@ encoder:
 鏟	fauocnkr
 驛	tow,
 鱉	vbqi
-稜	leny
+稜	lony
 憤	hekoqa
 綽	vebx
 鶯	rarazije
@@ -3129,7 +3129,7 @@ encoder:
 奸	uayh
 坂	caic
 淼	svoa
-黏	lelcwc
+黏	lolfwc
 縷	veuh
 甭	kico
 瞟	hadrwa
@@ -3143,11 +3143,11 @@ encoder:
 鬱	ladxlazid.xt
 曠	repauv
 睹	hari
-禿	lear
+禿	loar
 諦	eaky
 疲	bwhb
 褪	vinadm
-鞠	gwmalo
+鞠	gwmale
 釉	tvyd
 彰	wyxt
 綴	vei,
@@ -3185,7 +3185,7 @@ encoder:
 猿	tnvy
 漠	oakv
 撬	iisvhq
-巍	cileuawt
+巍	cilouawt
 鉑	farr
 漾	oataos
 擎	tumaeeitia
@@ -3193,7 +3193,7 @@ encoder:
 絃	vevk
 靶	gwqr
 鴉	hsje
-俐	aelefe
+俐	aelofe
 胚	hokise
 楷	laamrr
 侶	aeeh
@@ -3204,7 +3204,7 @@ encoder:
 驕	toxauepi
 蠅	qeqs
 蹄	nnky
-穫	lejuie
+穫	lojuie
 潰	oaiuqa
 褐	viremawn
 丞	i?	i??
@@ -3220,7 +3220,7 @@ encoder:
 畜	vkce
 廬	pattcedt
 砼	cpaege
-粽	lopewa
+粽	lepewa
 韌	nxfd
 囉	eevrveja
 唑	eeaoca
@@ -3261,7 +3261,7 @@ encoder:
 糸	ve	vee
 嘀	eekyee
 斃	vbhfaa
-犁	lefete
+犁	lofete
 怔	hend
 焚	lhra
 恁	aegdhe
@@ -3345,7 +3345,7 @@ encoder:
 噬	eekageao
 鎢	fajv
 孚	isme
-穀	?kleid
+穀	?kloid
 玥	fioe
 蓓	keaekg
 蛆	qewm
@@ -3356,13 +3356,13 @@ encoder:
 滷	oad?
 匣	zty'
 鉬	faha
-銹	falemh
+銹	falomh
 凳	ntdnbs
 隙	ctxorexo
 娣	uaym
 驟	tohtieav
 莞	kepeun
-曆	cnlelere
+曆	cnlolore
 躥	nnpctd
 銨	fapeua
 荃	kefg
@@ -3422,7 +3422,7 @@ encoder:
 緬	vehy
 頰	uxaehi
 砷	cpry
-糙	lonatc
+糙	lenatc
 炯	raziee
 莘	kewi
 盔	rbdt
@@ -3456,7 +3456,7 @@ encoder:
 蹟	nnqg
 囿	zaio
 嶽	citneatn
-稚	leja
+稚	loja
 褒	vaml
 痔	bwip
 烘	raiv
@@ -3488,7 +3488,7 @@ encoder:
 邸	w.cs
 柵	laws
 炙	hora
-倭	aeleua
+倭	aeloua
 翊	uojl
 熾	raenye
 馱	toue
@@ -3536,7 +3536,7 @@ encoder:
 歆	enmt
 禰	wavw
 弛	yaqo
-秘	leyq
+秘	loyq
 渚	oari
 纜	vewphu
 枴	lahw
@@ -3585,14 +3585,14 @@ encoder:
 啄	eeti
 倡	aeep
 肛	hoge
-糜	ktlo
+糜	ktle
 漪	oatnueer
 迴	naor
 駒	tozk
 瑕	fiih
 蔽	kevb
 鐳	faotce
-糯	loothc
+糯	leothc
 茫	keoawn
 噎	eefnzidn
 飼	daew
@@ -3602,13 +3602,13 @@ encoder:
 寰	pevg
 璞	figrir
 霓	otdsar
-醚	dknalo
+醚	dknale
 硝	cpxoho
 囤	zakf
 吭	eeuy
 靡	ktjo
 厥	cnufmt
-凜	onpwle
+凜	onpwlo
 跺	nnbsla
 沓	oaeb
 忻	hegn
@@ -3641,7 +3641,7 @@ encoder:
 疣	bwib
 恍	hert
 貽	qamv
-糠	lo?d
+糠	le?d
 渺	oahaxk
 洙	oalb
 瀛	oaqpua
@@ -3675,7 +3675,7 @@ encoder:
 踱	nnpasmie
 叭	eexi
 恢	herb
-彝	tyloveir
+彝	tyleveir
 綰	vepecq
 扽	iikf
 磯	cpvovoyeae
@@ -3723,7 +3723,7 @@ encoder:
 痹	bwceyi
 恃	heip
 淞	oalaes
-頹	learhi
+頹	loarhi
 鋇	faqa
 舀	isds
 閑	pola
@@ -3747,7 +3747,7 @@ encoder:
 焙	rakg
 蹈	nnisds
 牡	teca
-秧	leup
+秧	loup
 飢	dabs
 狸	tncr
 訶	eaer
@@ -3778,7 +3778,7 @@ encoder:
 剔	ddfe
 崴	ciykua
 胯	houe?g
-眷	lfha
+眷	lcha
 癸	ntul
 緞	vecb
 馴	tooi
@@ -3786,7 +3786,7 @@ encoder:
 顱	ttcedthi
 嘲	eerl
 噤	eelhwa
-弒	xnlkytge
+弒	xnllytge
 諭	eabg
 謬	eajlaext
 甕	pucxjagj
@@ -3854,7 +3854,7 @@ encoder:
 殖	hfhh
 珀	firr
 眶	haztfi
-稼	lepeti
+稼	lopeti
 錛	fang
 咎	noweee
 潞	oannnk
@@ -3863,10 +3863,10 @@ encoder:
 嘈	eebp
 馥	eynf
 皋	rruesa
-粹	lov.
+粹	lev.
 瀅	oararazifh
 祗	waw.
-穢	leneykns
+穢	loneykns
 褂	vichwe
 娼	uaep
 鰲	bhqi
@@ -3882,7 +3882,7 @@ encoder:
 曳	rgxa
 偕	aeamrr
 諶	eaek
-羲	taleyegq
+羲	taloyegq
 汾	oafc
 陂	cthb
 藺	kepoja
@@ -3901,7 +3901,7 @@ encoder:
 珺	fiwkee
 咂	eeztvn
 釹	faua
-糗	lohntn
+糗	lehntn
 摯	w'utia
 騏	todo
 吡	eeam
@@ -3928,7 +3928,7 @@ encoder:
 吮	eezhar
 厂	cn	cnn
 芋	ke?i
-萎	keleua
+萎	keloua
 榻	larejl
 嗡	eeesjl
 漣	oanaba
@@ -3951,7 +3951,7 @@ encoder:
 聆	hteu
 騁	toydgq
 嗑	eeuddt
-稟	pwle
+稟	pwlo
 漳	oawy
 沱	oaqk
 卅	seoi
@@ -3967,7 +3967,7 @@ encoder:
 砰	cp?n
 鹵	d?	d??
 曙	revrri
-稽	leibeg
+稽	loibeg
 簪	kamjmjre
 偎	aewj
 潁	aaoahi
@@ -3995,7 +3995,7 @@ encoder:
 闞	poij
 璉	finaba
 壑	hfolieca
-嗪	eegiirle
+嗪	eegiirlo
 呤	eeeu
 峨	ciyo
 濂	oapaiy
@@ -4078,7 +4078,7 @@ encoder:
 乒	gnio
 朦	oekevtti
 諡	eaxigqdt
-粱	oafexilo
+粱	oafexile
 宓	peyq
 囗	za	zaa
 峙	ciip
@@ -4097,7 +4097,7 @@ encoder:
 犢	teqq
 逵	nacm
 悳	hhhe
-秩	leim
+秩	loim
 颯	uojs
 湜	oaro
 蕃	ketvce
@@ -4122,7 +4122,7 @@ encoder:
 广	pa	paa
 垠	cadm
 萘	keuewa
-蜷	qelfai
+蜷	qelcai
 嗤	eenrqe
 幌	vnrert
 篆	katyti
@@ -4229,7 +4229,7 @@ encoder:
 筵	kabdxane
 裊	jeva
 矜	ysdu
-掬	iimalo
+掬	iimale
 皿	dt	dtt
 纂	kagmve
 徊	beor
@@ -4262,7 +4262,7 @@ encoder:
 瀦	oatiri
 胜	hokr
 芣	keki
-榛	lagiirle
+榛	lagiirlo
 弌	ytse
 簍	kauh
 筏	kaaeye
@@ -4277,7 +4277,7 @@ encoder:
 欖	lawphu
 嗝	eefb
 譏	eavovoyeae
-粕	lorr
+粕	lerr
 燊	svrala
 甾	oice
 坷	caer
@@ -4289,7 +4289,7 @@ encoder:
 仆	aewe
 佚	aeim
 脯	hocf
-痢	bwlefe
+痢	bwlofe
 煸	raprws
 灃	oafu
 汰	oauc
@@ -4384,7 +4384,7 @@ encoder:
 檜	ladg
 囝	zame
 喈	eeamrr
-稈	lereyh
+稈	loreyh
 澍	oa?oin
 珩	fibe
 欏	lavrveja
@@ -4417,7 +4417,7 @@ encoder:
 鈿	face
 獾	tnjh
 鯤	qiream
-琍	filefe
+琍	filofe
 捍	iireyh
 芾	kevj
 彧	yteesext
@@ -4467,13 +4467,13 @@ encoder:
 熏	ru	ruu
 刈	xnfe
 鉭	fard
-鍬	falera
+鍬	falora
 舷	bivk
 肟	ho?g
 鱔	qitm
 誑	eatnfi
 氓	wnwh
-豢	lfti
+豢	lcti
 忱	heziar
 洧	oaio
 雇	prja
@@ -4502,20 +4502,20 @@ encoder:
 鏤	fauh
 汴	oapuwe
 忝	ulhe
-璨	fihfielo
+璨	fihfiele
 虯	qezl
 躡	nnsvht
 喱	eecncr
-嵇	leibci
+嵇	loibci
 鉞	fayw
 鈊	fahe
 鴛	ooaije
 誣	eageao
 諍	eaiswk
-怵	helk
+怵	hell
 湍	oakh
 葳	keykua
-藜	kelc
+藜	kelf
 輟	bai,
 僻	aeaneewi
 鏃	fabcyi
@@ -4595,7 +4595,7 @@ encoder:
 皙	lagnrr
 礫	cp?e
 賄	qaio
-僳	aedrlo
+僳	aedrle
 饈	dataiz
 胍	holw
 鮎	qiwc
@@ -4615,7 +4615,7 @@ encoder:
 剜	peooaife
 孖	meme
 卍	zeshsesh
-綣	velfai
+綣	velcai
 圻	cagn
 苣	kegc
 芍	kedh
@@ -4630,15 +4630,15 @@ encoder:
 綃	vexoho
 耦	guqc
 桉	lapeua
-粲	hfielo
+粲	hfiele
 喳	eelp
 啐	eev.
 儺	aeuwja
 鏗	fawbieca
 諛	eaiu
 庋	pakm
-粑	loqr
-籹	loua
+粑	leqr
+籹	leua
 瀘	oattcedt
 鋈	oaxauefa
 滘	oavrgeee
@@ -4656,7 +4656,7 @@ encoder:
 鎔	fapces
 鯽	qidmai
 憬	herepn
-愀	helera
+愀	helora
 湮	oadrca
 洇	oazaue
 祜	waet
@@ -4674,7 +4674,7 @@ encoder:
 畲	pkwace
 鎵	fapeti
 謗	eabk
-糰	lozavd
+糰	lezavd
 灩	oafuuddt
 寤	pebrsdee
 縉	veyp
@@ -4740,7 +4740,7 @@ encoder:
 鉈	faqk
 竣	uozharno
 甑	dygj
-悸	heleme
+悸	helome
 煬	rark
 縐	vemakomako
 玓	fidh
@@ -4765,7 +4765,7 @@ encoder:
 檣	lapq
 賚	lrqa
 掱	svia
-秸	lefp
+秸	lofp
 儼	aeeeeecnij
 皎	rrug
 龕	diqh
@@ -4844,7 +4844,7 @@ encoder:
 蛔	qeor
 崮	cizaet
 嶠	cixauepi
-膦	holonz
+膦	holenz
 鮭	qich
 匈	maxnzn
 譙	eajara
@@ -4858,7 +4858,7 @@ encoder:
 齦	hzdm
 嗶	eegz
 唾	eekc
-哖	eell
+哖	eelk
 噔	eentdn
 笫	kakb
 惚	hefrhe
@@ -4871,7 +4871,7 @@ encoder:
 螟	qezireieio
 唏	eexrvn
 畹	cepeooai
-黍	lelc
+黍	lolf
 鑊	fajuie
 腓	hojo
 詎	eagc
@@ -4984,7 +4984,7 @@ encoder:
 氷	oaxe
 詬	eaev
 癥	bwbeb,ac
-湫	oalera
+湫	oalora
 綵	velq
 娓	uatw
 恚	chhe
@@ -5012,7 +5012,7 @@ encoder:
 獠	tnrp
 誚	eaxoho
 諂	eaasds
-痿	bwleua
+痿	bwloua
 焓	raduee
 湃	oaiasels
 湟	oafy
@@ -5039,7 +5039,7 @@ encoder:
 呔	eeuc
 崧	cilaes
 箸	kari
-稔	leduhe
+稔	loduhe
 籩	kanahnpcbo
 乂	xn	xnn
 鏵	fakl
@@ -5055,7 +5055,7 @@ encoder:
 霰	otld
 歩	nexk
 噘	eecnufmt
-啾	eelera
+啾	eelora
 崙	ciwx
 俅	aeql
 鎰	faoh
@@ -5111,7 +5111,7 @@ encoder:
 琶	fifiqr
 菟	keth
 薌	kecx
-稷	lewtno
+稷	lowtno
 簣	kaiuqa
 笈	kail
 鱟	xpqi
@@ -5145,7 +5145,7 @@ encoder:
 媧	uahr
 并	af	aff
 苫	kewc
-楸	lalera
+楸	lalora
 檳	lapesensqa
 賾	wbqg
 迓	nahs
@@ -5174,7 +5174,7 @@ encoder:
 萄	kemadx
 薜	keaneewi
 囈	eekecmutoq
-嚦	eecnlelene
+嚦	eecnlolone
 崆	cipcge
 佽	aesomt
 銖	falb
@@ -5231,7 +5231,7 @@ encoder:
 黿	unqs
 髡	mnxtub
 擢	iijlja
-麴	lrnomalo
+麴	lrnomale
 厴	cneohotny'
 嘁	eeyz
 罅	dxtt?t
@@ -5267,7 +5267,7 @@ encoder:
 嵋	cihm
 佤	aegj
 鼾	hpyh
-鎩	faxnlkid
+鎩	faxnllid
 凊	onks
 猷	dftn
 閎	poiozh
@@ -5323,10 +5323,10 @@ encoder:
 蜓	qebdac
 嘵	eecu
 唚	eeigziie
-餼	daovlo
+餼	daovle
 褻	vacmut
 袞	vaes
-懍	hepwle
+懍	hepwlo
 褔	viwu
 蚩	nrqe
 櫱	kocqwila
@@ -5350,7 +5350,7 @@ encoder:
 裼	vidd
 孿	vlme
 嫠	lnitcnua
-琇	filemh
+琇	filomh
 荏	keaegd
 蘢	keqh
 杪	laxk
@@ -5457,7 +5457,7 @@ encoder:
 茼	kede
 齜	hzneaa
 圜	zavg
-秣	lelu
+秣	lolu
 僭	aemjmjre
 囟	hd	hdd
 鑭	fapolg
@@ -5482,15 +5482,15 @@ encoder:
 嘧	eepeyqci
 嵬	ciwt
 瞑	hazireieio
-穡	lepq
+穡	lopq
 氪	ovy?
 笳	kagaee
 魃	wttp
 佸	aeei
 艉	bitw
-穌	qile
+穌	qilo
 浯	oasdee
-溱	oagiirle
+溱	oagiirlo
 阡	ctal
 璩	fittti
 醮	dkjara
@@ -5504,7 +5504,7 @@ encoder:
 獐	tnwy
 旄	bchq
 広	pazh
-糝	losvzhaext
+糝	lesvzhaext
 泖	oafs
 溏	oa?l
 裉	vidm
@@ -5517,17 +5517,17 @@ encoder:
 蟶	qehteeac
 俎	aeaewm
 肫	hokf
-糍	lokdvovo
+糍	lekdvovo
 槊	ufoela
 涑	oali
 涪	oakg
 漉	oatk
 緄	veream
 彗	lslsig
-鞦	gwlera
+鞦	gwlora
 莔	kesszi
 躉	qfnn
-櫪	lacnlelene
+櫪	lacnlolone
 齔	hzaa
 屾	cici
 鶻	hvje
@@ -5541,7 +5541,7 @@ encoder:
 茁	kenc
 檄	larrboit
 竽	ka?i
-稗	ley,
+稗	loy,
 佺	aefg
 鍆	fapo
 鯢	qidsar
@@ -5560,12 +5560,12 @@ encoder:
 羆	vrtrra
 嶧	ciw,
 迤	naatqo
-秈	leci
+秈	loci
 簞	kags
 佞	aesoua
 鉿	fadi
 艫	bittcedt
-諉	ealeua
+諉	ealoua
 瘍	bwrk
 憒	heiuqa
 郯	rhcs
@@ -5601,7 +5601,7 @@ encoder:
 孀	uaotlaha
 縋	venacq
 珣	fimare
-璘	filonz
+璘	filenz
 菠	keoahb
 卣	wezazd
 嚶	eeqaqaua
@@ -5639,7 +5639,7 @@ encoder:
 哃	eede
 吽	eete
 徘	bejo
-粼	lonzoi
+粼	lenzoi
 烊	rata
 紆	ve?i
 紈	veut
@@ -5671,7 +5671,7 @@ encoder:
 鍖	faek
 鏍	faceve
 癜	bwanbsbsid
-沭	oalk
+沭	oall
 滓	oapewi
 娌	uacr
 繒	vedy
@@ -5713,7 +5713,7 @@ encoder:
 値	aehh
 俶	aekqie
 皚	rrb'
-錈	falfai
+錈	falcai
 遒	nadf
 畑	race
 衩	viiexe
@@ -5769,7 +5769,7 @@ encoder:
 刖	oefe
 獯	tnru
 觶	tlgs
-鰍	qilera
+鰍	qilora
 旒	bcmcoi
 忖	hein
 惆	heck
@@ -5823,7 +5823,7 @@ encoder:
 鶇	bnje
 耷	ueht
 曛	reru
-稹	lewd
+稹	lowd
 氤	ovzaue
 込	napk
 臆	hoenhe
@@ -5854,7 +5854,7 @@ encoder:
 曈	remd
 澩	xpoa
 餱	daascnyi
-粿	lolt
+粿	lelt
 渀	oang
 宄	peik
 隳	ctiogehoaehe
@@ -5909,7 +5909,7 @@ encoder:
 狎	tny'
 麾	kthq
 羝	taw.
-糲	locnqf
+糲	lecnqf
 憷	helhnp
 煋	rarekr
 燚	ssra
@@ -5941,7 +5941,7 @@ encoder:
 鍤	fadz
 鯁	qiiq
 鰱	qinaba
-粳	loiq
+粳	leiq
 遄	nakh
 裰	vii,
 鞴	gwyb
@@ -5950,7 +5950,7 @@ encoder:
 碲	cpky
 觜	neaatl
 跏	nngaee
-唎	eelefe
+唎	eelofe
 崚	ciny
 仵	aegi
 歙	dijlmt
@@ -5958,7 +5958,7 @@ encoder:
 諄	eapp
 竜	wiy'
 蠲	ohqd
-粞	lodr
+粞	ledr
 湢	oawu
 涳	oapcge
 蟊	ysqeqe
@@ -5970,7 +5970,7 @@ encoder:
 萵	kehr
 菪	kepecp
 棱	lany
-輳	baleir
+輳	baloir
 蛞	qeei
 笤	kafeee
 傀	aewt
@@ -5984,7 +5984,7 @@ encoder:
 埝	caduhe
 圯	camr
 栲	lampgq
-朮	lk	lkk
+朮	ll	lll
 榊	lawary
 砹	cpkexn
 図	zaonxn
@@ -5998,7 +5998,7 @@ encoder:
 漷	oappcs
 辶	na	naa
 禳	wavu
-鬻	yaloyafb
+鬻	yaleyafb
 綆	veiq
 彘	tyaayiaa
 殛	hfsg
@@ -6038,14 +6038,14 @@ encoder:
 怹	aeqohe
 鏑	fakyee
 瘛	bwfwhe
-巻	lfms
+巻	lcms
 懌	hew,
 瀞	oaksiswk
 漵	oapgit
 漈	oahoiewa
 滂	oabk
 繻	veothc
-糶	nclojlja
+糶	nclejlja
 嫘	uaceve
 橛	lacnufmt
 骺	hvev
@@ -6066,7 +6066,7 @@ encoder:
 郾	ztreuacs
 畋	ceit
 髀	hvy,
-穰	levu
+穰	lovu
 獗	tncnufmt
 謅	eamakomako
 癭	bwqaqaua
@@ -6111,7 +6111,7 @@ encoder:
 咐	eeaein
 蜚	joqe
 旯	reik
-嶙	cilonz
+嶙	cilenz
 甥	krcega
 篾	kahayeae
 皤	rrtvce
@@ -6142,7 +6142,7 @@ encoder:
 苾	keyq
 霑	otoawc
 蝽	qekk
-犧	tetaleyegq
+犧	tetaloyegq
 恂	hemare
 夬	ft	ftt
 翮	fbjl
@@ -6182,7 +6182,7 @@ encoder:
 罱	vr?s
 岵	ciet
 畬	pgce
-粢	somtlo
+粢	somtle
 庀	paaa
 湎	oahy
 鐾	aneewifa
@@ -6217,7 +6217,7 @@ encoder:
 惋	hepeooai
 湓	oafcdt
 褆	viro
-蓁	kegiirle
+蓁	kegiirlo
 萣	kepend
 柊	laob
 泅	oazaae
@@ -6227,15 +6227,15 @@ encoder:
 帯	vh	vhh
 酹	dkisin
 雩	ot?g
-靂	otcnlelene
+靂	otcnlolone
 兕	zbar
 帙	vnim
 簌	kalimt
-穂	levdhe
+穂	lovdhe
 僂	aeuh
 鄱	tvcecs
 獍	tnenar
-廩	papwle
+廩	papwlo
 瀠	oararazive
 韝	nxsc
 顙	svielahi
@@ -6247,7 +6247,7 @@ encoder:
 筇	kagecs
 賃	aegdqa
 鐙	fantdn
-脒	holo
+脒	hole
 炻	racp
 泔	oaeo
 専	vd	vdd
@@ -6260,7 +6260,7 @@ encoder:
 転	baoq
 弍	ytso
 蟯	qecu
-圏	zalfms
+圏	zalcms
 豊	fu	fuu
 衄	djiz
 儻	aepsrn
@@ -6273,7 +6273,7 @@ encoder:
 鷚	jlaextje
 丌	bs	bss
 掾	iityti
-萩	kelera
+萩	kelora
 崤	cixrho
 仃	aegt
 倗	aeqm
@@ -6282,8 +6282,8 @@ encoder:
 狷	tneeho
 肷	homt
 鯖	qiks
-麋	tklo
-逶	naleua
+麋	tkle
+逶	naloua
 辺	nafe
 縲	veceve
 絎	vebe
@@ -6326,7 +6326,7 @@ encoder:
 殫	hfgs
 螫	rmitqe
 騕	touu
-藶	kecnlelene
+藶	kecnlolone
 酩	dkooee
 砘	cpkf
 戢	eehtye
@@ -6359,7 +6359,7 @@ encoder:
 刎	frfe
 燔	ratvce
 洸	oart
-瀵	oalodoir
+瀵	oaledoir
 宬	peyc
 綪	veks
 玦	fift
@@ -6420,7 +6420,7 @@ encoder:
 垓	catg
 枸	lazk
 蝟	qeceho
-秫	lelk
+秫	loll
 笶	kayi
 餑	dasazime
 愆	beoahe
@@ -6457,7 +6457,7 @@ encoder:
 鴒	euje
 謳	eaztsvee
 痌	bwde
-愾	heovlo
+愾	heovle
 捯	iiynfe
 摭	iipasmra
 葜	kefwue
@@ -6476,12 +6476,12 @@ encoder:
 鬯	d.	d..
 鐠	faukre
 鯃	qisdee
-糅	loysla
+糅	leysla
 嫗	uaztsvee
 鬨	uqiv
 嶅	bhci
 騮	tofsce
-莠	kelemh
+莠	kelomh
 茳	keoage
 暁	rekoub
 偅	aebb
@@ -6515,7 +6515,7 @@ encoder:
 鐓	fappit
 凪	dlne
 颶	jsgm
-糀	lokead
+糀	lekead
 淰	oaduhe
 滃	oaesjl
 済	oalv
@@ -6535,7 +6535,7 @@ encoder:
 黠	rnfp
 迕	nagi
 観	jhhu
-稲	leisds
+稲	loisds
 俓	aevs
 鵯	y,je
 偓	aeanyn
@@ -6672,7 +6672,7 @@ encoder:
 廋	paryie
 鷓	pasmraje
 痾	bwcter
-糢	lokv
+糢	lekv
 惔	herh
 襘	vidg
 陘	ctvs
@@ -6684,13 +6684,13 @@ encoder:
 坌	fcca
 鯧	qiep
 恛	heor
-洣	oalo
+洣	oale
 邂	natlfete
 繢	veiuqa
 廾	ir	irr
 蓍	kempre
 榀	lasvee
-檁	lapwle
+檁	lapwlo
 榍	laanxoho
 磔	cpnzla
 嗏	eekw
@@ -6712,7 +6712,7 @@ encoder:
 杌	laub
 椥	layiee
 桴	laisme
-螓	qegiirle
+螓	qegiirlo
 跽	nnmshe
 筅	kanw
 逭	napecq
@@ -6761,7 +6761,7 @@ encoder:
 堍	cath
 埌	capx
 髑	hvqd
-穏	leisighe
+穏	loisighe
 僤	aegs
 仫	aexazh
 傯	aephhe
@@ -6787,7 +6787,7 @@ encoder:
 儚	aetuhamaoo
 傖	aepv
 偝	aeauho
-糴	pklojlja
+糴	pklejlja
 鐔	fadw
 肭	hopf
 狍	tnma
@@ -6806,7 +6806,7 @@ encoder:
 掟	iipend
 嚏	eesazicenp
 佻	aeog
-敉	loit
+敉	leit
 汸	oabo
 陬	cthtie
 驂	tosvzhaext
@@ -6842,7 +6842,7 @@ encoder:
 攖	iiqaqaua
 蝲	qelife
 蝂	qebvic
-囷	zale
+囷	zalo
 趼	nngg
 嘽	eegs
 簭	kageaoiree
@@ -6862,7 +6862,7 @@ encoder:
 胴	hode
 觚	tllw
 繯	vevg
-壢	cacnlelene
+壢	cacnlolone
 蒎	keoaox
 靉	otoqmq
 樋	lanadv
@@ -6892,7 +6892,7 @@ encoder:
 猙	tniswk
 鰈	qisula
 袱	viaetn
-遴	nalonz
+遴	nalenz
 纊	vepauv
 紼	veyu
 壚	cattcedt
@@ -7005,7 +7005,7 @@ encoder:
 邗	yhcs
 堙	cadrca
 抨	ii?n
-蝌	qeledp
+蝌	qelodp
 哘	eebe
 矓	haqh
 臾	iu	iuu
@@ -7019,22 +7019,22 @@ encoder:
 囮	zaad
 眄	haaj
 嶈	cibrhoin
-黐	lelcgx
+黐	lolfgx
 懞	hekevtti
 湡	oaqc
 淆	oaxrho
 沆	oauy
 袙	virr
 姤	uaev
-鬈	mnxtlfai
+鬈	mnxtlcai
 酗	dkxnzn
 篝	kasc
-穠	lezgqn
+穠	lozgqn
 伉	aeuy
 徜	beps
 貊	tbrv
 悃	hezala
-継	velozo
+継	velezo
 扞	iiyh
 蕻	kemniv
 蒶	kevefc
@@ -7070,11 +7070,11 @@ encoder:
 刳	ue?gfe
 犒	tepi
 剰	ljfe
-秕	leam
+秕	loam
 佌	aeneaa
 鯪	qiny
 癘	bwqf
-粄	loic
+粄	leic
 炘	ragn
 悢	hepx
 湅	oalg
@@ -7083,7 +7083,7 @@ encoder:
 薠	kerahi
 芓	keme
 喁	eeqc
-稞	lelt
+稞	lolt
 皞	rrrruesa
 鯗	taqi
 悒	hecs
@@ -7220,7 +7220,7 @@ encoder:
 垳	cabe
 搛	iiiy
 楯	lay.
-椈	lamalo
+椈	lamale
 尨	tnxt
 銚	faog
 痦	bwsdee
@@ -7317,7 +7317,7 @@ encoder:
 瘥	bwif
 怫	heyu
 褙	viauho
-隣	ctlonz
+隣	ctlenz
 郪	sewkuacs
 耋	mpyn
 珧	fiog
@@ -7356,7 +7356,7 @@ encoder:
 皵	ochb
 茇	ketp
 蕆	keyfqa
-棬	lalfai
+棬	lalcai
 簕	kagwga
 傒	aeisvoue
 獼	tnyavw
@@ -7464,7 +7464,7 @@ encoder:
 搦	iijc
 砢	cper
 籐	kabyoa
-穜	lemd
+穜	lomd
 倻	aehtcs
 癈	bwnt
 漭	oakotn
@@ -7509,7 +7509,7 @@ encoder:
 歯	hz	hzz
 嗕	eeqnin
 嚌	eelv
-秭	lekb
+秭	lokb
 畠	rrce
 夎	aocano
 猻	tnmexave
@@ -7526,7 +7526,7 @@ encoder:
 熲	aarahi
 癀	bwuv
 鏖	tkfa
-潲	oalexoho
+潲	oaloxoho
 殠	hfhntn
 堣	caqc
 玕	fiyh
@@ -7541,7 +7541,7 @@ encoder:
 崁	cicamt
 崡	ciyg
 牤	tewn
-黧	lexafern
+黧	loxafern
 僸	aelhwa
 劊	dgfe
 钀	fattfbtn
@@ -7555,9 +7555,9 @@ encoder:
 涴	oapeooai
 襁	viyaeeqe
 闅	pohait
-菤	kelfai
+菤	kelcai
 莙	kewkee
-腠	holeir
+腠	holoir
 腧	hobg
 鮪	qiio
 瘰	bwceve
@@ -7589,7 +7589,7 @@ encoder:
 縼	vebcnp
 蓂	kezireieio
 篥	kadrla
-簃	kalehk
+簃	kalohk
 儱	aeqh
 螽	obqeqe
 爝	rafj
@@ -7602,7 +7602,7 @@ encoder:
 暠	repi
 鼩	tdzk
 劓	hpfe
-燐	ralonz
+燐	ralenz
 涗	oaex
 漥	oapcch
 袴	viue?g
@@ -7668,7 +7668,7 @@ encoder:
 窅	pcha
 垗	caog
 瑅	firo
-藒	keleremawn
+藒	keloremawn
 蓧	keaeshitla
 薸	keoadrwa
 槙	lawd
@@ -7699,7 +7699,7 @@ encoder:
 忐	sihe
 嘓	eezayr
 晧	retc
-麇	tkle
+麇	tklo
 潗	oajala
 陜	ctuxae
 弐	yeso
@@ -7784,7 +7784,7 @@ encoder:
 脽	hoja
 獊	tnpv
 膷	hocx
-粺	loy,
+粺	ley,
 掎	iiueer
 靷	gwyash
 菉	kegv
@@ -7795,7 +7795,7 @@ encoder:
 褁	ltvi
 顕	regrhi
 鷡	usje
-甃	leragj
+甃	loragj
 篨	kactpg
 倷	aeuewa
 偍	aero
@@ -7804,7 +7804,7 @@ encoder:
 獴	tnkevtti
 鮇	qiln
 炰	mara
-糬	lovrri
+糬	levrri
 焮	ragnmt
 泙	oa?n
 挙	iwia
@@ -7834,7 +7834,7 @@ encoder:
 鰕	qiih
 怱	p.he
 讃	eaururqa
-癧	bwcnlelene
+癧	bwcnlolone
 瘐	bwiu
 渃	oakeioee
 浡	oasazime
@@ -7863,7 +7863,7 @@ encoder:
 躞	nnraearaie
 囃	eevalaja
 婓	joua
-偢	aelera
+偢	aelora
 鉶	faptfe
 钁	fahahajaie
 舺	biy'
@@ -7907,7 +7907,7 @@ encoder:
 朢	wboeac
 啕	eemadx
 賍	qapaca
-稃	leisme
+稃	loisme
 籣	kapolg
 脤	hoqn
 鮚	qifp
@@ -7918,7 +7918,7 @@ encoder:
 苳	keob
 樿	lags
 匰	ztgs
-蜊	qelefe
+蜊	qelofe
 帴	vnyl
 嵎	ciqc
 伀	aees
@@ -7943,7 +7943,7 @@ encoder:
 遰	navh
 爇	kecmutra
 韁	gwsrcece
-轔	balonz
+轔	balenz
 橪	lahotnra
 煕	wbmrra
 蝳	qelsmi
@@ -7952,12 +7952,12 @@ encoder:
 噍	eejara
 啍	eepp
 髃	hvqc
-盉	ledt
-猁	tnlefe
+盉	lodt
+猁	tnlofe
 匂	maaa
 痃	bwvk
 懆	hesveela
-惓	helfai
+惓	helcai
 渱	oaqege
 浛	oaduee
 祊	wabo
@@ -8000,7 +8000,7 @@ encoder:
 簩	kararaziga
 僛	aedomt
 俍	aepx
-龢	?vle
+龢	?vlo
 彴	bedh
 舢	bici
 臓	hokeyfwb
@@ -8018,11 +8018,11 @@ encoder:
 禋	wadrca
 祾	wany
 冘	ziar
-冞	zilo
+冞	zile
 臦	wbwb
 墬	cttytica
 縸	vekv
-鬏	mnxtlera
+鬏	mnxtlora
 椇	lagm
 蠑	qerarazila
 賕	qaql
@@ -8043,8 +8043,8 @@ encoder:
 巟	wnoi
 凘	ondogn
 麤	svtk
-纇	lovehi
-悧	helefe
+纇	levehi
+悧	helofe
 溘	oauddt
 寑	peaeigziie
 彠	iggeeeinjuie
@@ -8071,7 +8071,7 @@ encoder:
 斁	w,it
 盻	haxigq
 睒	harh
-秪	lew.
+秪	low.
 僈	aevthaie
 虒	xhtt
 膮	hocu
@@ -8107,7 +8107,7 @@ encoder:
 鵐	geaoje
 垙	cart
 墦	catvce
-瑧	figiirle
+瑧	figiirlo
 鞡	gwiiuo
 莅	keaeuo
 軺	bafeee
@@ -8163,7 +8163,7 @@ encoder:
 膬	hosvhq
 瘯	bwbcyi
 恅	hemp
-粋	loiksa
+粋	leiksa
 裀	vizaue
 襜	viascnxiea
 閦	poav
@@ -8190,7 +8190,7 @@ encoder:
 黰	rnwd
 崱	ciqafe
 鼽	hpik
-粍	lohq
+粍	lehq
 瑬	oamcoifh
 瀍	oapacrxica
 戽	prdp
@@ -8207,7 +8207,7 @@ encoder:
 毦	hthq
 擗	iianeewi
 蔕	kevh
-蔱	kexnlkid
+蔱	kexnllid
 棫	layr
 轤	battcedt
 柎	laaein
@@ -8220,7 +8220,7 @@ encoder:
 晥	repeun
 罶	vrfsce
 犝	temd
-秖	lew?
+秖	low?
 倴	aeng
 牮	aeytte
 僗	aeraraziga
@@ -8242,7 +8242,7 @@ encoder:
 琭	figv
 攉	iiotja
 萉	kehoai
-楱	laleir
+楱	laloir
 檟	ladrqa
 輶	badf
 啢	eesk
@@ -8296,7 +8296,7 @@ encoder:
 覅	uufr
 猋	svtn
 敊	kqit
-敹	hfloit
+敹	hfleit
 跐	nnneaa
 羉	ssvl
 崥	ciy,
@@ -8351,7 +8351,7 @@ encoder:
 遝	nahaoa
 眴	hamare
 筭	kafiir
-稂	lepx
+稂	lopx
 鮦	qide
 謚	eaoh
 殍	hfisme
@@ -8390,7 +8390,7 @@ encoder:
 誾	poea
 蝥	ysitqe
 貮	yeqa
-摋	iixnlkid
+摋	iixnllid
 葍	kewu
 遖	na?s
 靬	gwyh
@@ -8403,7 +8403,7 @@ encoder:
 蚿	qevk
 咮	eelb
 鶡	remawnje
-秏	lehq
+秏	lohq
 毪	hqzhte
 傉	aeqnin
 儽	aesvceve
@@ -8434,7 +8434,7 @@ encoder:
 踟	nnyiee
 岍	cigg
 劁	jarafe
-銤	falo
+銤	fale
 猰	tnfwue
 訌	eage
 濩	oajuie
@@ -8447,7 +8447,7 @@ encoder:
 蟥	qeuv
 晻	reuerg
 睆	hapeun
-穊	ledmmj
+穊	lodmmj
 鞗	aeshitgw
 侅	aetg
 貑	tbih
@@ -8457,7 +8457,7 @@ encoder:
 羮	tarasoue
 鄫	dycs
 懽	hejh
-糨	loyaeeqe
+糨	leyaeeqe
 燏	rayspfee
 袨	vivk
 毣	jlhq
@@ -8555,12 +8555,12 @@ encoder:
 嶲	cijaya
 敳	b'it
 嶰	citlfete
-瞵	halonz
+瞵	halenz
 矊	haverrvn
 牥	tebo
 嶨	xpci
 擧	hxia
-僽	aelerahe
+僽	aelorahe
 侂	aepakp
 魵	qifc
 邅	napwrd
@@ -8591,14 +8591,14 @@ encoder:
 莵	keth
 蔤	kepeyqci
 榼	lauddt
-醾	dkktlo
+醾	dkktle
 椌	lapcge
 牻	tetnxt
 酇	nwnwqacs
-穭	leqire
+穭	loqire
 侹	aebdac
 倧	aepewa
-粔	logc
+粔	legc
 炟	rard
 焠	rav.
 沇	oazhar
@@ -8690,7 +8690,7 @@ encoder:
 簻	kanahr
 簜	kaoark
 儜	aepehedtgt
-鏻	falonz
+鏻	falenz
 漶	oaquhe
 垾	careyh
 墽	carrboit
@@ -8711,14 +8711,14 @@ encoder:
 囅	gsap
 唅	eeduee
 畳	ceziwm
-秬	legc
-秡	letp
+秬	logc
+秡	lotp
 錞	fapp
 钃	fatwqd
 獪	tndg
-腃	holfai
+腃	holcai
 龒	qhwa
-糈	lonpho
+糈	lenpho
 惉	oawche
 澴	oavg
 禖	waeola
@@ -8732,7 +8732,7 @@ encoder:
 犄	teueer
 嬃	xthiua
 惏	helh
-潾	oalonz
+潾	oalenz
 阢	ctub
 耥	gups
 駉	toziee
@@ -8777,7 +8777,7 @@ encoder:
 蘂	kesvhela
 蔃	keyaeeqe
 椪	lauk
-厤	cnlele
+厤	cnlolo
 蟌	qephhe
 螗	qe?l
 幰	vnpelshahe
@@ -8810,7 +8810,7 @@ encoder:
 雿	otog
 蝓	qebg
 呍	eeoq
-踡	nnlfai
+踡	nnlcai
 甞	pseo
 晬	rev.
 罛	vrlw
@@ -8839,7 +8839,7 @@ encoder:
 曊	reyuqa
 倛	aedo
 腜	hoeola
-脎	hoxnlk
+脎	hoxnll
 雘	cvjuie
 惵	hesula
 愐	hehy
@@ -8872,7 +8872,7 @@ encoder:
 崒	civ.
 峛	cihffe
 牦	tehq
-稊	leym
+稊	loym
 伷	aeyd
 僔	aedfin
 錺	fakebo
@@ -8896,14 +8896,14 @@ encoder:
 頵	wkeehi
 阬	ctuy
 丱	kd	kdd
-緌	veleua
+緌	veloua
 綯	vemadx
 蓷	keiija
 杕	laue
 佖	aeyq
 迻	nahk
 訧	eaib
-桊	lfla
+桊	lcla
 怐	hezk
 沺	oace
 墣	cagrir
@@ -8911,7 +8911,7 @@ encoder:
 騵	toom
 揜	iidiir
 薗	kezavy
-蒩	kelewm
+蒩	kelowm
 棽	lhdu
 槪	ladmmj
 盬	wbxaeidt
@@ -8988,10 +8988,10 @@ encoder:
 慭	lrtnhe
 琈	fiisme
 珓	fiug
-驎	tolonz
+驎	tolenz
 挍	iiug
 鞄	gwma
-蔝	kehalo
+蔝	kehale
 柂	laatqo
 豲	tiom
 豗	ubti
@@ -9037,7 +9037,7 @@ encoder:
 黺	grvbfc
 牷	tefg
 臿	dz	dzz
-秺	lepekp
+秺	lopekp
 筳	kabdac
 毹	bghq
 鞶	biidgw
@@ -9084,12 +9084,12 @@ encoder:
 瓬	bogj
 犘	ktte
 癐	bwdg
-憟	hedrlo
+憟	hedrle
 忳	hekf
 熜	raphhe
 湋	oanx
 窫	pcfwue
-禷	walotnhi
+禷	waletnhi
 襶	viyvwq
 襡	viqd
 閊	poci
@@ -9113,7 +9113,7 @@ encoder:
 垺	caisme
 蠧	fnzicpqeqe
 玼	fineaa
-糵	kecqwilo
+糵	kecqwile
 醸	dkvu
 歅	drcamt
 柅	laanaa
@@ -9124,7 +9124,7 @@ encoder:
 嵃	ciuocnxt
 嶓	citvce
 巃	ciqh
-犂	lexafete
+犂	loxafete
 魋	wtja
 鐶	favg
 鋋	fabdxane
@@ -9145,7 +9145,7 @@ encoder:
 梠	laeh
 橚	laok
 犪	texihinemrno
-閷	xnlkpoae
+閷	xnllpoae
 鐕	famjmjre
 鐋	faoark
 夘	ooai
@@ -9162,7 +9162,7 @@ encoder:
 氀	uhhq
 氍	hahajahq
 眽	haox
-睠	halfai
+睠	halcai
 箒	kagb
 忥	ovhe
 侴	emizfe
@@ -9213,7 +9213,7 @@ encoder:
 獳	tnothc
 朘	oezharno
 鱣	qipwrd
-匊	malo
+匊	male
 廗	pavh
 忣	heil
 韣	nxqd
@@ -9224,7 +9224,7 @@ encoder:
 笴	kaer
 鋳	famb
 膍	hohdam
-糌	lonowere
+糌	lenowere
 縎	vehv
 塿	cauh
 耠	gudi
@@ -9271,7 +9271,7 @@ encoder:
 弃	mcir
 蒱	keiicf
 菼	kerh
-穄	lehoiewa
+穄	lohoiewa
 鑛	fapauv
 鰒	qinf
 涽	oaw?re
@@ -9293,7 +9293,7 @@ encoder:
 岧	cifeee
 蠈	qayxqe
 賵	qavtha
-箘	kazale
+箘	kazalo
 籔	kauhit
 兪	bg	bgg
 飣	dagt
@@ -9354,7 +9354,7 @@ encoder:
 篴	kanati
 鉋	fama
 胑	hoeexi
-腇	holeua
+腇	holoua
 訄	ikea
 迆	naqo
 刓	unfe
@@ -9378,7 +9378,7 @@ encoder:
 崿	cieeee?g
 睩	hagv
 筻	kaiq
-稙	lehh
+稙	lohh
 筩	kadv
 魆	wtyw
 侫	aewnua
@@ -9432,7 +9432,7 @@ encoder:
 狶	tnxrvn
 胐	honc
 鱨	qipseg
-麕	tkzale
+麕	tkzalo
 慒	hebp
 墯	heiogehoca
 嫈	raraziua
@@ -9483,7 +9483,7 @@ encoder:
 碪	cpek
 磥	cpceve
 籛	kafayl
-鶖	leraje
+鶖	loraje
 偖	aeri
 鉼	faaf
 詖	eahb
@@ -9504,7 +9504,7 @@ encoder:
 盷	haikso
 犅	tecy
 犏	teprws
-嵆	leibci
+嵆	loibci
 谺	olhs
 鑯	faaoyekx
 魶	qipf
@@ -9516,7 +9516,7 @@ encoder:
 焞	rapp
 澒	oagehi
 潖	oafifiqr
-浰	oalefe
+浰	oalofe
 瀺	oathth
 闤	povg
 翆	jliksa
@@ -9582,11 +9582,11 @@ encoder:
 鹸	d?ak
 胔	neaaho
 蚗	qeft
-踘	nnmalo
+踘	nnmale
 嗈	eeoics
 黚	rneo
 崏	ciw?re
-穣	levu
+穣	lovu
 傱	aebeaone
 膃	hozaaedt
 腨	hokh
@@ -9606,7 +9606,7 @@ encoder:
 垔	drca
 虖	tt?t
 睧	haw?re
-鉥	falk
+鉥	fall
 怗	hewc
 恀	hehk
 浿	oaqa
@@ -9632,7 +9632,7 @@ encoder:
 鰊	qilg
 褱	vahaoa
 麌	tkef
-籺	loow
+籺	leow
 浺	oahesn
 鴳	peuaje
 鷫	okje
@@ -9681,7 +9681,7 @@ encoder:
 饂	daredt
 狤	tnfp
 魣	qizu
-穈	ktle
+穈	ktlo
 罃	rarazidx
 憸	heak
 愼	hewd
@@ -9715,7 +9715,7 @@ encoder:
 晼	repeooai
 笝	kazaie
 衃	djki
-毇	dsloid
+毇	dsleid
 儑	aerevovora
 鶬	pvje
 鎞	fahdam
@@ -9764,8 +9764,8 @@ encoder:
 豃	olij
 癋	bwzmhe
 麃	tkra
-粻	lomn
-粃	loam
+粻	lemn
+粃	leam
 燀	rags
 悀	hedv
 汯	oaiozh
@@ -9796,7 +9796,7 @@ encoder:
 宧	pewb
 櫜	sesnzinoweeela
 坋	cafc
-埢	calfai
+埢	calcai
 鷇	?kjeid
 畺	srcece
 髽	mnxtaoca
@@ -9807,7 +9807,7 @@ encoder:
 騇	topy
 揳	iifwue
 鞳	gwkedi
-蔾	kelexafela
+蔾	keloxafela
 蓨	keaeshitho
 薝	keascnxiea
 芛	kewk
@@ -9830,7 +9830,7 @@ encoder:
 鼈	vbqs
 罿	vrmd
 睌	havq
-穟	lenaxiti
+穟	lonaxiti
 箯	kaaeiq
 躾	mmtaue
 魌	wtdo
@@ -9872,7 +9872,7 @@ encoder:
 拹	iisvga
 靱	gwfd
 苉	keztar
-薐	keleny
+薐	kelony
 蘤	kerrix
 檝	laeehtye
 欉	lagrhtie
@@ -9889,9 +9889,9 @@ encoder:
 齇	hpttwm
 猨	tni.
 猇	tntt
-粂	axlo
+粂	axle
 齌	lvra
-秶	somtle
+秶	somtlo
 廘	patk
 懁	hevg
 熯	rauw
@@ -9921,12 +9921,12 @@ encoder:
 摓	iinanols
 莝	keaoca
 薶	ketbcr
-蘱	kelotnhi
+蘱	keletnhi
 藋	kejlja
 輑	bawkee
 軷	batp
 柍	laup
-桼	lalc
+桼	lalf
 磌	cpwd
 磹	cpdw
 嫛	ztyiidua
@@ -9962,8 +9962,8 @@ encoder:
 茷	keaeye
 柧	lalw
 暰	rebeaone
-穬	lepauv
-餧	daleua
+穬	lopauv
+餧	daloua
 鎃	faoaox
 胻	hobe
 魛	qife
@@ -10076,7 +10076,7 @@ encoder:
 抌	iiziar
 撏	iiiggeeein
 蔏	kewg
-蘪	ketklo
+蘪	ketkle
 橑	larp
 輀	bahc
 雽	ot?t
@@ -10091,16 +10091,16 @@ encoder:
 嶊	ciiija
 岒	cidu
 巕	cikdcqwime
-嵙	ciledp
+嵙	cilodp
 犞	texauepi
 牰	teyd
-稰	lenpho
+稰	lonpho
 籯	kaqp
 侻	aeex
 谽	olduee
 猘	tngh
 腅	horh
-弮	lfya
+弮	lcya
 爚	ra?v
 窔	pcug
 褯	vipasmvn
@@ -10143,7 +10143,7 @@ encoder:
 瞁	hahatn
 郔	bdxanecs
 皭	rrfj
-鑁	faloznarno
+鑁	faleznarno
 狉	tnkise
 魠	qikp
 坒	amca
@@ -10181,7 +10181,7 @@ encoder:
 莚	kebdxane
 葅	keaeaewm
 蘠	kebrpq
-轃	bagiirle
+轃	bagiirlo
 輹	banf
 枍	laxigq
 霬	otwq
@@ -10190,7 +10190,7 @@ encoder:
 畇	ceikso
 峮	ciwkee
 甒	usgj
-犩	leuawtte
+犩	louawtte
 鼪	tdkr
 敜	duheit
 鈎	fazv
@@ -10202,7 +10202,7 @@ encoder:
 痎	bwtg
 忨	heun
 齹	ifhz
-糒	loyb
+糒	leyb
 爊	ratkra
 漹	oajx
 漰	oaciqm
@@ -10240,12 +10240,12 @@ encoder:
 曻	renz
 骭	hvyh
 濌	bboaeb
-稭	leamrr
+稭	loamrr
 簥	kaxauepi
 傿	aejx
 鼫	tdcp
 齉	hpbf
-忁	berencirlo
+忁	berencirle
 膞	hovd
 猯	tnkh
 腒	hoanet
@@ -10263,7 +10263,7 @@ encoder:
 呇	oaee
 氆	hqukre
 飋	jsfifiyq
-訹	ealk
+訹	eall
 漘	oaqnho
 皷	?ohb
 髳	mnxtys
@@ -10301,7 +10301,7 @@ encoder:
 癗	bwotce
 劘	ktjofe
 慺	heuh
-爔	rataleyegq
+爔	rataloyegq
 慞	hewy
 淢	oayr
 汃	oaxi
@@ -10321,7 +10321,7 @@ encoder:
 虙	ttyq
 踶	nnro
 噅	eeix
-覣	leuahu
+覣	louahu
 鱴	qituhayeae
 鱍	qint
 詅	eaeu
@@ -10340,11 +10340,11 @@ encoder:
 胾	yvho
 蕋	kesvne
 藘	ketthd
-蔨	kezalfai
+蔨	kezalcai
 薃	keoapi
 柣	laim
 梒	laduee
-怷	lkhe
+怷	llhe
 棳	lai,
 覤	tthu
 噳	eettef
@@ -10352,12 +10352,12 @@ encoder:
 噇	eemd
 晱	rerh
 鸅	w,je
-崣	cileua
-穱	lefj
+崣	ciloua
+穱	lofj
 魖	wtttcg
 匁	xafd
 歊	pimt
-籵	losa
+籵	lesa
 瀎	oatuhayeae
 橤	svhela
 韍	nxtp
@@ -10384,7 +10384,7 @@ encoder:
 欃	lathth
 霐	otoayazh
 梮	laanzeee
-磿	cnlelecp
+磿	cnlolocp
 礔	cpaneewi
 瑿	ztyiidfh
 蠎	qekeng
@@ -10446,7 +10446,7 @@ encoder:
 岉	cifr
 罏	dxttcedt
 犗	tepelsee
-穮	letkra
+穮	lotkra
 舑	eihl
 篹	kagmai
 帠	dsvn
@@ -10458,7 +10458,7 @@ encoder:
 欴	pxmt
 羢	tayx
 懱	hetuhayeae
-熂	raovlo
+熂	raovle
 爓	rapoasds
 洍	oawb
 鶷	pelseeje
@@ -10493,14 +10493,14 @@ encoder:
 暲	rewy
 幨	vnascnxiea
 瞏	havy
-穖	levovoyeae
-稌	lepg
+穖	lovovoyeae
+稌	lopg
 馞	eysazime
 簒	kagmxazh
 鸒	hxje
 獌	tnvthaie
 贕	qzqq
-粊	amlo
+粊	amle
 鰞	qijv
 譪	eakeremawn
 庉	pakf
@@ -10541,7 +10541,7 @@ encoder:
 羃	sskvvn
 崰	cioice
 眅	haic
-秮	lemv
+秮	lomv
 峊	cqci
 鼵	tdpctn
 鬿	wtgn
@@ -10590,7 +10590,7 @@ encoder:
 岪	ciyu
 骾	hviq
 矲	yivrtr
-穋	lejlaext
+穋	lojlaext
 鳰	pkje
 歈	bgmt
 艑	biprws
@@ -10599,7 +10599,7 @@ encoder:
 腏	hoi,
 爢	ktjora
 麖	tkpn
-粁	loal
+粁	leal
 慛	hecija
 燗	rapooe
 漋	oactnosekr
@@ -10618,7 +10618,7 @@ encoder:
 勩	suqaga
 臡	uwjaho
 酳	dkvoho
-樧	laxnlkid
+樧	laxnllid
 礧	cpsvce
 卼	ubascnai
 磍	cppelsee
@@ -10631,7 +10631,7 @@ encoder:
 喭	eeuocnxt
 酅	cijapfeecs
 缹	dxra
-鯬	lexafeqi
+鯬	loxafeqi
 鬾	wtkm
 臲	hnlaascnai
 欱	dimt
@@ -10647,7 +10647,7 @@ encoder:
 撋	iipofi
 蚇	qegf
 郘	ehcs
-蹸	nnlonz
+蹸	nnlenz
 覛	oxhu
 膢	houh
 歍	jvmt
@@ -10775,7 +10775,7 @@ encoder:
 嵲	cihnla
 崷	cidf
 矉	hapesensqa
-犐	teledp
+犐	telodp
 篎	kahaxk
 鵅	nkje
 鰜	qiiy
@@ -10809,7 +10809,7 @@ encoder:
 蠦	qettcedt
 齖	hzhs
 瞡	haurhu
-稑	lecm
+稑	locm
 傂	aexhtt
 偯	aevaee
 蠫	tbfeqeqe
@@ -10861,13 +10861,13 @@ encoder:
 懘	oavhhe
 湨	oahatn
 阸	ctprzr
-婘	ualfai
+婘	ualcai
 諅	doea
 梜	lauxae
 砅	cpoa
 硉	cpwo
 嵽	civh
-穨	lebsiuqa
+穨	lobsiuqa
 泧	oayw
 溾	oawt
 邧	uncs
@@ -10889,7 +10889,7 @@ encoder:
 嚪	eepoasds
 啒	eeannc
 峞	ciascnai
-秠	lekise
+秠	lokise
 轝	hxba
 鵀	aegdje
 酓	dudk
@@ -10901,7 +10901,7 @@ encoder:
 謪	eawg
 廅	pauddt
 羛	tayu
-粭	lodi
+粭	ledi
 熰	raztsvee
 焍	raym
 襒	vivb
@@ -10970,7 +10970,7 @@ encoder:
 鄐	vkcecs
 鶶	?lje
 廥	padg
-糂	loek
+糂	leek
 愃	hepesoor
 慅	heqv
 澽	oattti
@@ -11077,8 +11077,8 @@ encoder:
 筤	kapx
 簶	kawagv
 獂	tnom
-糎	locncr
-籾	lofd
+糎	lecncr
+籾	lefd
 謍	raraziea
 寠	peuh
 穾	pcxaue
@@ -11093,7 +11093,7 @@ encoder:
 踳	nnkk
 昤	reeu
 麁	astk
-絭	lfve
+絭	lcve
 懧	hepehedtgt
 邔	mscs
 攕	iiaoyekx
@@ -11111,12 +11111,12 @@ encoder:
 厬	cnrenoweee
 豜	tigg
 跲	nndi
-踒	nnleua
+踒	nnloua
 畖	celw
 冔	vtee?i
 矂	hasveela
 鴸	lbje
-穐	leqt
+穐	loqt
 籏	kabcdo
 鶂	dsarje
 甈	hnlagj
@@ -11145,7 +11145,7 @@ encoder:
 擶	iikanh
 韅	gwrevovora
 蔈	kedrwa
-蕛	keleym
+蕛	keloym
 毄	baeeid
 柹	lakb
 梌	lapg
@@ -11156,7 +11156,7 @@ encoder:
 骫	hvut
 睕	hapeooai
 篕	kauddt
-鵹	lexafeje
+鵹	loxafeje
 敿	xauepiit
 毨	hqnw
 簓	kackxt
@@ -11202,7 +11202,7 @@ encoder:
 醷	dkenhe
 檡	law,
 楺	laysla
-碅	cpzale
+碅	cpzalo
 韰	hfiekx
 蝺	qeqw
 螑	qehntn
@@ -11216,7 +11216,7 @@ encoder:
 獽	tnvu
 魧	qiuy
 譠	eapwrd
-韏	lfnx
+韏	lcnx
 煃	rauech
 煁	raek
 濣	oabldp
@@ -11301,13 +11301,13 @@ encoder:
 鸓	svceje
 毟	xkhq
 歂	khmt
-犈	telfai
+犈	telcai
 傽	aewy
 徿	beqh
 鷭	tvceje
 狋	tnwa
 肐	hoow
-鯏	qilefe
+鯏	qilofe
 鰝	qipi
 甋	kyeegj
 庴	paoc
@@ -11322,17 +11322,17 @@ encoder:
 嫷	uactiogeho
 縃	venpho
 玿	fifeee
-捼	iileua
+捼	iiloua
 挩	iiex
 砎	cpah
 齫	hzzala
-穧	lelv
+穧	lolv
 鸔	jerf
 鮹	qixoho
 渹	oamaea
 鳺	urje
 鼜	?okmqv
-趜	nimalo
+趜	nimale
 駤	toyn
 駽	toeeho
 薽	kedrcagj
@@ -11394,8 +11394,8 @@ encoder:
 艕	bibk
 鱏	qidw
 庬	patnxt
-癪	bwleqg
-翷	lonzjl
+癪	bwloqg
+翷	lenzjl
 煝	rahm
 澞	oattef
 襫	viuervrv
@@ -11420,8 +11420,8 @@ encoder:
 譻	qaqaea
 髐	hvcu
 髊	hvif
-稘	ledo
-秎	lefc
+稘	lodo
+秎	lofc
 鷑	kauoje
 錣	fai,
 狑	tneu
@@ -11462,20 +11462,20 @@ encoder:
 晇	reue?g
 睅	hareyh
 奰	svhaue
-穛	lejara
-稯	lexnznarno
+穛	lojara
+稯	loxnznarno
 餝	dakebo
 鏏	falslsig
 鵃	bije
 劖	ththfe
 鸗	qhje
 羠	taueya
-糷	lokepolg
+糷	lekepolg
 燖	raiggeeein
 焆	raeeho
 烑	raog
 惼	heprws
-糪	aneewilo
+糪	aneewile
 陭	ctueer
 繉	vehaog
 媆	uahcue
@@ -11499,7 +11499,7 @@ encoder:
 崺	ciboqo
 眝	hapegt
 篏	kaeomt
-秅	lekp
+秅	lokp
 簔	kavasoke
 篣	kabk
 鼮	tdbdac
@@ -11510,7 +11510,7 @@ encoder:
 鶢	i.je
 艛	biuh
 衁	wndj
-帣	lfvn
+帣	lcvn
 羜	tapegt
 瀴	oaqaqaua
 翐	jlim
@@ -11587,7 +11587,7 @@ encoder:
 厒	cndx
 蛚	qehffe
 辴	gsqn
-稒	lezaet
+稒	lozaet
 鼳	tdhatn
 齃	hpremawn
 貛	tbjh
@@ -11595,7 +11595,7 @@ encoder:
 痸	bwgh
 郱	afcs
 羵	takoqa
-麊	lotk
+麊	letk
 窙	pcmpme
 陎	ctlb
 嬎	uavqkr
@@ -11665,10 +11665,10 @@ encoder:
 紖	veyash
 麉	yhyhtk
 虣	yenett
-鬁	mnxtlefe
+鬁	mnxtlofe
 駾	toex
 騢	toih
-蘜	kegwmalo
+蘜	kegwmale
 蔖	kettwm
 藑	keaspchait
 蔒	kewkeera
@@ -11701,7 +11701,7 @@ encoder:
 攇	iipelshahe
 麶	lrnogx
 磪	cpcija
-蜠	qezale
+蜠	qezalo
 蜁	qeatnp
 馦	eyiy
 筡	kapg
@@ -11727,11 +11727,11 @@ encoder:
 蕵	keooda
 萒	kepuesar
 醗	dkntsoar
-蜲	qeleua
+蜲	qeloua
 蟤	qeag
 嘾	eedw
 踃	nnxoho
-稫	lewu
+稫	lowu
 觷	xptl
 鼥	tdtp
 鼤	tdui
@@ -11744,7 +11744,7 @@ encoder:
 炌	raah
 灗	oaqepwrd
 鶌	anncje
-橉	lalonz
+橉	lalenz
 飺	neaada
 鱁	qinati
 鰫	qipces
@@ -11803,7 +11803,7 @@ encoder:
 睼	haro
 嶟	cidfin
 眑	havoga
-揫	leraia
+揫	loraia
 筄	kaog
 僁	aetvhe
 貜	tbhahajaie
@@ -11815,7 +11815,7 @@ encoder:
 麜	tkdrla
 麔	tknoweee
 顅	prhohi
-裷	vilfai
+裷	vilcai
 鵋	msheje
 婟	uazaet
 茥	kech
@@ -11842,7 +11842,7 @@ encoder:
 屔	cganaa
 朡	hoxnznarno
 鷛	pawkcoje
-瀔	oa?kleid
+瀔	oa?kloid
 渳	oayaht
 覕	yqhu
 嬓	uarrboit
@@ -11883,13 +11883,13 @@ encoder:
 塺	ktca
 庱	pany
 懤	hemb
-糔	loqv
+糔	leqv
 煔	rhwc
 瀖	oaotja
 祒	wafeee
 蠿	vfqeqe
 隤	ctiuqa
-糱	kocqwilo
+糱	kocqwile
 玤	fils
 枦	lapr
 蜙	qelaes
@@ -11956,7 +11956,7 @@ encoder:
 顟	jlaexthi
 縜	vefm
 鴢	vogaje
-攗	iitklo
+攗	iitkle
 柫	layu
 踕	nnseigne
 嘳	eeiuqa
@@ -11978,15 +11978,15 @@ encoder:
 觓	tlzl
 鷾	enheje
 罋	pucxjadx
-觠	lftl
+觠	lctl
 襳	viaoyekx
 赶	niyh
 蜸	wbieqe
 饙	dakoqa
-鎎	faovlo
+鎎	faovle
 獛	tngrir
 謕	eaxhtt
-鞂	gwle
+鞂	gwlo
 藗	kenalimt
 鷣	dwje
 鷢	cnufmtje
@@ -12003,7 +12003,7 @@ encoder:
 膟	hovkxcsa
 烶	rabdac
 韟	nxrruesa
-瞇	hanalo
+瞇	hanale
 槃	biidla
 蓾	ked?
 藃	kepimt
@@ -12047,7 +12047,7 @@ encoder:
 曭	repsrn
 簢	kapoui
 艀	biisme
-瀩	oalebshi
+瀩	oalobshi
 祐	waioee
 馯	toyh
 騥	toysla
@@ -12072,7 +12072,7 @@ encoder:
 燅	cmrh
 騹	touw
 攌	iizavg
-菞	kelexafe
+菞	keloxafe
 橨	lakoqa
 榽	laisvoue
 骿	hvaf
@@ -12090,7 +12090,7 @@ encoder:
 焣	htiera
 驈	toyspfee
 蘳	keuvch
-蕱	kelexoho
+蕱	keloxoho
 楈	lanpho
 跠	nnueya
 暆	rebcqo
@@ -12114,8 +12114,8 @@ encoder:
 鵫	bxje
 岟	ciup
 犣	teh,td
-穙	legrir
-鵴	maloje
+穙	logrir
+鵴	maleje
 謒	eapv
 麙	tkykee
 毲	i,hq
@@ -12131,8 +12131,8 @@ encoder:
 簎	kaiioc
 謘	eaanwi
 袬	vamv
-糫	lovg
-籸	lojk
+糫	levg
+籸	lejk
 韕	nxpp
 縚	veisds
 鳿	fije
@@ -12152,7 +12152,7 @@ encoder:
 譣	eaak
 韲	lvkx
 鵧	afje
-甐	lonzgj
+甐	lenzgj
 裍	vizala
 緧	vedf
 蜵	qeof
@@ -12176,7 +12176,7 @@ encoder:
 凄	onsewkua
 疱	bwma
 遡	naufoe
-糇	loascnyi
+糇	leascnyi
 攳	kmiggeeein
 蘌	kebegineaiwa
 虃	keoaaoyekx
@@ -12208,7 +12208,7 @@ encoder:
 麧	lrnoow
 瞝	hagx
 犥	tetkra
-瓾	leuagj
+瓾	louagj
 觾	tljz
 羳	tatvce
 韗	nxikba
@@ -12226,7 +12226,7 @@ encoder:
 鶔	yslaje
 蔰	keprcs
 迺	nadr
-鶐	nalkje
+鶐	nallje
 蝆	qeshta
 蜭	qeasds
 賌	tgqa
@@ -12237,7 +12237,7 @@ encoder:
 郻	hazooics
 欨	zkmt
 覢	rhhu
-窲	pclodp
+窲	pcledp
 翇	jltp
 孈	uacijapfee
 鼰	tdqa
@@ -12258,7 +12258,7 @@ encoder:
 讂	eaaspchait
 轏	baansvme
 蛵	qevs
-齤	lfhz
+齤	lchz
 酟	dkwc
 嶩	cizgqn
 鱋	qittcg
@@ -12308,8 +12308,8 @@ encoder:
 﨑	ciuoer
 叙	pgie
 离	gx	gxx
-痲	bwlklk
-綉	velemh
+痲	bwllll
+綉	velomh
 虱	jkqe
 籥	ka?v
 繙	vetvce
@@ -12375,14 +12375,14 @@ encoder:
 吕	eh	ehh
 咤	eepekp
 罎	dxreotoq
-秆	leyh
+秆	loyh
 鼹	tdrepeua
 隽	jamh
 腭	hoeeee?g
 删	wsfe
 胶	houg
 鰌	qidf
-籼	loci
+籼	leci
 泞	oapegt
 姗	uaws
 耤	guoc
@@ -12402,7 +12402,7 @@ encoder:
 优	aeib
 犹	tnib
 肮	houy
-凑	onleir
+凑	onloir
 痒	bwta
 烛	raqe
 怜	heeu
@@ -12414,7 +12414,7 @@ encoder:
 篱	kagx
 胇	hoyu
 灯	ragt
-粧	lopaca
+粧	lepaca
 鑵	fajh
 媮	uabg
 舋	iwdeziwm
@@ -12457,7 +12457,7 @@ encoder:
 碶	cpfwue
 厢	cnlaha
 厠	cnqafe
-籴	pklo
+籴	pkle
 忧	heib
 伕	aeur
 禀	pwwa
@@ -12471,7 +12471,7 @@ encoder:
 鼇	bhqs
 嵒	sveeci
 餽	dawt
-粏	louc
+粏	leuc
 叠	svieziwm
 湣	oawhre
 俵	aevm
@@ -12479,7 +12479,7 @@ encoder:
 录	gv	gvv
 献	?stn
 园	zaun
-杀	xnlk
+杀	xnll
 卬	a,	a,,
 寻	igin
 邓	iecs
@@ -12567,7 +12567,7 @@ encoder:
 剉	aocafe
 鳤	qikapecq
 魞	qipk
-褎	vaisle
+褎	vaislo
 濹	oarnca
 婫	uaream
 絺	vexrvn
@@ -12581,7 +12581,7 @@ encoder:
 啗	eeasds
 昙	reoq
 崠	cibn
-积	leeexi
+积	loeexi
 敌	eiit
 侚	aemare
 鈇	faur
@@ -12590,18 +12590,18 @@ encoder:
 浬	oacr
 絶	vefeai
 鬶	urhufb
-壈	capwle
+壈	capwlo
 块	caft
 毮	iixkhq
 挘	iixkga
 薳	kenavy
-薭	keley,
+薭	keloy,
 桛	lasist
 橦	lamd
 鶍	ddje
 峂	ciob
 籡	kaiiak
-䅟	lezhuext
+䅟	lozhuext
 劄	kadife
 卽	dmai
 㑇	aeasig
@@ -12656,7 +12656,7 @@ encoder:
 軏	baub
 輗	badsar
 軨	baeu
-㰀	lalc
+㰀	lalf
 楙	laysla
 碕	cpueer
 囓	eefwnehz
@@ -12734,7 +12734,7 @@ encoder:
 见	hu	huu
 赔	qakg
 县	v,	v,,
-税	leex
+税	loex
 气	ov	ovv
 传	aevd
 顺	oihi
@@ -12779,11 +12779,11 @@ encoder:
 应	paxcse
 疗	bwmo
 废	pant
-类	loue
+类	leue
 炼	ralg
 总	eshe
 单	gs	gss
-粮	lopx
+粮	lepx
 数	uhit
 洒	oadr
 滤	oatthe
@@ -12818,7 +12818,7 @@ encoder:
 细	vece
 组	vewm
 统	vemcar
-断	lozogn
+断	lezogn
 编	veprws
 经	vevs
 顸	yhhi
@@ -13026,7 +13026,7 @@ encoder:
 赖	liasqa
 榇	lawila
 霁	otlv
-术	lk	lkk
+术	ll	lll
 酿	dkpx
 桩	lapaca
 榈	lapoeh
@@ -13101,7 +13101,7 @@ encoder:
 较	baug
 辙	bamchoit
 辘	batk
-辚	balonz
+辚	balenz
 辖	bapelsee
 轻	bavs
 辗	baap
@@ -13286,7 +13286,7 @@ encoder:
 丢	xaud
 筹	kamb
 箨	kaiiw,
-穑	lecaxior
+穑	locaxior
 迁	naal
 犊	teqq
 笼	kaqh
@@ -13300,13 +13300,13 @@ encoder:
 笕	kahu
 笔	kahq
 签	kaak
-秃	lebs
-頽	lebshi
-颓	lebshi
-称	levv
+秃	lobs
+頽	lobshi
+颓	lobshi
+称	lovv
 赞	nwnwqa
 选	nanw
-稳	leasighe
+稳	loasighe
 鹅	yoje
 辞	eiwi
 简	kapore
@@ -13316,7 +13316,7 @@ encoder:
 笃	kato
 笾	kanaga
 俩	aesk
-粤	pzlo?g
+粤	pzle?g
 侠	aeuekd
 伟	aenx
 伥	aemn
@@ -13362,8 +13362,8 @@ encoder:
 馍	dakv
 馓	dald
 饽	dasazime
-弑	xnlkytge
-刹	xnlkfe
+弑	xnllytge
+刹	xnllfe
 饶	dacu
 饯	dayl
 彻	befofe
@@ -13435,7 +13435,7 @@ encoder:
 铺	facf
 𬭊	falaca
 镭	faotce
-𬬸	falk
+𬬸	fall
 锛	fang
 钚	faki
 铕	faio
@@ -13487,8 +13487,8 @@ encoder:
 锺	fabb
 锸	fadz
 铣	fanw
-锹	falera
-锈	falemh
+锹	falora
+锈	falomh
 锻	facb
 锽	fafy
 钏	faoi
@@ -13499,7 +13499,7 @@ encoder:
 镌	fajamh
 铨	fafg
 𬬱	fagn
-铩	faxnlk
+铩	faxnll
 锉	faaoca
 钤	fadu
 铃	faeu
@@ -13654,9 +13654,9 @@ encoder:
 岛	jeci
 负	asqa
 觯	tlgs
-稣	qile
-颖	aalehi
-鳅	qilera
+稣	qilo
+颖	aalohi
+鳅	qilora
 鲧	qixave
 鱮	qihx
 鳇	qify
@@ -13676,7 +13676,7 @@ encoder:
 鲂	qibo
 鲜	qita
 鳟	qidfin
-鳞	qilonz
+鳞	qilenz
 鳝	qitm
 鲩	qipeun
 鳊	qiprws
@@ -13770,7 +13770,7 @@ encoder:
 诰	eatc
 诛	ealb
 颜	uocnxthi
-诱	ealemh
+诱	ealomh
 诲	eamg
 训	eaoi
 谁	eaja
@@ -13815,7 +13815,7 @@ encoder:
 谥	eaoh
 谫	eanhfe
 谈	earh
-谜	eanalo
+谜	eanale
 谦	eaiy
 𬣞	eapese
 諠	eapesoor
@@ -13902,7 +13902,7 @@ encoder:
 疖	bwai
 妆	brua
 兰	kdso
-鲞	lfqi
+鲞	lcqi
 誊	shirea
 怅	hemn
 鲝	taqi
@@ -13977,7 +13977,7 @@ encoder:
 溅	oaqayl
 𬇙	oaqa
 滗	oakahq
-渊	oaoilo
+渊	oaoile
 潋	oaakit
 沦	oawx
 潴	oatnri
@@ -14178,7 +14178,7 @@ encoder:
 缵	venwnwqa
 妫	uaix
 妈	uato
-绣	velemh
+绣	velomh
 缎	vecb
 𬘓	veoi
 维	veja
@@ -14212,7 +14212,7 @@ encoder:
 婵	uags
 缯	vedy
 缮	vetm
-继	velozo
+继	velezo
 纻	vepese
 综	vepewa
 绽	vepend
@@ -14306,7 +14306,7 @@ encoder:
 骜	bhto
 䴖	ksje
 麦	lsno
-麹	lsnomalo
+麹	lsnomale
 䂮	fwcp
 㛃	fwua
 琐	fixoqa
@@ -14489,7 +14489,7 @@ encoder:
 碜	cpzhuext
 赜	wbqg
 鸫	bnje
-辏	baleir
+辏	baloir
 轲	baer
 轱	baet
 轪	baue
@@ -14560,7 +14560,7 @@ encoder:
 唝	eegeqa
 嗫	eehtieie
 圞	zavlla
-囌	eekeqile
+囌	eekeqilo
 唠	eekeziga
 呖	eecnga
 哓	eecu
@@ -14666,12 +14666,12 @@ encoder:
 酂	nwnwqacs
 颋	bdachi
 箦	kaqg
-稆	leeh
-秽	lecioo
+稆	loeh
+秽	locioo
 籁	kaliasqa
-鹙	leraje
-秾	lezivi
-𥝱	lezu
+鹙	loraje
+秾	lozivi
+𥝱	lozu
 岙	xaueci
 氇	hqqire
 鸹	eije
@@ -14685,7 +14685,7 @@ encoder:
 筚	kagz
 筝	kaaswk
 箪	kags
-簖	kalozogn
+簖	kalezogn
 氩	ovzm
 氲	ovredt
 俨	aesegrxa
@@ -14827,8 +14827,8 @@ encoder:
 镛	fapawkco
 𨱔	fadfin
 镒	faoh
-𬭸	falonz
-锩	falfai
+𬭸	falenz
+锩	falcai
 镃	fakdvovo
 觅	ishu
 𬭛	faoahb
@@ -14863,7 +14863,7 @@ encoder:
 飏	jsrk
 腼	hohy
 颾	jsqv
-䐃	hozale
+䐃	hozalo
 狮	tnfesevn
 猪	tnrixe
 猃	tnak
@@ -14964,7 +14964,7 @@ encoder:
 诈	eago
 诜	eanw
 讫	eaow
-诿	ealeua
+诿	ealoua
 谢	eammin
 谀	eaiu
 讹	eaad
@@ -15055,10 +15055,10 @@ encoder:
 冁	gsap
 郸	gscs
 䎖	dyjl
-粝	locnaw
-粪	loiv
-糁	lozhuext
-𥻗	lolp
+粝	lecnaw
+粪	leiv
+糁	lezhuext
+𥻗	lelp
 惬	heztuekd
 愦	heiuqa
 愠	heredt
@@ -15153,7 +15153,7 @@ encoder:
 𬩽	igincs
 彟	iginjuie
 鹔	okje
-彞	igloveir
+彞	igleveir
 鷴	polaje
 閍	pobo
 骠	todrwa
@@ -15185,7 +15185,7 @@ encoder:
 骛	ysitto
 双	ieie
 𫠊	tovk
-𬴊	tolonz
+𬴊	tolenz
 骙	tontul
 𫘝	toft
 𫘧	togv
@@ -15219,7 +15219,7 @@ encoder:
 纮	veiozh
 绒	veyx
 辔	vebaveee
-粜	nclo
+粜	ncle
 䢺	nccs
 缲	vesveela
 缱	venaiucq
@@ -15272,7 +15272,7 @@ encoder:
 繸	venaxiti
 缢	veoh
 缣	veiy
-绻	velfai
+绻	velcai
 绨	veym
 缕	veuh
 𬘫	vepeun
@@ -15304,7 +15304,7 @@ encoder:
 𠴐	eeheiz
 𱽐	kebsso
 㨳	iipeueer
-𥴢	kaleja
+𥴢	kaloja
 𠿁	eedomt
 𡔔	cakepolg
 𦄇	veoareca
@@ -15405,11 +15405,11 @@ encoder:
 𢭝	iifdhe
 𤸒	bwqc
 𪉽	d?vthaie
-𥢃	lepezedtgt
+𥢃	lopezedtgt
 𠼲	eecaja
 𣊌	recaja
 𧅫	kexphu
-𬖗	louaie
+𬖗	leuaie
 憦	heraraziga
 𠰀	eeaeya
 𡌣	cassfo
@@ -15438,7 +15438,7 @@ encoder:
 𫌒	vivemcar
 𫡍	yijaqu
 𬁑	retnri
-𡁹	eeealemh
+𡁹	eeealomh
 𪹟	raoiqa
 𨐮	wiketg
 𦵠	keaexave
@@ -15448,7 +15448,7 @@ encoder:
 𡠣	uadmmj
 𧹪	rmwx
 㗢	eebbga
-𫱤	leigwnua
+𫱤	loigwnua
 𡽾	ciwp
 𦩰	bibb
 𱐲	iswkga
@@ -15468,11 +15468,11 @@ encoder:
 𬔗	stuo
 𤭷	gjbg
 𬡰	virefeeera
-𡗅	hknalo
+𡗅	hknale
 䇄	uoow
 𠊛	qyae
 𢲧	iiketg
-𥺑	loigziie
+𥺑	leigziie
 𬺚	wiy'ks
 𦫘	asaint
 䇪	kayn
@@ -15500,7 +15500,7 @@ encoder:
 𫼎	prhegi
 𢋬	palacija
 𧃽	kepaaejahe
-𩇆	otcepwle
+𩇆	otcepwlo
 𧱺	tiaeueer
 芌	ke?g
 𫬕	eelatnri
@@ -15511,17 +15511,17 @@ encoder:
 𡥌	mere
 𩿠	jeyw
 䨙	otoagd
-𨄼	nnlehk
+𨄼	nnlohk
 𠸾	eehoxanr
 𧸝	qqff
 𫵥	anaffeee
 𧶄	qaiswk
 㩔	iianbsbsid
-𥹙	lofeee
+𥹙	lefeee
 𬪽	bbku
 𧈣	qemh
 𥸄	kaeamjmjre
-𦢵	hopapwle
+𦢵	hopapwlo
 𣎢	oerl
 𬮫	poseirgi
 𠺩	eeoamcoi
@@ -15538,9 +15538,9 @@ encoder:
 𥳄	kayy
 𡝕	uaqrsr
 𠝖	ocfe
-穉	letwte
+穉	lotwte
 𡳝	twv.
-𥺊	lotc
+𥺊	letc
 𤎞	raoipfbsii
 𣙭	lakafeee
 𪉴	d?eola
@@ -15551,13 +15551,13 @@ encoder:
 𤜠	tnmh
 𡘯	uieeue
 𡃼	eelajara
-稡	lev.
+稡	lov.
 𧝩	vibey.
 𧛉	valait
 𩷉	qiux
 𫧭	blsveela
 蛒	qenk
-𡅯	eeleisgeighe
+𡅯	eeloisgeighe
 𣎦	oerevu
 𥦝	pclh
 𥏿	yipoee
@@ -15590,7 +15590,7 @@ encoder:
 𩯁	mnxtuh
 𫙛	qigu
 𤇪	raaext
-𨖩	nalfha
+𨖩	nalcha
 𩹮	qieola
 汓	oame
 𪟕	kadofe
@@ -15601,7 +15601,7 @@ encoder:
 𨁫	nncr
 鱩	qiotce
 𫯏	ueyaoowe
-𥠮	le?s
+𥠮	lo?s
 𨅺	nnij
 𠒥	rtpala
 𡃗	eelakv
@@ -15618,7 +15618,7 @@ encoder:
 𥖺	cphbtaue
 𫅜	eutm
 趶	nn?i
-𠃯	lemhzr
+𠃯	lomhzr
 𤁔	oawtdp
 䱕	qimg
 𣹕	oabewo
@@ -15628,7 +15628,7 @@ encoder:
 𧹦	rmhu
 𫺦	fcheeo
 𪮚	cyfeia
-𦷬	keleyq
+𦷬	keloyq
 𧊊	qeco
 𤠲	tnb'
 𥳐	kaposeir
@@ -15672,7 +15672,7 @@ encoder:
 𦟎	ifho
 𫁷	kaieie
 𠹯	eectamca
-𪄅	xnlkidje
+𪄅	xnllidje
 𤬸	gjkr
 𬤻	timh
 𫃹	venaog
@@ -15692,7 +15692,7 @@ encoder:
 搮	iidrla
 𩯹	mnxtsvcp
 𬝉	kei,
-𡚡	keqileue
+𡚡	keqiloue
 𠽚	erbb
 𪇍	jenahr
 𧕭	qekewp
@@ -15726,7 +15726,7 @@ encoder:
 𦄌	vecmut
 𧃌	kennoaeb
 𠺮	eereip
-𦝹	hopoxnlk
+𦝹	hopoxnll
 𫁜	pctncpasas
 𣴜	oaiikp
 𨆣	nnqf
@@ -15758,7 +15758,7 @@ encoder:
 𦗞	htpeueer
 𥿥	veaefn
 襊	vivthtie
-𥣑	lekebb
+𥣑	lokebb
 𣱽	oamh
 𧛈	viwx
 𠶐	eenaa,
@@ -15829,7 +15829,7 @@ encoder:
 𫙂	mnxtuh
 𫷍	rrvnanaa
 𦟷	hocakg
-𠠍	lcfe
+𠠍	lffe
 𨆠	nnkentul
 𬚶	hors
 𩸶	qicicp
@@ -15838,7 +15838,7 @@ encoder:
 𢶼	iiciwt
 㽳	bw?i
 𫧜	ztsveecaqo
-𥠬	leleir
+𥠬	loloir
 𠰌	eelu
 𪅭	aeshithoje
 𡌿	capn
@@ -15869,7 +15869,7 @@ encoder:
 𦡠	fiirhj
 𤍉	raciea
 𥈹	hapchs
-𧔾	qelebshi
+𧔾	qelobshi
 𠽎	eeoacnch
 𡎢	aocaoowe
 𡢽	uaotce
@@ -15891,7 +15891,7 @@ encoder:
 𬈺	oajohe
 𫸶	yahlcs
 𨆹	nnwili
-𥼖	lomgit
+𥼖	lemgit
 𦤱	hntnwbieve
 𫎄	dnpezedtsh
 𫵢	zgannc
@@ -15922,10 +15922,10 @@ encoder:
 𨲅	mnfdhe
 撍	iimjmjre
 𬚂	taizqayl
-𥵾	kalebb
+𥵾	kalobb
 𢗷	heoa
 𤞪	tneh
-𫰅	keqileue
+𫰅	keqiloue
 𱢽	pewiy'wnoeac
 𡀥	eekerrqr
 𫆲	hokesazime
@@ -15935,8 +15935,8 @@ encoder:
 𥅦	hagu
 𪸘	raud
 𡌀	cahwfe
-𢆭	h,tdll
-𥢬	leix
+𢆭	h,tdlk
+𥢬	loix
 𦟟	hokt
 𢚲	hemsit
 𠲞	eeiige
@@ -15960,12 +15960,12 @@ encoder:
 𪇨	jekeoacf
 𠿚	eekesula
 𪝜	aecqsevn
-𪪈	johell
+𪪈	johelk
 𦝂	horrdh
 𢺜	iikajlja
 𬳜	eyhf
 𦄹	veiibx
-𥹸	losazime
+𥹸	lesazime
 𨆒	nnoajasa
 𩂕	otyu
 𪴻	kindfeee
@@ -16017,7 +16017,7 @@ encoder:
 𩜪	dauewa
 𪷰	oaenfeee
 𤵶	bwweya
-𫦨	loga
+𫦨	lega
 𩨜	hvqr
 𤑸	rawbatxehu
 𬏽	bwqb
@@ -16043,7 +16043,7 @@ encoder:
 𤉖	raba
 𧛆	vioaeb
 𥈲	haasighe
-𥻼	lojv
+𥻼	lejv
 𧃵	keetntdn
 𨃓	nnkw
 𦟐	hoto
@@ -16062,7 +16062,7 @@ encoder:
 𨭍	fajohe
 𦼔	kerp
 笀	kawn
-𠸫	eeleir
+𠸫	eeloir
 𢅧	vnverrvn
 𤘓	hspehedtgt
 咹	eepeua
@@ -16084,7 +16084,7 @@ encoder:
 揌	iihd
 𫧧	nabadb
 𫋟	qewbiedt
-𥺒	loydgq
+𥺒	leydgq
 𡀢	eecipi
 𠶠	eeoamv
 𢰺	iiaswmxi
@@ -16109,7 +16109,7 @@ encoder:
 𫧟	ffmw
 𠝗	feherd
 𪣽	iecasazime
-𢆘	llmt
+𢆘	lkmt
 𨅇	eev.nn
 𪵸	oacaqo
 𣛯	laoamtdt
@@ -16126,7 +16126,7 @@ encoder:
 𱏃	aepxoe
 𣷭	oabehb
 𪧱	opfp
-𥺔	eemtlo
+𥺔	eemtle
 𬩉	naliyu
 𤙮	term
 𫆝	hopokn
@@ -16147,7 +16147,7 @@ encoder:
 𫷇	pznv
 𥬨	kacg
 𢈖	pasf
-𤋷	raleir
+𤋷	raloir
 𬎷	sssazokr
 釯	fawn
 𪣮	caoaanaa
@@ -16165,7 +16165,7 @@ encoder:
 𥆁	hahffe
 樳	laiggeeein
 鴼	jenk
-𥽍	lolhwa
+𥽍	lelhwa
 汿	oazu
 𦎍	taea
 𫲴	mekepolg
@@ -16179,7 +16179,7 @@ encoder:
 𦲼	keuacp
 𨥿	fagegq
 𣼍	oaciwx
-𬨳	nalkvoze
+𬨳	nallvoze
 𨄸	nnreiign
 𫪄	eesoieca
 繮	vesrcece
@@ -16234,13 +16234,13 @@ encoder:
 𩫛	piv.
 𫥖	oneuoowe
 𫈺	kelatg
-𢈱	palefe
+𢈱	palofe
 𥏋	nwyi
 𪨃	xoiiv.
 𧟀	vigsye
 䋦	vemg
 劸	chga
-𢹉	iilemhhi
+𢹉	iilomhhi
 𦼜	kenivv
 𱕔	eeztkeioeehe
 𡏤	canauf
@@ -16253,7 +16253,7 @@ encoder:
 𬩀	nakieh
 𫪎	eeheft
 𢶟	iaciwt
-𣗌	lanalo
+𣗌	lanale
 𡭉	ffmmin
 𪣰	casssazo
 𢢋	heciuocnxt
@@ -16308,7 +16308,7 @@ encoder:
 𪪄	?nfdhe
 𤊢	raqy
 𪱁	ddcr
-𢀱	gcqile
+𢀱	gcqilo
 𫫥	eeoapewa
 𫮦	cajohe
 𡼹	cilany
@@ -16362,14 +16362,14 @@ encoder:
 𡓠	cafaoc
 𨁦	nnfiir
 㷝	rapctn
-𨯸	falebshi
+𨯸	falobshi
 㳶	oaismezo
-𬗀	logtwchi
+𬗀	legtwchi
 𦄣	vevaes
-𦮴	kell
+𦮴	kelk
 𧄈	kemvrp
 𢯦	iilr
-𨨠	famalo
+𨨠	famale
 𠟲	pztv?gfe
 𫤾	onzr
 𢠿	heix
@@ -16392,7 +16392,7 @@ encoder:
 𠶦	eepayd
 𡂮	eeguqc
 𢴿	iirl
-𬖾	lohbhi
+𬖾	lehbhi
 𬈿	oapezedtgt
 𤼕	bwhtenye
 𢀨	gcpxcs
@@ -16406,7 +16406,7 @@ encoder:
 𡂂	eeeasdee
 莯	keoala
 檊	lablyh
-𥡗	leto
+𥡗	loto
 𪫦	heioge
 𫶺	kounascnai
 𦷮	kehesdee
@@ -16415,10 +16415,10 @@ encoder:
 銙	faue?g
 𨅄	nnbamt
 𩆴	otttcedt
-𬈎	oaledp
+𬈎	oalodp
 𭉆	eehedm
 𠶋	eekeah
-𫃒	lokeek
+𫃒	lekeek
 𨆿	nnponk
 𫯙	hkuocniy
 𣵴	oaeedu
@@ -16449,7 +16449,7 @@ encoder:
 𡓂	cantdncs
 𢩽	iimw
 𢢁	heansvme
-𫃼	velodp
+𫃼	veledp
 㨔	iiykee
 𤉗	rampme
 𤶽	bwsazime
@@ -16471,7 +16471,7 @@ encoder:
 𡙧	ueyakewn
 𨄻	nnyy
 𫎚	qbku
-𣄬	bkcnlelene
+𣄬	bkcnlolone
 𡀬	eecpv.
 𢠥	heblzr
 𢥈	hettcedt
@@ -16552,14 +16552,14 @@ encoder:
 㮧	lajv
 𬖉	kawiy'wnoeac
 𧋍	qeiign
-𥽵	lovecu
+𥽵	levecu
 䐠	hokewnoi
 𠁹	snhx
 𣫷	mgff
 𥉮	haufoe
 𫹰	hepo
 𠅜	puaehffe
-𥞵	leuxae
+𥞵	louxae
 𤮄	gjfb
 𨄽	nnctasds
 𥭵	kahlcs
@@ -16602,7 +16602,7 @@ encoder:
 𣄥	bkjaie
 𣔤	laaewv
 𠖤	ziunjohe
-𥢅	lezhwl
+𥢅	lozhwl
 𤀞	oakeri
 𡏧	caaekg
 耚	guhb
@@ -16622,7 +16622,7 @@ encoder:
 𧀞	keltwv
 𪅴	zmheje
 㦡	he?e
-𥹯	logu
+𥹯	legu
 𧫼	eakt
 𡌡	caym
 𬒊	cpdg
@@ -16646,14 +16646,14 @@ encoder:
 𣐄	lasn
 𢟹	heqnin
 𧰦	zrti
-𫑑	nahrll
+𫑑	nahrlk
 㨴	iiblzr
 𢢊	hectxiti
 𢷃	iiponv
 𥱴	kaiicf
 𥸍	kapogs
 𡙵	uehadm
-𥺐	loeegn
+𥺐	leeegn
 𬑉	luha
 𤢇	tnkawo
 𫔹	ponvredt
@@ -16681,7 +16681,7 @@ encoder:
 𤔾	kevttiis
 𫘑	totaue
 𨃽	nnqnin
-𥼲	loij
+𥼲	leij
 𠵚	eecicnyh
 𢅆	vnkereoe
 𥗜	cpgsye
@@ -16702,7 +16702,7 @@ encoder:
 㦉	hefnzidn
 𬏩	bwxkga
 𣞪	larnca
-𪥀	papwlehk
+𪥀	papwlohk
 𣻀	oavepf
 𤹓	bwwkeecs
 𩢦	toob
@@ -16711,7 +16711,7 @@ encoder:
 𠊜	aeuacp
 𪝅	aelait
 𢵹	iibwmg
-𪮞	iileim
+𪮞	iiloim
 𤺳	bwtwte
 𬙽	tmeu
 𫑱	pxcsrl
@@ -16721,7 +16721,7 @@ encoder:
 𱑮	vicfud
 㖸	eettis
 𨒺	nart
-𣟩	lalebshi
+𣟩	lalobshi
 𫳹	peyqciub
 𡝔	udgaua
 𬃪	lauoer
@@ -16731,9 +16731,9 @@ encoder:
 𡳪	twcaja
 𪓇	rnwdhi
 𩇍	ottoceve
-𫬪	uieelonz
-䗲	qelonz
-𡓔	capapwle
+𫬪	uieelenz
+䗲	qelenz
+𡓔	capapwlo
 𫃵	veuh
 𫢠	aekean
 𢳁	pajoia
@@ -16766,7 +16766,7 @@ encoder:
 𪲇	lazg
 𤻽	bwhz
 𬊬	rawcra
-𥟼	lekeki
+𥟼	lokeki
 姂	uaxanr
 抷	iikise
 𨀎	nnuo
@@ -16778,7 +16778,7 @@ encoder:
 𬲂	bssobg
 𤬀	lwpg
 𡃒	eeiigrir
-𫀵	lepeaq
+𫀵	lopeaq
 𢲱	iasc
 挕	iiht
 𫔬	awpo
@@ -16797,7 +16797,7 @@ encoder:
 𫹄	hbig
 𬩛	uiinnati
 𩷳	qitw
-𤃡	oaaalehi
+𤃡	oaaalohi
 𫕲	otnabg
 𤷵	bwcahb
 𦞢	hozati
@@ -16844,7 +16844,7 @@ encoder:
 𫘴	hvanyn
 𩠱	hgnacq
 𧀜	keraisds
-𥢂	lekt
+𥢂	lokt
 𢳞	iihthl
 𬓓	wazoladm
 𠀴	ncst
@@ -16852,7 +16852,7 @@ encoder:
 𣦍	pewmnd
 𩐛	engj
 𠲦	eeyx
-𥽩	lonatwte
+𥽩	lenatwte
 𡋃	cagu
 𣞄	ludg
 𠧍	othcdb
@@ -16868,18 +16868,18 @@ encoder:
 𧍉	qepaw.
 𠋥	aehm
 𠶄	eemeer
-䅘	lelr
+䅘	lolr
 𬎳	krla
 𥐐	yidnvaes
 𨁰	nneemt
 𠾼	eevefeai
 𤑯	raakfe
 𠿒	eeremawnmt
-𠦿	levvdb
+𠦿	lovvdb
 𨗵	naovcata
 䃣	cpix
 㤝	hemcar
-粡	lode
+粡	lede
 𬢞	eaku
 𫵛	dqin
 𡓎	cabenx
@@ -16889,7 +16889,7 @@ encoder:
 𨁨	nntnfi
 𡛔	uaaq
 𠄦	soil
-𨇷	nnleuawt
+𨇷	nnlouawt
 𥫟	kams
 䘆	qepelshahe
 𬹷	hzpe?i
@@ -16944,7 +16944,7 @@ encoder:
 𠸗	vifeet
 𠺶	eevepf
 𪧡	hhpein
-𠫏	cnlelenev.
+𠫏	cnlolonev.
 𥓹	cpirim
 𥊙	hahdxino
 𡑩	cajeva
@@ -16980,7 +16980,7 @@ encoder:
 𩸱	qifa
 𨼋	ctttcg
 𬂆	pxoeku
-𠺽	eexnlkid
+𠺽	eexnllid
 𬃈	laxrit
 𠱋	eeyd
 𢹧	iidkwt
@@ -17016,7 +17016,7 @@ encoder:
 𩆬	otgrvtti
 𠶞	eehekr
 𡅠	eeveqs
-𥺓	loeh
+𥺓	leeh
 妸	uaer
 𨅸	nnkaip
 𠯼	eeaegt
@@ -17082,7 +17082,7 @@ encoder:
 𥿤	vecg
 𫷝	?naeks
 啨	eeks
-𬨿	nalooq
+𬨿	naleoq
 𤾱	rrpehedtgt
 𬄯	ladocp
 𤇦	rayf
@@ -17092,7 +17092,7 @@ encoder:
 𥖑	twcphb
 菷	kegb
 𡓅	cakectduoq
-𥹞	lorgxa
+𥹞	lergxa
 鐱	faak
 𤶻	bwhu
 𡎠	camhiedt
@@ -17203,12 +17203,12 @@ encoder:
 𦠱	hokaaeye
 𩍓	gwpucxja
 𡻖	cifm
-唩	eeleua
+唩	eeloua
 𫦘	asssarnofe
 𢗖	hegd
 䋖	vewo
 𢙫	hezaue
-𥻙	lotaue
+𥻙	letaue
 𫲬	mhmeri
 𥋼	hajd
 𥙒	wazoud
@@ -17239,13 +17239,13 @@ encoder:
 𥛭	wazojaie
 𧙼	vicnne
 𣑺	laqe
-𥼕	lokauo
+𥼕	lekauo
 𡡅	uaje
 㳝	oaaegd
 𡅩	eefuasai
 𢞂	hefcdt
 𬨟	nafc
-𥽇	loykeehe
+𥽇	leykeehe
 栣	laaegd
 𩅛	otnanols
 𧁹	pabakeet
@@ -17275,9 +17275,9 @@ encoder:
 𪟚	ooeega
 𣛱	lapcasds
 𨎆	makomakoba
-𠿈	eelerahe
+𠿈	eelorahe
 𠥈	ztcamt
-𫉱	kelopx
+𫉱	kelepx
 𢭭	iiraca
 𢭂	iipete
 𥿡	veanaa
@@ -17290,13 +17290,13 @@ encoder:
 𫣸	aedyfn
 𢁋	qrctny
 𪗀	hpremawnmt
-𫰤	ualo
+𫰤	uale
 𧒉	cndninqe
 𪟽	wemo
 𢙬	heaewk
 𪽐	xaceah
 𡁤	eeponk
-𫃈	lorygq
+𫃈	lerygq
 鋾	famadx
 𡮘	eolaxk
 㖻	eeysla
@@ -17329,7 +17329,7 @@ encoder:
 𢘬	heatqo
 𡋿	caeh
 𫶻	qrwp
-𡀫	eepwle
+𡀫	eepwlo
 𡀤	eekamb
 𡚚	uelifeqa
 𫽅	iiudfd
@@ -17396,7 +17396,7 @@ encoder:
 𠱊	eeaefn
 𣳪	oawv
 𬆜	hfaacpv.
-䊟	losmsk
+䊟	lesmsk
 𨁼	nnng
 𪧄	melwciwt
 𢩾	iiut
@@ -17415,7 +17415,7 @@ encoder:
 𬮌	uiiipo
 𢬣	iadr
 𨃰	nniy
-𠞠	feleim
+𠞠	feloim
 𩸰	qimelw
 𢖱	hemh
 𫄑	vedaisua
@@ -17449,7 +17449,7 @@ encoder:
 𬳤	eyztkeioee
 𡪜	peoavrla
 𩙕	rfjs
-𧞿	vicnlelene
+𧞿	vicnlolone
 𠻛	eenatc
 𬠌	qehlcs
 𪫚	oaudbewo
@@ -17485,14 +17485,14 @@ encoder:
 𫽕	iiuxie
 𠋦	aeeola
 𬐒	qrhb
-𡾭	cipapwle
+𡾭	cipapwlo
 𤵢	bwcg
 𢳥	iinatc
 𪡝	eeivmr
 𬋲	ismezogeao
 𫣏	aewiy'
 𠴒	eeaeeu
-𥟈	leli
+𥟈	loli
 𩺧	qirayn
 𠪸	cnkesula
 𣋇	rkuiin
@@ -17549,7 +17549,7 @@ encoder:
 𬐉	xoigrr
 𱔪	eeuija
 𥅞	haytge
-𫡮	nalozr
+𫡮	nalezr
 㯖	lahhhe
 𨏧	ttcedtba
 𡏥	caiignee
@@ -17572,7 +17572,7 @@ encoder:
 䑅	hotuhamaoo
 𬩢	naprwsuo
 𠸡	eeoadj
-䕝	keleisqi
+䕝	keloisqi
 𧓮	firrcpqe
 𨃎	nnsoiedt
 𨰴	farevu
@@ -17652,7 +17652,7 @@ encoder:
 𣞅	ltby
 𨦙	fahffe
 𢴛	iigniikm
-𠏟	aepwle
+𠏟	aepwlo
 𠻁	taarew
 𥇽	ismezoha
 㶤	raoo
@@ -17662,7 +17662,7 @@ encoder:
 畱	sefsce
 𤿤	kahb
 𦉱	ssfo
-𥟊	lesdee
+𥟊	losdee
 𨂚	nnxiiv
 𨰧	fapeqh
 𪜘	cphbzr
@@ -17692,7 +17692,7 @@ encoder:
 𠲠	eezlit
 𭉷	eewawm
 𣋛	rekeoank
-𥗍	cplc
+𥗍	cplf
 𤹑	bwaeduhe
 㩒	iilhwa
 䓡	keyiee
@@ -17706,7 +17706,7 @@ encoder:
 𫏖	nni.
 𨭒	fahopcge
 㾑	bwdi
-𧀑	kelebb
+𧀑	kelobb
 𩲥	wtmv
 䱾	qiuh
 𢬹	iicacazo
@@ -17727,7 +17727,7 @@ encoder:
 𫉕	kwgaee
 𬕺	kawiy'ku
 𲌬	wtjo
-𥺹	lopeooai
+𥺹	lepeooai
 𥹰	uhax
 聀	htye
 𢱚	iijs
@@ -17738,7 +17738,7 @@ encoder:
 𫻣	hewtv.
 𡍘	cagh
 𥨨	pcgegeqa
-𥚥	wazolefe
+𥚥	wazolofe
 𫴶	pa?oinip
 𡀭	eedscega
 𫄃	veppit
@@ -17749,7 +17749,7 @@ encoder:
 𠳙	mvaeyt
 𤮥	gjztsveemt
 𦙦	hohe
-𬗁	drlohv
+𬗁	drlehv
 𣑶	lawazo
 𢟙	hefasa
 𤊡	ralsirii
@@ -17757,7 +17757,7 @@ encoder:
 𤢔	tnremawnmt
 唭	eedo
 𤛠	teuh
-𫃋	lofasa
+𫃋	lefasa
 𤎕	ratvhe
 𦀨	vehlcs
 𪝎	aelaeu
@@ -17792,7 +17792,7 @@ encoder:
 𩩇	mcarhv
 𣜶	lanaremawn
 𤎑	rahdxino
-𬷶	pwleje
+𬷶	pwloje
 𫆜	hoanaa
 𦛺	hohwfe
 𥈱	hamhiedt
@@ -17835,7 +17835,7 @@ encoder:
 𫰸	uayhfs
 𠶚	eeuaer
 𡁙	eehedmmj
-𫮱	docall
+𫮱	docalk
 㑫	aeduhe
 𪺛	gpdx
 𪬙	heoaeeho
@@ -17892,7 +17892,7 @@ encoder:
 熷	rady
 堒	caream
 𧉝	qeaq
-𩆐	otpwle
+𩆐	otpwlo
 𬦮	nnht
 𣏾	laye
 𬀫	uire
@@ -17967,19 +17967,19 @@ encoder:
 𠽁	eettnobs
 𡅑	eeqchi
 𡆘	eerevovorahi
-𥢫	lepelseefe
+𥢫	lopelseefe
 𠴉	eectun
 𧃋	kedapg
 𠶁	eesoiiir
 鈘	fakm
 𡴢	kfuk
 𤢿	tnsvcp
-𥽤	kmlodoir
+𥽤	kmledoir
 㶥	rayh
 𫼠	iars
 𦙥	homezo
 鑟	faqq
-𥢐	lehnxcsa
+𥢐	lohnxcsa
 𩅜	otpxoe
 𨇀	nnnaiucq
 𥀌	hbkemv
@@ -18007,10 +18007,10 @@ encoder:
 𡓟	caliitnd
 𬷸	jedaisua
 𥐦	cpms
-𥺖	lokiee
+𥺖	lekiee
 𬡮	viix
 搝	iihntn
-𬳠	leraey
+𬳠	loraey
 𣌹	zgkise
 𦁢	vemn
 挸	iihu
@@ -18030,7 +18030,7 @@ encoder:
 𤵴	bwaefn
 𢥶	heqcje
 𠻦	eehdxino
-𬓟	gxlehk
+𬓟	gxlohk
 𱪁	oakerp
 𥏍	yiooee
 𬕾	kawiy'ha
@@ -18078,7 +18078,7 @@ encoder:
 𦗏	htpxcs
 𨫈	fapaaoca
 𠄧	qrso
-𤃝	oacnlelere
+𤃝	oacnlolore
 𢮪	iixiiv
 鎶	faerer
 𢇡	pa?g
@@ -18117,7 +18117,7 @@ encoder:
 𫌌	vicipewa
 𩌂	gwkemv
 𬮷	posoiiirii
-𡮒	lemezoxo
+𡮒	lomezoxo
 𦚕	hoeo
 𠴛	eepcga
 𨁭	nnuaxk
@@ -18126,7 +18126,7 @@ encoder:
 𬕳	katoku
 𦄠	eapfve
 𡃻	eekentdn
-𥟉	lelebs
+𥟉	lolobs
 𡎥	ooweaoca
 𪒷	tebweorn
 𢪳	iail
@@ -18165,10 +18165,10 @@ encoder:
 𨐺	wizgqn
 𠴌	eeigra
 𢛨	hejr
-撛	iilonz
+撛	iilenz
 𫱞	uauija
 𫡁	iyuk
-𥻧	loiy
+𥻧	leiy
 𪷪	oa?gfcqa
 𦷫	keoamg
 𪤘	zhcaeola
@@ -18181,7 +18181,7 @@ encoder:
 𡀿	eeanuh
 𦴋	tuhamaie
 𣅵	rehe
-𬖫	drloid
+𬖫	drleid
 𥛉	wazoiasels
 𪵅	hfwx
 𫋶	vifeku
@@ -18190,7 +18190,7 @@ encoder:
 𦙜	hocnai
 𡗶	ulsi
 𡄦	eewbatsvee
-𥺕	loiiqr
+𥺕	leiiqr
 𤡁	tnsmsk
 𣘾	lrprho
 𩟬	dasvcp
@@ -18238,7 +18238,7 @@ encoder:
 𦞏	ykuaho
 𤇧	raaefn
 𦋂	ssrein
-𫷗	lluaie
+𫷗	lkuaie
 𩏳	nxrrwt
 𨵣	soiiirpo
 𩘨	pcesjs
@@ -18267,7 +18267,7 @@ encoder:
 𡀮	eejeva
 𢯨	iikevj
 𱔒	eeeaid
-𥄵	halk
+𥄵	hall
 𱤒	lukv
 𤅉	oaotpxoe
 擛	iikesula
@@ -18328,7 +18328,7 @@ encoder:
 𥌧	haqire
 𫫒	eewo
 𫮐	cahg
-𪲭	lkctun
+𪲭	llctun
 𡮯	xknatc
 𢪏	iire
 𢖵	heua
@@ -18374,7 +18374,7 @@ encoder:
 𫃮	vebers
 㘈	eenu
 鈬	fagf
-𦢶	holebshi
+𦢶	holobshi
 𫠴	cgdg
 𬯽	otoavoze
 𥚄	wazowv
@@ -18385,7 +18385,7 @@ encoder:
 𠽍	eeoaisgd
 㥋	aevahe
 𪠝	udanaa
-𬖼	lowmbwwemo
+𬖼	lewmbwwemo
 𫫴	eevemcar
 𪩭	qrlr
 䙛	vivaes
@@ -18436,12 +18436,12 @@ encoder:
 𤼔	bwtoduhe
 𧝧	vigsye
 𥐧	cpir
-𠿀	eelexoho
+𠿀	eeloxoho
 𣴚	oasvga
 𱜜	aerpgc
 𪪇	?nbk
 埈	cazharno
-𡚢	uekeqile
+𡚢	uekeqilo
 𫷏	vew?vn
 𢣧	hettcg?g
 𪶭	oahffera
@@ -18465,7 +18465,7 @@ encoder:
 𬅀	lawili
 𤵕	bwxigq
 蝩	qebb
-𢀮	pwlegc
+𢀮	pwlogc
 㖼	eeeola
 𡏠	cahomaxnzn
 𢆠	lr?n
@@ -18482,7 +18482,7 @@ encoder:
 𫡵	sd?s
 𧲫	tbil
 嚉	eegrsein
-𫁅	wllezh
+𫁅	wllozh
 𦤯	hntnekga
 喯	eeng
 𣑳	lagu
@@ -18492,12 +18492,12 @@ encoder:
 㛪	uauerg
 𠶎	eebehb
 𣻾	oarecaxk
-澟	oapwle
+澟	oapwlo
 𦼥	keoari
 𩭆	mnxtdi
 𫡎	svcpqu
 𥾗	vexo
-𥽄	lovepueear
+𥽄	levepueear
 𢵌	iictxiti
 𤳸	ydvrtr
 𫢚	kusevi
@@ -18506,7 +18506,7 @@ encoder:
 𨄿	nnveob
 𠡧	uieega
 𩽊	qisvcp
-𪢖	eeleasighe
+𪢖	eeloasighe
 𬴓	katohv
 𣏿	laul
 𠺙	eenadm
@@ -18530,7 +18530,7 @@ encoder:
 揬	iipctn
 𦃾	vehffera
 𣫕	ceanbsbsid
-𥳓	kalexoho
+𥳓	kaloxoho
 𬏚	bwse
 𤎛	raoaisgd
 𣺾	oakeuaee
@@ -18558,7 +18558,7 @@ encoder:
 𣐴	laaefn
 𡧲	pegtsn
 𩂠	otaeyt
-𬩋	nalkea
+𬩋	nallea
 𠱅	eeieca
 𠸽	eenaanaa
 𫠼	siiinn
@@ -18572,7 +18572,7 @@ encoder:
 𢯐	iiuaet
 𫣢	aeuxqe
 𢭰	iilaca
-𤷄	bwlfai
+𤷄	bwlcai
 𬏸	bwziunin
 㖑	eeyeir
 𠣂	ealgga
@@ -18585,7 +18585,7 @@ encoder:
 𦂈	veydho
 𢵴	iinegb
 𬏓	tvceqr
-𤯑	ekpwle
+𤯑	ekpwlo
 𨋤	bawean
 𩬑	mnxtwc
 㯷	laaegrir
@@ -18597,7 +18597,7 @@ encoder:
 𢇉	vozeuiin
 𠟥	xoueeife
 𤏥	raaezija
-𥽢	loxrlalaieio
+𥽢	lexrlalaieio
 𠰘	eedt
 𪅬	aeztreuaje
 𫠮	ynst
@@ -18610,7 +18610,7 @@ encoder:
 𡾵	ciwtaeuo
 𩱻	wtwe
 𨁷	nnhh
-𡅊	eekoqalo
+𡅊	eekoqale
 𬂍	hosoiiirii
 𫸏	pauvzireieio
 𫯓	lrhk
@@ -18633,7 +18633,7 @@ encoder:
 𣡝	kidt?e
 𧿨	nnic
 掑	iido
-𢕸	belonz
+𢕸	belenz
 𱳚	haeakv
 𦀐	vepaca
 𧺀	rmpetvce
@@ -18653,7 +18653,7 @@ encoder:
 𨙍	nayixauepi
 𤝑	tnxanr
 𥅘	havv
-𨊌	mmlonz
+𨊌	mmlenz
 抈	iioe
 𡍝	cakepf
 𢲭	iidkms
@@ -18678,7 +18678,7 @@ encoder:
 𩺨	qiaelsirii
 𩴬	qbwt
 𬚯	hofn
-𪮩	ialowm
+𪮩	ialewm
 𪹎	raziunxt
 𡳤	gfrics
 𢣄	henahr
@@ -18721,7 +18721,7 @@ encoder:
 𠔭	xisvzhaext
 𦼝	keheh,
 𪻊	tnridm
-𣻗	oalehk
+𣻗	oalohk
 㷚	rapigt
 𫠻	kiaeea
 𢯕	iipewm
@@ -18745,10 +18745,10 @@ encoder:
 𡲤	twwm
 𪠗	cnrememv
 𨨪	fagh
-𪶵	oaleim
+𪶵	oaloim
 𣠓	lakadrwa
 𢣂	hetayo
-𡗋	pwlehk
+𡗋	pwlohk
 𦂼	veek
 𡨺	pegtpein
 𤛞	tepokn
@@ -18756,18 +18756,18 @@ encoder:
 彣	uixt
 𠏠	aennch
 𪨁	ismexo
-𫷜	ll?s
+𫷜	lk?s
 𠾛	eeuv
 𨦥	faoaqo
 𧴤	qawe
 𡔑	cawphu
 𩁶	otzr
-𥣒	lebghe
+𥣒	lobghe
 𡆈	eebcyije
 𪖭	hpqy
 𧃶	ketnkevtti
 𢴘	iitnks
-𪲽	xnlkiign
+𪲽	xnlliign
 𨅐	usnn
 𣳮	oaeh
 𥴙	kalabx
@@ -18782,7 +18782,7 @@ encoder:
 𫶜	cipiku
 楴	laky
 𨇜	rihunn
-𫂷	loxnsa
+𫂷	lexnsa
 𧜻	bbgava
 搈	iipces
 𫏾	bacenk
@@ -18816,7 +18816,7 @@ encoder:
 𡓇	caqire
 𠺚	eefifefi
 摼	iiwbieca
-𢫖	iilk
+𢫖	iill
 𣓿	lakeziga
 𬉙	oauokece
 𥘑	wain
@@ -18831,13 +18831,13 @@ encoder:
 㯲	lhlawa
 𦄀	veto
 𣭻	nnhq
-𥺽	lowx
+𥺽	lewx
 𫍍	eaeoladh
 𥯈	kalaic
 𨯹	fakato
 𠴔	eeeeac
 𨆓	nnjd
-𡓏	calonzcs
+𡓏	calenzcs
 𠯽	eene
 𨬊	faxp
 𣔻	lapctn
@@ -18847,7 +18847,7 @@ encoder:
 𠯹	eeaemh
 𩹩	qikenv
 𦟺	hoiichwe
-𥝥	leil
+𥝥	loil
 𨄉	nnuocnkr
 𤷲	bwbrla
 炵	raob
@@ -18866,7 +18866,7 @@ encoder:
 𫁛	pchswx
 𪫵	fiirhe
 𥖕	ehcphb
-獜	tnlonz
+獜	tnlenz
 𫧾	qzbrfn
 𪷥	oauony
 𪽽	rrcg
@@ -18876,7 +18876,7 @@ encoder:
 𣎣	oerrboit
 𣞎	lakewp
 㶩	raziar
-𡂰	eelonzcs
+𡂰	eelenzcs
 𥗌	cptttife
 𢙭	xouehe
 𥯉	kauacp
@@ -18912,7 +18912,7 @@ encoder:
 釟	faxi
 𥩇	pcheykeehe
 𨋣	basl
-㫧	relo
+㫧	rele
 𪇐	jeufoeue
 𬡟	vikejs
 𡓢	raasdsaoca
@@ -18921,7 +18921,7 @@ encoder:
 𠮙	eezr
 𦲻	keisgd
 𦾤	kebghe
-𢸜	iilonzcs
+𢸜	iilenzcs
 㘋	eewbieqa
 𬧖	nnnahg
 覵	pooehu
@@ -18993,7 +18993,7 @@ encoder:
 䁾	hatuhayeae
 𩂟	otyf
 𣾽	oasvhq
-𣿇	oaleduhe
+𣿇	oaloduhe
 𧀒	keualiit
 䏾	holsirii
 𡖱	hkaeff
@@ -19025,12 +19025,12 @@ encoder:
 𤁙	iixioaykee
 嘅	eedmmj
 𢜠	hereoe
-𥽪	lokato
+𥽪	lekato
 薟	keak
 𪹂	igraieca
 𢤡	hesvcp
 𪼀	fiky
-𬖵	lopeyqci
+𬖵	lepeyqci
 㩡	iisvcp
 𪤤	cawagv
 𨮊	faekdp
@@ -19064,7 +19064,7 @@ encoder:
 𠼾	eecipewa
 𤑭	rasvcp
 𢟔	henadm
-𥼳	lozmhe
+𥼳	lezmhe
 𠲵	eeudga
 𫉚	keeapr
 𤍄	rawawm
@@ -19098,7 +19098,7 @@ encoder:
 𠤆	froari
 㖔	eeulee
 𩷊	qizlit
-𥺎	lowmxi
+𥺎	lewmxi
 𥇹	haqy
 𪶊	oauiin
 𢝀	hepctn
@@ -19113,13 +19113,13 @@ encoder:
 𠶘	erhffe
 𢀥	gclscs
 䤠	fane
-𥸿	qrlo
+𥸿	qrle
 䖡	qeiz
 𡀣	eeuwga
 𠴝	eeoafi
 𩺌	qisuzivn
 𢺖	iirdvu
-𩼤	qipwle
+𩼤	qipwlo
 𦢴	hoexpctn
 㫾	reps
 𠻃	eebayh
@@ -19135,7 +19135,7 @@ encoder:
 𣋝	resveela
 𣲹	oahl
 𣗒	lafasa
-𥠯	lekewc
+𥠯	lokewc
 㐱	aext
 𫿕	boitkebsso
 𦚭	hoqe
@@ -19148,7 +19148,7 @@ encoder:
 𡺦	cimhiedt
 𩇢	kspsia
 𤯊	kweo
-𥗹	cpkeqile
+𥗹	cpkeqilo
 忼	heuy
 𬐸	ttcedtku
 𫥧	ncsssazo
@@ -19156,7 +19156,7 @@ encoder:
 𠞹	tvhefe
 𪴹	ndoaud
 𦀿	vetw
-𥽌	lonahg
+𥽌	lenahg
 𠰍	eers
 𫤄	aewviija
 𠢬	usga
@@ -19172,7 +19172,7 @@ encoder:
 𠸠	eeuxee
 𪴞	?ereoe
 𱿜	qehe
-𬓰	leod
+𬓰	lood
 萾	kemhiedt
 𢭽	iioaziar
 𤚦	teetla
@@ -19233,7 +19233,7 @@ encoder:
 𨁘	iinenn
 𬘋	vegngnqa
 𬨠	nadb
-𥣽	lejaqu
+𥣽	lojaqu
 𡴉	kfdl
 枛	lais
 𡤊	uagdoari
@@ -19243,7 +19243,7 @@ encoder:
 𫗂	bssonadm
 𫨩	mvam
 㨃	iipp
-𥺻	lofa
+𥺻	lefa
 𬩱	nacqcu
 𬇫	oaiiqr
 𢳝	iigwga
@@ -19259,14 +19259,14 @@ encoder:
 𤇥	rauo
 𦢄	hojova
 𡃺	eenacu
-𥽔	loverrvn
+𥽔	leverrvn
 𧼌	tbni
 𧊎	qeyw
 𩴚	wtlvwa
 𫪗	eeyene
 𧖰	djfs
 慤	?kidhe
-秱	lede
+秱	lode
 𬤴	olhi
 𬎣	lwxanr
 𫪏	eeoafr
@@ -19291,7 +19291,7 @@ encoder:
 𱑛	brfnqz
 𪂰	jepaw.
 𬐎	rrv.
-𪨜	gfbelk
+𪨜	gfbell
 𠽈	eeoayl
 𠀧	qrsr
 箤	kav.
@@ -19301,7 +19301,7 @@ encoder:
 𡂌	eewdxk
 𫎰	rmvece
 𠗣	onwx
-𬹸	hzlonz
+𬹸	hzlenz
 𤍃	raoamg
 𡮽	xouenay.
 𦄓	verrfsar
@@ -19313,7 +19313,7 @@ encoder:
 𣈞	repcge
 𨉟	mmem
 𤎏	radtav
-𥟌	lekedl
+𥟌	lokedl
 𨄑	nnmawu
 𩪵	hvuhit
 𢶥	iioajasa
@@ -19368,7 +19368,7 @@ encoder:
 𤖸	bvrs
 𪺤	bvhwfe
 𲎚	fiir?okm
-𨮍	fapwle
+𨮍	fapwlo
 𪁵	anzeeeje
 𬊊	rafiir
 𰇼	eezhuext
@@ -19377,8 +19377,8 @@ encoder:
 𩠘	hgoowe
 𢗠	hefofe
 𨯘	faaeak
-𥻡	lohm
-𥋶	hapwle
+𥻡	lehm
+𥋶	hapwlo
 𣛭	larics
 𬕻	kahthd
 橷	larrauar
@@ -19396,7 +19396,7 @@ encoder:
 𣾶	oactxiti
 𫄂	vekawo
 㧍	iibo
-𬗂	losvht
+𬗂	lesvht
 𢫑	iioowe
 𣼽	oapxoe
 𬈰	oamcoine
@@ -19407,7 +19407,7 @@ encoder:
 𢶐	iittdn
 刧	udfe
 𣌔	repenkhi
-𥡘	leyb
+𥡘	loyb
 𩰈	mnxtdacu
 𬦗	nimsgu
 𪒗	rnoavrla
@@ -19416,14 +19416,14 @@ encoder:
 𪅩	svzhaextje
 𪮈	iiaewv
 𣹗	oafiaext
-𦪼	bileibeg
+𦪼	biloibeg
 𪟓	femeream
 𢲫	iito
 𡈺	zafmwx
 𬠨	qewodt
 𦡞	holhwa
-𥻹	lokw
-𫆭	honalo
+𥻹	lekw
+𫆭	honale
 𢸾	iiiw
 𫋑	qefifefi
 𣻃	oaaekg
@@ -19437,7 +19437,7 @@ encoder:
 𬂥	liaa
 𠿵	eetbdm
 𫸬	ziikyash
-𱲢	loznarnobidt
+𱲢	leznarnobidt
 𤊭	rapawa
 𢮫	iiuaieya
 𫄆	vecpv.
@@ -19449,7 +19449,7 @@ encoder:
 𦄂	vevh
 𨐿	wigngnqa
 𤀕	oapd
-𤒟	ralemhhi
+𤒟	ralomhhi
 䱒	qics
 𫐮	nawx
 𢫕	iios
@@ -19476,7 +19476,7 @@ encoder:
 𤴭	bwxi
 埮	carh
 𧛶	vibeip
-𠺰	eelevv
+𠺰	eelovv
 𡮣	xopokn
 𦪐	biphhe
 𨑜	nast
@@ -19522,7 +19522,7 @@ encoder:
 𫅹	guce
 𬧻	uhba
 𬔫	wilaqb
-𬖮	lowp
+𬖮	lewp
 𥊘	hapeueer
 𪤍	caap
 𤺭	bwkawo
@@ -19537,7 +19537,7 @@ encoder:
 𠺹	eekeueya
 𫥜	oneuv.
 𠸄	eekeup
-𤏨	ralexrvn
+𤏨	raloxrvn
 𪔚	?okmde
 㺔	tnix
 㙁	camg
@@ -19556,7 +19556,7 @@ encoder:
 𤗲	bvsvzhaext
 𡄪	eeeeqeja
 𪷶	oaisvoueeu
-𥢳	leoari
+𥢳	looari
 𢠦	heuw
 𩳳	wtlr
 𫜹	ig	igg
@@ -19576,7 +19576,7 @@ encoder:
 𤘂	bvtuhamaoo
 𣎏	zaetio
 蒣	kebepg
-攊	iicnlelene
+攊	iicnlolone
 𱮆	tnvife
 𣐲	laeezl
 𢲲	iipxcs
@@ -19585,7 +19585,7 @@ encoder:
 𤗹	bvtvce
 𣼰	oafiirhe
 𤥭	fiba
-𣉐	renalk
+𣉐	renall
 抸	iixanr
 𫻂	uaiehedm
 𠶜	eegh
@@ -19612,19 +19612,19 @@ encoder:
 𫔮	pooe
 𦀹	velain
 𪿁	wiy'iaha
-𥺾	loneho
+𥺾	leneho
 𢢉	oakeioeehe
 𤟛	tnth
 𩄑	ot?s
 𡆙	eeeathth
 𢭜	ii?k
-𦟶	holowc
+𦟶	holewc
 㰁	lasvcp
 𡀰	eeaecija
 𪁳	ehje
 𠰺	eeaeyt
 𩩬	?khv
-𥟹	lebswv
+𥟹	lobswv
 㳌	oay'
 鱙	qicu
 𢷯	iiztsveeue
@@ -19647,7 +19647,7 @@ encoder:
 𢟎	hebeni
 𥚅	wazoht
 𬩐	nadvnc
-𥻸	losslm
+𥻸	lesslm
 𥒮	cptw
 𤗤	bvgeqa
 櫗	latuhayeae
@@ -19656,7 +19656,7 @@ encoder:
 𡻓	ciaekg
 𡚃	fakfue
 𢯜	iivewe
-𤂱	oalc
+𤂱	oalf
 𫼩	iikdvn
 𠳗	ee?k
 𢴜	iirrxcar
@@ -19690,12 +19690,12 @@ encoder:
 𢫝	iiob
 𪵦	enov
 𩚵	daeo
-𥞖	leco
+𥞖	loco
 𦪵	bikado
 𤳧	ehwq
 𨃐	nnkemv
 𩤕	tovm
-𫃀	lopeua
+𫃀	lepeua
 𫃩	veuaiz
 𤒴	raoarevovora
 𢏿	yapeooai
@@ -19706,7 +19706,7 @@ encoder:
 𧦔	bseasa
 𢷮	iigrsein
 𢲨	iioamg
-𦟂	honalo
+𦟂	honale
 𢠄	hecipewa
 𩺺	qidmmj
 𣵲	oaaeff
@@ -19717,7 +19717,7 @@ encoder:
 𢘭	heco
 𡀷	eenay.
 𨀊	nnmhme
-𥹀	lohe
+𥹀	lehe
 𠷦	eevqga
 𣘌	lawaeear
 𢩮	iiyt
@@ -19737,7 +19737,7 @@ encoder:
 𬗽	vecelain
 忊	hegt
 𦹶	kelaqa
-糆	lohy
+糆	lehy
 𬜊	eiqafe
 𢜢	hebehb
 𧋃	qeknme
@@ -19784,10 +19784,10 @@ encoder:
 𢥖	helvwa
 𣇜	reqa
 𨰲	fawphu
-𥢉	?klely
+𥢉	?kloly
 𡀠	eeaeyb
 𠼼	eekeisme
-𠐬	aelemhhi
+𠐬	aelomhhi
 𣘈	lbwx
 𨷯	pohxii
 𠛌	ziarfe
@@ -19814,7 +19814,7 @@ encoder:
 𢒎	ziunxt
 𬙖	ssst
 𨕭	sinaba
-𧎝	qeleir
+𧎝	qeloir
 𧿐	nnal
 𤮒	gjanuh
 𠝕	feream
@@ -19822,7 +19822,7 @@ encoder:
 𠷥	eepigt
 𬺗	wiy'st
 𤇮	raxanr
-𠾔	eeleex
+𠾔	eeloex
 𣘁	laerer
 𡃋	wxfm
 𫊔	kerihffera
@@ -19838,7 +19838,7 @@ encoder:
 𦨑	bikn
 𪽸	bwniyw
 𦚔	hofeee
-𥗎	cpleibeg
+𥗎	cploibeg
 𨅾	nnsvla
 幍	vnisds
 𢢲	hekesula
@@ -19897,7 +19897,7 @@ encoder:
 𠴑	eekeua
 𣑴	laoage
 𫜵	is	iss
-頺	lemhhi
+頺	lomhhi
 𢰽	iiasighe
 𩅀	otw'ut
 𦚖	hoxanr
@@ -19909,7 +19909,7 @@ encoder:
 𢚶	heisua
 𣠰	lakapore
 𨃏	nnaeigziie
-𫃉	drlokf
+𫃉	drlekf
 𤺯	bwpohe
 𫮹	cakerp
 𬎸	dsarkr
@@ -19918,7 +19918,7 @@ encoder:
 𫤠	nwream
 𧦖	eaxako
 𡱶	aneh
-𣗱	lefelast
+𣗱	lofelast
 𣟂	lapetuhaam
 𦠯	hopola
 𠸥	eeeasa
@@ -19934,7 +19934,7 @@ encoder:
 𬍄	tnkt
 𥿂	vehe
 𩹹	qijaie
-𫐽	naloxk
+𫐽	nalexk
 𫗁	bssonadm
 𡂅	eecihdxino
 鴂	ftje
@@ -19946,7 +19946,7 @@ encoder:
 𠼷	mvyvee
 𢝜	hepigt
 𪱡	oepkwa
-𬜜	bilc
+𬜜	bilf
 𢸢	iikatyti
 𠤩	vrtraa
 𩻻	qirp
@@ -19955,9 +19955,9 @@ encoder:
 𦕳	htmp
 熣	racija
 𪣱	cauoku
-𥺺	lociuo
+𥺺	leciuo
 䨔	otrt
-𫡌	qulfai
+𫡌	qulcai
 䳧	jeascnyi
 𬳕	hgka
 䁛	hawt
@@ -19976,7 +19976,7 @@ encoder:
 𪵤	over
 𠻷	eefihu
 𥌦	haururba
-𫃔	lowclfai
+𫃔	lewclcai
 𧍊	qecnch
 𬒼	wazohk
 𨹬	cteh
@@ -19989,7 +19989,7 @@ encoder:
 𢤢	hecmutra
 𡀇	eekebb
 𨁝	nnsazime
-𡾫	cilemhhi
+𡾫	cilomhhi
 𦟻	hoztkeioee
 𪇌	jezgqn
 𪟦	cegaja
@@ -20010,14 +20010,14 @@ encoder:
 𫡔	kuaq
 𪱮	wnoeacgeqa
 𦂾	venaim
-𢷂	iihfielo
-𫆿	cehonalo
+𢷂	iihfiele
+𫆿	cehonale
 𫌄	vizhuesr
 𢯠	iioahb
 𧘸	vikf
 𤾰	rrnu
-𣦰	cnlelenewv
-𬩍	nahklo
+𣦰	cnlolonewv
+𬩍	nahkle
 𦼛	keniaext
 𥉸	hawbieca
 𪿄	hakawiy'
@@ -20075,7 +20075,7 @@ encoder:
 𡃓	eeiitvce
 𫈨	keceah
 𬢀	gnmthu
-𡃊	eeleibeg
+𡃊	eeloibeg
 𫧣	?sku
 𫇰	keds
 𥸒	karevu
@@ -20096,7 +20096,7 @@ encoder:
 𠴠	eeempf
 𫊿	qeesir
 𬛩	wbwe?s
-𪅨	lehkje
+𪅨	lohkje
 𨨤	faheud
 𩈘	luhy
 㗙	eemakomako
@@ -20109,16 +20109,16 @@ encoder:
 𫁧	uobeip
 𫫺	eehtydgq
 𬷎	evje
-𣱭	ovpwle
+𣱭	ovpwlo
 𪡿	eehovs
-𥸷	lomt
+𥸷	lemt
 𢷁	iiho?s
 𦅰	vedw
 𫐹	nahm
 𥅿	haiiut
 𫒬	faaehk
 𦪨	binnwv
-𫷞	lljohe
+𫷞	lkjohe
 𨦀	faeezl
 𠶤	eeps
 𤬈	ascnyilw
@@ -20126,7 +20126,7 @@ encoder:
 𠸒	eeml
 𥧩	pcvepf
 𤯱	ueerkr
-𥻠	lohaxk
+𥻠	lehaxk
 𡮋	xolait
 啺	eerk
 𪾦	hawean
@@ -20135,7 +20135,7 @@ encoder:
 𦅱	veqelb
 𣦛	aepsnd
 𦊚	sslm
-秥	lewc
+秥	lowc
 𣈘	repawc
 𥜀	twwawm
 𪨐	dquc
@@ -20183,14 +20183,14 @@ encoder:
 𣙙	laliit
 𥒦	cpcaqo
 啌	eepcge
-稴	leiy
+稴	loiy
 𫣂	aemhiedt
 㖺	eekk
 𦛼	hognir
 𦟏	hopaba
 𤮞	ciwtgj
 𡄬	dioqwt
-𡄁	eepapwle
+𡄁	eepapwlo
 㖹	eefcdt
 𤞦	tnmg
 𠸘	eeaeol
@@ -20221,21 +20221,21 @@ encoder:
 苭	kevoga
 𬑵	ffyidn
 𱞋	hewean
-𨇗	nncnlelene
+𨇗	nncnlolone
 𣰳	hqkawiy'
 𦟑	hoaeueer
 𫯨	twul
 𪥔	pcgeue
 𤢗	tnotce
 𠷇	eebcqo
-𩄲	otnalo
+𩄲	otnale
 𬖆	kawiy'fiir
 𢥷	hnhenu
 𨘘	twnali
 𤮾	ubeo
 𣙫	lakauo
 𨅻	nnpctc
-噒	eelonz
+噒	eelenz
 𩖅	uhithi
 𡅬	eehevahaoa
 𨡨	dkdo
@@ -20261,7 +20261,7 @@ encoder:
 㦄	kthe
 𧃷	kettja?g
 㗴	eepooe
-𢶸	iipwle
+𢶸	iipwlo
 吀	eeal
 嗗	eehv
 𡈡	zaveob
@@ -20273,7 +20273,7 @@ encoder:
 𥐒	yidnhv
 𧗅	djeola
 𩁦	otcejaie
-𫅚	taueleig
+𫅚	taueloig
 𬠼	hffedj
 䗊	qerh
 𬪪	dkdk
@@ -20317,15 +20317,15 @@ encoder:
 𠝼	eolafe
 𦰣	keaew.
 𦣗	hodacu
-𥢆	lezhwl
+𥢆	lozhwl
 𪦆	uacpnr
 𨫵	fazayr
 𦡤	hooajasa
 𦟗	hoieja
 𠦳	uocnxtal
 㖠	eeuewa
-𬖏	loee
-𡳛	anlofp
+𬖏	leee
+𡳛	anlefp
 𧼋	nitb
 𢱝	iikenc
 𤝫	tnhl
@@ -20348,7 +20348,7 @@ encoder:
 𥘀	cprepevu
 𫉸	keerermt
 𫗸	hgoc
-𥺿	loueer
+𥺿	leueer
 䈫	kavepf
 棦	laiswk
 𫉓	kdvnbn
@@ -20382,12 +20382,12 @@ encoder:
 勑	lrga
 𠰭	eefs
 𬋚	ramatvhe
-𦡣	hopwle
+𦡣	hopwlo
 悞	heef
 𡢼	uakemacf
 𨀹	nnoage
 𬎻	uicnkrku
-𢹪	iilosvzhaext
+𢹪	iilesvzhaext
 𪫓	bewoku
 𢯧	iixrit
 𥃱	haae
@@ -20399,12 +20399,12 @@ encoder:
 鉷	faiv
 𡞖	uapaw.
 焾	raduhe
-𥺆	loeeac
+𥺆	leeeac
 𦡦	hokebb
 𨀋	nnaefn
 𧵑	qaet
 𨣥	dkmq
-𡓡	caaalehi
+𡓡	caaalohi
 𠺠	eewiy'
 𣊎	rew'ut
 𠱓	eeascnai
@@ -20425,7 +20425,7 @@ encoder:
 䆰	pcztsvee
 𪜢	puds
 𡂁	eehebbga
-𢴐	iilehk
+𢴐	iilohk
 𦁽	verefi
 𫘀	eybh
 𧳘	tbduee
@@ -20437,7 +20437,7 @@ encoder:
 𢫫	iiwo
 𦢉	hopeyqqe
 𡅏	eewafu
-𱶭	lekewp
+𱶭	lokewp
 𬜇	eiea
 𡓯	cafabb
 𫣣	aecpqy
@@ -20494,7 +20494,7 @@ encoder:
 𢠨	hemgit
 琜	filr
 𬩟	nahroowe
-𫂗	kanalo
+𫂗	kanale
 𧸒	yidnqa
 𢫣	iiau
 𨃫	aeynfenn
@@ -20520,10 +20520,10 @@ encoder:
 𪅫	cayrje
 𪡥	eeoaiv
 𢟗	heoareca
-𨖨	nalehk
+𨖨	nalohk
 𫛐	zayrje
 踷	nnri
-𥝎	lezr
+𥝎	lozr
 𠵘	eepo
 挄	iirt
 𩸮	qilsirii
@@ -20533,11 +20533,11 @@ encoder:
 淎	oalsirii
 𬗩	vecpgn
 𢠆	henadv
-𢬧	iill
+𢬧	iilk
 𡁎	eehx
 𦞁	hoyvee
 𫡂	iyuk
-𥽎	louaiy
+𥽎	leuaiy
 𪿸	svcpku
 梞	lamshe
 𣡓	lakawp
@@ -20553,7 +20553,7 @@ encoder:
 𡮉	poxo
 𣭰	zhtehq
 𧖦	mgvlqe
-𨃾	levvnn
+𨃾	lovvnn
 𩢬	towean
 𫗃	bssobghe
 𦁣	vemelw
@@ -20583,7 +20583,7 @@ encoder:
 𥈵	halg
 𠲡	eeuame
 𢶷	iitlfete
-𤀚	oakepoxnlk
+𤀚	oakepoxnll
 𫑏	hlcsnati
 𤛇	tewd
 𧎜	qeanyn
@@ -20593,17 +20593,17 @@ encoder:
 𬗆	vemezo
 𤐜	raciwt
 𬡹	draerr
-𫸈	panalonz
+𫸈	panalenz
 𢵩	iactxiti
 𠏳	bbaemk
 𢬨	iioaua
-𬝮	kelodp
+𬝮	keledp
 𤶜	bwbrfn
 𢯢	iiprgn
-𨅀	nnlouo
+𨅀	nnleuo
 𥯌	kayiee
 𫐿	nalihq
-𤝞	tnlk
+𤝞	tnll
 𫆧	hobewo
 𬈢	oauofs
 𦷨	kwkm
@@ -20742,7 +20742,7 @@ encoder:
 𪦲	uamvqb
 𨂙	nnpn
 𪯼	bolv
-𡋂	call
+𡋂	calk
 𥯍	kalait
 𠲥	eewazo
 𦛊	hoknme
@@ -20751,7 +20751,7 @@ encoder:
 𥚤	wazopg
 𫈃	ketnfi
 𬨖	wizr
-𡳜	twleme
+𡳜	twlome
 𩹭	qiiiip
 𨄙	nnje
 𩛃	dalw
@@ -20767,13 +20767,13 @@ encoder:
 𠎩	aejohe
 𠖯	onow
 𡍛	caisgd
-𥻻	lovepf
+𥻻	levepf
 𢣈	heh,it
 𦃀	vebeip
 𫌠	aelmhu
 𲃟	nndg
 𢮬	iincxo
-𥠭	bble
+𥠭	bblo
 𬉝	oaisvoueoowe
 𤽗	rrwegq
 𠄶	aegdsd
@@ -20830,9 +20830,9 @@ encoder:
 槣	lapeueer
 𠴞	eeaeff
 𢆧	w'lait
-𥻽	lotnfp
+𥻽	letnfp
 𢦄	hejaeaja
-𣱬	xrvnovlo
+𣱬	xrvnovle
 𫶱	gegqkerc
 𫯿	urposeir
 𢤝	hekaykee
@@ -20864,13 +20864,13 @@ encoder:
 𫯩	ngul
 𠎨	aevedi
 𠶀	eevrla
-𪾝	bidtloznarno
+𪾝	bidtleznarno
 𡐚	caqi
 𦓉	mpnnnk
 𣙩	lacipewa
 𪽅	paw.kr
 𥈰	haoaiv
-𠶑	eelozn
+𠶑	eelezn
 𥌫	hakatyti
 𬳘	hgxoho
 𡄎	eefarrvn
@@ -20882,7 +20882,7 @@ encoder:
 𪱘	zghouu
 𣉍	rewj
 𣰴	kawiy'hq
-𠺼	eelomt
+𠺼	eelemt
 𫪹	fiiret
 𨄴	nnw'ut
 𥱮	kaiiisua
@@ -20916,7 +20916,7 @@ encoder:
 𧘪	vihs
 𬥬	fcqauija
 𢭑	iikpgf
-𢯗	iileme
+𢯗	iilome
 𪻃	tnbewo
 㕰	eehq
 𤹪	bwztsvee
@@ -20974,7 +20974,7 @@ encoder:
 𤭚	gjtc
 𬷞	lhje
 𤬪	cagj
-𢆫	llneykns
+𢆫	lkneykns
 𠾕	eectxiti
 𫅟	tauepeunit
 𢁑	qrlifeqa
@@ -20987,7 +20987,7 @@ encoder:
 𫆽	mchotr
 𤁘	oawiy'sn
 𡁞	eepiit
-𬖷	lowcpore
+𬖷	lewcpore
 𤖶	bvsl
 𢯒	iikeki
 𫌖	viururba
@@ -21002,7 +21002,7 @@ encoder:
 𧹟	rmqk
 𠯅	eeyt
 𡀡	eeoajc
-𥼱	loxauepi
+𥼱	lexauepi
 𪿥	cplait
 𣈚	rebrtn
 𦵛	keianc
@@ -21012,7 +21012,7 @@ encoder:
 𦄸	veeaes
 𫒃	bbanaa
 𪯵	ztfibo
-𡳁	anlouc
+𡳁	anleuc
 𩿙	jeye
 𧎴	qeiignee
 𬧆	nnhawh
@@ -21025,7 +21025,7 @@ encoder:
 𣻆	oamexave
 𣐳	lawr
 𨮵	fakevtti
-秲	leip
+秲	loip
 𦄄	vewkeecs
 𩪞	hvag
 𦝊	honakf
@@ -21051,7 +21051,7 @@ encoder:
 𠽃	eew'ut
 𤃛	oadrwalw
 𪭮	iiav
-𥽡	fclodoir
+𥽡	fcledoir
 𪡩	eecicnra
 𢚷	heba
 𪟐	fciswk
@@ -21073,7 +21073,7 @@ encoder:
 𬝐	kewcra
 𨮑	faaecija
 𪿹	cpwemoqc
-𥹵	loli
+𥹵	leli
 𠃝	zrxo
 𡼸	cikawo
 𢵲	iieeuocnxt
@@ -21086,7 +21086,7 @@ encoder:
 𩽖	qikato
 𥌥	haealt
 𥑥	cpkr
-𥷒	kacnlelene
+𥷒	kacnlolone
 𠰂	eeun
 𦛜	hoduee
 蘝	keakmt
@@ -21158,10 +21158,10 @@ encoder:
 𧞾	virntn
 湥	oapctn
 𨄞	nnnali
-𩄶	otlomt
+𩄶	otlemt
 𠖭	onmo
 𡭰	ogxo
-𠩕	cnlo
+𠩕	cnle
 𣦎	ndps
 𪽩	bwaemh
 𣷠	oareoe
@@ -21170,7 +21170,7 @@ encoder:
 𠶍	eelaziar
 𫩺	eedq
 𥶱	karrwt
-𧐹	qelehk
+𧐹	qelohk
 𩠓	hgow
 𦟿	hocaja
 𫥫	anynnc
@@ -21190,7 +21190,7 @@ encoder:
 哴	eepx
 𢥆	hekawiy'
 涖	oaaeuo
-𩹤	leraqi
+𩹤	loraqi
 𬞕	kepolg
 𩂐	otgd
 𣁔	uieegc
@@ -21200,7 +21200,7 @@ encoder:
 𢙪	heuiin
 𫴚	peyqcicidu
 𬈓	oaziaranaa
-𫇀	hocnlelene
+𫇀	hocnlolone
 𬹹	hzkeag
 𫯊	eolanoga
 𠽊	eemgit
@@ -21214,9 +21214,9 @@ encoder:
 𥍑	habaxauepi
 搎	iimexave
 𠳹	eepala
-𫆉	leraht
+𫆉	loraht
 𩆪	ottuhayeae
-𥺏	loeemt
+𥺏	leeemt
 𠼳	eeblzr
 𩝺	daiiisua
 𫉼	tuhayeaeku
@@ -21250,7 +21250,7 @@ encoder:
 𣗑	lactba
 𫙍	wtmedt
 𡉕	caut
-𬖭	lowcrd
+𬖭	lewcrd
 𧷸	qakv
 㩜	iiwp
 𤻓	dobwsl
@@ -21278,7 +21278,7 @@ encoder:
 𣍕	zgcu
 𫇟	bijohe
 𢮭	iigm
-秷	leyn
+秷	loyn
 訔	ciea
 𢟏	hehffera
 𣔞	lamelw
@@ -21292,7 +21292,7 @@ encoder:
 𩠭	hganyn
 燶	razgqn
 𪶾	oactzosl
-𢆥	?sll
+𢆥	?slk
 𪞴	bseasa
 𠳺	eeuiee
 𢹩	iiotlaha
@@ -21315,7 +21315,7 @@ encoder:
 𣍍	zithzg
 𥶮	kalacija
 𩇛	krks
-𥻺	loisvoue
+𥻺	leisvoue
 𣉶	reguhq
 𡀵	eeeaue?g
 𦹵	kercet
@@ -21327,7 +21327,7 @@ encoder:
 𦅭	vectxiti
 𡉖	caya
 𫬩	wgng
-𤢤	tnpwle
+𤢤	tnpwlo
 𥮋	kaaelm
 𦩛	bigm
 㘙	eeeeeecnij
@@ -21336,7 +21336,7 @@ encoder:
 擃	iizgqn
 𡓆	kauoaoca
 𫽎	iiaehk
-𥾃	lovlqe
+𥾃	levlqe
 𱓳	eevrnd
 𤁛	oarimhme
 𰔐	iaix
@@ -21376,7 +21376,7 @@ encoder:
 𤀖	oaciwt
 𬜝	asaizhte
 𬚈	jlyy
-𤏤	lexrvnra
+𤏤	loxrvnra
 𧔙	qerf
 𩯯	mnxtvqvq
 𢲪	iicacr
@@ -21393,7 +21393,7 @@ encoder:
 䄇	waeeac
 𠶕	eeoafeee
 㾾	bwiy
-𡔿	?kleir
+𡔿	?kloir
 𫻉	fdheasqa
 𬲁	bsso?s
 𤚇	tetaie
@@ -21406,7 +21406,7 @@ encoder:
 𦼚	kesvla
 𬲉	jkrr
 拰	iiaegd
-𡑝	calonz
+𡑝	calenz
 𢌌	fiirpauv
 𧔿	qeckja
 𦠘	prholr
@@ -21416,7 +21416,7 @@ encoder:
 𫐪	nagavv
 𥆽	haeedu
 𪾉	hbhtcs
-𥹘	losl
+𥹘	lesl
 𩈩	hyhlcs
 𡫐	pepuiyxa
 𦷯	kecacr
@@ -21465,7 +21465,7 @@ encoder:
 𫼙	iaw?
 鑥	faqire
 𢬗	iigu
-𢧚	llyc
+𢧚	lkyc
 𬆗	mvhfaa
 𤵊	bwkf
 𬩓	cnnenali
@@ -21484,11 +21484,11 @@ encoder:
 𠼦	eevthaie
 𦑗	prjlft
 𨂔	nnmcho
-𥻢	loeehn
+𥻢	leeehn
 𩶱	qipekp
 懢	hewp
 𢩪	iimo
-𫏝	nnlowm
+𫏝	nnlewm
 𥐍	yidndn
 𨷶	hxiipo
 𱎃	zroamh
@@ -21511,7 +21511,7 @@ encoder:
 𬏴	bwheieca
 𨙥	nakkqeqe
 𢀦	gcprgn
-𥢄	lehdiexino
+𥢄	lohdiexino
 欗	lakepolg
 𤷱	bwpo
 𠺧	eeaeshitla
@@ -21535,13 +21535,13 @@ encoder:
 𩅙	otsvzhaext
 𪻟	fizevp
 𠺟	eepaba
-𥷻	kaotnalo
+𥷻	kaotnale
 𪰿	ropeme
 𠲨	eeoaqo
 㒷	pfir
 𪽱	bwpcga
 𫔯	podp
-𣜷	lalerahe
+𣜷	lalorahe
 𧣳	tlol
 𬏻	bwasssxnzoxa
 𡋁	cakdvn
@@ -21561,13 +21561,13 @@ encoder:
 臁	hopaiy
 𥾘	veca
 𢥇	hegsye
-𥻮	lopewi
+𥻮	lepewi
 𫥘	oneufp
 𫹊	iaselsziunxt
 諪	eapigt
 𪾆	hbku
 𫶳	gevrri
-𬖽	looasmsk
+𬖽	leoasmsk
 腀	howx
 夦	ekhk
 疪	bwam
@@ -21581,7 +21581,7 @@ encoder:
 𪰂	boyuqa
 𫬮	sdeecpv.
 𢬄	iionoa
-𣒴	lalemh
+𣒴	lalomh
 𡸇	cinola
 𪅧	cajaje
 𢯟	iicard
@@ -21602,12 +21602,12 @@ encoder:
 𧋉	qeol
 𡖵	odwc
 𢖺	heyt
-𬸴	d?pwle
+𬸴	d?pwlo
 𫤡	rtceve
 龱	zaxn
 𠅍	luwn
 𣑁	lamcar
-𠼪	eelehk
+𠼪	eelohk
 𫸷	yashfiir
 𡨹	peinpegt
 𠖿	onco
@@ -21633,17 +21633,17 @@ encoder:
 𤮿	eoub
 逎	nadk
 𠀿	steemt
-𤃢	oapapwle
+𤃢	oapapwlo
 𡆚	eebehahaja
 𬰆	otoaiswk
 𧹅	cufcqa
 㝹	xkth
 𠴘	eelain
-䱊	qilo
+䱊	qile
 𢷄	iioaykra
 𤠷	nrqetn
 𣉎	relp
-𣑻	lall
+𣑻	lalk
 𥶳	kaveykee
 𡀦	eeoaredt
 𠺦	eeaeoc
@@ -21661,9 +21661,9 @@ encoder:
 𣗿	lawawm
 𫹗	bereui
 𬘊	vevrtr
-𬖪	loanaf
+𬖪	leanaf
 𬊽	igra?r
-𨦧	fall
+𨦧	falk
 𥮊	kalaca
 𠱄	eedt
 𪣠	cauiee
@@ -21682,7 +21682,7 @@ encoder:
 𩛄	dasl
 𧐼	qeiibx
 𢣃	hecpv.
-𬠓	qeleme
+𬠓	qelome
 𤻭	bweasdee
 䟢	nnvv
 𬜌	eibcqo
@@ -21721,7 +21721,7 @@ encoder:
 𤒛	raguqnin
 𬁉	anaadure
 𠽖	eenati
-𥻣	loiiip
+𥻣	leiiip
 𤂪	oaotqn
 冡	vtti
 𪠢	udpauv
@@ -21732,7 +21732,7 @@ encoder:
 𪵬	oadl
 𫱪	uameps
 𡑲	calhwa
-𩻑	qilouo
+𩻑	qileuo
 𪳞	laxp
 𣝅	lanu
 𥕊	cpkoue
@@ -21753,7 +21753,7 @@ encoder:
 𣱾	oamo
 𡐗	catldp
 𦟣	hohdxino
-𫻽	ycll
+𫻽	yclk
 𬘂	vezuhi
 𢚳	lainhe
 𡐘	caoarrge
@@ -21770,12 +21770,12 @@ encoder:
 𱐾	tofr
 𣒱	laeemt
 𢹾	iicqnegb
-𡦧	lemev.
+𡦧	lomev.
 𥱰	kabeni
 𢷳	iiaspchait
 𬁚	rekriu
 𱡵	kebssobo
-粚	loatqo
+粚	leatqo
 𦠲	hozmhe
 䇮	kaaegd
 𬌥	teuh
@@ -21811,13 +21811,13 @@ encoder:
 𬜞	asaijo
 𫲢	mezk
 𢀲	gclifeqa
-淃	oalfai
+淃	oalcai
 𣉏	rekeeu
 𪊅	d?lhwa
 𦨢	biw.
-𫃖	lokadmai
+𫃖	lekadmai
 攎	iittcedt
-𦀅	vell
+𦀅	velk
 盌	ooaidt
 𬲈	bssodexcir
 𦼇	kezmhe
@@ -21871,7 +21871,7 @@ encoder:
 𩄒	oten
 𡆑	eecieeeecnij
 䔅	keerer
-𤑬	ralc
+𤑬	ralf
 𨯷	fakentdn
 𬰌	otpvfe
 𬔌	pchsal
@@ -21904,7 +21904,7 @@ encoder:
 菛	kepo
 𬐐	rrziunxt
 𬫂	facnga
-𬖩	lonzku
+𬖩	lenzku
 𠸩	eewl
 𱔢	eetnri
 𨄠	nntvhe
@@ -21969,7 +21969,7 @@ encoder:
 𪴉	lavovociarno
 𠽉	eeoavrla
 𩄱	otwiy'
-𫃘	lodoirff
+𫃘	ledoirff
 𢭸	iipazu
 𧋼	qefiir
 𬏒	ceuapx
@@ -21983,7 +21983,7 @@ encoder:
 𪪅	?nuerg
 𬗓	vekdvn
 𣈢	rey,
-𱘔	cactlonz
+𱘔	cactlenz
 𩠧	hganzeee
 𬈤	oaanaakr
 𬑦	hadmmj
@@ -21998,7 +21998,7 @@ encoder:
 𪸊	oaiswkcu
 𡀔	eennnk
 䏠	houo
-𥯪	kaleir
+𥯪	kaloir
 𣊍	rekt
 𨤮	crrh
 𣖗	lanaanaa
@@ -22006,7 +22006,7 @@ encoder:
 𢁊	qriiytge
 𪰹	recacr
 𪽁	krwe
-𠅼	wnleim
+𠅼	wnloim
 𦾥	kereikba
 𠖨	ziunkevtti
 𣜲	lanay.
@@ -22085,9 +22085,9 @@ encoder:
 𠚯	ubfe
 𢭺	iitb
 𬈫	oabeqy
-𤒢	rapapwle
+𤒢	rapapwlo
 𩽥	qipolg
-𠶏	eeleig
+𠶏	eeloig
 𧜘	vifm
 𣊿	rerl
 𬃱	laetrd
@@ -22103,10 +22103,10 @@ encoder:
 溳	oafm
 𬯰	jaiewazo
 𢷆	iapwrd
-𠃷	lemezr
+𠃷	lomezr
 𦢷	hoeeeeto
 𢯑	iiheieca
-𡓈	caleibeg
+𡓈	caloibeg
 𧕀	qeaneewica
 𠶇	eevnos
 㗈	eedvga
@@ -22149,7 +22149,7 @@ encoder:
 𠓔	dsartuhamaoo
 𤾔	rrkezila
 𦢩	hokeok
-𲇣	fakemalo
+𲇣	fakemale
 𫧦	vkxcsaku
 𭉩	eeaekg
 𫊴	qeiikp
@@ -22223,7 +22223,7 @@ encoder:
 𤳆	cegalr
 𡍣	cauxie
 𧙀	viuo
-𥝽	leaq
+𥝽	loaq
 𫿴	dpisme
 𠶗	eehh
 𤔽	iskevtti
@@ -22233,7 +22233,7 @@ encoder:
 𡄯	eehoenhe
 𧋸	qeeeac
 𬬌	fayllm
-𥣐	lereikba
+𥣐	loreikba
 𪀆	aefnje
 𨨦	falait
 𨯃	fauhit
@@ -22292,7 +22292,7 @@ encoder:
 𫶷	ehqr
 哠	eetc
 萶	kekk
-𪰬	rdlefe
+𪰬	rdlofe
 𥙧	wazovv
 𤍎	rapxcs
 𣔥	labend
@@ -22413,11 +22413,11 @@ encoder:
 ⽯	xdcp
 ⽰	xdwa
 ⽱	xdqx
-⽲	xdle
+⽲	xdlo
 ⽳	xdpc
 ⽴	xduo
 ⽵	xdka
-⽶	xdlo
+⽶	xdle
 ⽷	xdve
 ⽸	xddx
 ⽹	xdvr
@@ -22500,7 +22500,7 @@ encoder:
 ⿆	xdlrno
 ⿇	xdkt
 ⿈	xduv
-⿉	xdlelc
+⿉	xdlolf
 ⿊	xdrn
 ⿋	xdgrvb
 ⿌	xdqs
@@ -22543,7 +22543,7 @@ encoder:
 資	s=	somtqa
 孩	m=	metg
 你	av=	aevv
-和	le=	leee
+和	le=	loee
 就	pi=	pnib
 都	rc=	rics
 他	aq=	aeqo
@@ -22638,7 +22638,7 @@ encoder:
 相	lh=	laha
 安	pu=	peua
 坐	ac=	aoca
-種	lb=	lebb
+種	lb=	lobb
 信	ae=	aeea
 晚	rv=	revq
 式	yg=	ytge
@@ -22654,7 +22654,7 @@ encoder:
 切	ff=	fofe
 動	bg=	bbga
 特	ti=	teip
-氣	ol=	ovlo
+氣	ol=	ovle
 神	wr=	wary
 值	ah=	aehh
 鎮	fw=	fawd
@@ -22697,7 +22697,7 @@ encoder:
 封	ci=	chin
 眼	hd=	hadm
 軍	ib=	ikba
-科	ld=	ledp
+科	ld=	lodp
 星	rk=	rekr
 權	lj=	lajh
 場	cr=	cark
@@ -22720,7 +22720,7 @@ encoder:
 板	li=	laic
 苦	ke=	keet
 君	we=	wkee
-利	lf=	lefe
+利	lf=	lofe
 存	km=	knme
 吾	se=	sdee
 極	ls=	lasg
@@ -22762,7 +22762,7 @@ encoder:
 端	uk=	uokh
 設	ei=	eaid
 猜	tk=	tnks
-秋	lr=	lera
+秋	lr=	lora
 插	id=	iidz
 意	eh=	enhe
 基	dc=	doca
@@ -22772,7 +22772,7 @@ encoder:
 喜	?e=	?oee
 洋	ot=	oata
 結	vf=	vefp
-精	lk=	loks
+精	lk=	leks
 瘋	bj=	bwjs
 軟	bm=	bamt
 偷	ab=	aebg
@@ -22822,7 +22822,7 @@ encoder:
 聞	ph=	poht
 計	es=	easa
 校	lu=	laug
-糖	l?=	lo?l
+糖	l?=	le?l
 宇	p?=	pe?i
 董	kb=	kebb
 醉	dv=	dkv.
@@ -22838,7 +22838,7 @@ encoder:
 核	lt=	latg
 農	zq=	zgqn
 族	by=	bcyi
-術	bl=	belk
+術	bl=	bell
 訊	ej=	eajk
 腦	hh=	hoh,
 禮	wf=	wafu
@@ -22883,7 +22883,7 @@ encoder:
 舒	pz=	pyzu
 剪	nf=	nhfe
 羽	jj=	jljl
-稿	lp=	lepi
+稿	lp=	lopi
 肺	hv=	hovj
 助	wg=	wmga
 欣	gm=	gnmt
@@ -22907,7 +22907,7 @@ encoder:
 研	cg=	cpgg
 俗	ao=	aeol
 歡	jm=	jhmt
-積	lq=	leqg
+積	lq=	loqg
 愈	bh=	bghe
 斜	pd=	pgdp
 預	zh=	zuhi
@@ -22921,7 +22921,7 @@ encoder:
 戒	yi=	yeir
 矣	zy=	zhyi
 彎	vy=	vlya
-私	lz=	lezh
+私	lz=	lozh
 姜	tu=	taua
 鼓	?k=	?okm
 企	an=	aene
@@ -23081,7 +23081,7 @@ encoder:
 硃	cl=	cplb
 爍	r?=	ra?e
 珀	fr=	firr
-粹	lv=	lov.
+粹	lv=	lev.
 犀	tt=	twte
 孑	ms=	mose
 妤	uz=	uazu
@@ -23158,13 +23158,13 @@ encoder:
 按	iip	iipeua
 區	zse	ztsvee
 機	lvv	lavovoyeae
-殺	xli	xnlkid
+殺	xli	xnllid
 些	nas	neaaso
 裝	bfv	brfnva
 挺	iba	iibdac
 圖	zep	zaeepw
 應	paj	paaejahe
-類	lth	lotnhi
+類	lth	letnhi
 送	nku	nakdue
 接	iwu	iiwiua
 辦	wgw	wigawi
@@ -23179,7 +23179,7 @@ encoder:
 型	pfc	ptfeca
 慢	hvi	hevthaie
 刷	avf	anvnfe
-稱	liq	leisqi
+稱	liq	loisqi
 處	tnb	ttnobs
 怪	hic	heieca
 倒	ayf	aeynfe
@@ -23265,7 +23265,7 @@ encoder:
 案	pul	peuala
 獎	bht	brhointn
 緊	wiv	wbieve
-蘇	kql	keqile
+蘇	kql	keqilo
 嘴	ena	eeneaatl
 雞	ivu	isvoueja
 挖	ipz	iipczr
@@ -23287,12 +23287,12 @@ encoder:
 祝	wea	waeear
 鄭	dbc	dfbscs
 煙	rdc	radrca
-秦	gil	giirle
+秦	gil	giirlo
 架	gel	gaeela
 歸	cng	cqnegb
 滾	ove	oavaes
 靈	oee	oteeeeeegeao
-圈	zla	zalfai
+圈	zla	zalcai
 趕	nry	nireyh
 搬	iid	iibiid
 獲	tji	tnjuie
@@ -23321,7 +23321,7 @@ encoder:
 遍	npw	naprws
 湖	oeh	oaetho
 聯	hvv	htvovokd
-程	lea	leeeac
+程	lea	loeeac
 偏	apw	aeprws
 實	pqq	pequqa
 鎖	fxq	faxoqa
@@ -23340,7 +23340,7 @@ encoder:
 憑	oth	ontohe
 檔	lpc	lapsce
 害	ple	pelsee
-穩	lig	leisgeighe
+穩	lig	loisgeighe
 酸	dza	dkzharno
 侯	acy	ascnyi
 擦	iph	iipehoiewa
@@ -23387,7 +23387,7 @@ encoder:
 智	yer	yieere
 索	szv	sazive
 聚	hia	htieav
-魏	luw	leuawt
+魏	luw	louawt
 側	aqf	aeqafe
 諾	eki	eakeioee
 范	koa	keoaai
@@ -23419,7 +23419,7 @@ encoder:
 拜	isl	iasels
 娜	uhc	uahlcs
 懷	hvh	hevahaoa
-愁	lrh	lerahe
+愁	lrh	lorahe
 薩	kck	kectuocnkr
 質	ggq	gngnqa
 泥	oaa	oaanaa
@@ -23428,8 +23428,8 @@ encoder:
 儀	aty	aetayo
 遲	ntt	natwte
 嫁	upt	uapeti
-捲	ila	iilfai
-稍	lxh	lexoho
+捲	ila	iilcai
+稍	lxh	loxoho
 薛	kcw	kecqwi
 儂	azq	aezgqn
 佐	aig	aeioge
@@ -23439,12 +23439,12 @@ encoder:
 雄	izj	iozhja
 胸	hmx	homaxnzn
 框	lzf	laztfi
-湊	oli	oaleir
+湊	oli	oaloir
 識	eey	eaenye
 漏	oao	oaanot
 探	ivl	iivrla
 碟	csl	cpsula
-透	nlm	nalemh
+透	nlm	nalomh
 營	rrz	rarazieh
 府	pai	paaein
 搜	iri	iiryie
@@ -23485,7 +23485,7 @@ encoder:
 消	oxh	oaxoho
 隆	cns	ctnosekr
 撤	imh	iimchoit
-粥	yly	yaloya
+粥	yly	yaleya
 馨	?ie	?ridey
 曼	vth	vthaie
 滬	oap	oaprcs
@@ -23552,7 +23552,7 @@ encoder:
 燙	orr	oarkra
 銘	foe	faooee
 哲	iig	iignee
-菌	kzl	kezale
+菌	kzl	kezalo
 敵	kei	kyeeit
 傅	aci	aecfin
 殿	abb	anbsbsid
@@ -23571,7 +23571,7 @@ encoder:
 淫	oig	oaisgd
 拽	irx	iirgxa
 職	hey	htenye
-莉	klf	kelefe
+莉	klf	kelofe
 櫃	lzi	laztiuqa
 握	iay	iianyn
 謀	eel	eaeola
@@ -23579,21 +23579,21 @@ encoder:
 墊	wuc	w'utca
 宣	pso	pesoor
 膽	hac	hoascnxiea
-穆	lrx	lerrxoxt
+穆	lrx	lorrxoxt
 啃	een	eeneho
 漸	obg	oabagn
 逢	nnl	nanols
 壁	aew	aneewica
 爐	rtc	rattcedt
-漆	oll	oalalc
+漆	oll	oalalf
 暫	bgr	bagnre
 縫	vnn	venanols
-菊	kml	kemalo
+菊	kml	kemale
 岸	ccy	cicnyh
 膩	hys	hoytsoqa
 嚐	epe	eepseg
 烈	hfr	hffera
-矮	ylu	yileua
+矮	ylu	yiloua
 婆	ohu	oahbua
 蝶	qsl	qesula
 誇	eu?	eaue?g
@@ -23607,7 +23607,7 @@ encoder:
 獻	ttt	ttfbtn
 審	ptc	petvce
 茲	kev	kevovo
-穎	alh	aalehi
+穎	alh	aalohi
 萌	kro	kereoe
 斑	fuf	fiuifi
 澡	ose	oasveela
@@ -23617,7 +23617,7 @@ encoder:
 癢	btd	bwtada
 柴	nal	neaala
 熙	wmr	wbmrra
-糧	lrc	lordcr
+糧	lrc	lerdcr
 參	sza	svzhaext
 譜	eur	eaukre
 褲	vpb	vipaba
@@ -23660,7 +23660,7 @@ encoder:
 醬	bhd	brhoindk
 蜜	pyq	peyqqe
 漂	odw	oadrwa
-梨	lfl	lefela
+梨	lfl	lofela
 蟹	tfq	tlfeteqe
 陷	cad	ctasds
 慌	hkw	hekewnoi
@@ -23704,14 +23704,14 @@ encoder:
 裂	hfv	hffeva
 慣	hqq	hequqa
 裙	vwe	viwkee
-揍	iil	iileir
+揍	iil	iiloir
 疊	scz	svceziwm
 埃	czy	cazhyi
 揮	iib	iiikba
 遙	nhd	nahodx
 壺	fzz	fnzizm
 兜	rfa	rrfsar
-稀	lxv	lexrvn
+稀	lxv	loxrvn
 棍	lra	laream
 淑	oki	oakqie
 歇	rmw	remawnmt
@@ -23722,11 +23722,11 @@ encoder:
 聰	hph	htphhe
 捱	icc	iicnch
 碳	ccr	cpcirb
-糊	leh	loetho
+糊	leh	leetho
 儲	aer	aeeari
 祭	hiw	hoiewa
 繁	miv	mgitve
-穗	lvh	levdhe
+穗	lvh	lovdhe
 蹲	nnd	nndfin
 紹	vfe	vefeee
 遮	nps	napasmra
@@ -23735,12 +23735,12 @@ encoder:
 樁	lgd	lagiirds
 敷	cbi	cfboit
 瑤	fhd	fihodx
-歷	cll	cnlelene
+歷	cll	cnlolone
 躍	njj	nnjlja
 範	kba	kabaai
 擰	ipe	iipehedtgt
 莎	kox	keoaxk
-糞	ldi	lodoir
+糞	ldi	ledoir
 濱	opq	oapesensqa
 議	ety	eatayo
 趣	nih	nihtie
@@ -23779,15 +23779,15 @@ encoder:
 姨	uuy	uaueya
 茹	kue	keuaee
 捂	iis	iisdee
-鄰	lnc	lonzcs
+鄰	lnc	lenzcs
 織	vey	veenye
 蒲	kec	keoacf
 驅	tzs	toztsvee
 攔	ipl	iipolg
 燃	rht	rahotnra
 暉	reb	reikba
-謎	enl	eanalo
-磷	cpl	cplonz
+謎	enl	eanale
+磷	cpl	cplenz
 脆	haa	hoascnai
 墜	cxc	ctxitica
 衡	bac	beasceue
@@ -23809,7 +23809,7 @@ encoder:
 豎	wid	wbiedn
 宴	pru	pereua
 擱	ipn	iiponk
-麟	tln	tklonz
+麟	tln	tklenz
 憲	phh	pelshahe
 遺	niq	naiuqa
 聘	hyg	htydgq
@@ -23824,7 +23824,7 @@ encoder:
 鞍	gpu	gwpeua
 墳	ckq	cakoqa
 瑟	ffy	fifiyq
-揪	ilr	iilera
+揪	ilr	iilora
 築	kgl	kaglla
 癮	bci	bwctisgeighe
 削	xhf	xohofe
@@ -23850,7 +23850,7 @@ encoder:
 駿	tza	tozharno
 黴	bbr	beb,rn
 鈞	fis	faikso
-憐	hln	helonz
+憐	hln	helenz
 橙	lnd	lantdn
 辨	wfw	wifewi
 薪	kwl	kewilagn
@@ -23860,7 +23860,7 @@ encoder:
 澄	ond	oantdn
 冥	zri	zireieio
 媒	uel	uaeola
-燦	rhi	rahfielo
+燦	rhi	rahfiele
 垮	cu?	caue?g
 塑	uoc	ufoeca
 慾	omh	olmthe
@@ -23872,14 +23872,14 @@ encoder:
 餡	dad	daasds
 誓	iie	iignea
 蜂	qnl	qenols
-曦	rtl	retaleyegq
+曦	rtl	retaloyegq
 煞	aii	asigitra
 嫂	uri	uaryie
 黛	ayr	aeytrn
 挨	izy	iizhyi
 貳	ysq	ytsoqa
 蠟	qht	qeh,td
-稻	lid	leisds
+稻	lid	loisds
 綺	vue	veueer
 荊	kpf	keptfe
 桿	lry	lareyh
@@ -23916,7 +23916,7 @@ encoder:
 搗	ijc	iijeci
 萱	kpo	kepesoor
 掀	igm	iignmt
-誘	elm	ealemh
+誘	elm	ealomh
 睜	hai	haiswk
 掩	iur	iiuerg
 蹬	nnn	nnntdn
@@ -23933,7 +23933,7 @@ encoder:
 僑	axu	aexauepi
 腕	hpo	hopeooai
 挫	iia	iiaoca
-膝	hll	holalc
+膝	hll	holalf
 嗦	esv	eesazive
 眨	hxn	haxanr
 臀	abh	anbsbsidho
@@ -23961,7 +23961,7 @@ encoder:
 嘔	ezs	eeztsvee
 遣	nic	naiucq
 皖	rrp	rrpeun
-糕	ltr	lotara
+糕	ltr	letara
 彙	tzl	tyzilt
 蘸	kdj	kedkjara
 茵	kzu	kezaue
@@ -23979,7 +23979,7 @@ encoder:
 菴	kur	keuerg
 僵	asc	aesrcece
 饞	dtt	dathth
-臻	ygi	yngiirle
+臻	ygi	yngiirlo
 寂	pki	pekqie
 晏	rep	repeua
 蘿	kvj	kevrveja
@@ -23992,7 +23992,7 @@ encoder:
 蘆	ktc	kettcedt
 嗜	eer	eempre
 滲	osz	oasvzhaext
-瀝	ocn	oacnlelene
+瀝	ocn	oacnlolone
 筍	kmr	kamare
 捻	idh	iiduhe
 勃	szm	sazimega
@@ -24007,7 +24007,7 @@ encoder:
 髓	hni	hvnaiogeho
 篩	kcs	kacqsevn
 棕	lpw	lapewa
-倦	ala	aelfai
+倦	ala	aelcai
 疆	ycs	yacasrcece
 蔓	kvi	kevthaie
 霆	oba	otbdac
@@ -24027,7 +24027,7 @@ encoder:
 渾	oib	oaikba
 窺	puh	pcurhu
 奮	ujc	uejace
-剎	xlf	xnlkfe
+剎	xlf	xnllfe
 濾	oat	oatthd
 嗅	eht	eehntn
 慰	awi	anwainhe
@@ -24089,7 +24089,7 @@ encoder:
 僱	apj	aeprja
 泓	oyz	oayazh
 錳	fmd	famedt
-鱗	qln	qilonz
+鱗	qln	qilenz
 筐	kzf	kaztfi
 膊	hci	hocfin
 遵	nad	nadfin
@@ -24103,7 +24103,7 @@ encoder:
 燜	rph	rapohe
 勵	cqg	cnqfga
 毓	mmo	mgmcoi
-黏	llw	lelcwc
+黏	llw	lolfwc
 瞟	hdw	hadrwa
 舅	dsc	dscega
 錚	fiw	faiswk
@@ -24113,7 +24113,7 @@ encoder:
 鬱	ldl	ladxlazid.xt
 曠	rpu	repauv
 褪	vnd	vinadm
-鞠	gml	gwmalo
+鞠	gml	gwmale
 橘	lyp	layspfee
 啪	eir	eeiirr
 殲	hak	hfaoyekx
@@ -24125,23 +24125,23 @@ encoder:
 涓	oho	oaeeho
 蠱	sqd	svqedt
 撬	ihq	iisvhq
-巍	clu	cileuawt
+巍	clu	cilouawt
 漾	oto	oataos
 擎	tmi	tumaeeitia
-俐	alf	aelefe
+俐	alf	aelofe
 胚	hks	hokise
 楷	lar	laamrr
 詔	eaf	eafeee
 嗣	ewe	eewsew
 驕	txu	toxauepi
-穫	lji	lejuie
+穫	lji	lojuie
 潰	oiq	oaiuqa
 褐	vrm	viremawn
 梭	lzn	lazharno
 槓	lgq	lageqa
 唷	emh	eemcho
 廬	ptd	pattcedt
-粽	lop	lopewa
+粽	lep	lepewa
 囉	evj	eevrveja
 宵	pxh	pexoho
 釵	fai	faiexe
@@ -24156,7 +24156,7 @@ encoder:
 捎	iix	iixoho
 嘀	eke	eekyee
 斃	vha	vbhfaa
-犁	lft	lefete
+犁	lft	lofete
 鷗	zsj	ztsveeje
 癖	bae	bwaneewi
 孽	kwm	kecqwime
@@ -24187,7 +24187,7 @@ encoder:
 垣	cso	casoor
 躁	nse	nnsveela
 噬	ekg	eekageao
-穀	?li	?kleid
+穀	?li	?kloid
 蓓	kak	keaekg
 癱	buj	bwuwja
 鞘	gxh	gwxoho
@@ -24196,7 +24196,7 @@ encoder:
 隙	cxr	ctxorexo
 驟	thi	tohtieav
 莞	kpu	kepeun
-曆	clr	cnlelere
+曆	clr	cnlolore
 謠	ehd	eahodx
 拭	iyg	iiytge
 醃	dur	dkuerg
@@ -24218,7 +24218,7 @@ encoder:
 貯	qpg	qapegt
 僕	agi	aegrir
 頰	uah	uxaehi
-糙	lnt	lonatc
+糙	lnt	lenatc
 炯	rze	raziee
 鬢	mxp	mnxtpesensqa
 荔	ksg	kesvga
@@ -24239,7 +24239,7 @@ encoder:
 逍	nah	naxoho
 拗	ivg	iivoga
 轍	bmi	bamchoit
-倭	alu	aeleua
+倭	alu	aeloua
 熾	rey	raenye
 毆	zsi	ztsveeid
 槳	bhl	brhoinla
@@ -24265,14 +24265,14 @@ encoder:
 樵	ljr	lajara
 漪	otu	oatnueer
 鐳	foc	faotce
-糯	loh	loothc
+糯	loh	leothc
 茫	kow	keoawn
 噎	efz	eefnzidn
 狹	tua	tnuxae
 霓	oda	otdsar
 硝	cpx	cpxoho
 厥	cum	cnufmt
-凜	onp	onpwle
+凜	onp	onpwlo
 跺	nbl	nnbsla
 扼	ica	iicnai
 鋤	fwg	fawmga
@@ -24286,7 +24286,7 @@ encoder:
 諜	eas	easula
 貂	tfe	tbfeee
 踱	npi	nnpasmie
-彝	tlv	tyloveir
+彝	tlv	tyleveir
 綰	vec	vepecq
 磯	cvv	cpvovoyeae
 廝	pdg	padogn
@@ -24304,7 +24304,7 @@ encoder:
 匾	zpw	ztprws
 濡	ooh	oaothc
 淞	ole	oalaes
-頹	lah	learhi
+頹	lah	loarhi
 矇	hkv	hakevtti
 縈	rrv	rarazive
 嬪	ups	uapesensqa
@@ -24322,7 +24322,7 @@ encoder:
 匿	zki	ztkeioee
 顱	tth	ttcedthi
 噤	elw	eelhwa
-弒	xly	xnlkytge
+弒	xly	xnllytge
 謬	eja	eajlaext
 甕	pcg	pucxjagj
 鬚	mxx	mnxtxthi
@@ -24351,16 +24351,16 @@ encoder:
 濠	oti	oapiti
 嬉	u?e	ua?oee
 眶	hzf	haztfi
-稼	lpt	lepeti
+稼	lpt	lopeti
 咎	nwe	noweee
 絢	vmr	vemare
-穢	lny	leneykns
+穢	lny	loneykns
 褂	vcw	vichwe
 墾	tdc	tbdmca
 廓	pap	pappcs
 弼	yry	yarvya
 偕	aea	aeamrr
-羲	tly	taleyegq
+羲	tly	taloyegq
 藺	kpj	kepoja
 軾	byg	baytge
 籬	kgj	kagxja
@@ -24374,7 +24374,7 @@ encoder:
 昀	ris	reikso
 槌	lan	lanacq
 吮	eza	eezhar
-萎	klu	keleua
+萎	klu	keloua
 榻	lrj	larejl
 嗡	eej	eeesjl
 漣	onb	oanaba
@@ -24385,7 +24385,7 @@ encoder:
 嗑	eud	eeuddt
 擄	itg	iittcega
 曙	rvr	revrri
-稽	lie	leibeg
+稽	lie	loibeg
 簪	kmm	kamjmjre
 徙	bnn	benene
 觴	tar	tlatrk
@@ -24417,7 +24417,7 @@ encoder:
 烽	rnl	ranols
 慨	hdm	hedmmj
 朦	ovt	oekevtti
-粱	ofl	oafexilo
+粱	ofl	oafexile
 淒	osw	oasewkua
 蕃	ket	ketvce
 塹	bgc	bagnca
@@ -24453,14 +24453,14 @@ encoder:
 瀏	off	oafsfafe
 誡	eyi	eayeir
 筵	kbx	kabdxane
-掬	iml	iimalo
+掬	iml	iimale
 纂	kgv	kagmve
 鬍	mxe	mnxtetho
 嗽	eli	eelimt
 悖	hzm	hesazime
 榴	lfc	lafsce
 饑	dvv	davovoyeae
-榛	lgl	lagiirle
+榛	lgl	lagiirlo
 筏	kaa	kaaeye
 銬	fmg	fampgq
 癩	blq	bwlifeqa
@@ -24473,7 +24473,7 @@ encoder:
 靄	oer	otearemawn
 顎	ee?	eeee?ghi
 嶄	cbg	cibagn
-痢	blf	bwlefe
+痢	blf	bwlofe
 濯	ojj	oajlja
 萼	ke?	keeeee?g
 楔	lfu	lafwue
@@ -24499,7 +24499,7 @@ encoder:
 遏	nrm	naremawn
 銼	faa	faaoca
 騾	tcv	toceve
-稈	ler	lereyh
+稈	lor	loreyh
 衢	bhj	behahaja
 譴	eni	eanaiucq
 礬	xlc	xrlalaieiocp
@@ -24510,7 +24510,7 @@ encoder:
 鬃	mxw	mnxtpewa
 睫	hsi	haseigne
 飭	dag	daatga
-琍	flf	filefe
+琍	flf	filofe
 鑣	ftr	fatkra
 靛	kpn	kspend
 礪	ccq	cpcnqf
@@ -24521,7 +24521,7 @@ encoder:
 籤	kay	kaaoyekx
 腑	hpi	hopaaein
 夔	xhn	xihinemrno
-鍬	flr	falera
+鍬	flr	falora
 誑	etf	eatnfi
 忱	hez	heziar
 媳	uhh	uahnhe
@@ -24563,7 +24563,7 @@ encoder:
 鎔	fpe	fapces
 鯽	qda	qidmai
 憬	hrp	herepn
-愀	hlr	helera
+愀	hlr	helora
 湮	odc	oadrca
 蒞	kou	keoaaeuo
 脩	aho	aeshitho
@@ -24577,7 +24577,7 @@ encoder:
 恣	smh	somthe
 矚	htq	hatwqd
 竣	uza	uozharno
-悸	hlm	heleme
+悸	hlm	helome
 睨	hda	hadsar
 倌	aec	aepecq
 孺	moh	meothc
@@ -24635,15 +24635,15 @@ encoder:
 榫	ljs	lajasa
 蹊	niv	nnisvoue
 諂	ead	eaasds
-痿	blu	bwleua
+痿	blu	bwloua
 湃	ois	oaiasels
 擻	iui	iiuhit
 釁	idz	iwdezidkfc
 旖	bue	bcueer
-稔	ldh	leduhe
+稔	ldh	loduhe
 詫	epk	eapekp
 瀋	oac	oapetvce
-啾	elr	eelera
+啾	elr	eelora
 腱	hob	hobdwo
 鱸	qtc	qittcedt
 闆	pse	posvee
@@ -24657,7 +24657,7 @@ encoder:
 膺	paa	paaejaho
 邏	nvv	navrveja
 琶	ffq	fifiqr
-稷	lwn	lewtno
+稷	lwn	lowtno
 簣	kiq	kaiuqa
 讖	eak	eaaoyekx
 轡	vbv	vebaveee
@@ -24679,7 +24679,7 @@ encoder:
 橢	lci	lactiogeho
 蓀	kmx	kemexave
 媼	uzd	uazaaedt
-麴	lnm	lrnomalo
+麴	lnm	lrnomale
 梆	llc	lalscs
 呶	eui	eeuaie
 淄	ooc	oaoice
@@ -24698,7 +24698,7 @@ encoder:
 贗	caq	cnaejeqa
 蜓	qba	qebdac
 褻	vcu	vacmut
-懍	hep	hepwle
+懍	hep	hepwlo
 殯	hps	hfpesensqa
 榷	lzj	lazija
 窈	pvg	pcvoga
@@ -24738,13 +24738,13 @@ encoder:
 琺	fou	fioaud
 俎	aaw	aeaewm
 彗	lsl	lslsig
-鞦	glr	gwlera
+鞦	glr	gwlora
 鴆	zaj	ziarje
 檄	lrb	larrboit
 咨	sme	somtee
 逖	ntr	natnra
 佞	asu	aesoua
-諉	elu	ealeua
+諉	elu	ealoua
 璣	fva	fivovoyeae
 倥	aeg	aepcge
 褥	vqi	viqnin
@@ -24765,7 +24765,7 @@ encoder:
 奘	bfu	brfnue
 潺	oas	oaansvme
 曷	rem	remawn
-鰍	qlr	qilera
+鰍	qlr	qilora
 鸚	qqj	qaqauaje
 蠣	qcq	qecnqf
 屐	abk	anbekm
@@ -24809,7 +24809,7 @@ encoder:
 霹	oae	otaneewi
 嶝	cin	cintdn
 霑	oow	otoawc
-犧	ttl	tetaleyegq
+犧	ttl	tetaloyegq
 磴	cnd	cpntdn
 臃	hpj	hopucxja
 軛	bca	bacnai
@@ -24817,7 +24817,7 @@ encoder:
 蜿	qpo	qepeooai
 簸	kdh	kadohb
 惋	hpa	hepeooai
-靂	ocl	otcnlelene
+靂	ocl	otcnlolone
 鄱	tcc	tvcecs
 賃	agq	aegdqa
 墀	ctt	catwte
@@ -24841,9 +24841,9 @@ encoder:
 梃	lab	labdac
 嶇	czs	ciztsvee
 幗	vzy	vnzayr
-愾	hol	heovlo
+愾	hol	heovle
 嫗	uzs	uaztsvee
-莠	klm	kelemh
+莠	klm	kelomh
 螂	qpc	qepxcs
 暹	nar	nareja
 佾	axi	aexiho
@@ -24870,13 +24870,13 @@ encoder:
 嚏	esz	eesazicenp
 盥	iod	iwoadt
 袈	gev	gaeeva
-壢	ccl	cacnlelene
+壢	ccl	cacnlolone
 鵪	urj	uergje
 犖	rrt	rarazite
 蹂	nyl	nnysla
 猙	tiw	tniswk
 袱	vat	viaetn
-遴	nln	nalonz
+遴	nln	nalenz
 駙	tai	toaein
 鏝	fvi	favthaie
 嗾	eby	eebcyi
@@ -24886,7 +24886,7 @@ encoder:
 瞌	hud	hauddt
 濘	oph	oapehedtgt
 懣	osh	oasmskhe
-蝌	qld	qeledp
+蝌	qld	qelodp
 淆	oax	oaxrho
 酗	dxz	dkxnzn
 睽	hnu	hantul
@@ -24909,7 +24909,7 @@ encoder:
 蜢	qmd	qemedt
 崁	ccm	cicamt
 孳	kvm	kdvovome
-燐	rln	ralonz
+燐	rln	ralenz
 簷	kac	kaascnxiea
 鼴	tzr	tdztreua
 蹣	nss	nnsmsk
@@ -24917,7 +24917,7 @@ encoder:
 啕	emd	eemadx
 輜	boc	baoice
 韁	gsc	gwsrcece
-轔	bln	balonz
+轔	bln	balenz
 溘	oud	oauddt
 躪	nkp	nnkepoja
 撚	iht	iihotnra
@@ -24930,11 +24930,11 @@ encoder:
 犄	teu	teueer
 勗	rwg	rewmga
 綑	vzl	vezala
-瞇	hnl	hanalo
+瞇	hnl	hanale
 祐	wie	waioee
 痴	bye	bwyiee
 珮	fdv	fidlvn
-痲	bll	bwlklk
+痲	bll	bwllll
 倣	abi	aeboit
 韆	gnd	gwnadrirai
 瑯	fip	fipxcs
@@ -24948,6 +24948,6 @@ encoder:
 梱	lzl	lazala
 燄	adr	asdsrh
 鼕	?ko	?okmob
-囌	ekl	eekeqile
+囌	ekl	eekeqilo
 慇	mih	mmidhe
 嬝	ujv	uajeva

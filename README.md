@@ -376,3 +376,66 @@
 |三字|AaBaBcCaCc|不知道：艸戈口止心<br>對不起：工艸㊇止子|
 |四字|AaBaCaDaDc|飲水思源：食水心水水<br>似水流年：人水水木㈣|
 |四字以上|AaBaCaDaEa|中華人民共和國：十艸人事手<br>一氧化二氫：十水人十水|
+
+## 簡碼
+
+簡碼全部依據字頻自動生成。
+
+### 一簡
+
+根數要求：一根以上
+
+取碼法：取首碼（如果根區鍵是標點鍵、則還需再按一下特殊鍵）
+
+<table>
+	<tr>
+		<th colspan="10">繁</th>
+	</tr>
+	<tr align="center">
+		<td>乙<br>（國）</td><td>幺<br>（經）</td><td>艸<br>（在）</td><td>木<br>（樣）</td><td></td>
+		<td>声<br>（聲）</td><td>大<br>（好）</td><td>工<br>（對）</td><td>京<br>（家）</td><td>隹<br>（觀）</td>
+	</tr>
+	<tr align="center">
+		<td>十<br>（資）</td><td>火<br>（的）</td><td>水<br>（外）</td><td>口<br>（說）</td><td>食<br>（兒）</td>
+		<td>心<br>（然）</td><td>人<br>（們）</td><td>手<br>（看）</td><td>止<br>（這）</td><td>牛<br>（美）</td>
+	</tr>
+	<tr align="center">
+		<td>八<br>（學）</td><td>事<br>（望）</td><td>金<br>（現）</td><td>土<br>（地）</td><td></td>
+		<td></td><td>子<br>（孩）</td><td>到<br>（戈）</td><td>行<br>（得）</td><td>虫<br>（則）</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th colspan="10">简</th>
+	</tr>
+	<tr align="center">
+		<td>乙<br>（国）</td><td>幺<br>（经）</td><td>艸<br>（在）</td><td>木<br>（和）</td><td></td>
+		<td>声<br>（喜）</td><td>大<br>（她）</td><td>工<br>（怎）</td><td>京<br>（就）</td><td>隹<br>（集）</td>
+	</tr>
+	<tr align="center">
+		<td>十<br>（紧）</td><td>火<br>（的）</td><td>水<br>（没）</td><td>口<br>（说）</td><td>食<br>（斯）</td>
+		<td>心<br>（那）</td><td>人<br>（他）</td><td>手<br>（看）</td><td>止<br>（这）</td><td>牛<br>（美）</td>
+	</tr>
+	<tr align="center">
+		<td>八<br>（么）</td><td>事<br>（点）</td><td>金<br>（现）</td><td>土<br>（地）</td><td></td>
+		<td></td><td>子<br>（孩）</td><td>到<br>（戈）</td><td>行<br>（得）</td><td>虫<br>（则）</td>
+	</tr>
+</table>
+
+### 二簡
+
+根數要求：双根
+
+取碼法：AB=
+
+### 三簡
+
+根數要求：二根以上
+
+取碼法：
+|1|2|3|4|5|6|7|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|ABC|ABZ|AYZ|AaB|AaZ|ABb|AZz|
+
+重碼時、最常用的字得以保留編碼、其餘的字換下一个取碼法再試一次。

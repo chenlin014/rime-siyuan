@@ -26,12 +26,13 @@ switches:
 engine:
     processors:
         - lua_processor@*common.commit_n_return
+        - selector
+        - lua_processor@*xinzheng*proc
         - ascii_composer
         - recognizer
         - key_binder
         - speller
         - punctuator
-        - selector
         - navigator
         - express_editor
     segmentors:
@@ -98,3 +99,6 @@ editor:
 recognizer:
     patterns:
         reverse_lookup: "`[a-z]*'?$|[a-z]+'$"
+
+xinzheng:
+  special_symbol: "="

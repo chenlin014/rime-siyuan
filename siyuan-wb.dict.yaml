@@ -1554,7 +1554,7 @@ encoder:
 兔	th	thh
 敬	tumaeeit
 潮	oarl
-昂	rea,
+昂	reab
 飽	dama
 咳	eetg
 邪	hscs
@@ -1565,7 +1565,7 @@ encoder:
 桑	sviela
 續	veqq
 苑	keooai
-迎	naa,
+迎	naab
 弓	ya	yaa
 碎	cpv.
 余	pg	pgg
@@ -2550,7 +2550,7 @@ encoder:
 恥	hthe
 匹	ztar
 曦	retaloyegq
-仰	aea,
+仰	aeab
 煞	asigitra
 羞	taiz
 注	oars
@@ -2679,7 +2679,7 @@ encoder:
 遜	namexave
 甄	drcagj
 侍	aeip
-抑	iia,
+抑	iiab
 啞	eezm
 敖	bu	buu
 酮	dkde
@@ -12480,7 +12480,7 @@ encoder:
 献	?stn
 园	zaun
 杀	xnll
-卬	a,	a,,
+卬	ab	abb
 寻	igin
 邓	iecs
 茍	tumaee
@@ -15761,7 +15761,7 @@ encoder:
 𥣑	lokebb
 𣱽	oamh
 𧛈	viwx
-𠶐	eenaa,
+𠶐	eenaab
 媎	uari
 𩟻	darevu
 𩑰	rdhi
@@ -16426,7 +16426,7 @@ encoder:
 𨡼	dksoiedt
 𩻺	qijohe
 𠽋	eeztkeioee
-𫤋	easdeeaea,
+𫤋	easdeeaeab
 𢂎	vnyd
 𫜍	tknk
 𠱍	eetnai
@@ -17474,7 +17474,7 @@ encoder:
 𫵫	anuhiiam
 𨬉	facaja
 𢄩	vnvh
-𬳖	hgaea,
+𬳖	hgaeab
 𫁎	pcgemezo
 𥈢	hataue
 𨃺	nnvepf
@@ -18050,7 +18050,7 @@ encoder:
 𫴇	pekqieos
 𤋾	raen
 𠽙	eeaeih
-𥈁	hanaa,
+𥈁	hanaab
 𨀌	nnhw
 𫭵	caheiz
 𣔨	laneho
@@ -18978,7 +18978,7 @@ encoder:
 𫷙	?nlv
 𥓄	cpcr
 𦟸	hooaod
-𬚣	htneaea,
+𬚣	htneaeab
 𨀰	nnonoa
 𡏯	caqait
 𧢟	hzhu
@@ -19642,7 +19642,7 @@ encoder:
 𧓆	qeaevd
 𫩍	icotce
 𤺴	bww'aiie
-𢯤	iirea,
+𢯤	iireab
 𢡿	hepola
 𢟎	hebeni
 𥚅	wazoht
@@ -20040,7 +20040,7 @@ encoder:
 𮬩	heje
 𪾭	halh
 𪬪	kubghe
-𠳑	eeiia,
+𠳑	eeiiab
 𫱩	uaiepasmie
 𫶾	vnae
 𥙪	wazoff
@@ -20088,7 +20088,7 @@ encoder:
 𨇑	nnvrtr
 𫈜	keoayd
 𣼮	oaroaa
-𫤏	aeaahinaa,
+𫤏	aeaahinaab
 𥯒	kayvee
 𪠺	eeiiut
 𠼵	eeaepigt
@@ -20641,7 +20641,7 @@ encoder:
 𬔈	pcyd
 𫓒	fazvqn
 𨮌	fazlhi
-𨓑	sinaa,
+𨓑	sinaab
 𫄓	verntn
 𫐂	peuhba
 𪩨	ashamaoogc
@@ -22208,7 +22208,7 @@ encoder:
 𪰨	rehepr
 𡗎	hkbagnre
 𦀫	vepatn
-𠑕	aea,easdee
+𠑕	aeabeasdee
 𢩊	prrt
 𣊾	rejohe
 𠶯	eeiinc
@@ -23296,7 +23296,6 @@ encoder:
 晨	rq=	reqn
 紀	vm=	vems
 振	iqn=	iiqn
-塵	tca=	tkca
 敗	qit=	qait
 楓	ljs=	lajs
 誤	eef=	eaef
@@ -23312,13 +23311,13 @@ encoder:
 妞	uiz=	uaiz
 邱	ccs=	cgcs
 潮	orl=	oarl
-昂	ra=	rea,
+昂	ra=	reab
 飽	dma=	dama
 咳	etg=	eetg
 邪	hsc=	hscs
 促	ann=	aenn
 續	vq=	veqq
-迎	na,=	naa,
+迎	nab=	naab
 碎	cv.=	cpv.
 迪	nyd=	nayd
 牠	tqo=	teqo
@@ -23790,7 +23789,7 @@ encoder:
 迅	njk=	najk
 恥	hth=	hthe
 匹	za=	ztar
-仰	aa,=	aea,
+仰	aab=	aeab
 羞	tiz=	taiz
 注	or=	oars
 瞳	ham=	hamd
@@ -23852,7 +23851,7 @@ encoder:
 泳	oos=	oaos
 玫	fit=	fiit
 侍	aip=	aeip
-抑	ia,=	iia,
+抑	iab=	iiab
 啞	ezm=	eezm
 毫	phq=	pihq
 妥	iua=	isua
@@ -24179,6 +24178,7 @@ encoder:
 烘	riv=	raiv
 鍛	fcb=	facb
 麒	tdo=	tkdo
+泪	oha=	oaha
 毯	hrh=	hqrh
 鐸	fw,=	faw,
 邸	wcs=	w.cs
@@ -24299,7 +24299,7 @@ encoder:
 鵲	oje=	ocje
 鑰	f?=	fa?v
 焙	rkg=	rakg
-牡	tec=	teca
+牡	tca=	teca
 秧	lup=	loup
 飢	db=	dabs
 狸	tcr=	tncr
@@ -24971,6 +24971,7 @@ encoder:
 貍	tbc=	tbcr
 霉	omg=	otmg
 晒	rd=	redr
+尘	xc=	xoca
 耸	aht=	aoht
 怂	ahe=	aohe
 玨	ffi=	fifi
@@ -25189,7 +25190,6 @@ encoder:
 宏	piz	peiozh
 例	ahf	aehffe
 產	uck	uicnkr
-淚	opt	oaprtn
 聖	hea	hteeac
 遊	nbm	nabcme
 怒	uih	uaiehe
@@ -26300,7 +26300,7 @@ encoder:
 銬	fmg	fampgq
 癩	blq	bwlifeqa
 淅	olg	oalagn
-澹	oxe	oaascnxiea
+澹	oac	oaascnxiea
 辟	anw	aneewi
 欖	lwh	lawphu
 譏	evv	eavovoyeae
@@ -26477,7 +26477,7 @@ encoder:
 旖	bue	bcueer
 稔	ldh	loduhe
 詫	epk	eapekp
-瀋	oac	oapetvce
+瀋	opt	oapetvce
 啾	elr	eelora
 腱	hob	hobdwo
 鱸	qtc	qittcedt

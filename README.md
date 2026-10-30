@@ -173,7 +173,8 @@
 	<tr>
 		<td>㗊（器）</td>
 		<td>亼（命）</td>
-		<td>𠂇（有）</td>
+		<td>𠂇（左）</td>
+		<td>廾（右）</td>
 		<td>扌（承）</td>
 		<td>卝（芈）</td>
 	</tr>
@@ -411,7 +412,7 @@
 	</tr>
 	<tr align="center">
 		<td>十<br>（資）</td><td>火<br>（的）</td><td>水<br>（外）</td><td>口<br>（說）</td><td>食<br>（兒）</td>
-		<td>心<br>（然）</td><td>人<br>（們）</td><td>手<br>（看）</td><td>止<br>（這）</td><td>牛<br>（美）</td>
+		<td>心<br>（然）</td><td>人<br>（們）</td><td>手<br>（有）</td><td>止<br>（這）</td><td>牛<br>（美）</td>
 	</tr>
 	<tr align="center">
 		<td>八<br>（學）</td><td>事<br>（望）</td><td>金<br>（現）</td><td>土<br>（地）</td><td></td>
@@ -429,7 +430,7 @@
 	</tr>
 	<tr align="center">
 		<td>十<br>（紧）</td><td>火<br>（的）</td><td>水<br>（没）</td><td>口<br>（说）</td><td>食<br>（斯）</td>
-		<td>心<br>（那）</td><td>人<br>（他）</td><td>手<br>（看）</td><td>止<br>（这）</td><td>牛<br>（美）</td>
+		<td>心<br>（那）</td><td>人<br>（他）</td><td>手<br>（有）</td><td>止<br>（这）</td><td>牛<br>（美）</td>
 	</tr>
 	<tr align="center">
 		<td>八<br>（么）</td><td>事<br>（点）</td><td>金<br>（现）</td><td>土<br>（地）</td><td></td>

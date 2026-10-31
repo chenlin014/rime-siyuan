@@ -154,6 +154,7 @@
 
 <table>
 	<tr>
+		<td>𠂊·兜</td>
 		<td>丮·丸</td>
 		<td>串·毌</td>
 		<td>𠂤·㠯</td>
@@ -411,7 +412,7 @@
 		<td>声<br>（聲）</td><td>大<br>（好）</td><td>工<br>（對）</td><td>京<br>（家）</td><td>隹<br>（觀）</td>
 	</tr>
 	<tr align="center">
-		<td>十<br>（資）</td><td>火<br>（的）</td><td>水<br>（外）</td><td>口<br>（說）</td><td>食<br>（兒）</td>
+		<td>十<br>（資）</td><td>火<br>（的）</td><td>水<br>（外）</td><td>口<br>（說）</td><td>食<br>（頭）</td>
 		<td>心<br>（然）</td><td>人<br>（們）</td><td>手<br>（有）</td><td>止<br>（這）</td><td>牛<br>（美）</td>
 	</tr>
 	<tr align="center">

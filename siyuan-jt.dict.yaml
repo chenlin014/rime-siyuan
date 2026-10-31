@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-jt
-version: "2026-10-30"
+version: "2026-10-31"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -867,7 +867,7 @@ encoder:
 紙	wfxy
 乃	mh	mhh
 覺	zohu
-右	kd	kdd
+右	ksff
 塔	vjefgk
 準	djpjaj
 拖	kkj;/d
@@ -1897,7 +1897,7 @@ encoder:
 漫	djsfaakf
 溜	djcavf
 彥	ukvlz;
-棄	mvamrj
+棄	kd	kdd
 扇	ospr
 婷	ujoki;
 菸	efps
@@ -9267,7 +9267,7 @@ encoder:
 弽	,jaurj
 嫇	ujqksfor
 繣	wfvv
-弃	mvkd
+弃	kd	kdd
 蒱	efkkvc
 菼	efsh
 穄	rdhdkfxj
@@ -22936,6 +22936,7 @@ encoder:
 呵	fff=	fffs
 紙	wfx=	wfxy
 覺	zhu=	zohu
+右	kff=	ksff
 摸	ke=	kkew
 松	rz=	rjzi
 爸	i/=	io/s
@@ -23142,7 +23143,6 @@ encoder:
 症	.xl=	.xlg
 功	ii=	ifij
 浪	do=	djoz
-扣	kff=	kkff
 泰	kdj=	kddj
 忠	ahf=	alhf
 吸	fkr=	ffkr
@@ -26353,7 +26353,6 @@ encoder:
 裄	wk.=	wk.f
 韎	lru=	lzru
 繣	wvv=	wfvv
-弃	mkd=	mvkd
 靻	ix=	ixxm
 尃	vck=	vckl
 蝃	/kb=	/fkb
@@ -30633,7 +30632,6 @@ encoder:
 漫	dsa	djsfaakf
 溜	dcv	djcavf
 彥	ukz	ukvlz;
-棄	mar	mvamrj
 婷	uoi	ujoki;
 憂	hhl	hkhfld
 淘	djm	djmjgz

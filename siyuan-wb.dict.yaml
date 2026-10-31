@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-wb
-version: "2026-10-30"
+version: "2026-10-31"
 sort: by_weight
 use_preset_vocabulary: false
 vocabulary: essay-sy
@@ -868,7 +868,7 @@ encoder:
 紙	vew?
 乃	mh	mhh
 覺	xphu
-右	io	ioo
+右	iree
 塔	cakedi
 準	oajasa
 拖	iiatqo
@@ -1898,7 +1898,7 @@ encoder:
 漫	oavthaie
 溜	oafsce
 彥	uicnxt
-棄	mcdoio
+棄	io	ioo
 扇	prjl
 婷	uapigt
 菸	kejr
@@ -9268,7 +9268,7 @@ encoder:
 弽	yasula
 嫇	uazireieir
 繣	vecc
-弃	mcio
+弃	io	ioo
 蒱	keiicf
 菼	kerh
 穄	lohoiewa
@@ -22584,7 +22584,7 @@ encoder:
 問	pe=	poee
 該	et=	eatg
 快	hft=	heft
-別	hfe=	hwfe
+別	hf=	hwfe
 裏	vc=	vacr
 加	ge=	gaee
 所	pg=	prgn
@@ -22793,7 +22793,7 @@ encoder:
 需	oh=	othc
 論	ew=	eawx
 痛	bdv=	bwdv
-列	hff=	hffe
+列	hfe=	hffe
 封	ci=	chin
 眼	hd=	hadm
 冷	oeu=	oneu
@@ -22816,7 +22816,7 @@ encoder:
 庫	pba=	paba
 物	tf=	tefr
 泡	oma=	oama
-體	hf=	hvfu
+體	hfu=	hvfu
 追	nc=	nacq
 背	aho=	auho
 腳	hay=	hoay
@@ -22867,7 +22867,7 @@ encoder:
 野	cz=	crzl
 綠	vgv=	vegv
 項	geh=	gehi
-胖	hof=	hoff
+胖	hff=	hoff
 故	eit=	etit
 兵	gi=	gnio
 英	ku=	keup
@@ -22952,6 +22952,7 @@ encoder:
 呵	eee=	eeer
 紙	vw?=	vew?
 覺	xh=	xphu
+右	iee=	iree
 摸	ikv=	iikv
 訂	egt=	eagt
 松	lxg=	laxg
@@ -23168,12 +23169,11 @@ encoder:
 逃	nog=	naog
 納	vp=	vepf
 姚	uo=	uaog
-休	al=	aela
+休	ala=	aela
 症	bnd=	bwnd
 功	gg=	gega
 釦	fee=	faee
 浪	op=	oapx
-扣	iee=	iiee
 忠	sh=	snhe
 吸	eil=	eeil
 森	lsv=	lasv
@@ -23783,7 +23783,7 @@ encoder:
 馳	toq=	toqo
 襲	qv=	qhva
 泊	orr=	oarr
-撫	ius=	iius
+撫	iiu=	iius
 媛	ui.=	uai.
 拎	ieu=	iieu
 繪	vdg=	vedg
@@ -24897,7 +24897,7 @@ encoder:
 哂	edr=	eedr
 佣	aco=	aeco
 仞	afd=	aefd
-廡	pus=	paus
+廡	pau=	paus
 耦	gqc=	guqc
 喳	elp=	eelp
 啐	ev.=	eev.
@@ -25161,7 +25161,7 @@ encoder:
 揸	ilp=	iilp
 銖	flb=	falb
 闈	pnx=	ponx
-嫵	uus=	uaus
+嫵	uau=	uaus
 璦	fmq=	fimq
 蔦	kje=	keje
 唇	qee=	qnee
@@ -26955,7 +26955,6 @@ encoder:
 伬	agf=	aegf
 錏	fzm=	fazm
 媬	uml=	uaml
-殣	hfu=	hfuw
 聱	bht=	btht
 攦	itf=	iitf
 尭	kub=	koub
@@ -26991,7 +26990,6 @@ encoder:
 裄	vib=	vibe
 韎	nlu=	nxlu
 繣	vcc=	vecc
-弃	mio=	mcio
 鰒	qnf=	qinf
 壌	cav=	cavu
 抇	iir=	iire
@@ -27187,6 +27185,7 @@ encoder:
 唗	eni=	eeni
 鋘	fef=	faef
 鈶	fmv=	famv
+肕	hof=	hofd
 痁	bwc=	bwwc
 騇	top=	topy
 芛	kwk=	kewk
@@ -28083,7 +28082,7 @@ encoder:
 决	oft=	onft
 袜	vlu=	vilu
 卺	iai=	i?ai
-异	mri=	mrio
+异	mio=	mrio
 苁	kao=	keao
 虬	qzo=	qezo
 秆	loy=	loyh
@@ -28096,7 +28095,7 @@ encoder:
 芦	kpr=	kepr
 奋	uce=	uece
 邮	ydc=	ydcs
-体	alm=	aelm
+体	al=	aelm
 优	aib=	aeib
 犹	tib=	tnib
 烛	raq=	raqe
@@ -28285,7 +28284,7 @@ encoder:
 玑	fbs=	fibs
 靓	ksh=	kshu
 耧	guu=	guuh
-抚	iiu=	iius
+抚	ius=	iius
 抴	isu=	iisu
 拢	iiq=	iiqh
 损	ifm=	iifm
@@ -28502,7 +28501,7 @@ encoder:
 讯	ejk=	eajk
 记	ems=	eams
 娈	uua=	uxua
-庑	pau=	paus
+庑	pus=	paus
 疠	bwa=	bwaw
 闫	pos=	posr
 库	pab=	paba
@@ -28579,9 +28578,10 @@ encoder:
 陇	ctq=	ctqh
 孙	mex=	mexo
 弥	yvv=	yavv
+导	mri=	mrin
 𠙶	mzn=	mozn
 纡	ve?=	ve?i
-妩	uau=	uaus
+妩	uus=	uaus
 娅	uaz=	uazm
 结	vef=	vefp
 绪	ver=	veri
@@ -30146,13 +30146,13 @@ encoder:
 ⿔	xqt=	xdqt
 ⿕	x?=	xd?v
 沒	ooi	oaorie
-個	aze	aezaet
+個	aez	aezaet
 呢	eaa	eeanaa
 恩	zuh	zauehe
 做	aei	aeetit
 想	lhh	lahahe
 後	bvn	bevono
-從	ban	beaone
+從	bea	beaone
 將	bhi	brhoin
 啦	eiu	eeiiuo
 嗯	ezu	eezauehe
@@ -30236,7 +30236,7 @@ encoder:
 混	ora	oaream
 操	ies	iieesvla
 德	bhh	behhhe
-局	anz	anzeee
+局	aze	anzeee
 整	lin	liitnd
 傻	ahx	aehdxino
 呃	ecn	eecnai
@@ -30650,7 +30650,6 @@ encoder:
 漫	ovh	oavthaie
 溜	ofc	oafsce
 彥	uic	uicnxt
-棄	mdi	mcdoio
 婷	upg	uapigt
 憂	hhn	hiheno
 淘	oam	oamadx
@@ -30995,7 +30994,7 @@ encoder:
 掰	ifi	iafcia
 伽	age	aegaee
 嬰	qqu	qaqaua
-痣	bwn	bwnrhe
+痣	bnh	bwnrhe
 廂	plh	palaha
 隋	cih	ctirgeho
 蘊	kvz	kevezaaedt
@@ -31123,7 +31122,7 @@ encoder:
 唆	ezn	eezharno
 綜	vep	vepewa
 詢	emr	eamare
-聳	bah	beaoneht
+聳	ban	beaoneht
 堰	czr	caztreua
 棺	lac	lapecq
 腥	hrk	horekr
@@ -31426,7 +31425,7 @@ encoder:
 蹈	nid	nnisds
 沼	ofe	oafeee
 襠	vip	vipsce
-慫	bnh	beaonehe
+慫	bah	beaonehe
 懲	bbh	bebhache
 逞	nea	naeeac
 脲	hao	hoanoa
@@ -34147,7 +34146,7 @@ encoder:
 薣	k?k	ke?okm
 醧	dze	dkzteesv
 轒	bkq	bakoqa
-軦	bea	baeear
+軦	bar	baeear
 憖	ltn	lrtnhe
 礵	cph	cpotlaha
 黵	rac	rnascnxiea
@@ -35460,7 +35459,7 @@ encoder:
 联	htk	htkdue
 帮	lsv	lscsvn
 热	iut	iiutra
-暂	bar	bagnre
+暂	bre	bagnre
 腻	hsq	hoytsoqa
 装	brf	brfnva
 将	bro	brooin
@@ -35545,7 +35544,6 @@ encoder:
 轰	bie	baieie
 匮	zti	ztiuqa
 轵	bxi	baeexi
-辊	bre	baream
 辋	bav	bavrwn
 轿	bxs	baxaueso
 殴	zxi	ztxnid
@@ -37758,6 +37756,7 @@ encoder:
 𢪉	iys	iiyash
 𤣚	tfa	tnfuasai
 𠶎	ebe	eebehb
+𩭆	mdi	mnxtdi
 𫡎	csq	cpsvqu
 𥽄	lvp	levepueear
 𢵌	icx	iictxiti
@@ -37812,7 +37811,6 @@ encoder:
 𦏓	wtl	wkeetalm
 𢇉	voz	vozeuiin
 𠟥	xef	xoueeife
-𪅬	aez	aeztreuaje
 𦛿	hwn	hokewn
 𤳨	ywg	ydwagv
 𨃝	nbe	nnbeni
@@ -38126,6 +38124,7 @@ encoder:
 𠿴	eqy	eecpqy
 𪺤	bhf	bvhwfe
 𲎚	f?k	fiio?okm
+𪁵	anz	anzeeeje
 𬊊	rfi	rafiio
 𩠘	hgo	hgoowe
 𢗠	hfo	hefofe
@@ -38841,6 +38840,7 @@ encoder:
 𡎦	aow	aocaoowe
 𬠢	qww	qewawm
 𠐅	ahp	aehtpewm
+𤸭	bwn	bwbeni
 𣍍	ztz	zithzv
 𣉶	rgu	reguhq
 𫑊	ngf	nagafm

@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-ft
-version: "2026-10-30"
+version: "2026-10-31"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -867,7 +867,7 @@ encoder:
 紙	wfxy
 乃	mh	mhh
 覺	zohu
-右	kd	kdd
+右	ksff
 塔	vjefgk
 準	djpjaj
 拖	kkj;/d
@@ -1897,7 +1897,7 @@ encoder:
 漫	djw;aakf
 溜	djcavf
 彥	ukvlz;
-棄	mvamrj
+棄	kd	kdd
 扇	ospr
 婷	ujoki;
 菸	efps
@@ -9267,7 +9267,7 @@ encoder:
 弽	,jaurj
 嫇	ujqksfor
 繣	wfvv
-弃	mvkd
+弃	kd	kdd
 蒱	efkkvc
 菼	efsh
 穄	rdhdkfxj
@@ -22953,6 +22953,7 @@ encoder:
 呵	fff=	fffs
 紙	wxy=	wfxy
 覺	zh=	zohu
+右	kff=	ksff
 摸	kew=	kkew
 訂	fi;=	fji;
 松	rzi=	rjzi
@@ -23174,7 +23175,7 @@ encoder:
 功	ii=	ifij
 釦	cff=	cjff
 浪	do=	djoz
-扣	kff=	kkff
+扣	kkf=	kkff
 泰	kdj=	kddj
 忠	ahf=	alhf
 吸	fkr=	ffkr
@@ -26985,7 +26986,6 @@ encoder:
 裄	wk.=	wk.f
 韎	lru=	lzru
 繣	wvv=	wfvv
-弃	mkd=	mvkd
 鰒	/lc=	/klc
 壌	vjw=	vjwu
 抇	kks=	kksf
@@ -28088,7 +28088,7 @@ encoder:
 决	dc;=	dlc;
 袜	wru=	wkru
 卺	kjk=	kyjk
-异	mak=	makd
+异	mkd=	makd
 苁	ejd=	efjd
 虬	/qd=	/fqd
 秆	rd,=	rd,h
@@ -28775,7 +28775,6 @@ encoder:
 閍	o.d=	od.d
 鹛	hmp=	hmpf
 鸤	jlp=	jlpf
-双	kkf=	kfkf
 𫠊	;we=	;dwe
 陨	v;c=	v;cm
 陉	v;w=	v;wa
@@ -30650,7 +30649,6 @@ encoder:
 漫	dwa	djw;aakf
 溜	dcv	djcavf
 彥	ukv	ukvlz;
-棄	mar	mvamrj
 婷	uoi	ujoki;
 憂	hhl	hkhfld
 淘	djm	djmjgz

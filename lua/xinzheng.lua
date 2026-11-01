@@ -2,6 +2,8 @@ local key_conv = require("common/key_conv")
 local casing = require("common/casing")
 
 local M = {}
+local first_char = nil
+local first_word = nil
 
 M.proc = {}
 
@@ -37,19 +39,27 @@ function M.proc.func(key, env)
 	local back_seg = context.composition:back()
 	local seg_length = back_seg.length
 
-	if back_seg:has_tag("abc") and key_sym and env.alphabet:find(key_sym,1,true) then
-		if input:sub(-1,-1) == env.special_symbol then
-			if #input > 1 then
+	if back_seg:has_tag("abc") and seg_length >= env.max_code_length then
+		if key_sym and env.alphabet:find(key_sym,1,true) then
+			if context:get_option("up_first_char") and first_char then
+				env.engine:commit_text(first_char)
 				context:clear()
-				context:push_input(input:sub(1,-2)..key_sym)
-				return 1
+			elseif context:get_option("up_first_word") and first_word then
+				env.engine:commit_text(first_word)
+				context:clear()
+			elseif commit_text and key_sym ~= env.special_symbol then
+				env.engine:commit_text(commit_text)
+				context:clear()
 			end
-		elseif seg_length >= env.max_code_length then
-			if not env.initials:find(key_sym,1,true) then
-				if commit_text and key_sym ~= env.special_symbol then
-					env.engine:commit_text(commit_text)
-					context:clear()
-				end
+		elseif key_repr == "space" then
+			if context:get_option("up_first_char") and first_word then
+				env.engine:commit_text(first_word)
+				context:clear()
+				return 1
+			elseif context:get_option("up_first_word") and first_char then
+				env.engine:commit_text(first_char)
+				context:clear()
+				return 1
 			end
 		end
 	elseif env.is_special_key[key_repr] and input:match("^[a-z]$") then
@@ -64,10 +74,20 @@ end
 M.filter = {}
 
 function M.filter.init(env)
+	local context = env.engine.context
 end
 
 function M.filter.func(input, env)
+	local context = env.engine.context
+	first_char = nil
+	first_word = nil
+
 	for cand in input:iter() do
+		if utf8.len(cand.text) == 1 then
+			first_char = first_char or cand.text
+		elseif utf8.len(cand.text) > 1 then
+			first_word = first_word or cand.text
+		end
 		yield(cand)
 	end
 end

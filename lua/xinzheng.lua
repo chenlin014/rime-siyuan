@@ -11,6 +11,17 @@ function M.proc.init(env)
 	env.initials = config:get_string("speller/initials") or env.alphabet
 	env.max_code_length = config:get_int("speller/max_code_length") or 100
 	env.special_symbol = config:get_string("xinzheng/special_symbol") or ""
+
+	local special_keys = config:get_list("xinzheng/special_keys")
+	if special_keys then
+		env.is_special_key = {}
+		for i=1, special_keys.size do
+			local key = special_keys:get_value_at(i-1)
+			if key then
+				env.is_special_key[key.value] = true
+			end
+		end
+	end
 end
 
 function M.proc.fini(env)
@@ -41,9 +52,24 @@ function M.proc.func(key, env)
 				end
 			end
 		end
+	elseif env.is_special_key[key_repr] and input:match("^[a-z]$") then
+		env.engine:commit_text(input)
+		context:clear()
+		return 1
 	end
 
 	return 2
+end
+
+M.filter = {}
+
+function M.filter.init(env)
+end
+
+function M.filter.func(input, env)
+	for cand in input:iter() do
+		yield(cand)
+	end
 end
 
 return M

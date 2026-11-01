@@ -26,8 +26,8 @@ switches:
 engine:
     processors:
         - lua_processor@*common.commit_n_return
-        - selector
         - lua_processor@*xinzheng*proc
+        - selector
         - ascii_composer
         - recognizer
         - key_binder
@@ -49,10 +49,11 @@ engine:
         - simplifier@traditional
         - simplifier
         - uniquifier
+        - lua_filter@*xinzheng*filter
 
 speller:
-    alphabet: zyxwvutsrqponmlkjihgfedcba;,./=
-    initials: zyxwvutsrqponmlkjihgfedcba;,./
+    alphabet: zyxwvutsrqpomlkjihgfedca;,./=
+    initials: zyxwvutsrqpomlkjihgfedca;,./
     max_code_length: 4
     auto_select: true
     auto_select_pattern: ".{1,3}="
@@ -102,3 +103,4 @@ recognizer:
 
 xinzheng:
   special_symbol: "="
+  special_keys: ["b", "n"]

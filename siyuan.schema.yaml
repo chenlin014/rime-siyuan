@@ -38,12 +38,14 @@ engine:
     segmentors:
         - ascii_segmentor
         - matcher
+        - affix_segmentor@no_max_code
         - abc_segmentor
         - punct_segmentor
         - fallback_segmentor
     translators:
         - punct_translator
         - table_translator
+        - table_translator@no_max_code
         - reverse_lookup_translator
     filters:
         - simplifier@traditional
@@ -68,6 +70,12 @@ translator:
     dictionary: siyuan-ft # 繁體
     #dictionary: siyuan-jt # 简体
     enable_user_dict: false
+
+no_max_code:
+  tag: no_max_code
+  dictionary: siyuan-ft
+  prefix: "b"
+  tips: 〔不限長〕
 
 reverse_lookup:
     dictionary: luna_pinyin
@@ -100,6 +108,7 @@ editor:
 recognizer:
     patterns:
         reverse_lookup: "`[a-z]*'?$|[a-z]+'$"
+        no_max_code: "^b.*$"
 
 xinzheng:
   special_symbol: "="

@@ -40,7 +40,12 @@ function M.proc.func(key, env)
 	local back_seg = context.composition:back()
 	local seg_length = back_seg.length
 
-	if back_seg:has_tag("abc") and seg_length >= env.max_code_length then
+	local max_code_length = env.max_code_length
+	if context:get_option("sanma_mode") then
+		max_code_length = 3
+	end
+
+	if back_seg:has_tag("abc") and seg_length >= max_code_length then
 		if key_sym and env.alphabet:find(key_sym,1,true) and has_done_cand then
 			if context:get_option("up_first_char") and first_char then
 				env.engine:commit_text(first_char)

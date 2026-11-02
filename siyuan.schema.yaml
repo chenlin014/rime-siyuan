@@ -12,19 +12,21 @@ schema:
         - pinyin_simp
 
 switches:
-    - name: ascii_mode
-      reset: 0
-      states: [ 中文, 西文 ]
-    - name: full_shape
-      states: [ 半角, 全角 ]
     - options: [ no_change, zh_trad, zh_simp ]
       states: [ 无轉換, 傳統漢字, 简化汉字 ]
       reset: 0
+    - name: sanma_mode
+      states: [ 四碼, 三碼 ]
     - options: [ up_chosen, up_first_char, up_first_word ]
       states: [ 上屏選中, 上屏首字, 上屏首詞 ]
       reset: 0
+    - name: full_shape
+      states: [ 半角, 全角 ]
     - name: ascii_punct
       states: [ 。，, ．， ]
+    - name: ascii_mode
+      reset: 0
+      states: [ 中文, 西文 ]
 
 engine:
     processors:
@@ -61,7 +63,7 @@ speller:
     initials: zyxwvutsrqpomlkjihgfedca;,./
     max_code_length: 4
     auto_select: true
-    auto_select_pattern: ".{1,3}="
+    auto_select_pattern: ".+="
     #auto_select_unique_candidate: true
     algebra:
       - xform/^([a-z])=$/$1/

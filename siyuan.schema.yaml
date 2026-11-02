@@ -20,6 +20,9 @@ switches:
     - options: [ no_change, zh_trad, zh_simp ]
       states: [ 无轉換, 傳統漢字, 简化汉字 ]
       reset: 0
+    - options: [ up_chosen, up_first_char, up_first_word ]
+      states: [ 上屏選中, 上屏首字, 上屏首詞 ]
+      reset: 0
     - name: ascii_punct
       states: [ 。，, ．， ]
 

@@ -4,6 +4,7 @@ local casing = require("common/casing")
 local M = {}
 local first_char = nil
 local first_word = nil
+local has_done_cand = false
 
 M.proc = {}
 
@@ -40,7 +41,7 @@ function M.proc.func(key, env)
 	local seg_length = back_seg.length
 
 	if back_seg:has_tag("abc") and seg_length >= env.max_code_length then
-		if key_sym and env.alphabet:find(key_sym,1,true) then
+		if key_sym and env.alphabet:find(key_sym,1,true) and has_done_cand then
 			if context:get_option("up_first_char") and first_char then
 				env.engine:commit_text(first_char)
 				context:clear()
@@ -81,12 +82,16 @@ function M.filter.func(input, env)
 	local context = env.engine.context
 	first_char = nil
 	first_word = nil
+	has_done_cand = false
 
 	for cand in input:iter() do
 		if utf8.len(cand.text) == 1 then
 			first_char = first_char or cand.text
 		elseif utf8.len(cand.text) > 1 then
 			first_word = first_word or cand.text
+		end
+		if cand.comment == "" then
+			has_done_cand = true
 		end
 		yield(cand)
 	end

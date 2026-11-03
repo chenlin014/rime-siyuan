@@ -4,6 +4,7 @@ local casing = require("common/casing")
 local M = {}
 local first_char = nil
 local first_word = nil
+local two_root_combo = nil
 local has_done_cand = false
 
 M.proc = {}
@@ -67,6 +68,12 @@ function M.proc.func(key, env)
 				context:clear()
 				return 1
 			end
+		elseif env.is_special_key[key_repr] and seg_length == 4 then
+			if two_root_combo then
+				env.engine:commit_text(two_root_combo)
+				context:clear()
+				return 1
+			end
 		end
 	elseif env.is_special_key[key_repr] and input:match("^[a-z]$") then
 		env.engine:commit_text(input)
@@ -80,15 +87,42 @@ end
 M.filter = {}
 
 function M.filter.init(env)
-	local context = env.engine.context
+	local schema = Schema(env.engine.schema.schema_id or "")
+	env.tran = Component.Translator(env.engine, schema, "translator", "table_translator")
 end
 
 function M.filter.func(input, env)
 	local context = env.engine.context
+	local seg = env.engine.context.composition:back()
+
+	local text1 = nil
+	local text2 = nil
+	if seg.length == 4 then
+		local code = context.input:sub(-4,-1)
+		local t1 = env.tran:query(code:sub(1,2), seg)
+		if t1 then
+			for cand in t1:iter() do
+				text1 = cand.text
+				break
+			end
+		end
+		local t2 = env.tran:query(code:sub(-2,-1), seg)
+		if t2 then
+			for cand in t2:iter() do
+				text2 = cand.text
+				break
+			end
+		end
+	end
+
+	two_root_combo = nil
+	if text1 and text2 then
+		two_root_combo = text1 .. text2
+	end
+
 	first_char = nil
 	first_word = nil
 	has_done_cand = false
-
 	for cand in input:iter() do
 		if utf8.len(cand.text) == 1 then
 			first_char = first_char or cand.text

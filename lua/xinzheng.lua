@@ -2,9 +2,10 @@ local key_conv = require("common/key_conv")
 local casing = require("common/casing")
 
 local M = {}
-local first_char = nil
-local first_word = nil
-local two_root_combo = nil
+local first_char_ind = nil
+local first_word_ind = nil
+local root_combo = nil
+local root_combo_ind = 2
 local has_done_cand = false
 
 M.proc = {}
@@ -48,30 +49,29 @@ function M.proc.func(key, env)
 
 	if back_seg:has_tag("abc") and seg_length >= max_code_length then
 		if key_sym and env.alphabet:find(key_sym,1,true) and has_done_cand then
-			if context:get_option("up_first_char") and first_char then
-				env.engine:commit_text(first_char)
-				context:clear()
-			elseif context:get_option("up_first_word") and first_word then
-				env.engine:commit_text(first_word)
-				context:clear()
+			if context:get_option("up_first_char") and first_char_ind then
+				context:select(first_char_ind)
+				context:commit()
+			elseif context:get_option("up_first_word") and first_word_ind then
+				context:select(first_word_ind)
+				context:commit()
 			elseif commit_text and key_sym ~= env.special_symbol then
-				env.engine:commit_text(commit_text)
-				context:clear()
+				context:commit()
 			end
 		elseif key_repr == "space" then
-			if context:get_option("up_first_char") and first_word then
-				env.engine:commit_text(first_word)
-				context:clear()
+			if context:get_option("up_first_char") and first_word_ind then
+				context:select(first_word_ind)
+				context:commit()
 				return 1
-			elseif context:get_option("up_first_word") and first_char then
-				env.engine:commit_text(first_char)
-				context:clear()
+			elseif context:get_option("up_first_word") and first_char_ind then
+				context:select(first_char_ind)
+				context:commit()
 				return 1
 			end
 		elseif env.is_special_key[key_repr] and seg_length == 4 then
-			if two_root_combo then
-				env.engine:commit_text(two_root_combo)
-				context:clear()
+			if root_combo then
+				context:select(root_combo_ind)
+				context:commit()
 				return 1
 			end
 		end
@@ -115,22 +115,28 @@ function M.filter.func(input, env)
 		end
 	end
 
-	two_root_combo = nil
+	root_combo = nil
 	if text1 and text2 then
-		two_root_combo = text1 .. text2
+		root_combo = text1 .. text2
 	end
 
-	first_char = nil
-	first_word = nil
+	first_char_ind = nil
+	first_word_ind = nil
 	has_done_cand = false
+	local cand_count = 0
 	for cand in input:iter() do
+		cand_count = cand_count + 1
 		if utf8.len(cand.text) == 1 then
-			first_char = first_char or cand.text
+			first_char_ind = first_char_ind or (cand_count - 1)
 		elseif utf8.len(cand.text) > 1 then
-			first_word = first_word or cand.text
+			first_word_ind = first_word_ind or (cand_count - 1)
 		end
 		if cand.comment == "" then
 			has_done_cand = true
+		end
+		if root_combo and cand_count == root_combo_ind+1 then
+			yield(Candidate("siyuan", seg.start, seg._end, root_combo, "〔根〕"))
+			cand_count = cand_count + 1
 		end
 		yield(cand)
 	end

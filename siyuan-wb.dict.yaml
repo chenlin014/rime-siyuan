@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-wb
-version: "2026-10-31"
+version: "2026-11-02"
 sort: by_weight
 use_preset_vocabulary: false
 vocabulary: essay-sy
@@ -31,7 +31,7 @@ encoder:
 在	knca
 你	aevv
 和	loee
-有	irho
+有	ir	irr
 不	ki	kii
 就	pnib
 都	rics
@@ -211,7 +211,7 @@ encoder:
 本	lm	lmm
 偶	aeqc
 頁	hi	hii
-進	naja
+進	na	naa
 性	hekr
 第	kaym
 完	peun
@@ -315,7 +315,7 @@ encoder:
 李	lame
 笑	kaxaue
 自	hn	hnn
-邊	na	naa
+邊	nahnpcbo
 型	ptfeca
 黑	rn	rnn
 慢	hevthaie
@@ -500,7 +500,7 @@ encoder:
 雨	ot	ott
 貨	adqa
 唱	eeep
-左	ir	irr
+左	irge
 藍	kewp
 縣	v,	v,,
 常	psvn
@@ -12847,7 +12847,7 @@ encoder:
 埘	carein
 坝	caqa
 趱	ninwnwqa
-进	napt
+进	na	naa
 辇	ururba
 规	urhu
 赵	nixn
@@ -14041,7 +14041,7 @@ encoder:
 迳	navs
 迟	nagf
 逊	namexo
-边	na	naa
+边	naga
 辽	namo
 骊	totf
 颈	vshi
@@ -22520,11 +22520,11 @@ encoder:
 # 簡碼
 的	r=	rrdh
 在	k=	knca
-有	i=	irho
 好	u=	uame
 說	e=	eaxy
 到	y=	ynfe
 對	g=	grsein
+看	i=	iaha
 這	n=	naea
 地	c=	caqo
 得	b=	beqy
@@ -22553,7 +22553,6 @@ encoder:
 他	aq=	aeqo
 還	nv=	navg
 那	hc=	hlcs
-看	ih=	iaha
 嗎	eto=	eeto
 她	uq=	uaqo
 給	vd=	vedi
@@ -22611,7 +22610,6 @@ encoder:
 拉	iu=	iiuo
 弄	fi=	fiio
 偶	aqc=	aeqc
-進	nj=	naja
 性	hkr=	hekr
 第	ky=	kaym
 完	pun=	peun
@@ -22755,6 +22753,7 @@ encoder:
 理	fc=	ficr
 貨	adq=	adqa
 唱	eep=	eeep
+左	ige=	irge
 藍	kwp=	kewp
 常	pv=	psvn
 色	aa=	asai
@@ -23593,7 +23592,7 @@ encoder:
 郵	kcs=	kccs
 惜	hoc=	heoc
 浦	ocf=	oacf
-扛	ige=	iige
+扛	iig=	iige
 氧	ota=	ovta
 逐	nti=	nati
 僧	ady=	aedy
@@ -23834,7 +23833,7 @@ encoder:
 輩	jb=	joba
 彤	cxt=	cvxt
 奕	uu=	uxue
-迅	njk=	najk
+迅	nj=	najk
 恥	hth=	hthe
 匹	za=	ztar
 仰	aab=	aeab
@@ -23848,7 +23847,7 @@ encoder:
 夷	uy=	ueya
 慎	hwd=	hewd
 汽	oov=	oaov
-恭	ihe=	ikhe
+恭	ih=	ikhe
 弊	vio=	vbio
 涂	opg=	oapg
 氯	ogv=	ovgv
@@ -24117,7 +24116,7 @@ encoder:
 綽	vbx=	vebx
 甸	mce=	mace
 衷	vs=	vasn
-憨	ijh=	ijhe
+憨	ihe=	ijhe
 搽	ikw=	iikw
 捶	ikc=	iikc
 苔	kmv=	kemv
@@ -28268,7 +28267,6 @@ encoder:
 迈	naw=	naaw
 坛	coq=	caoq
 坝	cqa=	caqa
-进	npt=	napt
 规	urh=	urhu
 赵	nxn=	nixn
 顽	unh=	unhi
@@ -28294,7 +28292,7 @@ encoder:
 过	nin=	nain
 扩	ipa=	iipa
 护	ipr=	iipr
-扫	iig=	iiig
+扫	iii=	iiig
 拟	imk=	iimk
 苇	ken=	kenx
 荙	knm=	kenm
@@ -28529,7 +28527,7 @@ encoder:
 烬	rad=	radq
 忆	hzk=	hezk
 递	nym=	naym
-举	iii=	ifii
+举	ifi=	ifii
 洼	oac=	oach
 沣	ols=	oals
 浅	oay=	oayl
@@ -29303,7 +29301,7 @@ encoder:
 𬎹	kck=	krck
 𪄦	jk=	jekw
 𣗼	lfm=	lafm
-𫗌	ngj=	ngjk
+𫗌	njk=	ngjk
 𫜈	md?=	mgd?
 𡳃	twd=	twdg
 𢀭	grl=	gcrl
@@ -30190,6 +30188,7 @@ encoder:
 喝	erm	eeremawn
 管	kpc	kapecq
 笑	kxu	kaxaue
+邊	nhp	nahnpcbo
 型	pfc	ptfeca
 慢	hvi	hevthaie
 刷	avf	anvnfe
@@ -32545,7 +32544,7 @@ encoder:
 罨	vur	vruerg
 簹	kap	kapsce
 簋	kdd	kadmdt
-邉	nhp	nahnpcee
+邉	nhe	nahnpcee
 艄	bxh	bixoho
 煺	ran	ranadm
 褳	vnb	vinaba

@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-jt
-version: "2026-10-31"
+version: "2026-11-02"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -30,7 +30,7 @@ encoder:
 在	elvj
 你	jfww
 和	rdff
-有	ksdf
+有	ks	kss
 不	ek	ekk
 就	olk.
 都	skva
@@ -210,7 +210,7 @@ encoder:
 本	rm	rmm
 偶	jf/v
 頁	hk	hkk
-進	ljpj
+進	lj	ljj
 性	hfes
 第	ej,m
 完	oful
@@ -314,7 +314,7 @@ encoder:
 李	rjmf
 笑	ejzjuf
 自	hl	hll
-邊	lj	ljj
+邊	ljhlov.d
 型	iicfvj
 黑	sl	sll
 慢	hfsfaakf
@@ -499,7 +499,7 @@ encoder:
 雨	d;	d;;
 貨	jg/j
 唱	fffo
-左	ks	kss
+左	ksif
 藍	efxo
 縣	wb	wbb
 常	oawl
@@ -12846,7 +12846,7 @@ encoder:
 埘	vjsfkl
 坝	vj/j
 趱	lklxlx/j
-进	ljo;
+进	lj	ljj
 辇	usus.j
 规	ushu
 赵	lkzl
@@ -14040,7 +14040,7 @@ encoder:
 迳	ljwa
 迟	ljic
 逊	ljmfzd
-边	lj	ljj
+边	ljij
 辽	ljmd
 骊	;d;c
 颈	wahk
@@ -22520,11 +22520,11 @@ encoder:
 的	s=	ssgh
 在	e=	elvj
 和	r=	rdff
-有	k=	ksdf
 就	o=	olk.
 他	j=	jf/d
 到	,=	,lcf
 那	h=	hrva
+看	k=	kjhj
 她	u=	uj/d
 地	v=	vj/d
 得	.=	.f/,
@@ -22550,7 +22550,6 @@ encoder:
 好	um=	ujmf
 說	fz,=	fjz,
 還	lwi=	ljwi
-看	kh=	kjhj
 嗎	f;d=	ff;d
 給	wgk=	wfgk
 等	ek=	ejko
@@ -22611,7 +22610,6 @@ encoder:
 拉	ku=	kkud
 弄	ckd=	ckkd
 偶	j/v=	jf/v
-進	ljp=	ljpj
 性	hes=	hfes
 第	e,=	ej,m
 完	ou=	oful
@@ -22656,7 +22654,7 @@ encoder:
 難	upj=	uxpj
 哇	fvh=	ffvh
 阿	vf=	v;fs
-近	li=	ljil
+近	lil=	ljil
 定	ol=	oflg
 傳	jfw=	jfwg
 夠	hqi=	heqi
@@ -22751,6 +22749,7 @@ encoder:
 草	es=	efsv
 理	cv=	ckvs
 唱	ffo=	fffo
+左	kif=	ksif
 藍	efx=	efxo
 常	ow=	oawl
 色	j/=	ja/s
@@ -23521,7 +23520,6 @@ encoder:
 郵	evv=	evva
 惜	hd=	hfdv
 浦	djv=	djvc
-扛	kif=	kkif
 氧	d;j=	dw;j
 逐	l;k=	lj;k
 僧	jg=	jfg,
@@ -23648,7 +23646,7 @@ encoder:
 鹼	gje=	gyje
 措	kdv=	kkdv
 眠	hxh=	hjxh
-途	loi=	ljoi
+途	lo=	ljoi
 捅	kgw=	kkgw
 錶	cwm=	cjwm
 肚	dvj=	dfvj
@@ -23778,6 +23776,7 @@ encoder:
 鑑	cxo=	cjxo
 溢	ddh=	djdh
 彌	,wx=	,jwx
+覓	kah=	kahu
 佟	jd.=	jfd.
 獵	;;b=	;l;b
 薦	epx=	efpx
@@ -27578,7 +27577,7 @@ encoder:
 审	os,=	ofs,
 层	jd/=	jld/
 颇	hhk=	h.hk
-观	khu=	kfhu
+观	kh=	kfhu
 难	kp=	kfpj
 验	;je=	;dje
 张	,m=	,jml
@@ -27608,7 +27607,6 @@ encoder:
 坛	vd/=	vjd/
 颉	coh=	cohk
 坝	v/j=	vj/j
-进	lo=	ljo;
 规	uhu=	ushu
 赵	lz=	lkzl
 顽	uhk=	ulhk
@@ -28223,6 +28221,7 @@ encoder:
 禅	xia=	xjia
 迳	lwa=	ljwa
 迟	lic=	ljic
+边	li=	ljij
 辽	lmd=	ljmd
 骊	;;c=	;d;c
 颈	whk=	wahk
@@ -28579,7 +28578,7 @@ encoder:
 钪	cu,=	cju,
 铉	cwe=	cjwe
 镒	cdh=	cjdh
-觅	kah=	kahu
+觅	khu=	kahu
 铊	c/e=	cj/e
 铎	cxb=	cjxb
 钮	ckq=	cjkq
@@ -29295,6 +29294,7 @@ encoder:
 𡗶	uak=	urak
 𢙕	huz=	hfuz
 𤜭	;lm=	;lmf
+䟻	loi=	lloi
 𪩺	ic;=	i.c;
 𢗆	hie=	hfie
 𥒅	vxw=	voxw
@@ -30183,6 +30183,7 @@ encoder:
 管	eov	ejofv/
 樣	r;d	rj;jda
 笑	ezu	ejzjuf
+邊	lho	ljhlov.d
 型	icv	iicfvj
 慢	hsa	hfsfaakf
 刷	jwc	jlwlcf
@@ -32375,7 +32376,7 @@ encoder:
 瓠	uyr	ufyirx
 罨	aau	aaufsi
 簋	egg	ejgmg;
-邉	lho	ljhlovff
+邉	lhf	ljhlovff
 艄	.zd	.kzddf
 煺	slj	sjljgm
 泚	dlj	djlfjj

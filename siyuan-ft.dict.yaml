@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-ft
-version: "2026-10-31"
+version: "2026-11-02"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -30,7 +30,7 @@ encoder:
 在	elvj
 你	jfww
 和	rdff
-有	ksdf
+有	ks	kss
 不	ek	ekk
 就	olk.
 都	skva
@@ -210,7 +210,7 @@ encoder:
 本	rm	rmm
 偶	jf/v
 頁	hk	hkk
-進	ljpj
+進	lj	ljj
 性	hfes
 第	ej,m
 完	oful
@@ -314,7 +314,7 @@ encoder:
 李	rjmf
 笑	ejzjuf
 自	hl	hll
-邊	lj	ljj
+邊	ljhlov.d
 型	iicfvj
 黑	sl	sll
 慢	hfw;aakf
@@ -499,7 +499,7 @@ encoder:
 雨	d;	d;;
 貨	jg/j
 唱	fffo
-左	ks	kss
+左	ksif
 藍	efxo
 縣	wb	wbb
 常	oawl
@@ -12846,7 +12846,7 @@ encoder:
 埘	vjsfkl
 坝	vj/j
 趱	lklxlx/j
-进	ljo;
+进	lj	ljj
 辇	usus.j
 规	ushu
 赵	lkzl
@@ -14040,7 +14040,7 @@ encoder:
 迳	ljwa
 迟	ljic
 逊	ljmfzd
-边	lj	ljj
+边	ljij
 辽	ljmd
 骊	;d;c
 颈	wahk
@@ -22519,11 +22519,11 @@ encoder:
 # 簡碼
 的	s=	ssgh
 在	e=	elvj
-有	k=	ksdf
 好	u=	ujmf
 說	f=	fjz,
 到	,=	,lcf
 對	i=	isafkl
+看	k=	kjhj
 這	l=	ljfj
 地	v=	vj/d
 得	.=	.f/,
@@ -22552,7 +22552,6 @@ encoder:
 他	j/=	jf/d
 還	lw=	ljwi
 那	hv=	hrva
-看	kh=	kjhj
 嗎	f;d=	ff;d
 她	u/=	uj/d
 給	wg=	wfgk
@@ -22611,7 +22610,6 @@ encoder:
 拉	ku=	kkud
 弄	ck=	ckkd
 偶	j/v=	jf/v
-進	lp=	ljpj
 性	hes=	hfes
 第	e,=	ej,m
 完	oul=	oful
@@ -22755,6 +22753,7 @@ encoder:
 理	cv=	ckvs
 貨	jg/=	jg/j
 唱	ffo=	fffo
+左	kif=	ksif
 藍	exo=	efxo
 常	ow=	oawl
 色	j/s=	ja/s
@@ -23596,7 +23595,7 @@ encoder:
 郵	eva=	evva
 惜	hd=	hfdv
 浦	dvc=	djvc
-扛	kif=	kkif
+扛	kki=	kkif
 氧	d;j=	dw;j
 逐	l;k=	lj;k
 僧	jg,=	jfg,
@@ -23837,7 +23836,7 @@ encoder:
 輩	p.=	pd.j
 彤	vz;=	vwz;
 奕	uu=	uzuf
-迅	lpe=	ljpe
+迅	lp=	ljpe
 恥	hhf=	h;hf
 匹	qj=	q;js
 仰	jj.=	jfj.
@@ -23851,7 +23850,7 @@ encoder:
 夷	u,=	uf,j
 慎	hxg=	hfxg
 汽	ddw=	djdw
-恭	khf=	kehf
+恭	kh=	kehf
 弊	wkd=	w.kd
 涂	doi=	djoi
 氯	diw=	dwiw
@@ -24118,7 +24117,7 @@ encoder:
 綽	w.z=	wf.z
 甸	mvf=	mjvf
 衷	wa=	wjal
-憨	kph=	kphf
+憨	khf=	kphf
 搽	kex=	kkex
 捶	kev=	kkev
 苔	emw=	efmw
@@ -28274,7 +28273,6 @@ encoder:
 迈	ljx=	ljjx
 坛	vd/=	vjd/
 坝	v/j=	vj/j
-进	lo;=	ljo;
 规	ush=	ushu
 赵	lzl=	lkzl
 顽	ulh=	ulhk
@@ -28300,7 +28298,6 @@ encoder:
 过	lkl=	ljkl
 扩	koj=	kkoj
 护	kos=	kkos
-扫	kki=	kkki
 拟	kme=	kkme
 苇	efl=	eflz
 荙	elm=	eflm
@@ -29306,7 +29303,7 @@ encoder:
 𬎹	eve=	esve
 𪄦	pe=	pfex
 𣗼	rcm=	rjcm
-𫗌	lip=	lipe
+𫗌	lpe=	lipe
 𫜈	mgy=	migy
 𡳃	;xg=	;xgi
 𢀭	isr=	ivsr
@@ -30193,6 +30190,7 @@ encoder:
 喝	fsm	ffsfmjxl
 管	eov	ejofv/
 笑	ezu	ejzjuf
+邊	lho	ljhlov.d
 型	icv	iicfvj
 慢	hwk	hfw;aakf
 刷	jwc	jlwlcf
@@ -32540,7 +32538,7 @@ encoder:
 罨	aus	aaufsi
 簹	ejo	ejoavf
 簋	egg	ejgmg;
-邉	lho	ljhlovff
+邉	lhf	ljhlovff
 艄	.zd	.kzddf
 煺	sjl	sjljgm
 褳	wl.	wklj.j

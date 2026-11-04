@@ -9,10 +9,10 @@
 - 三十鍵
 - 双碼字根
 	- 所有字根都有兩个編碼、一个區碼加一个位碼
-- 唯鍵位論
+- 鍵位主義
 	- 字根的編碼只與按鍵的位置有關、而與按鍵上的字母和符號无關
 - 四碼上屏
-	- 无四碼選項時輸第五碼不會上屏
+	- 无四碼選項時可輸第五碼
  	- 開頭按⑤鍵可以忽略碼長限制（QWERTY鍵盤的⑤鍵是b鍵）
 
 ## 字根圖
@@ -425,7 +425,7 @@
 	</tr>
 	<tr align="center">
 		<td>十<br>（資）</td><td>火<br>（的）</td><td>水<br>（外）</td><td>口<br>（說）</td><td>食<br>（頭）</td>
-		<td>心<br>（然）</td><td>人<br>（們）</td><td>手<br>（有）</td><td>止<br>（這）</td><td>牛<br>（美）</td>
+		<td>心<br>（然）</td><td>人<br>（們）</td><td>手<br>（看）</td><td>止<br>（這）</td><td>牛<br>（美）</td>
 	</tr>
 	<tr align="center">
 		<td>八<br>（學）</td><td>事<br>（望）</td><td>金<br>（現）</td><td>土<br>（地）</td><td></td>
@@ -443,7 +443,7 @@
 	</tr>
 	<tr align="center">
 		<td>十<br>（紧）</td><td>火<br>（的）</td><td>水<br>（没）</td><td>口<br>（说）</td><td>食<br>（斯）</td>
-		<td>心<br>（那）</td><td>人<br>（他）</td><td>手<br>（有）</td><td>止<br>（这）</td><td>牛<br>（美）</td>
+		<td>心<br>（那）</td><td>人<br>（他）</td><td>手<br>（看）</td><td>止<br>（这）</td><td>牛<br>（美）</td>
 	</tr>
 	<tr align="center">
 		<td>八<br>（么）</td><td>事<br>（点）</td><td>金<br>（现）</td><td>土<br>（地）</td><td></td>

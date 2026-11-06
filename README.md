@@ -310,7 +310,8 @@
   </tr>
   <tr>
 	<td>喬</td><td>丿大高</td><td></td>
-	<td>虱</td><td>飛虫</td>
+	<td>虱</td><td>飛虫</td><td></td>
+	<td>賓</td><td>宀丏貝</td>
   </tr>
 </table>
 

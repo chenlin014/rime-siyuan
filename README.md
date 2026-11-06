@@ -448,7 +448,7 @@
 	</tr>
 	<tr align="center">
 		<td>乙<br>（国）</td><td>幺<br>（经）</td><td>艸<br>（在）</td><td>木<br>（和）</td><td></td>
-		<td>声<br>（喜）</td><td>大<br>（她）</td><td>工<br>（怎）</td><td>京<br>（就）</td><td>隹<br>（集）</td>
+		<td>声<br>（哥）</td><td>大<br>（她）</td><td>工<br>（怎）</td><td>京<br>（就）</td><td>隹<br>（集）</td>
 	</tr>
 	<tr align="center">
 		<td>十<br>（紧）</td><td>火<br>（的）</td><td>水<br>（没）</td><td>口<br>（说）</td><td>食<br>（斯）</td>

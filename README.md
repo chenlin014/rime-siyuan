@@ -12,13 +12,13 @@
 
 ## 安裝
 - 默認詞庫
-	- 繁體：[八股文](https://github.com/rime/rime-essay)
-	- 简体：[简化字八股文](https://github.com/rime/rime-essay-simp)
+	- 繁體：[八股文](https://github.com/rime/rime-essay) `bash rime-install essay`
+	- 简体：[简化字八股文](https://github.com/rime/rime-essay-simp) `bash rime-install essay-simp`
  - 默認拼音方案
- 	- 繁體：[朙月拼音](https://github.com/rime/rime-luna-pinyin)
- 	- 简体：[袖珍简化字拼音](https://github.com/rime/rime-pinyin-simp)
+ 	- 繁體：[朙月拼音](https://github.com/rime/rime-luna-pinyin) `bash rime-install luna-pinyin`
+ 	- 简体：[袖珍简化字拼音](https://github.com/rime/rime-pinyin-simp) `bash rime-install pinyin-simp`
 
-[東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install essay essay-simp luna-pinyin pinyin-simp`
+[東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install chenlin014/rime-siyuan`
 
 ## 概述
 

@@ -1,14 +1,24 @@
 # 原碼
 
+配方： ℞ **siyuan**
+
 [Rime](https://rime.im/) 思源形義輸入法
 
 又名原碼
 
-## 所用詞庫
+## 字根圖
 
-繁體：[八股文](https://github.com/rime/rime-essay)
+![字根圖](layout.png)
 
-简体：[简化字八股文](https://github.com/rime/rime-essay-simp)
+## 安裝
+- 默認詞庫
+	- 繁體：[八股文](https://github.com/rime/rime-essay)
+	- 简体：[简化字八股文](https://github.com/rime/rime-essay-simp)
+ - 默認拼音方案
+ 	- 繁體：[朙月拼音](https://github.com/rime/rime-luna-pinyin)
+ 	- 简体：[袖珍简化字拼音](https://github.com/rime/rime-pinyin-simp)
+
+[東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install essay essay-simp luna-pinyin pinyin-simp`
 
 ## 概述
 
@@ -22,10 +32,6 @@
 - 四碼上屏
 	- 无四碼選項時可輸第五碼
 	- 開頭按⑤鍵可以忽略碼長限制（QWERTY鍵盤的⑤鍵是b鍵）
-
-## 字根圖
-
-![字根圖](layout.png)
 
 ## 字根變躰
 

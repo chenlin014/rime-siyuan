@@ -75,10 +75,6 @@ function M.proc.func(key, env)
 				return 1
 			end
 		end
-	elseif env.is_special_key[key_repr] and input:match("^[a-z]$") then
-		env.engine:commit_text(input)
-		context:clear()
-		return 1
 	end
 
 	return 2

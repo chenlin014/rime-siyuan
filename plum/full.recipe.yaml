@@ -6,7 +6,8 @@ recipe:
   description: >-
     思源
 install_files: >-
-  lua/*.*
   siyuan.schema.yaml
   siyuan-ft.dict.yaml
   siyuan-jt.dict.yaml
+  lua/xinzheng.lua
+  lua/common

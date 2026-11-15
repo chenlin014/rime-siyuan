@@ -261,7 +261,7 @@
     <td>屬</td><td>尾蜀</td>
   </tr>
   <tr>
-    <td>巤</td><td>𡿺鼠</td><td></td>
+    <td>賓</td><td>宀丏貝</td><td></td>
 	<td>留</td><td>卯田</td><td></td>
     <td>劉</td><td>卯金刀</td><td></td>
 	<td>齋</td><td>齊示</td>
@@ -317,7 +317,6 @@
   <tr>
 	<td>喬</td><td>丿大高</td><td></td>
 	<td>虱</td><td>飛虫</td><td></td>
-	<td>賓</td><td>宀丏貝</td>
   </tr>
 </table>
 

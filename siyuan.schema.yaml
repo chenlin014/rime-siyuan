@@ -67,9 +67,8 @@ speller:
     #auto_select_unique_candidate: true
     algebra:
       - xform/^([a-z])=$/$1/
-      - xform/^(....).+(....)$/$1$2/
-      - xform/^(.....).$/$1/
-      - xform/^(..)(.).(.).(.).$/$1$2$3$4/
+      - derive/^(.....).$/$1/
+      - derive/^(..)(.).+(.).(.).$/$1$2$3$4/
 
 translator:
     dictionary: siyuan-ft # 繁體

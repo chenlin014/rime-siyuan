@@ -1,0 +1,12 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: plum/full
+  args:
+  description: >-
+    思源
+install_files: >-
+  lua/*.*
+  siyuan.schema.yaml
+  siyuan-ft.dict.yaml
+  siyuan-jt.dict.yaml

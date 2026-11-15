@@ -72,8 +72,8 @@ speller:
       - xform/^(..)(.).(.).(.).$/$1$2$3$4/
 
 translator:
-    #dictionary: siyuan-ft # 繁體
-    dictionary: siyuan-jt # 简体
+    dictionary: siyuan-ft # 繁體
+    #dictionary: siyuan-jt # 简体
     enable_user_dict: false
 
 no_max_code:

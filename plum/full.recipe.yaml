@@ -10,4 +10,4 @@ install_files: >-
   siyuan-ft.dict.yaml
   siyuan-jt.dict.yaml
   lua/xinzheng.lua
-  lua/common
+  lua/common/*.lua

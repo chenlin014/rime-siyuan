@@ -10,4 +10,6 @@ install_files: >-
   siyuan-ft.dict.yaml
   siyuan-jt.dict.yaml
   lua/xinzheng.lua
-  lua/common/*.lua
+  lua/common/commit_n_return.lua
+  lua/common/casing.lua
+  lua/common/key_conv.lua

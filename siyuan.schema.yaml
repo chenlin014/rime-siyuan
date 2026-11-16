@@ -16,7 +16,7 @@ switches:
       states: [ 无轉換, 傳統漢字, 简化汉字 ]
       reset: 0
     - name: sanma_mode
-      states: [ 四碼, 三碼 ]
+      states: [ 五碼, 三碼 ]
     - options: [ up_chosen, up_first_char, up_first_word ]
       states: [ 上屏選中, 上屏首字, 上屏首詞 ]
       reset: 0
@@ -63,7 +63,7 @@ speller:
     initials: zyxwvutsrqpomlkjihgfedca;,./
     max_code_length: 5
     auto_select: true
-    finals: "="
+    auto_select_pattern: ".+="
     #auto_select_unique_candidate: true
     algebra:
       - xform/^([a-z])=$/$1/

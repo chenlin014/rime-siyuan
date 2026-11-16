@@ -68,12 +68,12 @@ function M.proc.func(key, env)
 				context:commit()
 				return 1
 			end
-		elseif env.is_special_key[key_repr] and seg_length == 4 then
-			if root_combo then
-				context:select(root_combo_ind)
-				context:commit()
-				return 1
-			end
+		end
+	elseif env.is_special_key[key_repr] and seg_length == 4 then
+		if root_combo then
+			context:select(root_combo_ind)
+			context:commit()
+			return 1
 		end
 	end
 

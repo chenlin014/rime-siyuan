@@ -61,9 +61,9 @@ engine:
 speller:
     alphabet: zyxwvutsrqponmlkjihgfedcba;,./=
     initials: zyxwvutsrqpomlkjihgfedca;,./
-    max_code_length: 4
+    max_code_length: 5
     auto_select: true
-    auto_select_pattern: ".+="
+    finals: "="
     #auto_select_unique_candidate: true
     algebra:
       - xform/^([a-z])=$/$1/

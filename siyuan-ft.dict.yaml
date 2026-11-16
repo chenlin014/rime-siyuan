@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-ft
-version: "2026-11-06"
+version: "2026-11-15"
 sort: by_weight
 use_preset_vocabulary: true
 columns:
@@ -14,7 +14,7 @@ columns:
 encoder:
   rules:
     - length_equal: 2
-      formula: "AaAcBaBc"
+      formula: "AaAcBaBbBc"
     - length_equal: 3
       formula: "AaBaBcCaCc"
     - length_equal: 4

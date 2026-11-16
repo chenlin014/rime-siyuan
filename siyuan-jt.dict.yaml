@@ -3,7 +3,7 @@
 
 ---
 name: siyuan-jt
-version: "2026-11-06"
+version: "2026-11-15"
 sort: by_weight
 use_preset_vocabulary: false
 vocabulary: essay-zh-hans
@@ -15,7 +15,7 @@ columns:
 encoder:
   rules:
     - length_equal: 2
-      formula: "AaAcBaBc"
+      formula: "AaAcBaBbBc"
     - length_equal: 3
       formula: "AaBaBcCaCc"
     - length_equal: 4

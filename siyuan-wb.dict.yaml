@@ -15,11 +15,11 @@ columns:
 encoder:
   rules:
     - length_equal: 2
-      formula: "AaAcBaBbBc"
+      formula: "AaAyBaByBz"
     - length_equal: 3
-      formula: "AaBaBcCaCc"
+      formula: "AaBaByCaCy"
     - length_equal: 4
-      formula: "AaBaCaDaDc"
+      formula: "AaBaCaDaDy"
     - length_in_range: [5, 10]
       formula: "AaBaCaDaEa"
 ...

@@ -15,211 +15,211 @@ columns:
 encoder:
   rules:
     - length_equal: 2
-      formula: "AaAyBaByBz"
+      formula: "AaAcBaBcBe"
     - length_equal: 3
-      formula: "AaBaByCaCy"
+      formula: "AaBaBcCaCc"
     - length_equal: 4
-      formula: "AaBaCaDaDy"
+      formula: "AaBaCaDaDc"
     - length_in_range: [5, 10]
       formula: "AaBaCaDaEa"
 ...
 
 的	ssgh	ssghhh
-了	md	mddddd
-我	,d	,ddddd
-是	sd	sddddd
+了	md	mddd
+我	,d	,ddd
+是	sd	sddd
 在	elvj	elvjjj
 你	jfww	jfwwww
 和	rdff	rdffff
-有	ks	ksssss
-不	ek	ekkkkk
+有	ks	ksss
+不	ek	ekkk
 就	olk.	olk...
 都	skva	skvaaa
-也	/d	/ddddd
-要	uu	uuuuuu
+也	/d	/ddd
+要	uu	uuuu
 吧	ff/s	ff/sss
 好	ujmf	ujmfff
 他	jf/d	jf/ddd
 說	fjz,	fjz,,,
-去	ug	uggggg
+去	ug	uggg
 到	,lcf	,lcfff
 沒	djmjkf
 還	ljwi	ljwiii
-上	ak	akkkkk
+上	ak	akkk
 對	isafkl
 那	hrva	hrvaaa
-人	jf	jfffff
+人	jf	jfff
 個	jfqjf;
 看	kjhj	kjhjjj
-中	al	alllll
+中	al	alll
 呢	ffjljj
-來	rs	rsssss
+來	rs	rsss
 嗎	ff;d	ff;ddd
-爲	kz	kzzzzz
-會	gi	giiiii
+爲	kz	kzzz
+會	gi	giii
 她	uj/d	uj/ddd
-與	hz	hzzzzz
+與	hz	hzzz
 給	wfgk	wfgkkk
 等	ejko	ejkooo
 這	ljfj	ljfjjj
-用	vd	vddddd
+用	vd	vddd
 把	kk/s	kk/sss
-下	a;	a;;;;;
+下	a;	a;;;
 恩	uxhf	uxhfff
-能	;s	;sssss
+能	;s	;sss
 很	.fgm	.fgmmm
-多	he	heeeee
+多	he	heee
 做	jff;k;
 想	rjhjhf
 點	slxv	slxvvv
 被	wkh.	wkh...
 地	vj/d	vj/ddd
-而	hv	hvvvvv
-一	af	afffff
+而	hv	hvvv
+一	af	afff
 後	.fwdld
-又	kf	kfffff
+又	kf	kfff
 從	.fjdlf
-再	ac	accccc
+再	ac	accc
 將	.shdkl
 時	sfko	sfkooo
 但	jfsg	jfsggg
 過	ljhs	ljhsss
 打	kki;	kki;;;
-大	uf	ufffff
-年	re	reeeee
+大	uf	ufff
+年	re	reee
 麼	e;wd	e;wddd
 啦	ffkkud
-以	me	meeeee
-買	/.	/.....
+以	me	meee
+買	/.	/...
 讓	fjwu	fjwuuu
 嗯	ffuxhf
-着	eg	eggggg
-小	zd	zddddd
+着	eg	eggg
+小	zd	zddd
 得	.f/,	.f/,,,
-先	lx	lxxxxx
+先	lx	lxxx
 啊	ffv;yk
-或	,s	,sssss
+或	,s	,sss
 呀	ffha	ffhaaa
 找	kk,f	kk,fff
 新	udrjil
-及	kr	krrrrr
+及	kr	krrr
 跟	llgm	llgmmm
-於	ps	psssss
-太	uv	uvvvvv
+於	ps	psss
+太	uv	uvvv
 嘛	ffe;	ffe;;;
 號	ffi/;;
-日	sf	sfffff
-才	el	elllll
-可	yk	ykkkkk
-比	jm	jmmmmm
+日	sf	sfff
+才	el	elll
+可	yk	ykkk
+比	jm	jmmm
 玩	ckjw	ckjwww
 們	jfod	jfoddd
 最	sfh;kf
-月	df	dfffff
-真	xh	xhhhhh
+月	df	dfff
+真	xh	xhhh
 吃	ffdx	ffdxxx
-發	l;	l;;;;;
-並	ue	ueeeee
-它	/e	/eeeee
-其	gd	gddddd
+發	l;	l;;;
+並	ue	ueee
+它	/e	/eee
+其	gd	gddd
 話	fjfk	fjfkkk
 請	fjea	fjeaaa
 錢	cj,r	cj,rrr
 叫	ffqu	ffquuu
 開	odii	odiiii
-出	lv	lvvvvv
+出	lv	lvvv
 誰	fjpj	fjpjjj
 哈	ffgk	ffgkkk
 當	oavf	oavfff
-向	oq	oqqqqq
+向	oq	oqqq
 家	of;k	of;kkk
 問	odff	odffff
-之	ls	lsssss
-更	k/	k/////
+之	ls	lsss
+更	k/	k///
 該	fj;i	fj;iii
-走	lk	lkkkkk
+走	lk	lkkk
 快	hfc;	hfc;;;
 別	hxcf	hxcfff
-前	lh	lhhhhh
-由	,g	,ggggg
-高	ok	okkkkk
+前	lh	lhhh
+由	,g	,ggg
+高	ok	okkk
 您	jfwwhf
 裏	wjvs	wjvsss
 加	ijff	ijffff
 所	osil	osilll
-天	ur	urrrrr
-卻	jk	jkkkkk
-已	mx	mxxxxx
-里	vs	vsssss
-內	oc	occccc
+天	ur	urrr
+卻	jk	jkkk
+已	mx	mxxx
+里	vs	vsss
+內	oc	occc
 寫	ofpc	ofpccc
 啥	ffo,	ffo,,,
-老	mo	mooooo
+老	mo	mooo
 搞	kkok	kkokkk
-行	.f	.fffff
-事	xx	xxxxxx
+行	.f	.fff
+事	xx	xxxx
 拿	gkkj	gkkjjj
-帶	wh	whhhhh
+帶	wh	whhh
 如	ujff	ujffff
 死	hcjj	hcjjjj
-賣	//	//////
+賣	//	////
 暈	sfqk.j
 像	jf;a	jf;aaa
 使	jfxw	jfxwww
 剛	v,cf	v,cfff
-成	,v	,vvvvv
-無	ua	uaaaaa
+成	,v	,vvv
+無	ua	uaaa
 換	kkj/	kkj///
 只	ffzk	ffzkkk
 哪	ffhrva
-愛	fw	fwwwww
-回	ds	dsssss
+愛	fw	fwww
+回	ds	dsss
 聽	h;ckhhhf
-少	ze	zeeeee
-元	jw	jwwwww
+少	ze	zeee
+元	jw	jwww
 喫	ffcxuf
-卡	ao	aooooo
+卡	ao	aooo
 靠	;vpd	;vpddd
 幫	vhklsswl
 算	ejim	ejimmm
-者	sk	skkkkk
+者	sk	skkk
 忙	hfxl	hfxlll
 起	lkma	lkmaaa
-各	le	leeeee
+各	le	leee
 學	zomf	zomfff
-分	cv	cvvvvv
+分	cv	cvvv
 咯	ffle	ffleee
 總	wfohhf
 則	/jcf	/jcfff
-水	dj	djjjjj
+水	dj	djjj
 張	,jml	,jmlll
 改	mak;	mak;;;
 唉	ffqh,k
-三	as	asssss
-見	hu	huuuuu
+三	as	asss
+見	hu	huuu
 連	lj.j	lj.jjj
-車	.j	.jjjjj
+車	.j	.jjj
 放	.vk;	.vk;;;
-全	ci	ciiiii
+全	ci	ciii
 按	kkofuj
 區	q;ffaw
-萬	/c	/ccccc
+萬	/c	/ccc
 機	rjwdwd,fjf
-早	sv	svvvvv
+早	sv	svvv
 拉	kkud	kkuddd
 弄	ckkd	ckkddd
-本	rm	rmmmmm
+本	rm	rmmm
 偶	jf/v	jf/vvv
-頁	hk	hkkkkk
-進	lj	ljjjjj
+頁	hk	hkkk
+進	lj	ljjj
 性	hfes	hfesss
 第	ej,m	ej,mmm
 完	ofjw	ofjwww
-同	gf	gfffff
+同	gf	gfff
 花	efj;	efj;;;
-長	ml	mlllll
+長	ml	mlll
 怕	hfss	hfssss
-女	uj	ujjjjj
+女	uj	ujjj
 講	fjav	fjavvv
 殺	zlrjkg
 組	wfxm	wfxmmm
@@ -234,42 +234,42 @@ encoder:
 裝	.sclwj
 哦	ff,d	ff,ddd
 挺	kk.gvw
-王	ck	ckkkkk
+王	ck	ckkk
 圖	qjffox
 掉	kk.z	kk.zzz
 路	llle	llleee
-正	lg	lggggg
+正	lg	lggg
 外	ddxf	ddxfff
-二	ad	addddd
+二	ad	addd
 頭	glhk	glhkkk
 應	ojjfpjhf
-生	es	esssss
-心	hf	hfffff
-因	ux	uxxxxx
-子	mf	mfffff
+生	es	esss
+心	hf	hfff
+因	ux	uxxx
+子	mf	mfff
 強	,jqh/f
 類	rf;lhk
 作	jfid	jfiddd
 送	ljzm	ljzmmm
-書	xd	xddddd
-每	mi	miiiii
+書	xd	xddd
+每	mi	miii
 法	djug	djuggg
 乖	jgju	jgjuuu
 拍	kkss	kkssss
-市	lw	lwwwww
+市	lw	lwww
 撒	kkrg	kkrggg
-至	,l	,lllll
+至	,l	,lll
 接	kkuduj
 美	;juf	;jufff
-表	wm	wmmmmm
-未	rl	rlllll
+表	wm	wmmm
+未	rl	rlll
 辦	xkijxk
-非	pd	pddddd
+非	pd	pddd
 級	wfkr	wfkrrr
 即	gmjk	gmjkkk
 哎	ffefzl
 此	lfjj	lfjjjj
-差	kx	kxxxxx
+差	kx	kxxx
 版	.wkv	.wkvvv
 併	jfjc	jfjccc
 副	xucf	xucfff
@@ -278,17 +278,17 @@ encoder:
 男	vfij	vfijjj
 俺	jfufsi
 字	ofmf	ofmfff
-兩	ae	aeeeee
+兩	ae	aeee
 股	dfkg	dfkggg
 轉	.jwg	.jwggg
 便	jfk/	jfk///
 考	moi/	moi///
 塊	vjx;	vjx;;;
 線	wfdu	wfduuu
-手	kj	kjjjjj
-黃	ul	ulllll
+手	kj	kjjj
+黃	ul	ulll
 道	ljhi	ljhiii
-米	rf	rfffff
+米	rf	rfff
 座	ojjdvj
 豬	;ksk	;kskkk
 聊	h;ca	h;caaa
@@ -296,28 +296,28 @@ encoder:
 低	jfm/	jfm///
 難	uopj	uopjjj
 哇	ffvh	ffvhhh
-兒	js	jsssss
+兒	js	jsss
 受	kaqkkf
-包	mj	mjjjjj
+包	mj	mjjj
 阿	v;yk	v;ykkk
 喝	ffsfmjxl
-白	ss	ssssss
-金	cj	cjjjjj
-四	aa	aaaaaa
+白	ss	ssss
+金	cj	cjjj
+四	aa	aaaa
 近	ljil	ljilll
 管	ejofv/
 定	oflg	oflggg
 傳	jfwg	jfwggg
-門	od	oddddd
+門	od	oddd
 樣	rj;jda
 夠	heqi	heqiii
-交	ui	uiiiii
+交	ui	uiii
 李	rjmf	rjmfff
 笑	ejzjuf
-自	hl	hlllll
+自	hl	hlll
 邊	ljhlov.v
 型	iicfvj
-黑	sl	slllll
+黑	sl	slll
 慢	hfsfaakf
 刷	jlwlcf
 穿	ovha	ovhaaa
@@ -329,12 +329,12 @@ encoder:
 處	;;ld.a
 選	ljji	ljjiii
 站	udxv	udxvvv
-牛	;f	;fffff
+牛	;f	;fff
 怪	hfkfvj
 省	zehj	zehjjj
 倒	jf,lcf
 談	fjsh	fjshhh
-曾	g,	g,,,,,
+曾	g,	g,,,
 羣	ktff;j
 經	wfwa	wfwaaa
 數	uhk;	uhk;;;
@@ -342,36 +342,36 @@ encoder:
 變	wrk;	wrk;;;
 累	vfwf	vfwfff
 汗	dj,h	dj,hhh
-查	ro	rooooo
-象	;a	;aaaaa
-半	cc	cccccc
+查	ro	rooo
+象	;a	;aaa
+半	cc	cccc
 陳	v;.d	v;.ddd
 紅	wfif	wfifff
 格	rjle	rjleee
-五	ag	aggggg
+五	ag	aggg
 幹	.u,h	.u,hhh
 樓	rjuh	rjuhhh
-方	.v	.vvvvv
+方	.v	.vvv
 讀	fj//	fj////
 頂	i;hk	i;hkkk
 某	fdrj	fdrjjj
 條	jfahldrj
 亂	wzqd	wzqddd
 唔	ffagff
-馬	;d	;ddddd
+馬	;d	;ddd
 遠	ljw,	ljw,,,
-單	ia	iaaaaa
+單	ia	iaaa
 海	djmi	djmiii
 相	rjhj	rjhjjj
 熱	vmu;sj
-光	s;	s;;;;;
+光	s;	s;;;
 咋	ffid	ffiddd
-風	pa	paaaaa
-且	xm	xmmmmm
-林	rh	rhhhhh
+風	pa	paaa
+且	xm	xmmm
+林	rh	rhhh
 滿	djamae
 額	oflehk
-化	j;	j;;;;;
+化	j;	j;;;
 班	ckcfck
 滴	dje,ff
 掛	kkvhxf
@@ -381,7 +381,7 @@ encoder:
 安	ofuj	ofujjj
 坐	jdvj	jdvjjj
 約	wfgh	wfghhh
-飛	pe	peeeee
+飛	pe	peee
 劉	cacjcf
 度	ojamkf
 種	rd.e	rd.eee
@@ -390,50 +390,50 @@ encoder:
 報	xyjkkf
 信	jffj	jffjjj
 若	efksff
-原	dm	dmmmmm
-文	uk	ukkkkk
+原	dm	dmmm
+文	uk	ukkk
 飯	gjkv	gjkvvv
 晚	sfw/	sfw///
 量	sgvs	sgvsss
 村	rjkl	rjklll
 式	,;if	,;ifff
 空	ovif	ovifff
-山	vk	vkkkkk
+山	vk	vkkk
 賺	/jki	/jkiii
-毛	h/	h/////
-重	.e	.eeeee
-主	sa	saaaaa
-另	hx	hxxxxx
+毛	h/	h///
+重	.e	.eee
+主	sa	saaa
+另	hx	hxxx
 間	odsf	odsfff
 裡	wkvs	wkvsss
 貼	/jxv	/jxvvv
-入	oe	oeeeee
+入	oe	oeee
 伐	jf,f	jf,fff
-血	gp	gppppp
+血	gp	gppp
 盤	.kkgg;
 爽	ufzszs
 隊	v;zk;k
 楊	rjse	rjseee
-臺	op	oppppp
+臺	op	oppp
 往	.fsa	.fsaaa
-片	.w	.wwwww
+片	.w	.www
 國	qj,s	qj,sss
 狗	;lqi	;lqiii
 歲	lf,ela
 費	,u/j	,u/jjj
 壞	vjwjaadj
-龍	/h	/hhhhh
+龍	/h	/hhh
 離	izpj	izpjjj
-共	ke	keeeee
-西	gs	gsssss
+共	ke	keee
+西	gs	gsss
 佔	jfxv	jfxvvv
-周	ve	veeeee
+周	ve	veee
 超	lkcfff
 明	sfdf	sfdfff
 媽	uj;d	uj;ddd
 均	vjmjdl
 期	gddf	gddfff
-達	lm	lmmmmm
+達	lm	lmmm
 照	sfcfffsj
 切	cdcf	cdcfff
 留	cavf	cavfff
@@ -442,14 +442,14 @@ encoder:
 氣	dwrf	dwrfff
 係	jfzjwf
 神	xjs,	xjs,,,
-鳥	pf	pfffff
-畫	xe	xeeeee
+鳥	pf	pfff
+畫	xe	xeee
 夢	efaaqkdd
-教	zo	zooooo
+教	zo	zooo
 哥	ykyk	ykykkk
-甘	fd	fddddd
+甘	fd	fddd
 蠻	wr/f	wr/fff
-魚	/k	/kkkkk
+魚	/k	/kkk
 值	jfhh	jfhhhh
 鎮	cjxh	cjxhhh
 么	zjqh	zjqhhh
@@ -457,14 +457,14 @@ encoder:
 陪	v;ei	v;eiii
 既	gmfx	gmfxxx
 哭	ffff;l
-力	ij	ijjjjj
+力	ij	ijjj
 建	.gxd	.gxddd
 洗	djlx	djlxxx
 懂	hfef.e
 雙	pjpjkf
-口	ff	ffffff
+口	ff	ffff
 指	kkfi	kkfiii
-東	.d	.ddddd
+東	.d	.ddd
 球	ck/r	ck/rrr
 仍	jfm,	jfm,,,
 活	djfk	djfkkk
@@ -479,13 +479,13 @@ encoder:
 貓	;xefvf
 餓	gj,d	gj,ddd
 票	gsxj	gsxjjj
-六	or	orrrrr
-病	.x	.xxxxx
+六	or	orrr
+病	.x	.xxx
 咩	ff;j	ff;jjj
 假	jfkh	jfkhhh
-久	jz	jzzzzz
-段	v.	v.....
-平	yi	yiiiii
+久	jz	jzzz
+段	v.	v...
+平	yi	yiii
 抓	kkka	kkkaaa
 套	ufml	ufmlll
 課	fjr;	fjr;;;
@@ -496,13 +496,13 @@ encoder:
 草	efsv	efsvvv
 羅	aawfpj
 理	ckvs	ckvsss
-令	fu	fuuuuu
-雨	d;	d;;;;;
+令	fu	fuuu
+雨	d;	d;;;
 貨	j;/j	j;/jjj
 唱	fffo	fffooo
 左	ksif	ksifff
 藍	efxo	efxooo
-縣	wb	wbbbbb
+縣	wb	wbbb
 常	oawl	oawlll
 色	ja/s	ja/sss
 搶	kkow	kkowww
@@ -513,14 +513,14 @@ encoder:
 房	os.v	os.vvv
 較	.jui	.juiii
 混	djsfjm
-敢	kp	kppppp
-火	sj	sjjjjj
+敢	kp	kppp
+火	sj	sjjj
 臉	dfje	dfjeee
 操	kkffawrj
-南	ya	yaaaaa
+南	ya	yaaa
 退	ljgm	ljgmmm
 件	jf;f	jf;fff
-吳	fc	fccccc
+吳	fc	fccc
 破	voh.	voh...
 聲	yskgh;
 德	.fhhhf
@@ -530,8 +530,8 @@ encoder:
 噢	ffoy	ffoyyy
 整	rkk;lg
 傻	jfhgzkld
-華	er	errrrr
-克	,y	,yyyyy
+華	er	errr
+克	,y	,yyy
 呃	ffvljk
 喊	ff,eff
 現	ckhu	ckhuuu
@@ -540,15 +540,15 @@ encoder:
 補	wkvv	wkvvvv
 團	qjwg	qjwggg
 沈	djqkjs
-反	kv	kvvvvv
-樂	yf	yfffff
+反	kv	kvvv
+樂	yf	yfff
 篇	ejosxa
 待	.fko	.fkooo
 砸	voq;wl
 深	djqkzkrj
 煩	sjhk	sjhkkk
 根	rjgm	rjgmmm
-求	/r	/rrrrr
+求	/r	/rrr
 投	kkkg	kkkggg
 電	d;si	d;siii
 親	udrjhu
@@ -556,47 +556,47 @@ encoder:
 葉	efaurj
 款	clxjfs
 知	,kff	,kffff
-八	zk	zkkkkk
+八	zk	zkkk
 配	gema	gemaaa
-器	fh	fhhhhh
+器	fh	fhhh
 何	jfyk	jfykkk
 率	wezvaj
 調	fjve	fjveee
-鬼	x;	x;;;;;
+鬼	x;	x;;;
 修	jfahldz;
 試	fj,;if
 謝	fjmmkl
 麪	rsldjb
 僅	jfuo	jfuooo
 層	jlg,	jlg,,,
-面	h,	h,,,,,
+面	h,	h,,,
 週	ljve	ljveee
-北	ju	juuuuu
-木	rj	rjjjjj
+北	ju	juuu
+木	rj	rjjj
 份	jfcv	jfcvvv
 記	fjma	fjmaaa
 趙	lkzddf
 情	hfea	hfeaaa
-肉	hd	hddddd
+肉	hd	hddd
 需	d;hv	d;hvvv
-七	cd	cddddd
+七	cd	cddd
 論	fjxz	fjxzzz
 流	djmvdk
 噶	ffefsfmjxl
 招	kkcfff
 痛	.xgw	.xgwww
 列	hccf	hccfff
-石	vo	vooooo
-香	f,	f,,,,,
+石	vo	vooo
+香	f,	f,,,
 封	vhkl	vhklll
 眼	hjgm	hjgmmm
-易	gg	gggggg
+易	gg	gggg
 冷	dlfu	dlfuuu
 借	jfdv	jfdvvv
 派	djdz	djdzzz
 帥	v/wl	v/wlll
 付	jfkl	jfklll
-十	aj	ajjjjj
+十	aj	ajjj
 廠	ojoak;
 陽	v;se	v;seee
 樹	rjydkl
@@ -604,11 +604,11 @@ encoder:
 胡	f;df	f;dfff
 排	kkpd	kkpddd
 停	jfoki;
-合	gk	gkkkkk
+合	gk	gkkk
 軍	qk.j	qk.jjj
-身	mm	mmmmmm
-奧	oy	oyyyyy
-章	x,	x,,,,,
+身	mm	mmmm
+奧	oy	oyyy
+章	x,	x,,,
 科	rdgo	rdgooo
 倆	jfae	jfaeee
 星	sfes	sfesss
@@ -618,13 +618,13 @@ encoder:
 隨	v;ljksifdf
 場	vjse	vjseee
 帖	wlxv	wlxvvv
-商	xi	xiiiii
+商	xi	xiii
 庫	oj.j	oj.jjj
 價	jfgs/j
 物	;fcs	;fcsss
 泡	djmj	djmjjj
 寶	ofckgz/j
-玉	ch	chhhhh
+玉	ch	chhh
 體	hwcu	hwcuuu
 追	ljv/	ljv///
 傷	jfjhse
@@ -635,18 +635,18 @@ encoder:
 解	;rcf;f
 室	of,l	of,lll
 底	ojm/	ojm///
-業	is	isssss
+業	is	isss
 代	jf,;	jf,;;;
 孫	mfzjwf
-朱	r.	r.....
-亦	uz	uzzzzz
+朱	r.	r...
+亦	uz	uzzz
 須	z;hk	z;hkkk
-舊	pu	puuuuu
+舊	pu	puuu
 乾	.uqe	.uqeee
-工	if	ifffff
+工	if	ifff
 咱	ffhl	ffhlll
 詞	fjfv	fjfvvv
-刀	cf	cfffff
+刀	cf	cfff
 喔	ffjl,l
 波	djh.	djh...
 證	fjl;gl
@@ -654,64 +654,64 @@ encoder:
 推	kkpj	kkpjjj
 落	efdjle
 節	ejgmjk
-春	ee	eeeeee
+春	ee	eeee
 輕	.jwa	.jwaaa
 笨	ejrm	ejrmmm
-九	kw	kwwwww
+九	kw	kwww
 輸	.j.i	.j.iii
 江	djif	djifff
 短	,kgl	,kglll
 含	guff	guffff
-千	jg	jggggg
+千	jg	jggg
 炒	sjze	sjzeee
 藉	efiudv
 丫	zkah	zkahhh
 徐	.foi	.foiii
 騙	;dosxa
 秒	rdze	rdzeee
-青	ea	eaaaaa
+青	ea	eaaa
 耍	hvuj	hvujjj
-夜	dg	dggggg
+夜	dg	dggg
 許	fjik	fjikkk
 咁	fffd	fffddd
 吹	fffs	fffsss
 師	v/afwl
 板	rjkv	rjkvvv
-土	vj	vjjjjj
-贏	/o	/ooooo
+土	vj	vjjj
+贏	/o	/ooo
 姐	ujxm	ujxmmm
-直	hh	hhhhhh
-公	zi	ziiiii
+直	hh	hhhh
+公	zi	ziii
 苦	eff;	eff;;;
 秀	rdm,	rdm,,,
 博	ajvvkl
-皮	h.	h.....
-朝	sr	srrrrr
+皮	h.	h...
+朝	sr	srrr
 君	ktff	ktffff
 詩	fjko	fjkooo
 爛	sjodri
 靜	eakakt
 利	rdcf	rdcfff
-素	wv	wvvvvv
-立	ud	uddddd
+素	wv	wvvv
+立	ud	uddd
 存	elmf	elmfff
 燒	sjvu	sjvuuu
 斷	wcil	wcilll
 吾	agff	agffff
 虧	;;pjyo
 湯	djse	djseee
-民	m;	m;;;;;
+民	m;	m;;;
 極	rjai	rjaiii
-命	fm	fmmmmm
+命	fm	fmmm
 睇	hj,m	hj,mmm
 忘	xlhf	xlhfff
-茶	ex	exxxxx
-冰	dl	dlllll
+茶	ex	exxx
+冰	dl	dlll
 供	jfke	jfkeee
 案	ofujrj
-田	vf	vfffff
+田	vf	vfff
 初	wkcf	wkcfff
-品	aw	awwwww
+品	aw	awww
 抽	kk,g	kk,ggg
 造	lj;v	lj;vvv
 抱	kkmj	kkmjjj
@@ -722,9 +722,9 @@ encoder:
 胖	dfcc	dfcccc
 緊	x.kfwf
 故	f;k;	f;k;;;
-服	j,	j,,,,,
-盡	g/	g/////
-百	sw	swwwww
+服	j,	j,,,
+盡	g/	g///
+百	sw	swww
 兵	ilkd	ilkddd
 英	efuw	efuwww
 蘇	ef/krd
@@ -733,18 +733,18 @@ encoder:
 嘴	fflfjj;r
 簽	ejje	ejjeee
 填	vjxh	vjxhhh
-果	r;	r;;;;;
-保	mr	mrrrrr
-唐	yr	yrrrrr
+果	r;	r;;;
+保	mr	mrrr
+唐	yr	yrrr
 雞	kawdufpj
 夏	hkld	hklddd
-莫	ew	ewwwww
+莫	ew	ewww
 硬	vok/	vok///
-寒	do	dooooo
+寒	do	dooo
 挖	kkovqe
-凡	gr	grrrrr
+凡	gr	grrr
 髮	mlz;;o
-言	fj	fjjjjj
+言	fj	fjjj
 題	sdhk	sdhkkk
 防	v;.v	v;.vvv
 街	.fvh	.fvhhh
@@ -758,14 +758,14 @@ encoder:
 官	ofv/	ofv///
 戲	;;gl,f
 寄	ofufyk
-古	f;	f;;;;;
-首	hi	hiiiii
-思	hg	hggggg
+古	f;	f;;;
+首	hi	hiii
+思	hg	hggg
 橋	rjzjufok
 燈	sjl;gl
 郭	oova	oovaaa
 亮	ok.a	ok.aaa
-干	,h	,hhhhh
+干	,h	,hhh
 屬	j./g	j./ggg
 窮	ovmm,j
 粉	rfcv	rfcvvv
@@ -783,20 +783,20 @@ encoder:
 狼	;loz	;lozzz
 蘭	efodri
 狂	;lck	;lckkk
-布	wo	wooooo
+布	wo	wooo
 引	,jah	,jahhh
 壓	vlsfdf;lvj
-亞	qm	qmmmmm
+亞	qm	qmmm
 捏	kksfvj
-齊	rw	rwwwww
+齊	rw	rwww
 隻	pjkf	pjkfff
 賽	do/j	do/jjj
 賽	og/j	og/jjj
-員	cm	cmmmmm
+員	cm	cmmm
 佛	jf,u	jf,uuu
-食	gj	gjjjjj
+食	gj	gjjj
 船	.kzi	.kziii
-今	gu	guuuuu
+今	gu	guuu
 恨	hfgm	hfgmmm
 宋	ofrj	ofrjjj
 銀	cjgm	cjgmmm
@@ -807,7 +807,7 @@ encoder:
 碼	vo;d	vo;ddd
 友	kskf	kskfff
 領	fuhk	fuhkkk
-句	qi	qiiiii
+句	qi	qiii
 斯	gdil	gdilll
 沙	djze	djzeee
 戰	ia,f	ia,fff
@@ -815,23 +815,23 @@ encoder:
 望	xldfck
 腿	dfljgm
 沖	djal	djalll
-丁	i;	i;;;;;
+丁	i;	i;;;
 園	qjw,	qjw,,,
 祝	xjffjs
-鄉	vz	vzzzzz
+鄉	vz	vzzz
 牀	.srj	.srjjj
 鄭	gcufva
 界	vfjv	vfjvvv
 抗	kku,	kku,,,
-步	lr	lrrrrr
+步	lr	lrrr
 河	djyk	djykkk
 缺	gzc;	gzc;;;
 賊	/j,z	/j,zzz
-尚	oa	oaaaaa
+尚	oa	oaaa
 似	jfme	jfmeee
-羊	;j	;jjjjj
+羊	;j	;jjj
 福	xjxu	xjxuuu
-必	,/	,/////
+必	,/	,///
 遭	lj.c	lj.ccc
 煙	sjgsvj
 否	ekff	ekffff
@@ -860,13 +860,13 @@ encoder:
 趕	lksf,h
 踢	llgg	llgggg
 勝	.,ij	.,ijjj
-史	xs	xsssss
-甲	,t	,ttttt
+史	xs	xsss
+甲	,t	,ttt
 呵	ffyk	ffykkk
 搬	kk.kkg
 獲	;lpukf
 紙	wfmp	wfmppp
-乃	m,	m,,,,,
+乃	m,	m,,,
 覺	zohu	zohuuu
 右	ksff	ksffff
 塔	vjefgk
@@ -876,7 +876,7 @@ encoder:
 院	v;ofjw
 慘	hfqhawjfz;
 訂	fji;	fji;;;
-散	rg	rggggg
+散	rg	rggg
 松	rjzi	rjziii
 爸	io/s	io/sss
 喜	ydff	ydffff
@@ -896,8 +896,8 @@ encoder:
 咬	ffui	ffuiii
 梅	rjmi	rjmiii
 批	kkjm	kkjmmm
-戶	os	osssss
-足	ll	llllll
+戶	os	osss
+足	ll	llll
 寧	ofhfg;i;
 爬	ka/s	ka/sss
 醒	gesfes
@@ -911,16 +911,16 @@ encoder:
 誒	fjqh,k
 軟	.jfs	.jfsss
 偷	jf.i	jf.iii
-支	em	emmmmm
+支	em	emmm
 杜	rjvj	rjvjjj
-麗	;c	;ccccc
+麗	;c	;ccc
 鞋	ixvh	ixvhhh
-展	jo	jooooo
+展	jo	jooo
 咧	ffhccf
-興	kc	kccccc
+興	kc	kccc
 依	jfwj	jfwjjj
 倍	jfei	jfeiii
-康	yg	yggggg
+康	yg	yggg
 堂	oavj	oavjjj
 救	/rk;	/rk;;;
 觀	phhu	phhuuu
@@ -929,8 +929,8 @@ encoder:
 餘	gjoi	gjoiii
 冇	ksqk	ksqkkk
 筆	ejxd	ejxddd
-音	fl	flllll
-世	au	auuuuu
+音	fl	flll
+世	au	auuu
 著	efsk	efskkk
 仲	jfal	jfalll
 舞	ualq	ualqqq
@@ -941,15 +941,15 @@ encoder:
 昇	sfg.	sfg...
 唄	ff/j	ff/jjj
 榮	sjsjqkrj
-弱	pv	pvvvvv
+弱	pv	pvvv
 影	sfolz;
-州	d,	d,,,,,
+州	d,	d,,,
 替	usussf
 逼	ljxu	ljxuuu
 陸	v;vm	v;vmmm
-曲	qw	qwwwww
+曲	qw	qwww
 願	dmhk	dmhkkk
-牙	ha	haaaaa
+牙	ha	haaa
 箱	ejrjhj
 嚇	ffsmsm
 測	dj/jcf
@@ -958,7 +958,7 @@ encoder:
 遍	ljosxa
 細	wfvf	wfvfff
 狀	.s;l	.s;lll
-巴	/s	/sssss
+巴	/s	/sss
 閒	oddf	oddfff
 武	,flf	,flfff
 湖	djf;df
@@ -973,14 +973,14 @@ encoder:
 衆	gpjr	gpjrrr
 零	d;fu	d;fuuu
 環	ckwi	ckwiii
-角	;r	;rrrrr
+角	;r	;rrr
 紫	lfjjwf
 勒	ixij	ixijjj
 島	pfvk	pfvkkk
 耶	h;va	h;vaaa
 熟	oou;sj
 孔	mfqd	mfqddd
-寸	kl	klllll
+寸	kl	klll
 標	rjgsxj
 歐	q;ffawfs
 厚	vlsfmf
@@ -992,34 +992,34 @@ encoder:
 滅	dj,esj
 運	ljqk.j
 輪	.jxz	.jxzzz
-兼	ki	kiiiii
+兼	ki	kiii
 溫	djqjjfg;
 娘	ujoz	ujozzz
 登	l;gl	l;glll
 悶	odhf	odhfff
-微	..	......
+微	..	....
 佳	jfvh	jfvhhh
 瞭	hjso	hjsooo
 雅	hapj	hapjjj
 魔	e;x;	e;x;;;
-司	fv	fvvvvv
+司	fv	fvvv
 拋	kku.ij
 志	clhf	clhfff
 奇	ufyk	ufykkk
 編	wfosxa
-瓦	ip	ippppp
+瓦	ip	ippp
 居	jlf;	jlf;;;
 憑	dl;dhf
 盛	,vg;	,vg;;;
 奶	ujm,	ujm,,,
-虎	;;	;;;;;;
-后	fr	frrrrr
+虎	;;	;;;;
+后	fr	frrr
 洞	djgf	djgfff
-台	mw	mwwwww
+台	mw	mwww
 形	iiz;	iiz;;;
 佢	jfiv	jfivvv
 負	ja/j	ja/jjj
-川	dk	dkkkkk
+川	dk	dkkk
 檔	rjoavf
 圓	qjcm	qjcmmm
 牆	.so/	.so///
@@ -1027,14 +1027,14 @@ encoder:
 充	mvjs	mvjsss
 害	ofraff
 喂	ffxp	ffxppp
-免	w/	w/////
+免	w/	w///
 景	sfol	sfolll
 擬	kklu	kkluuu
 穩	rdkaifkbhf
-曹	.c	.ccccc
+曹	.c	.ccc
 曉	sfvu	sfvuuu
 煮	sksj	sksjjj
-良	oz	ozzzzz
+良	oz	ozzz
 蛋	lo/f	lo/fff
 吐	ffvj	ffvjjj
 肥	df/s	df/sss
@@ -1043,19 +1043,19 @@ encoder:
 碰	voue	voueee
 酸	geqhzkld
 侯	jfqg,k
-塞	og	oggggg
+塞	og	oggg
 嘍	ffuh	ffuhhh
 脫	dfz,	dfz,,,
 勁	waij	waijjj
-欠	fs	fsssss
+欠	fs	fsss
 創	owcf	owcfff
 擦	kkofhdkfxj
-爾	wx	wxxxxx
+爾	wx	wxxx
 藏	ef,f.sx.
 皆	jmss	jmssss
 屁	jljm	jljmmm
-永	da	daaaaa
-夫	us	usssss
+永	da	daaa
+夫	us	usss
 掙	kkkakt
 琴	ckckgu
 錄	cjxg	cjxggg
@@ -1063,20 +1063,20 @@ encoder:
 稅	rdz,	rdz,,,
 宏	ofksqh
 例	jfhccf
-專	wg	wggggg
+專	wg	wggg
 砍	vofs	vofsss
 視	xjhu	xjhuuu
 繼	wfwc	wfwccc
 兄	ffjs	ffjsss
 產	ukvles
-善	;m	;mmmmm
+善	;m	;mmm
 增	vjg,	vjg,,,
 施	.m/d	.m/ddd
 淚	djos;l
 暗	sffl	sfflll
 忍	cghf	cghfff
 肯	lfdf	lfdfff
-母	mk	mkkkkk
+母	mk	mkkk
 聖	h;ffck
 橫	rjul	rjulll
 遊	lj.mmf
@@ -1084,7 +1084,7 @@ encoder:
 致	,lk;	,lk;;;
 宗	ofxj	ofxjjj
 偉	jflz	jflzzz
-麻	e;	e;;;;;
+麻	e;	e;;;
 怒	ujkfhf
 扔	kkm,	kkm,,,
 爭	kakt	kakttt
@@ -1097,7 +1097,7 @@ encoder:
 罪	aapd	aapddd
 仔	jfmf	jfmfff
 彈	,jia	,jiaaa
-丑	kq	kqqqqq
+丑	kq	kqqq
 減	dj,eff
 敏	mik;	mik;;;
 義	;j,d	;j,ddd
@@ -1110,21 +1110,21 @@ encoder:
 計	fjaj	fjajjj
 絲	wfwf	wfwfff
 校	rjui	rjuiii
-氏	mp	mppppp
+氏	mp	mppp
 糖	rfyr	rfyrrr
-吉	co	cooooo
+吉	co	cooo
 押	kk,t	kk,ttt
 馮	dl;d	dl;ddd
 吵	ffze	ffzeee
-谷	dr	drrrrr
+谷	dr	drrr
 麥	rsld	rslddd
-衣	wj	wjjjjj
+衣	wj	wjjj
 宇	ofyl	ofylll
 雜	wjrjpj
-末	ru	ruuuuu
+末	ru	ruuu
 潘	dj;wvf
-告	;v	;vvvvv
-旁	.r	.rrrrr
+告	;v	;vvv
+旁	.r	.rrr
 耐	hvkl	hvklll
 董	ef.e	ef.eee
 榜	rj.r	rj.rrr
@@ -1136,7 +1136,7 @@ encoder:
 幣	w.wl	w.wlll
 宜	ofxm	ofxmmm
 尼	jljj	jljjjj
-灰	s.	s.....
+灰	s.	s...
 評	fjyi	fjyiii
 維	wfpj	wfpjjj
 絕	wfcf/s
@@ -1145,8 +1145,8 @@ encoder:
 楚	rhlo	rhlooo
 屆	jlvjql
 館	gjofv/
-丹	vc	vccccc
-乘	rp	rppppp
+丹	vc	vccc
+乘	rp	rppp
 認	fjcghf
 刻	;icf	;icfff
 俊	jfqhzkld
@@ -1154,7 +1154,7 @@ encoder:
 抄	kkze	kkzeee
 夾	ufjd	ufjddd
 酷	ge;v	ge;vvv
-京	ol	olllll
+京	ol	olll
 嚴	ffffvlkp
 返	ljkv	ljkvvv
 礦	voojul
@@ -1166,7 +1166,7 @@ encoder:
 註	fjsa	fjsaaa
 添	djurhf
 催	jfvkpj
-具	im	immmmm
+具	im	immm
 威	,euj	,eujjj
 劇	;;;kcf
 核	rj;i	rj;iii
@@ -1178,15 +1178,15 @@ encoder:
 季	rdmf	rdmfff
 尋	kbifffkl
 顯	sfwdwdsjhk
-骨	hw	hwwwww
+骨	hw	hwww
 嘿	ffsl	ffslll
 鏈	cjlj.j
 擺	kkaa;s
 擠	kkrw	kkrwww
-黎	rc	rccccc
+黎	rc	rccc
 騎	;dufyk
 密	of,/vk
-士	cl	clllll
+士	cl	clll
 術	.frx	.frxxx
 炸	sjid	sjiddd
 祇	xjmp	xjmppp
@@ -1201,21 +1201,21 @@ encoder:
 索	ajqkwf
 聚	h;kfjr
 拼	kkjc	kkjccc
-燕	pq	pqqqqq
+燕	pq	pqqq
 撞	kkmg	kkmggg
 膜	dfew	dfewww
 普	uesf	uesfff
-竹	ej	ejjjjj
+竹	ej	ejjj
 魏	rdujx;
 澤	djxn	djxnnn
 乜	qfqd	qfqddd
 側	jf/jcf
 諾	fjefksff
-呂	fa	faaaaa
+呂	fa	faaa
 范	efdjjk
 搭	kkefgk
 鳳	grpf	grpfff
-袁	w,	w,,,,,
+袁	w,	w,,,
 扯	kklf	kklfff
 鑽	cjlxlx/j
 彭	ydz;	ydz;;;
@@ -1223,7 +1223,7 @@ encoder:
 唸	ffguhf
 薄	efdjvvkl
 涼	djol	djolll
-曰	f.	f.....
+曰	f.	f...
 胃	vfdf	vfdfff
 鹽	x.jhgyg;
 賴	rkja/j
@@ -1238,7 +1238,7 @@ encoder:
 甜	fkfd	fkfddd
 舉	hzkk	hzkkkk
 彩	karjz;
-甚	fe	feeeee
+甚	fe	feee
 厄	vljk	vljkkk
 粗	rfxm	rfxmmm
 傑	jflqrj
@@ -1246,7 +1246,7 @@ encoder:
 慶	;ehfld
 緣	wf;,;k
 駐	;dsa	;dsaaa
-申	s,	s,,,,,
+申	s,	s,,,
 衛	.flz	.flzzz
 訓	fjdk	fjdkkk
 念	guhf	guhfff
@@ -1259,12 +1259,12 @@ encoder:
 逃	ljdi	ljdiii
 嘉	ydijff
 納	wfoc	wfoccc
-升	g.	g.....
-倉	ow	owwwww
+升	g.	g...
+倉	ow	owww
 姚	ujdi	ujdiii
 休	jfrj	jfrjjj
 症	.xlg	.xlggg
-斤	il	illlll
+斤	il	illl
 功	ifij	ifijjj
 喇	ffrkcf
 釦	cjff	cjffff
@@ -1274,17 +1274,17 @@ encoder:
 忠	alhf	alhfff
 梁	djcfzkrj
 吸	ffkr	ffkrrr
-貝	/j	/jjjjj
+貝	/j	/jjj
 跨	llufyo
 盧	;;vfg;
 森	rjaw	rjawww
 瞎	hjofraff
 卷	rrjk	rrjkkk
-于	yl	ylllll
-井	o;	o;;;;;
+于	yl	ylll
+井	o;	o;;;
 針	cjaj	cjajjj
 蛇	/f/e	/f/eee
-寺	ko	kooooo
+寺	ko	kooo
 購	/jav	/javvv
 導	ljhikl
 飲	gjfs	gjfsss
@@ -1297,7 +1297,7 @@ encoder:
 略	vfle	vfleee
 掃	kkiw	kkiwww
 吶	ffoc	ffoccc
-目	hj	hjjjjj
+目	hj	hjjj
 蒙	efw;;k
 託	fjeo	fjeooo
 托	kkeo	kkeooo
@@ -1305,7 +1305,7 @@ encoder:
 淡	djsh	djshhh
 賤	/j,r	/j,rrr
 拜	kjafra
-冬	d.	d.....
+冬	d.	d...
 娜	ujhrva
 懷	hfwjaadj
 池	dj/d	dj/ddd
@@ -1327,7 +1327,7 @@ encoder:
 喬	zjufok
 欄	rjodri
 鍋	cjhs	cjhsss
-巨	iv	ivvvvv
+巨	iv	ivvv
 儀	jf;j,d
 遲	ljj.;f
 怎	idhf	idhfff
@@ -1335,14 +1335,14 @@ encoder:
 呼	ffy;	ffy;;;
 賭	/jsk	/jskkk
 液	djdg	djdggg
-泉	du	duuuuu
+泉	du	duuu
 嫁	ujof;k
 捲	kkrrjk
 汪	djck	djckkk
 稍	rdzddf
 薛	efv/xk
 賈	gs/j	gs/jjj
-豆	gl	glllll
+豆	gl	glll
 頓	echk	echkkk
 旺	sfck	sfckkk
 儂	jfqw/l
@@ -1361,12 +1361,12 @@ encoder:
 吻	ffcs	ffcsss
 健	jf.gxd
 速	ljrk	ljrkkk
-失	km	kmmmmm
+失	km	kmmm
 雄	ksqhpj
 胸	dfmjzlql
 框	rjq;ck
-鬥	u/	u/////
-暴	sc	sccccc
+鬥	u/	u///
+暴	sc	sccc
 湊	djkdur
 陣	v;.j	v;.jjj
 識	fjfl,f
@@ -1388,22 +1388,22 @@ encoder:
 府	ojjfkl
 菲	efpd	efpddd
 叼	ffcr	ffcrrr
-父	io	iooooo
-耳	h;	h;;;;;
+父	io	iooo
+耳	h;	h;;;
 殘	hc,r	hc,rrr
 窗	ovoh	ovohhh
 搜	kks,kf
 希	zswl	zswlll
 患	/uhf	/uhfff
-尾	j.	j.....
+尾	j.	j...
 播	kk;wvf
 岩	vkvo	vkvooo
 逗	ljgl	ljglll
 廢	ojl;	ojl;;;
 賢	x.kf/j
 限	v;gm	v;gmmm
-帝	e,	e,,,,,
-昌	fo	fooooo
+帝	e,	e,,,
+昌	fo	fooo
 模	rjew	rjewww
 磚	vowg	vowggg
 扁	osxa	osxaaa
@@ -1430,7 +1430,7 @@ encoder:
 錦	cjsswl
 溼	djafwdwdvj
 琳	ckrh	ckrhhh
-乙	qe	qeeeee
+乙	qe	qeee
 伴	jfcc	jfcccc
 淺	dj,r	dj,rrr
 尊	gckl	gcklll
@@ -1448,8 +1448,8 @@ encoder:
 祖	xjxm	xjxmmm
 肺	dfwp	dfwppp
 附	v;jfkl
-制	ih	ihhhhh
-玄	we	weeeee
+制	ih	ihhh
+玄	we	weee
 置	aahh	aahhhh
 豪	ok;k	ok;kkk
 恆	hfaddf
@@ -1457,12 +1457,12 @@ encoder:
 濤	djm.	djm...
 幽	wdwdvk
 欣	ilfs	ilfsss
-豐	cu	cuuuuu
+豐	cu	cuuu
 辣	xkrk	xkrkkk
 煤	sjfdrj
 戀	wrhf	wrhfff
 圍	qjlz	qjlzzz
-瓜	r/	r/////
+瓜	r/	r///
 諸	fjsk	fjskkk
 俾	jf,b	jf,bbb
 慧	rarakbhf
@@ -1471,14 +1471,14 @@ encoder:
 鏡	cjfljs
 娶	h;kfuj
 蝦	/fkh	/fkhhh
-犬	;l	;lllll
+犬	;l	;lll
 鵬	/mpf	/mpfff
 誠	fj,v	fj,vvv
 賀	ijff/j
 險	v;je	v;jeee
 飾	gjjhwl
 撐	kkoaha
-炎	sh	shhhhh
+炎	sh	shhh
 震	d;/l	d;/lll
 鋒	cjldra
 遂	ljzk;k
@@ -1492,7 +1492,7 @@ encoder:
 禁	rhxj	rhxjjj
 烤	sjmoi/
 盃	ekg;	ekg;;;
-童	mg	mggggg
+童	mg	mggg
 蟲	/faw	/fawww
 徵	.f..vw
 靚	eahu	eahuuu
@@ -1500,7 +1500,7 @@ encoder:
 暨	gmfxsg
 晴	sfea	sfeaaa
 魂	d/x;	d/x;;;
-益	dh	dhhhhh
+益	dh	dhhh
 庭	oj.gvw
 肝	df,h	df,hhh
 濃	djqw/l
@@ -1512,7 +1512,7 @@ encoder:
 割	ofraffcf
 敗	/jk;	/jk;;;
 消	djzddf
-兆	di	diiiii
+兆	di	diii
 楓	rjpa	rjpaaa
 隆	v;ldafes
 撤	kkmvdfk;
@@ -1524,23 +1524,23 @@ encoder:
 曼	sfaakf
 暖	sfkn	sfknnn
 滬	djosva
-己	ma	maaaaa
-止	lf	lfffff
+己	ma	maaa
+止	lf	lfff
 柱	rjsa	rjsaaa
 塗	djoivj
 妻	afktuj
 灣	djwr,j
-盾	,n	,nnnnn
-奔	li	liiiii
+盾	,n	,nnn
+奔	li	liii
 潤	djodck
 政	lgk;	lgk;;;
 爹	iohe	ioheee
-尹	kt	kttttt
+尹	kt	kttt
 廖	ojprjfz;
 刺	r,cf	r,cfff
 冠	qkjwkl
 躺	mmoa	mmoaaa
-舍	o,	o,,,,,
+舍	o,	o,,,
 鑫	cjaw	cjawww
 蓮	eflj.j
 售	pjff	pjffff
@@ -1551,7 +1551,7 @@ encoder:
 閣	odle	odleee
 妞	ujkq	ujkqqq
 邱	viva	vivaaa
-兔	;h	;hhhhh
+兔	;h	;hhh
 敬	efmjffk;
 潮	djsr	djsrrr
 昂	sfjp	sfjppp
@@ -1559,28 +1559,28 @@ encoder:
 咳	ff;i	ff;iii
 邪	hava	havaaa
 促	jfll	jfllll
-鼠	;g	;ggggg
+鼠	;g	;ggg
 葛	efsfmjxl
-串	/u	/uuuuu
+串	/u	/uuu
 桑	kfawrj
 續	wf//	wf////
 苑	efddjk
 迎	ljjp	ljjppp
-弓	,j	,jjjjj
+弓	,j	,jjj
 碎	vown	vownnn
-余	oi	oiiiii
-承	kk	kkkkkk
+余	oi	oiii
+承	kk	kkkk
 迪	lj,g	lj,ggg
 膠	dfprjfz;
-烏	pw	pwwwww
+烏	pw	pwww
 牠	;f/d	;f/ddd
-臣	x.	x.....
+臣	x.	x...
 勤	uoij	uoijjj
 摔	kkwezvaj
 撈	kksjsjqkkkij
 蒸	efkysj
 凌	dll,	dll,,,
-辛	xk	xkkkkk
+辛	xk	xkkk
 旗	.mgd	.mgddd
 妙	ujze	ujzeee
 始	ujmw	ujmwww
@@ -1589,7 +1589,7 @@ encoder:
 鋁	cjfa	cjfaaa
 亭	oki;	oki;;;
 吼	ffmfqd
-云	d/	d/////
+云	d/	d///
 研	voii	voiiii
 咪	ffrf	ffrfff
 俗	jfdr	jfdrrr
@@ -1597,8 +1597,8 @@ encoder:
 啓	osk;ff
 霧	d;,aldij
 珍	ckjfz;
-卓	.z	.zzzzz
-韋	lz	lzzzzz
+卓	.z	.zzz
+韋	lz	lzzz
 歡	phfs	phfsss
 嗨	ffdjmi
 積	rd/i	rd/iii
@@ -1619,15 +1619,15 @@ encoder:
 預	qrhk	qrhkkk
 鄒	mjedmjedva
 崗	vkv,	vkv,,,
-尤	k.	k.....
+尤	k.	k...
 洲	djd,	djd,,,
-乎	y;	y;;;;;
+乎	y;	y;;;
 湘	djrjhj
 罷	aa;s	aa;sss
 軸	.j,g	.j,ggg
 妳	ujww	ujwwww
 翔	;jpr	;jprrr
-異	x/	x/////
+異	x/	x///
 隱	v;kaifkbhf
 枝	rjem	rjemmm
 逸	lj;h	lj;hhh
@@ -1648,7 +1648,7 @@ encoder:
 撲	kkisuf
 萍	efdjyi
 晶	sfaw	sfawww
-勾	qo	qooooo
+勾	qo	qooo
 戒	,fkd	,fkddd
 桂	rjvh	rjvhhh
 朗	ozdf	ozdfff
@@ -1669,9 +1669,9 @@ encoder:
 鼓	ydem	ydemmm
 霞	d;kh	d;khhh
 瞧	hjpjsj
-皇	c,	c,,,,,
+皇	c,	c,,,
 企	jflf	jflfff
-互	qv	qvvvvv
+互	qv	qvvv
 沉	djqk.a
 箭	ejlh	ejlhhh
 柏	rjss	rjssss
@@ -1688,17 +1688,17 @@ encoder:
 盆	cvg;	cvg;;;
 檢	rjje	rjjeee
 護	fjpukf
-眉	hm	hmmmmm
-傘	i.	i.....
+眉	hm	hmmm
+傘	i.	i...
 碧	ckssvo
 籍	ejiudv
 燙	djsesj
 瑪	ck;d	ck;ddd
 刮	fkcf	fkcfff
-勿	cs	csssss
+勿	cs	csss
 坤	vjs,	vjs,,,
 汁	djaj	djajjj
-冊	xa	xaaaaa
+冊	xa	xaaa
 銘	cjddff
 浴	djdr	djdrrr
 翼	prx/	prx///
@@ -1712,7 +1712,7 @@ encoder:
 判	cccf	cccfff
 寵	of/h	of/hhh
 紋	wfuk	wfukkk
-弟	,m	,mmmmm
+弟	,m	,mmm
 傅	jfvvkl
 衰	wjhr	wjhrrr
 譯	fjxn	fjxnnn
@@ -1734,7 +1734,7 @@ encoder:
 兇	zlqljs
 旅	.mjd	.mjddd
 鷹	ojjfpjpf
-赤	sm	smmmmm
+赤	sm	smmm
 技	kkem	kkemmm
 韻	flcm	flcmmm
 摘	kke,ff
@@ -1743,8 +1743,8 @@ encoder:
 孝	momf	momfff
 移	rdhe	rdheee
 搖	kkhdgz
-畢	iq	iqqqqq
-予	qr	qrrrrr
+畢	iq	iqqq
+予	qr	qrrr
 岳	vivk	vivkkk
 屎	jlrf	jlrfff
 融	c./f	c./fff
@@ -1753,7 +1753,7 @@ encoder:
 採	kkkarj
 鈕	cjkq	cjkqqq
 扶	kkus	kkusss
-介	jv	jvvvvv
+介	jv	jvvv
 渡	djojamkf
 芯	efhf	efhfff
 奪	ufpjkl
@@ -1795,17 +1795,17 @@ encoder:
 膽	dfjavlzkfj
 穆	rdsszdz;
 姬	ujx.	ujx...
-龜	/;	/;;;;;
+龜	/;	/;;;
 啃	fflfdf
 漸	dj.jil
 耗	iuh/	iuh///
 息	hlhf	hlhfff
 伍	jfag	jfaggg
 塘	vjyr	vjyrrr
-壽	m.	m.....
+壽	m.	m...
 逢	ljldra
 闖	od;d	od;ddd
-晉	,o	,ooooo
+晉	,o	,ooo
 桃	rjdi	rjdiii
 壁	jlffxkvj
 霍	d;pj	d;pjjj
@@ -1813,7 +1813,7 @@ encoder:
 漆	djrjrc
 暫	.jilsf
 虹	/fif	/fifff
-丸	u;	u;;;;;
+丸	u;	u;;;
 券	rrcf	rrcfff
 獃	.;;l	.;;lll
 辭	wzxk	wzxkkk
@@ -1832,7 +1832,7 @@ encoder:
 矮	,krduj
 貪	gu/j	gu/jjj
 婆	djh.uj
-俞	.i	.iiiii
+俞	.i	.iii
 蝶	/faurj
 誇	fjufyo
 枕	rjqkjs
@@ -1855,7 +1855,7 @@ encoder:
 固	qjf;	qjf;;;
 耀	s;prpj
 槽	rj.c	rj.ccc
-穴	ov	ovvvvv
+穴	ov	ovvv
 獻	;;c.;l
 幅	wlxu	wlxuuu
 審	of;wvf
@@ -1898,7 +1898,7 @@ encoder:
 漫	djsfaakf
 溜	djcavf
 彥	ukvlz;
-棄	kd	kddddd
+棄	kd	kddd
 扇	ospr	osprrr
 婷	ujoki;
 菸	efps	efpsss
@@ -1907,7 +1907,7 @@ encoder:
 堡	mrvj	mrvjjj
 淘	djmjgz
 墓	ewvj	ewvjjj
-鹿	;e	;eeeee
+鹿	;e	;eee
 攢	kklxlx/j
 嬌	ujzjufok
 遞	ljzh;;
@@ -1916,7 +1916,7 @@ encoder:
 卿	jkgmjk
 琪	ckgd	ckgddd
 鶴	qkpjpf
-函	,i	,iiiii
+函	,i	,iii
 確	voqkpj
 郡	ktffva
 奈	ufxj	ufxjjj
@@ -1930,7 +1930,7 @@ encoder:
 薰	efsu	efsuuu
 映	sfuw	sfuwww
 粵	oq;wyo
-鼻	ho	hooooo
+鼻	ho	hooo
 泵	vodj	vodjjj
 銷	cjzddf
 育	mvdf	mvdfff
@@ -1958,8 +1958,8 @@ encoder:
 倪	jfgajs
 務	,aldij
 雯	d;uk	d;ukkk
-戈	,f	,fffff
-爪	ka	kaaaaa
+戈	,f	,fff
+爪	ka	kaaa
 癌	.xffawvk
 效	uik;	uik;;;
 拷	kkmoi/
@@ -1967,10 +1967,10 @@ encoder:
 掏	kkmjgz
 汝	djuj	djujjj
 撮	kksfh;kf
-幸	xy	xyyyyy
+幸	xy	xyyy
 揉	kk,arj
 醬	.shdklge
-舟	.k	.kkkkk
+舟	.k	.kkk
 訴	fjom	fjommm
 態	;shf	;shfff
 盯	hji;	hji;;;
@@ -1980,7 +1980,7 @@ encoder:
 序	ojqr	ojqrrr
 巷	kems	kemsss
 梨	rdcfrj
-舌	fk	fkkkkk
+舌	fk	fkkk
 蒂	efe,	efe,,,
 腹	dflc	dflccc
 蟹	;rcf;f/f
@@ -1988,14 +1988,14 @@ encoder:
 捉	kkll	kkllll
 蒼	efow	efowww
 鵝	,dpf	,dpfff
-疑	lu	luuuuu
-鼎	c/	c/////
+疑	lu	luuu
+鼎	c/	c///
 釣	cjgh	cjghhh
 慌	hfefxldk
 蔥	efohhf
 瘤	.xcavf
 彼	.fh.	.fh...
-辰	/l	/lllll
+辰	/l	/lll
 執	xyu;	xyu;;;
 忌	mahf	mahfff
 踏	lldjsf
@@ -2045,13 +2045,13 @@ encoder:
 痕	.xgm	.xgmmm
 賓	ofjb/j
 纔	wf;h;h
-午	ik	ikkkkk
+午	ik	ikkk
 攤	kkuopj
 蕾	efd;vf
 頸	wahk	wahkkk
 臟	dfef,f.sx.
 宰	ofxk	ofxkkk
-囊	wy	wyyyyy
+囊	wy	wyyy
 賬	/jml	/jmlll
 弘	,jqh	,jqhhh
 境	vjfljs
@@ -2063,12 +2063,12 @@ encoder:
 罩	aa.z	aa.zzz
 蓉	efovzi
 憶	hfflhf
-卵	/q	/qqqqq
+卵	/q	/qqq
 遷	ljgsufms
-尺	ic	iccccc
+尺	ic	iccc
 禍	xjhs	xjhsss
 逾	lj.i	lj.iii
-垂	ev	evvvvv
+垂	ev	evvv
 潛	djfxfxsf
 郵	evva	evvaaa
 惜	hfdv	hfdvvv
@@ -2088,7 +2088,7 @@ encoder:
 裙	wkktff
 彪	;;z;	;;z;;;
 淋	djrh	djrhhh
-束	rk	rkkkkk
+束	rk	rkkk
 牢	of;f	of;fff
 齋	rwxj	rwxjjj
 揍	kkkdur
@@ -2104,29 +2104,29 @@ encoder:
 株	rjr.	rjr...
 砂	voze	vozeee
 埃	vjqh,k
-斗	go	gooooo
+斗	go	gooo
 坪	vjyi	vjyiii
 揮	kkqk.j
 箇	ejqjf;
 仇	jfkw	jfkwww
 吞	urff	urffff
-亡	xl	xlllll
+亡	xl	xlll
 沾	djxv	djxvvv
 遙	ljhdgz
 壺	clqkqm
 牧	;fk;	;fk;;;
 霖	d;rh	d;rhhh
-兜	ja	jaaaaa
+兜	ja	jaaa
 寨	dorj	dorjjj
 寨	ogrj	ogrjjj
 掐	kkjaga
-監	xo	xooooo
+監	xo	xooo
 稀	rdzswl
 恰	hfgk	hfgkkk
 牴	;fm/	;fm///
 棍	rjsfjm
 啵	ffdjh.
-朕	.,	.,,,,,
+朕	.,	.,,,
 淑	dje/kf
 饒	gjvu	gjvuuu
 慕	ewhf	ewhfff
@@ -2143,7 +2143,7 @@ encoder:
 碳	vovks.
 銳	cjz,	cjz,,,
 驗	;dje	;djeee
-齒	hq	hqqqqq
+齒	hq	hqqq
 廷	.gvw	.gvwww
 糊	rff;df
 翹	vupr	vuprrr
@@ -2156,20 +2156,20 @@ encoder:
 嘞	ffixij
 拾	kkgk	kkgkkk
 裴	pdwj	pdwjjj
-朋	/m	/mmmmm
+朋	/m	/mmm
 媚	ujhm	ujhmmm
 芸	efd/	efd///
 吟	ffgu	ffguuu
 筒	ejgf	ejgfff
-丘	vi	viiiii
-責	/i	/iiiii
+丘	vi	viii
+責	/i	/iii
 趴	llzk	llzkkk
-堯	vu	vuuuuu
+堯	vu	vuuu
 繁	mik;wf
 坦	vjsg	vjsggg
 穗	rdwghf
 紗	wfze	wfzeee
-屯	ec	eccccc
+屯	ec	eccc
 虐	;;ka	;;kaaa
 蹲	llgckl
 紹	wfcfff
@@ -2179,7 +2179,7 @@ encoder:
 扒	kkzk	kkzkkk
 搓	kkkx	kkkxxx
 遮	ljojamsj
-庚	yv	yvvvvv
+庚	yv	yvvv
 哉	,wff	,wffff
 涉	djlr	djlrrr
 忒	,;hf	,;hfff
@@ -2194,19 +2194,19 @@ encoder:
 臥	x.jf	x.jfff
 釘	cji;	cji;;;
 阮	v;jw	v;jwww
-丙	ar	arrrrr
+丙	ar	arrr
 歷	vlrdrdlf
 躍	llprpj
 署	aask	aaskkk
 範	ej.jjk
-示	xj	xjjjjj
+示	xj	xjjj
 邢	iiva	iivaaa
 擰	kkofhfg;i;
 莎	efdjze
 糞	rfvfke
 嵐	vkpa	vkpaaa
 濱	djofjb/j
-夕	dd	dddddd
+夕	dd	dddd
 苯	efrm	efrmmm
 議	fj;j,d
 趣	lkh;kf
@@ -2225,7 +2225,7 @@ encoder:
 艦	.kxo	.kxooo
 挪	kkhrva
 荒	efxldk
-貞	xr	xrrrrr
+貞	xr	xrrr
 筋	ejdfij
 孕	m,mf	m,mfff
 撕	kkgdil
@@ -2236,7 +2236,7 @@ encoder:
 奎	ufvh	ufvhhh
 駕	ijff;d
 阻	v;xm	v;xmmm
-享	oo	oooooo
+享	oo	oooo
 棚	rj/m	rj/mmm
 傲	jf.l	jf.lll
 欽	cjfs	cjfsss
@@ -2245,7 +2245,7 @@ encoder:
 召	cfff	cfffff
 徒	.flk	.flkkk
 脂	dffi	dffiii
-几	.a	.aaaaa
+几	.a	.aaa
 趨	lkmjedmjed
 艘	.ks,kf
 喵	ffefvf
@@ -2265,7 +2265,7 @@ encoder:
 拌	kkcc	kkcccc
 樊	zsrjrjuf
 缸	gzif	gzifff
-弗	,u	,uuuuu
+弗	,u	,uuu
 狐	;lr/	;lr///
 漿	.shdkldj
 栽	,wrj	,wrjjj
@@ -2275,7 +2275,7 @@ encoder:
 述	ljrx	ljrxxx
 籠	ej/h	ej/hhh
 泛	djzjls
-甫	vv	vvvvvv
+甫	vv	vvvv
 佑	jfksff
 鮑	/kmj	/kmjjj
 閥	odjf,f
@@ -2292,7 +2292,7 @@ encoder:
 潭	djgx	djgxxx
 蠢	ee/f/f
 植	rjhh	rjhhhh
-占	xv	xvvvvv
+占	xv	xvvv
 嘯	ffde	ffdeee
 徑	.fwa	.fwaaa
 鉛	cjzi	cjziii
@@ -2306,7 +2306,7 @@ encoder:
 暢	s,se	s,seee
 詠	fjda	fjdaaa
 齡	hqfu	hqfuuu
-焉	pz	pzzzzz
+焉	pz	pzzz
 茹	efujff
 桐	rjgf	rjgfff
 痰	.xsh	.xshhh
@@ -2316,7 +2316,7 @@ encoder:
 揀	kkri	kkriii
 艙	.kow	.kowww
 謙	fjki	fjkiii
-万	jt	jttttt
+万	jt	jttt
 織	wffl,f
 蒲	efdjvv
 芽	efha	efhaaa
@@ -2339,7 +2339,7 @@ encoder:
 磷	vorflq
 竄	ov;g	ov;ggg
 脆	dfjavljk
-刃	cg	cggggg
+刃	cg	cggg
 墜	v;zk;kvj
 姑	ujf;	ujf;;;
 衡	.fjavfuf
@@ -2355,7 +2355,7 @@ encoder:
 鄂	ffffyova
 捅	kkgw	kkgwww
 叢	ish;kf
-禾	rd	rddddd
+禾	rd	rddd
 磁	voegwdwd
 錶	cjwm	cjwmmm
 沃	djzjuf
@@ -2371,10 +2371,10 @@ encoder:
 瓷	dlfsip
 澀	djcfzfcfzflflf
 踹	lleh	llehhh
-凸	q,	q,,,,,
+凸	q,	q,,,
 瑜	ck.i	ck.iii
 磅	vo.r	vo.rrr
-豈	.;	.;;;;;
+豈	.;	.;;;
 瀉	djofpc
 遼	ljso	ljsooo
 豎	x.kfgl
@@ -2388,7 +2388,7 @@ encoder:
 崩	vk/m	vk/mmm
 醜	gex;	gex;;;
 厲	vl/c	vl/ccc
-革	ix	ixxxxx
+革	ix	ixxx
 莪	ef,d	ef,ddd
 憲	ofraaahf
 遺	ljku/j
@@ -2432,7 +2432,7 @@ encoder:
 悠	jfahk;hf
 睿	hczkjfhj
 甯	ofhfvd
-凹	q.	q.....
+凹	q.	q...
 葬	efhcjjkd
 咦	ffuf,j
 瞪	hjl;gl
@@ -2451,7 +2451,7 @@ encoder:
 馳	;d/d	;d/ddd
 鞭	ixjfk/
 楞	rjaa.v
-兌	z,	z,,,,,
+兌	z,	z,,,
 危	javljk
 襲	/hwj	/hwjjj
 泊	djss	djssss
@@ -2467,7 +2467,7 @@ encoder:
 鈞	cjmjdl
 憐	hfrflq
 昆	sfjm	sfjmmm
-禹	/x	/xxxxx
+禹	/x	/xxx
 娥	uj,d	uj,ddd
 醇	geoo	geoooo
 橙	rjl;gl
@@ -2481,7 +2481,7 @@ encoder:
 脾	df,b	df,bbb
 淵	djdc	djdccc
 愚	/vhf	/vhfff
-蜀	/g	/ggggg
+蜀	/g	/ggg
 裹	wjr;	wjr;;;
 藕	efiu/v
 滕	.,dj	.,djjj
@@ -2508,7 +2508,7 @@ encoder:
 枯	rjf;	rjf;;;
 軌	.jkw	.jkwww
 塑	ucdfvj
-卜	xf	xfffff
+卜	xf	xfff
 構	rjav	rjavvv
 茅	ef,a	ef,aaa
 鉅	cjiv	cjivvv
@@ -2521,11 +2521,11 @@ encoder:
 淩	djl,	djl,,,
 雀	zdpj	zdpjjj
 鈦	cjuv	cjuvvv
-亨	o.	o.....
+亨	o.	o...
 詳	fj;j	fj;jjj
 腐	ojjfklhd
 皓	ss;v	ss;vvv
-央	uw	uwwwww
+央	uw	uwww
 氟	dw,u	dw,uuu
 冤	qk;h	qk;hhh
 据	kkjlf;
@@ -2537,16 +2537,16 @@ encoder:
 叄	qhawjfas
 輩	pd.j	pd.jjj
 筱	ejjfahk;
-冉	hr	hrrrrr
+冉	hr	hrrr
 餡	gjjaga
 彤	vcz;	vcz;;;
 奕	uzuf	uzufff
-卑	,b	,bbbbb
+卑	,b	,bbb
 誓	kkilfj
 蜂	/fldra
-勺	gh	ghhhhh
+勺	gh	ghhh
 迅	ljpe	ljpeee
-虫	/f	/fffff
+虫	/f	/fff
 恥	h;hf	h;hfff
 匹	q;js	q;jsss
 曦	sf;jrd,fi/
@@ -2572,12 +2572,12 @@ encoder:
 屌	jlffwl
 摳	kkq;ffaw
 貳	,;ad/j
-旦	sg	sggggg
+旦	sg	sggg
 涂	djoi	djoiii
 氯	dwxg	dwxggg
 祁	xjva	xjvaaa
 蠟	/f;t	/f;ttt
-乍	id	iddddd
+乍	id	iddd
 孰	oou;	oou;;;
 耕	iuo;	iuo;;;
 飆	;lawpa
@@ -2589,11 +2589,11 @@ encoder:
 笛	ej,g	ej,ggg
 捕	kkvv	kkvvvv
 蕊	efhfaw
-喪	rz	rzzzzz
+喪	rz	rzzz
 盪	djseg;
 氨	dwofuj
 愣	hfaa.v
-幺	wd	wddddd
+幺	wd	wddd
 瀾	djodri
 悔	hfmi	hfmiii
 敦	ook;	ook;;;
@@ -2663,7 +2663,7 @@ encoder:
 綿	wfsswl
 搗	kkpfvk
 萱	efofadsf
-岡	v,	v,,,,,
+岡	v,	v,,,
 挂	kkvh	kkvhhh
 掀	kkilfs
 誘	fjrdm,
@@ -2681,7 +2681,7 @@ encoder:
 侍	jfko	jfkooo
 抑	kkjp	kkjppp
 啞	ffqm	ffqmmm
-敖	.l	.lllll
+敖	.l	.lll
 酮	gegf	gegfff
 毫	okh/	okh///
 侵	jfkbqkkf
@@ -2691,10 +2691,10 @@ encoder:
 貢	if/j	if/jjj
 呦	ffwdij
 援	kkkn	kkknnn
-昔	dv	dvvvvv
+昔	dv	dvvv
 晾	sfol	sfolll
 逮	ljxc	ljxccc
-卒	wn	wnnnnn
+卒	wn	wnnn
 鬆	mlz;rjzi
 捆	kkqjrj
 厭	vlsfdf;l
@@ -2713,7 +2713,7 @@ encoder:
 眨	hjzjls
 循	.f,n	.f,nnn
 臀	jlkekgdf
-矛	,a	,aaaaa
+矛	,a	,aaa
 努	ujkfij
 黔	slgu	slguuu
 乏	zjls	zjlsss
@@ -2747,9 +2747,9 @@ encoder:
 祛	xjug	xjuggg
 芙	efus	efusss
 棲	rjafktuj
-刁	cr	crrrrr
+刁	cr	crrr
 瑛	ckefuw
-禽	pg	pggggg
+禽	pg	pggg
 腺	dfdu	dfduuu
 迦	ljijff
 矯	,kzjufok
@@ -2777,19 +2777,19 @@ encoder:
 斐	pduk	pdukkk
 閤	odgk	odgkkk
 釀	gewu	gewuuu
-彙	;,	;,,,,,
+彙	;,	;,,,
 址	vjlf	vjlfff
 蘸	efgepjsj
 茵	efux	efuxxx
 簿	ejdjvvkl
 旬	mjsf	mjsfff
-丈	ie	ieeeee
+丈	ie	ieee
 咸	,eff	,effff
 呸	ffekaf
 胤	jswddf
 摻	kkqhawjfz;
 蹤	ll.fjdlf
-婁	uh	uhhhhh
+婁	uh	uhhh
 鎚	cjljv/
 桓	rjadsf
 碘	voxakd
@@ -2799,10 +2799,10 @@ encoder:
 壘	vfawvj
 燁	sjer	sjerrr
 淳	djoo	djoooo
-畏	xp	xppppp
+畏	xp	xppp
 屑	jlzddf
 酯	gefi	gefiii
-覃	gx	gxxxxx
+覃	gx	gxxx
 嵌	vkfdfs
 販	/jkv	/jkvvv
 泣	djud	djuddd
@@ -2857,7 +2857,7 @@ encoder:
 鞏	irix	irixxx
 峻	vkqhzkld
 稠	rdve	rdveee
-爵	cp	cppppp
+爵	cp	cppp
 秉	rdkb	rdkbbb
 刨	mjcf	mjcfff
 雍	ouvzpj
@@ -2876,7 +2876,7 @@ encoder:
 析	rjil	rjilll
 篩	ejv/afwl
 魁	x;go	x;gooo
-斥	om	ommmmm
+斥	om	ommm
 棕	rjofxj
 匡	q;ck	q;ckkk
 倦	jfrrjk
@@ -2893,7 +2893,7 @@ encoder:
 眸	hjqh;f
 烟	sjux	sjuxxx
 惱	hfhb	hfhbbb
-巾	wl	wlllll
+巾	wl	wlll
 殊	hcr.	hcr...
 叮	ffi;	ffi;;;
 晟	sf,v	sf,vvv
@@ -2909,8 +2909,8 @@ encoder:
 迥	ljqkff
 巖	vkffffvlkp
 瞬	hjkaqklq
-邑	va	vaaaaa
-〇	ff	ffffff
+邑	va	vaaa
+〇	ff	ffff
 鉻	cjle	cjleee
 榕	rjovzi
 庸	ojktvd
@@ -2933,7 +2933,7 @@ encoder:
 簫	ejde	ejdeee
 佰	jfsw	jfswww
 滇	djxh	djxhhh
-寅	,,	,,,,,,
+寅	,,	,,,,
 婧	ujea	ujeaaa
 姦	ujaw	ujawww
 梵	rhgr	rhgrrr
@@ -2956,7 +2956,7 @@ encoder:
 衍	.fdj	.fdjjj
 違	ljlz	ljlzzz
 絞	wfui	wfuiii
-廿	am	ammmmm
+廿	am	ammm
 摁	kkuxhf
 劣	zeij	zeijjj
 銜	.fcj	.fcjjj
@@ -2994,7 +2994,7 @@ encoder:
 諗	fjguhf
 究	ovkw	ovkwww
 慼	,qhf	,qhfff
-矢	,k	,kkkkk
+矢	,k	,kkk
 蟻	/f;j,d
 澈	djmvdfk;
 葦	eflz	eflzzz
@@ -3029,14 +3029,14 @@ encoder:
 燭	sj/g	sj/ggg
 襖	wkoy	wkoyyy
 臘	df;t	df;ttt
-吏	xw	xwwwww
+吏	xw	xwww
 堰	vjq;sfuj
 棺	rjofv/
 腥	dfsfes
 胞	dfmj	dfmjjj
 羨	;jdjfs
 韶	flcfff
-阜	v;	v;;;;;
+阜	v;	v;;;
 剖	eicf	eicfff
 羹	;jsj;juf
 剃	,mcf	,mcfff
@@ -3058,8 +3058,8 @@ encoder:
 瞿	hjhjpj
 卞	ouxf	ouxfff
 蛤	/fgk	/fgkkk
-襄	wu	wuuuuu
-肅	de	deeeee
+襄	wu	wuuu
+肅	de	deee
 擒	kkpg	kkpggg
 哨	ffzddf
 鑿	isgakgcj
@@ -3072,7 +3072,7 @@ encoder:
 懿	clqkgldlfshf
 蔭	efv;gud/
 椒	rje/kf
-戎	,z	,zzzzz
+戎	,z	,zzz
 肋	dfij	dfijjj
 翎	fupr	fuprrr
 煌	sjc,	sjc,,,
@@ -3088,9 +3088,9 @@ encoder:
 棧	rj,r	rj,rrr
 硯	vohu	vohuuu
 錳	cjmfg;
-旨	fi	fiiiii
+旨	fi	fiii
 鱗	/krflq
-巳	ms	msssss
+巳	ms	msss
 辜	f;xk	f;xkkk
 筐	ejq;ck
 膊	dfvvkl
@@ -3112,12 +3112,12 @@ encoder:
 綽	wf.z	wf.zzz
 鶯	sjsjqkpf
 緻	wf,lk;
-圭	vh	vhhhhh
+圭	vh	vhhh
 塚	vjqk;k
 甸	mjvf	mjvfff
 衷	wjal	wjalll
 燜	sjodhf
-脊	hp	hppppp
+脊	hp	hppp
 憨	kphf	kphfff
 搽	kkex	kkexxx
 捶	kkev	kkevvv
@@ -3207,7 +3207,7 @@ encoder:
 穫	rdpukf
 潰	djku/j
 褐	wksfmjxl
-丞	ky	kyyyyy
+丞	ky	kyyy
 芮	efoc	efoccc
 梭	rjqhzkld
 瘡	.xow	.xowww
@@ -3233,7 +3233,7 @@ encoder:
 釵	cjkfzf
 焱	sjaw	sjawww
 絮	ujffwf
-戊	,c	,ccccc
+戊	,c	,ccc
 鄔	pwva	pwvaaa
 剷	udvlescf
 罕	qkzk,h
@@ -3247,7 +3247,7 @@ encoder:
 濕	djsfwdwdsj
 肇	osk;xd
 窪	ovdjvh
-毋	mk	mkkkkk
+毋	mk	mkkk
 摞	kkvfwf
 暇	sfkh	sfkhhh
 岐	vkem	vkemmm
@@ -3258,7 +3258,7 @@ encoder:
 捎	kkzddf
 嶼	vkhz	vkhzzz
 汶	djuk	djukkk
-糸	wf	wfffff
+糸	wf	wfff
 嘀	ffe,ff
 斃	w.hcjj
 犁	rdcf;f
@@ -3273,14 +3273,14 @@ encoder:
 麓	rh;e	rh;eee
 匙	sdjj	sdjjjj
 嚎	ffok;k
-爻	zs	zsssss
+爻	zs	zsss
 鏢	cjgsxj
 涇	djwa	djwaaa
 珏	ckch	ckchhh
 摧	kkvkpj
 械	rj,fkd
-乞	dx	dxxxxx
-卯	ca	caaaaa
+乞	dx	dxxx
+卯	ca	caaa
 凋	dlve	dlveee
 蕙	efwghf
 噗	ffisuf
@@ -3308,14 +3308,14 @@ encoder:
 蔘	efqhawjfz;
 諫	fjri	fjriii
 烹	o.sj	o.sjjj
-卉	ed	eddddd
+卉	ed	eddd
 綾	wfl,	wfl,,,
 括	kkfk	kkfkkk
 檐	rjjavlzkfj
 漬	dj/i	dj/iii
 戟	.u,f	.u,fff
 韜	lzkaga
-尸	jl	jlllll
+尸	jl	jlll
 椎	rjpj	rjpjjj
 恬	hffk	hffkkk
 胥	lodf	lodfff
@@ -3384,10 +3384,10 @@ encoder:
 脅	ijawdf
 榨	rjovid
 黯	slfl	slflll
-侖	xz	xzzzzz
+侖	xz	xzzz
 荼	efoi	efoiii
 苞	efmj	efmjjj
-戚	,q	,qqqqq
+戚	,q	,qqq
 曄	sfer	sferrr
 饃	gjew	gjewww
 頒	cvhk	cvhkkk
@@ -3404,7 +3404,7 @@ encoder:
 尉	jlxjkl
 絳	wfldla
 軼	.jkm	.jkmmm
-亥	;i	;iiiii
+亥	;i	;iii
 屄	jlov	jlovvv
 蘋	eflrhk
 尐	zdzf	zdzfff
@@ -3412,7 +3412,7 @@ encoder:
 悄	hfzddf
 紐	wfkq	wfkqqq
 閹	odufsi
-弋	,;	,;;;;;
+弋	,;	,;;;
 厘	vlvs	vlvsss
 貯	/jofi;
 僕	jfisuf
@@ -3452,7 +3452,7 @@ encoder:
 孓	mdzf	mdzfff
 滌	djjfahldrj
 浣	djofjw
-兀	jx	jxxxxx
+兀	jx	jxxx
 蹟	ll/i	ll/iii
 囿	qjksdf
 嶽	vk;lfj;l
@@ -3469,7 +3469,7 @@ encoder:
 麒	;egd	;egddd
 熄	sjhlhf
 烯	sjzswl
-艮	gm	gmmmmm
+艮	gm	gmmm
 珉	ckm;	ckm;;;
 捋	kkkakl
 薯	efaask
@@ -3495,7 +3495,7 @@ encoder:
 莽	ef;lkd
 笠	ejud	ejuddd
 勉	w/ij	w/ijjj
-亢	u,	u,,,,,
+亢	u,	u,,,
 羌	;jjs	;jjsss
 璋	ckx,	ckx,,,
 毆	q;ffawkg
@@ -3570,7 +3570,7 @@ encoder:
 碁	gdvo	gdvooo
 硼	vo/m	vo/mmm
 啤	ff,b	ff,bbb
-壬	ig	iggggg
+壬	ig	iggg
 鄺	ojulva
 叛	cckv	cckvvv
 浚	djqhzkld
@@ -3630,7 +3630,7 @@ encoder:
 泠	djfu	djfuuu
 瘸	.xijffhd
 琢	ck;k	ck;kkk
-酉	ge	geeeee
+酉	ge	geee
 棘	r,r,	r,r,,,
 蚌	/fra	/fraaa
 虜	;;vfij
@@ -3669,7 +3669,7 @@ encoder:
 艱	uogm	uogmmm
 貂	;xcfff
 諒	fjol	fjolll
-丰	ra	raaaaa
+丰	ra	raaa
 耙	iu/s	iu/sss
 跋	ll;o	ll;ooo
 踱	llojamkf
@@ -3806,11 +3806,11 @@ encoder:
 滔	djkaga
 銑	cjlx	cjlxxx
 姣	ujui	ujuiii
-丐	cz	czzzzz
+丐	cz	czzz
 檸	rjofhfg;i;
 硃	vor.	vor...
-戌	,e	,eeeee
-敝	w.	w.....
+戌	,e	,eee
+敝	w.	w...
 壟	/hvj	/hvjjj
 諮	fjdlfsff
 疹	.xjfz;
@@ -3839,7 +3839,7 @@ encoder:
 帛	sswl	sswlll
 膨	dfydz;
 涐	dj,d	dj,ddd
-甬	gw	gwwwww
+甬	gw	gwww
 琉	ckmvdk
 抒	kkqr	kkqrrr
 薊	ef/kcf
@@ -3888,7 +3888,7 @@ encoder:
 藺	efodpj
 軾	.j,;if
 蛹	/fgw	/fgwww
-丿	zj	zjjjjj
+丿	zj	zjjj
 儷	jf;c	jf;ccc
 僦	jfolk.
 郅	,lva	,lvaaa
@@ -3908,7 +3908,7 @@ encoder:
 冕	w;w/	w;w///
 頜	gkhk	gkhkkk
 褶	wkprss
-巿	wp	wppppp
+巿	wp	wppp
 垛	vj.arj
 髻	mlz;co
 擂	kkd;vf
@@ -3926,7 +3926,7 @@ encoder:
 薈	efgi	efgiii
 槌	rjljv/
 吮	ffqhjs
-厂	vl	vlllll
+厂	vl	vlll
 芋	efyl	efylll
 萎	efrduj
 榻	rjsfpr
@@ -3965,7 +3965,7 @@ encoder:
 擄	kk;;vfij
 杠	rjif	rjifff
 砰	voyi	voyiii
-鹵	gy	gyyyyy
+鹵	gy	gyyy
 曙	sfaask
 稽	rdk.fi
 簪	ejfxfxsf
@@ -3977,7 +3977,7 @@ encoder:
 嬴	/ouj	/oujjj
 瘺	.xjld;
 祚	xjid	xjiddd
-巽	ji	jiiiii
+巽	ji	jiii
 拇	kkmk	kkmkkk
 兢	,y,y	,y,yyy
 踮	llojxv
@@ -4024,7 +4024,7 @@ encoder:
 痠	.xqhzkld
 澎	djydz;
 宥	ofksdf
-聿	xd	xddddd
+聿	xd	xddd
 頡	cohk	cohkkk
 骸	hw;i	hw;iii
 彿	.f,u	.f,uuu
@@ -4053,7 +4053,7 @@ encoder:
 暄	sfofadsf
 鱷	/kckfh
 床	ojrj	ojrjjj
-楽	yf	yfffff
+楽	yf	yfff
 泯	djm;	djm;;;
 衹	wkmp	wkmppp
 陋	v;arqd
@@ -4080,7 +4080,7 @@ encoder:
 諡	fjzki/g;
 粱	djcfzkrf
 宓	of,/	of,///
-囗	qj	qjjjjj
+囗	qj	qjjj
 峙	vkko	vkkooo
 侗	jfgf	jfgfff
 征	.flg	.flggg
@@ -4093,7 +4093,7 @@ encoder:
 庾	ojku	ojkuuu
 淬	djwn	djwnnn
 掖	kkdg	kkdggg
-柬	ri	riiiii
+柬	ri	riii
 犢	;f//	;f////
 逵	ljvm	ljvmmm
 悳	hhhf	hhhfff
@@ -4119,14 +4119,14 @@ encoder:
 蕁	efkbifffkl
 鍼	cj,eff
 謨	fjew	fjewww
-广	oj	ojjjjj
+广	oj	ojjj
 垠	vjgm	vjgmmm
 萘	efufxj
 蜷	/frrjk
 嗤	ffls/f
 幌	wlsfs;
 篆	ej;,;k
-臼	ga	gaaaaa
+臼	ga	gaaa
 傭	jfojktvd
 鍺	cjsk	cjskkk
 諷	fjpa	fjpaaa
@@ -4149,7 +4149,7 @@ encoder:
 擀	kk.u,h
 挽	kkw/	kkw///
 氾	djjk	djjkkk
-歹	hc	hccccc
+歹	hc	hccc
 矗	hhaw	hhawww
 叨	ffcf	ffcfff
 喙	ff;,;k
@@ -4167,7 +4167,7 @@ encoder:
 濛	djefw;;k
 蝸	/fhs	/fhsss
 銻	cj,m	cj,mmm
-氐	m/	m/////
+氐	m/	m///
 迸	ljjc	ljjccc
 酪	gele	geleee
 嘜	ffrsld
@@ -4184,7 +4184,7 @@ encoder:
 鉚	cjca	cjcaaa
 膛	dfoavj
 孢	mfmj	mfmjjj
-黒	sl	slllll
+黒	sl	slll
 幟	wlfl,f
 涔	djvkgu
 嬡	ujfw	ujfwww
@@ -4212,7 +4212,7 @@ encoder:
 舫	.k.v	.k.vvv
 瀏	djcacjcf
 羿	prkd	prkddd
-為	kz	kzzzzz
+為	kz	kzzz
 璜	ckul	ckulll
 拄	kksa	kksaaa
 郴	rhva	rhvaaa
@@ -4230,7 +4230,7 @@ encoder:
 裊	pfwj	pfwjjj
 矜	,agu	,aguuu
 掬	kkmjrf
-皿	g;	g;;;;;
+皿	g;	g;;;
 纂	ejimwf
 徊	.fds	.fdsss
 鰓	/khg	/khggg
@@ -4267,7 +4267,7 @@ encoder:
 簍	ejuh	ejuhhh
 筏	ejjf,f
 銬	cjmoi/
-奐	j/	j/////
+奐	j/	j///
 癩	.xrkja/j
 淅	djrjil
 澹	djjavlzkfj
@@ -4342,10 +4342,10 @@ encoder:
 蚜	/fha	/fhaaa
 畸	vfufyk
 箕	ejgd	ejgddd
-匆	on	onnnnn
+匆	on	onnn
 壕	vjok;k
 撣	kkia	kkiaaa
-堇	uo	uooooo
+堇	uo	uooo
 蕞	efsfh;kf
 涎	dj.gzjlf
 渲	djofadsf
@@ -4375,8 +4375,8 @@ encoder:
 噼	ffjlffxk
 遏	ljsfmjxl
 銼	cjjdvj
-舛	lq	lqqqqq
-匕	jj	jjjjjj
+舛	lq	lqqq
+匕	jj	jjjj
 謔	fj;;ka
 隘	v;dh	v;dhhh
 殑	hc,y	hc,yyy
@@ -4464,7 +4464,7 @@ encoder:
 奼	ujeo	ujeooo
 夔	zkhklfmsld
 髂	hwofle
-熏	su	suuuuu
+熏	su	suuu
 刈	zlcf	zlcfff
 鉭	cjsg	cjsggg
 鍬	cjrdsj
@@ -4483,7 +4483,7 @@ encoder:
 荐	efelmf
 蟮	/f;m	/f;mmm
 踰	ll.i	ll.iii
-彡	z;	z;;;;;
+彡	z;	z;;;
 鍶	cjhg	cjhggg
 対	ukkl	ukklll
 庖	ojmj	ojmjjj
@@ -4497,7 +4497,7 @@ encoder:
 汙	djyl	djylll
 紺	wffd	wffddd
 抻	kks,	kks,,,
-缶	gz	gzzzzz
+缶	gz	gzzz
 絛	jfahk;wf
 鏤	cjuh	cjuhhh
 汴	djouxf
@@ -4526,7 +4526,7 @@ encoder:
 熳	sjsfaakf
 澶	djoxsg
 滸	djfjik
-廴	.g	.ggggg
+廴	.g	.ggg
 燾	m.sj	m.sjjj
 撾	kkljhs
 拯	kkky	kkkyyy
@@ -4569,7 +4569,7 @@ encoder:
 芩	efgu	efguuu
 様	rj;jdj
 硎	voiicf
-冂	qk	qkkkkk
+冂	qk	qkkk
 峁	vkca	vkcaaa
 淦	djcj	djcjjj
 皰	h.mj	h.mjjj
@@ -4611,7 +4611,7 @@ encoder:
 鐲	cj/g	cj/ggg
 変	uzld	uzlddd
 淥	djxg	djxggg
-宀	of	offfff
+宀	of	offf
 剜	ofddjkcf
 孖	mfmf	mfmfff
 卍	qfahafah
@@ -4643,7 +4643,7 @@ encoder:
 鋈	djzjufcj
 滘	djqkzkifff
 戾	os;l	os;lll
-亟	ai	aiiiii
+亟	ai	aiii
 嬈	ujvu	ujvuuu
 堀	vjjllv
 莧	efhu	efhuuu
@@ -4705,7 +4705,7 @@ encoder:
 岬	vk,t	vk,ttt
 誥	fj;v	fj;vvv
 汏	djuf	djufff
-売	//	//////
+売	//	////
 埭	vjxc	vjxccc
 螯	.l/f	.l/fff
 孛	ajqkmf
@@ -4734,7 +4734,7 @@ encoder:
 児	ahsfjs
 呿	ffug	ffuggg
 胄	,gdf	,gdfff
-禺	/v	/vvvvv
+禺	/v	/vvv
 矚	hjj./g
 笆	ej/s	ej/sss
 鉈	cj/e	cj/eee
@@ -4746,7 +4746,7 @@ encoder:
 玓	ckgh	ckghhh
 萇	efml	efmlll
 蓯	ef.fjdlf
-韭	ez	ezzzzz
+韭	ez	ezzz
 暝	sfqksfor
 凼	djql	djqlll
 睨	hjgajs
@@ -4820,13 +4820,13 @@ encoder:
 惰	hfksifdf
 懺	hfjd,fez
 洮	djjsdj
-蚤	/w	/wwwww
+蚤	/w	/www
 婊	ujwm	ujwmmm
 斡	.ugo	.ugooo
 韃	ixlm	ixlmmm
 轅	.jw,	.jw,,,
 栩	rjpr	rjprrr
-攴	k;	k;;;;;
+攴	k;	k;;;
 哧	ffsm	ffsmmm
 睞	hjrs	hjrsss
 僖	jfydff
@@ -4937,7 +4937,7 @@ encoder:
 葑	efvhkl
 噫	ffflhf
 瞰	hjkp	hjkppp
-攵	k;	k;;;;;
+攵	k;	k;;;
 僮	jfmg	jfmggg
 佗	jf/e	jf/eee
 鐫	cjpj,j
@@ -4951,7 +4951,7 @@ encoder:
 酆	cuva	cuvaaa
 藹	effjsfmjxl
 箬	ejefksff
-爰	kn	knnnnn
+爰	kn	knnn
 鋮	cj,v	cj,vvv
 鏘	cj.shdkl
 魴	/k.v	/k.vvv
@@ -4965,7 +4965,7 @@ encoder:
 鸕	;;vfg;pf
 螭	/fiz	/fizzz
 峒	vkgf	vkgfff
-県	wb	wbbbbb
+県	wb	wbbb
 狽	;l/j	;l/jjj
 觥	;rs;	;rs;;;
 羔	;jsj	;jsjjj
@@ -4981,7 +4981,7 @@ encoder:
 昴	sfca	sfcaaa
 僾	jffw	jffwww
 卮	frjk	frjkkk
-氷	dl	dlllll
+氷	dl	dlll
 詬	fjfr	fjfrrr
 癥	.x.f..vw
 湫	djrdsj
@@ -4990,7 +4990,7 @@ encoder:
 恚	vhhf	vhhfff
 莜	efjfahk;
 蘚	ef/k;j
-尢	u.	u.....
+尢	u.	u...
 匭	q;.jkw
 籟	ejrkja/j
 魑	x;iz	x;izzz
@@ -5025,7 +5025,7 @@ encoder:
 葯	efwfgh
 砦	lfjjvo
 鶚	ffffyopf
-睪	xn	xnnnnn
+睪	xn	xnnn
 釁	kcgfqkgecv
 鏞	cjojktvd
 啻	e,ff	e,ffff
@@ -5041,7 +5041,7 @@ encoder:
 箸	ejsk	ejskkk
 稔	rdguhf
 籩	ejljhlov.v
-乂	zl	zlllll
+乂	zl	zlll
 鏵	cjer	cjerrr
 塍	.,vj	.,vjjj
 詫	fjofeo
@@ -5049,7 +5049,7 @@ encoder:
 疚	.xjz	.xjzzz
 怛	hfsg	hfsggg
 瀋	djof;wvf
-黽	/a	/aaaaa
+黽	/a	/aaa
 窿	ovv;ldafes
 芐	efa;	efa;;;
 霰	d;rg	d;rggg
@@ -5124,7 +5124,7 @@ encoder:
 螅	/fhlhf
 嚯	ffd;pj
 篪	ejzh;;
-夊	ld	lddddd
+夊	ld	lddd
 誹	fjpd	fjpddd
 讖	fjjd,fez
 燻	sjsu	sjsuuu
@@ -5138,12 +5138,12 @@ encoder:
 骯	hwu,	hwu,,,
 笏	ejcs	ejcsss
 鎦	cjcavf
-酋	gc	gccccc
+酋	gc	gccc
 鎏	djmvdkcj
 滁	djv;oi
 媸	ujls/f
 媧	ujhs	ujhsss
-并	jc	jccccc
+并	jc	jccc
 苫	efxv	efxvvv
 楸	rjrdsj
 檳	rjofjb/j
@@ -5189,9 +5189,9 @@ encoder:
 璦	ckfw	ckfwww
 蔦	efpf	efpfff
 橢	rjv;ksifdf
-达	lm	lmmmmm
+达	lm	lmmm
 唇	/lff	/lffff
-豕	;k	;kkkkk
+豕	;k	;kkk
 呎	ffic	fficcc
 嵊	vkrp	vkrppp
 睋	hj,d	hj,ddd
@@ -5253,7 +5253,7 @@ encoder:
 淄	djdkvf
 逅	ljfr	ljfrrr
 逄	ljldla
-亜	qm	qmmmmm
+亜	qm	qmmm
 堺	vjvfjv
 擷	kkcohk
 菽	efe/kf
@@ -5272,7 +5272,7 @@ encoder:
 猷	gc;l	gc;lll
 閎	odksqh
 閿	odkaqkkf
-卩	jk	jkkkkk
+卩	jk	jkkk
 縭	wfiz	wfizzz
 螚	;s/f	;s/fff
 萁	efgd	efgddd
@@ -5331,7 +5331,7 @@ encoder:
 蚩	ls/f	ls/fff
 櫱	edv/xkrj
 殯	hcofjb/j
-耒	iu	iuuuuu
+耒	iu	iuuu
 芄	efu;	efu;;;
 榷	rjqkpj
 奄	ufsi	ufsiii
@@ -5355,7 +5355,7 @@ encoder:
 蘢	ef/h	ef/hhh
 杪	rjze	rjzeee
 榔	rjozva
-隹	pj	pjjjjj
+隹	pj	pjjj
 餳	gjse	gjseee
 鉺	cjh;	cjh;;;
 鎌	cjki	cjkiii
@@ -5365,7 +5365,7 @@ encoder:
 遑	ljc,	ljc,,,
 橐	wyvorj
 圪	vjdx	vjdxxx
-嗇	o/	o/////
+嗇	o/	o///
 駢	;djc	;djccc
 藪	efuhk;
 芃	efgr	efgrrr
@@ -5415,7 +5415,7 @@ encoder:
 牯	;ff;	;ff;;;
 簟	ejgx	ejgxxx
 笮	ejid	ejiddd
-囪	oh	ohhhhh
+囪	oh	ohhh
 儈	jfgi	jfgiii
 鷂	kagzpf
 譲	fjwu	fjwuuu
@@ -5459,7 +5459,7 @@ encoder:
 圜	qjwi	qjwiii
 秣	rdru	rdruuu
 僭	jffxfxsf
-囟	hg	hggggg
+囟	hg	hggg
 鑭	cjodri
 鰳	/kixij
 鰨	/ksfpr
@@ -5508,7 +5508,7 @@ encoder:
 泖	djca	djcaaa
 溏	djyr	djyrrr
 裉	wkgm	wkgmmm
-戸	os	osssss
+戸	os	osss
 琺	ckdjug
 芟	efkg	efkggg
 棖	rjml	rjmlll
@@ -5534,7 +5534,7 @@ encoder:
 泱	djuw	djuwww
 泫	djwe	djweee
 鴆	qkjspf
-帚	iw	iwwwww
+帚	iw	iwww
 埕	vjffck
 珪	ckvh	ckvhhh
 瑗	ckkn	ckknnn
@@ -5551,7 +5551,7 @@ encoder:
 謇	dofj	dofjjj
 謇	ogfj	ogfjjj
 逖	lj;lsj
-羋	;u	;uuuuu
+羋	;u	;uuu
 靼	ixsg	ixsggg
 莋	efjfid
 唵	ffufsi
@@ -5610,7 +5610,7 @@ encoder:
 牖	.wosvv
 徨	.fc,	.fc,,,
 鉄	cjkm	cjkmmm
-豸	;x	;xxxxx
+豸	;x	;xxx
 溧	djgsrj
 寀	ofkarj
 阱	v;o;	v;o;;;
@@ -5683,7 +5683,7 @@ encoder:
 槨	rjoova
 郟	ufjdva
 踴	llgwij
-兎	;h	;hhhhh
+兎	;h	;hhh
 倳	jfxx	jfxxxx
 煳	sjf;df
 嬛	ujwi	ujwiii
@@ -5704,7 +5704,7 @@ encoder:
 萿	efdjfk
 雹	d;mj	d;mjjj
 橄	rjkp	rjkppp
-匚	q;	q;;;;;
+匚	q;	q;;;
 蟛	/fydz;
 咴	ffs.	ffs...
 噈	ffolk.
@@ -5728,10 +5728,10 @@ encoder:
 婪	rhuj	rhujjj
 櫫	;kskrj
 碉	vove	voveee
-咼	hs	hsssss
+咼	hs	hsss
 倬	jf.z	jf.zzz
 饉	gjuo	gjuooo
-彳	.f	.fffff
+彳	.f	.fff
 譎	fj,aocff
 奘	.scluf
 痱	.xpd	.xpddd
@@ -5740,7 +5740,7 @@ encoder:
 湔	djlh	djlhhh
 潺	djjlmfaw
 袷	wkgk	wkgkkk
-爿	.s	.sssss
+爿	.s	.sss
 鸝	;cpf	;cpfff
 驤	;dwu	;dwuuu
 覲	uohu	uohuuu
@@ -5754,7 +5754,7 @@ encoder:
 伲	jfjljj
 劬	qiij	qiijjj
 炤	sjcfff
-単	ia	iaaaaa
+単	ia	iaaa
 閶	odfo	odfooo
 恿	gwhf	gwhfff
 坍	vjvc	vjvccc
@@ -5784,7 +5784,7 @@ encoder:
 齟	hqxm	hqxmmm
 噺	ffudrjil
 韙	sdlz	sdlzzz
-冄	hr	hrrrrr
+冄	hr	hrrr
 鸚	/j/jujpf
 鉦	cjlg	cjlggg
 鋟	cjkbqkkf
@@ -5827,7 +5827,7 @@ encoder:
 氤	dwux	dwuxxx
 込	ljoe	ljoeee
 臆	dfflhf
-髙	ok	okkkkk
+髙	ok	okkk
 埸	vjgg	vjgggg
 拊	kkjfkl
 荑	efuf,j
@@ -5893,7 +5893,7 @@ encoder:
 楂	rjro	rjrooo
 楫	rjffh;
 碭	vose	voseee
-戔	,r	,rrrrr
+戔	,r	,rrr
 呻	ffs,	ffs,,,
 叺	ffoe	ffoeee
 咄	fflv	fflvvv
@@ -5902,7 +5902,7 @@ encoder:
 骼	hwle	hwleee
 籙	ejcjxg
 魍	x;wsxl
-僉	je	jeeeee
+僉	je	jeee
 饅	gjsfaakf
 餛	gjsfjm
 鍐	cjzlqlzkld
@@ -5977,14 +5977,14 @@ encoder:
 飪	gjig	gjiggg
 胭	dfux	dfuxxx
 謄	.,fj	.,fjjj
-殳	kg	kggggg
+殳	kg	kggg
 旮	kwsf	kwsfff
 悻	hfxy	hfxyyy
-巛	dk	dkkkkk
+巛	dk	dkkk
 埝	vjguhf
 圯	vjms	vjmsss
 栲	rjmoi/
-朮	rx	rxxxxx
+朮	rx	rxxx
 榊	rjxjs,
 砹	voefzl
 図	qjdlzl
@@ -5996,7 +5996,7 @@ encoder:
 瓿	eiip	eiippp
 潢	djul	djulll
 漷	djoova
-辶	lj	ljjjjj
+辶	lj	ljjj
 禳	xjwu	xjwuuu
 鬻	,jrf,jc.
 綆	wfk/	wfk///
@@ -6130,7 +6130,7 @@ encoder:
 歳	lf,ezd
 蚣	/fzi	/fziii
 跎	ll/e	ll/eee
-呉	fc	fccccc
+呉	fc	fccc
 嶝	vkl;gl
 嶁	vkuh	vkuhhh
 郃	gkva	gkvaaa
@@ -6138,15 +6138,15 @@ encoder:
 読	fj//	fj////
 紶	wfug	wfuggg
 婞	ujxy	ujxyyy
-靑	ea	eaaaaa
+靑	ea	eaaa
 苾	ef,/	ef,///
 霑	d;djxv
 蝽	/fee	/feeee
 犧	;f;jrd,fi/
 恂	hfmjsf
-夬	c;	c;;;;;
+夬	c;	c;;;
 翮	c.pr	c.prrr
-両	ae	aeeeee
+両	ae	aeee
 邴	arva	arvaaa
 玠	ckjv	ckjvvv
 蕤	ef;kes
@@ -6224,7 +6224,7 @@ encoder:
 紱	wf;o	wf;ooo
 擯	kkofjb/j
 搡	kkkfawrj
-帯	wh	whhhhh
+帯	wh	whhh
 酹	gekakl
 雩	d;yo	d;yooo
 靂	d;vlrdrdlf
@@ -6250,7 +6250,7 @@ encoder:
 脒	dfrf	dfrfff
 炻	sjvo	sjvooo
 泔	djfd	djfddd
-専	wg	wggggg
+専	wg	wggg
 墀	vjj.;f
 挈	cxkj	cxkjjj
 玹	ckwe	ckweee
@@ -6261,7 +6261,7 @@ encoder:
 弍	,;ad	,;addd
 蟯	/fvu	/fvuuu
 圏	qjrrma
-豊	cu	cuuuuu
+豊	cu	cuuu
 衄	gpkq	gpkqqq
 儻	jfoasl
 狆	;lal	;lalll
@@ -6271,7 +6271,7 @@ encoder:
 惇	hfoo	hfoooo
 溲	djs,kf
 鷚	prjfz;pf
-丌	.a	.aaaaa
+丌	.a	.aaa
 掾	kk;,;k
 萩	efrdsj
 崤	vkzsdf
@@ -6322,7 +6322,7 @@ encoder:
 逡	ljqhzkld
 婼	ujefksff
 縟	wf/lkl
-鬲	c.	c.....
+鬲	c.	c...
 殫	hcia	hciaaa
 螫	smk;/f
 騕	;duu	;duuuu
@@ -6372,7 +6372,7 @@ encoder:
 簑	ejwjhr
 仮	jfkv	jfkvvv
 傛	jfovzi
-辵	lj	ljjjjj
+辵	lj	ljjj
 舾	.kgs	.kgsss
 颺	pase	paseee
 膾	dfgi	dfgiii
@@ -6415,7 +6415,7 @@ encoder:
 潒	dj;a	dj;aaa
 瀼	djwu	djwuuu
 鄆	qk.jva
-叚	kh	khhhhh
+叚	kh	khhh
 隠	v;kakbhf
 垓	vj;i	vj;iii
 枸	rjqi	rjqiii
@@ -6439,7 +6439,7 @@ encoder:
 梃	rj.gvw
 霊	d;adis
 曌	sfdfovif
-舎	o,	o,,,,,
+舎	o,	o,,,
 涘	djqh,k
 哿	ijffyk
 珙	ckke	ckkeee
@@ -6473,7 +6473,7 @@ encoder:
 坼	vjom	vjommm
 柟	rjhr	rjhrrr
 巰	wamvdk
-鬯	gn	gnnnnn
+鬯	gn	gnnn
 鐠	cjuesf
 鯃	/kagff
 糅	rf,arj
@@ -6487,7 +6487,7 @@ encoder:
 偅	jf.e	jf.eee
 錡	cjufyk
 鏹	cj,jff/f
-亀	/;	/;;;;;
+亀	/;	/;;;
 鶼	kipf	kipfff
 烜	sjadsf
 湁	djkkgk
@@ -6566,7 +6566,7 @@ encoder:
 唦	ffdjze
 噉	ffkp	ffkppp
 畎	vf;l	vf;lll
-乗	rp	rppppp
+乗	rp	rppp
 毽	h/.gxd
 脿	dfwm	dfwmmm
 忔	hfdx	hfdxxx
@@ -6595,7 +6595,7 @@ encoder:
 戧	ow,f	ow,fff
 効	uiij	uiijjj
 焜	sjsfjm
-屮	ed	eddddd
+屮	ed	eddd
 坩	vjfd	vjfddd
 琤	ckjakt
 菝	efkk;o
@@ -6616,7 +6616,7 @@ encoder:
 渫	djaurj
 洶	djmjzlql
 迹	ljuz	ljuzzz
-疋	lo	looooo
+疋	lo	looo
 隍	v;c,	v;c,,,
 鬣	mlz;;t
 耩	iuav	iuavvv
@@ -6637,7 +6637,7 @@ encoder:
 尥	u.gh	u.ghhh
 噱	ff;;;k
 唿	ffcshf
-禸	/z	/zzzzz
+禸	/z	/zzz
 黝	slwdij
 缽	gzrm	gzrmmm
 傕	jfqkpj
@@ -6651,7 +6651,7 @@ encoder:
 燿	sjprpj
 漃	djofe/kf
 縌	wfljuc
-郷	vz	vzzzzz
+郷	vz	vzzz
 抔	kkek	kkekkk
 椹	rjfe	rjfeee
 柢	rjm/	rjm///
@@ -6687,7 +6687,7 @@ encoder:
 洣	djrf	djrfff
 邂	lj;rcf;f
 繢	wfku/j
-廾	kd	kddddd
+廾	kd	kddd
 蓍	efmosf
 榀	rjffaw
 檁	rjoxrd
@@ -6744,7 +6744,7 @@ encoder:
 妺	ujru	ujruuu
 媔	ujh,	ujh,,,
 胬	ujkfhd
-儿	js	jsssss
+儿	js	jsss
 玷	ckxv	ckxvvv
 琲	ckpd	ckpddd
 萠	ef/m	ef/mmm
@@ -6825,12 +6825,12 @@ encoder:
 欷	zswlfs
 鍜	cjkh	cjkhhh
 魼	/kug	/kuggg
-斉	rw	rwwwww
+斉	rw	rwww
 慬	hfuo	hfuooo
 営	zrfa	zrfaaa
 栄	zrrj	zrrjjj
 汔	djdx	djdxxx
-乀	zf	zfffff
+乀	zf	zfff
 荽	efkauj
 桎	rj,l	rj,lll
 蜞	/fgd	/fgddd
@@ -6910,12 +6910,12 @@ encoder:
 鏝	cjsfaakf
 瘕	.xkh	.xkhhh
 滒	djykyk
-叕	k,	k,,,,,
+叕	k,	k,,,
 璫	ckoavf
 莃	efzswl
 樻	rjku/j
 嗾	ff.m,k
-舄	pc	pccccc
+舄	pc	pccc
 疸	.xsg	.xsggg
 悝	hfvs	hfvsss
 殂	hcxm	hcxmmm
@@ -6995,7 +6995,7 @@ encoder:
 嶒	vkg,	vkg,,,
 顗	.;hk	.;hkkk
 歓	phfs	phfsss
-龠	yw	ywwwww
+龠	yw	ywww
 痍	.xuf,j
 懣	djamaehf
 渟	djoki;
@@ -7008,9 +7008,9 @@ encoder:
 蝌	/frdgo
 哘	ff.f	ff.fff
 矓	hj/h	hj/hhh
-臾	ku	kuuuuu
+臾	ku	kuuu
 螣	.,/f	.,/fff
-夌	l,	l,,,,,
+夌	l,	l,,,
 瑢	ckovzi
 鞞	ix,b	ix,bbb
 蕓	efd;d/
@@ -7048,7 +7048,7 @@ encoder:
 犴	;l,h	;l,hhh
 匍	mjvv	mjvvvv
 瘌	.xrkcf
-曽	g,	g,,,,,
+曽	g,	g,,,
 濋	djrhlo
 潕	djua	djuaaa
 戣	l;ur,f
@@ -7198,10 +7198,10 @@ encoder:
 琊	ckhava
 晢	kkilsf
 呣	ffmk	ffmkkk
-昜	se	seeeee
+昜	se	seee
 籀	ejkkcavf
 媵	.,uj	.,ujjj
-癶	l;	l;;;;;
+癶	l;	l;;;
 覿	//hu	//huuu
 騒	;dkf/f
 揄	kk.i	kk.iii
@@ -7225,7 +7225,7 @@ encoder:
 銚	cjdi	cjdiii
 痦	.xagff
 懮	hfhkhfld
-氶	ky	kyyyyy
+氶	ky	kyyy
 塩	vjjhffg;
 蒨	efjfea
 樨	rjj.;f
@@ -7243,8 +7243,8 @@ encoder:
 滀	djwevf
 寘	ofxh	ofxhhh
 夛	kbdd	kbdddd
-彑	;,	;,,,,,
-亏	yo	yooooo
+彑	;,	;,,,
+亏	yo	yooo
 垎	vjle	vjleee
 蒴	efucdf
 柃	rjfu	rjfuuu
@@ -7395,7 +7395,7 @@ encoder:
 湳	djya	djyaaa
 濈	djffh;,f
 祅	xjzjuf
-丮	u;	u;;;;;
+丮	u;	u;;;
 縁	wfkb;k
 璿	ckhczkjfhj
 睚	hjvlvh
@@ -7419,7 +7419,7 @@ encoder:
 鏐	cjprjfz;
 鰾	/kgsxj
 迯	ljddxf
-亰	ol	olllll
+亰	ol	olll
 裒	wjga	wjgaaa
 庤	ojko	ojkooo
 癃	.xv;ldafes
@@ -7506,7 +7506,7 @@ encoder:
 槧	.jilrj
 栴	rjjhvc
 翃	ksqhpr
-歯	hq	hqqqqq
+歯	hq	hqqq
 嗕	ff/lkl
 嚌	ffrw	ffrwww
 秭	rde.	rde...
@@ -7517,7 +7517,7 @@ encoder:
 瘼	.xew	.xewww
 涜	dj//	dj////
 褓	wkmr	wkmrrr
-艸	ef	efffff
+艸	ef	efff
 姏	ujfd	ujfddd
 垤	vj,l	vj,lll
 哢	ffckkd
@@ -7656,7 +7656,7 @@ encoder:
 琀	ckguff
 蒹	efki	efkiii
 磻	vo;wvf
-匸	q;	q;;;;;
+匸	q;	q;;;
 躓	llilil/j
 笘	ejxv	ejxvvv
 貔	;xhgjm
@@ -8099,7 +8099,7 @@ encoder:
 鰉	/kc,	/kc,,,
 庳	oj,b	oj,bbb
 恉	hffi	hffiii
-冖	qk	qkkkkk
+冖	qk	qkkk
 檗	jlffxkrj
 瞀	,ak;hj
 絿	wf/r	wf/rrr
@@ -8130,7 +8130,7 @@ encoder:
 縗	wfwjhr
 綅	wfkbqkkf
 楳	rjfdrj
-朿	r,	r,,,,,
+朿	r,	r,,,
 旼	sfuk	sfukkk
 瞍	hjs,kf
 鍉	cjsd	cjsddd
@@ -8480,7 +8480,7 @@ encoder:
 菧	efojm/
 轕	.jefsfmjxl
 樛	rjprjfz;
-犮	;o	;ooooo
+犮	;o	;ooo
 甗	;;c.ip
 蟜	/fzjufok
 蟓	/f;a	/f;aaa
@@ -8540,7 +8540,7 @@ encoder:
 汋	djgh	djghhh
 艴	,uja/s
 妬	ujvo	ujvooo
-嚢	wy	wyyyyy
+嚢	wy	wyyy
 遶	ljvu	ljvuuu
 斲	gvil	gvilll
 髫	mlz;cfff
@@ -8637,7 +8637,7 @@ encoder:
 狛	;lss	;lssss
 肸	dfzkaj
 顚	xhhk	xhhkkk
-廌	px	pxxxxx
+廌	px	pxxx
 瘝	.xaadj
 澣	dj.u,h
 漎	dj.fjdlf
@@ -8679,7 +8679,7 @@ encoder:
 溚	djefgk
 鵼	ovifpf
 祂	xj/d	xj/ddd
-粛	de	deeeee
+粛	de	deee
 屓	jl/j	jl/jjj
 翭	prjfqg,k
 娀	uj,z	uj,zzz
@@ -8832,7 +8832,7 @@ encoder:
 糺	wfqd	wfqddd
 薖	efljhs
 蔊	efsjsf,h
-襾	gs	gsssss
+襾	gs	gsss
 枓	rjgo	rjgooo
 砏	vocv	vocvvv
 蜎	/fffdf
@@ -8895,7 +8895,7 @@ encoder:
 闉	odgsvj
 頵	ktffhk
 阬	v;u,	v;u,,,
-丱	eg	eggggg
+丱	eg	eggg
 緌	wfrduj
 綯	wfmjgz
 蓷	efkkpj
@@ -9036,7 +9036,7 @@ encoder:
 耎	hvuf	hvufff
 黺	isw.cv
 牷	;fci	;fciii
-臿	gq	gqqqqq
+臿	gq	gqqq
 秺	rdofeo
 筳	ej.gvw
 毹	.ih/	.ih///
@@ -9072,7 +9072,7 @@ encoder:
 杬	rjjw	rjjwww
 醨	geiz	geizzz
 楪	rjaurj
-尞	so	sooooo
+尞	so	sooo
 蠀	/fdlfs/j
 昡	sfwe	sfweee
 帨	wlz,	wlz,,,
@@ -9268,7 +9268,7 @@ encoder:
 弽	,jaurj
 嫇	ujqksfor
 繣	wfxe	wfxeee
-弃	kd	kddddd
+弃	kd	kddd
 蒱	efkkvv
 菼	efsh	efshhh
 穄	rdhdkfxj
@@ -9295,7 +9295,7 @@ encoder:
 賵	/jw;hj
 箘	ejqjrd
 籔	ejuhk;
-兪	.i	.iiiii
+兪	.i	.iii
 飣	gji;	gji;;;
 瓥	r/;k/f/f
 舠	.kcf	.kcfff
@@ -9362,7 +9362,7 @@ encoder:
 扢	kkdx	kkdxxx
 擸	kk;t	kk;ttt
 茿	efir	efirrr
-雚	ph	phhhhh
+雚	ph	phhh
 芺	efzjuf
 蓹	ef.fiklfjk
 橁	rjejmjsf
@@ -9404,7 +9404,7 @@ encoder:
 繜	wfgckl
 珇	ckxm	ckxmmm
 磞	vovk/m
-戉	,x	,xxxxx
+戉	,x	,xxx
 鱆	/kx,	/kx,,,
 迿	ljmjsf
 縺	wflj.j
@@ -9426,7 +9426,7 @@ encoder:
 牣	;fcg	;fcggg
 倰	jfl,	jfl,,,
 鯈	jfahk;/k
-皀	gm	gmmmmm
+皀	gm	gmmm
 饛	gjefw;;k
 鎡	cjegwdwd
 狶	;lzswl
@@ -9535,7 +9535,7 @@ encoder:
 瑔	ckdu	ckduuu
 騊	;dmjgz
 颿	;dpa	;dpaaa
-冓	av	avvvvv
+冓	av	avvv
 荂	efufyo
 薁	efoy	efoyyy
 酖	geqkjs
@@ -9647,7 +9647,7 @@ encoder:
 腤	dffl	dfflll
 蜰	df/s/f
 渽	dj,wff
-丏	jb	jbbbbb
+丏	jb	jbbb
 嫢	ushuuj
 壖	vjd;hv
 髢	mlz;/d
@@ -9730,7 +9730,7 @@ encoder:
 鳲	jlpf	jlpfff
 翣	pruduj
 婐	ujr;	ujr;;;
-坴	vm	vmmmmm
+坴	vm	vmmm
 掯	kklfdf
 蕼	efmlxd
 苙	efud	efuddd
@@ -10162,7 +10162,7 @@ encoder:
 凾	mdffkfql
 彃	,jiq	,jiqqq
 猪	;lsk	;lskkk
-册	xa	xaaaaa
+册	xa	xaaa
 葀	efkkfk
 跓	llsa	llsaaa
 尟	sdze	sdzeee
@@ -10464,7 +10464,7 @@ encoder:
 鶷	ofraffpf
 禂	xjve	xjveee
 邆	ljl;gl
-隶	xc	xccccc
+隶	xc	xccc
 陾	v;hvuf
 阰	v;jm	v;jmmm
 鶭	wf.vpf
@@ -10712,7 +10712,7 @@ encoder:
 訿	fjlfjj
 衵	wksf	wksfff
 郠	k/va	k/vaaa
-壴	yd	yddddd
+壴	yd	yddd
 髠	mlz;.a
 挬	kkajqkmf
 兙	,yaj	,yajjj
@@ -12068,7 +12068,7 @@ encoder:
 祪	xjjavljk
 鉹	cjhe	cjheee
 譋	fjoddf
-雈	pu	puuuuu
+雈	pu	puuu
 燅	vmsh	vmshhh
 騹	;duo	;duooo
 攌	kkqjwi
@@ -12277,7 +12277,7 @@ encoder:
 窏	ovdjyl
 縯	wf,,	wf,,,,
 証	fjlg	fjlggg
-晋	,o	,ooooo
+晋	,o	,ooo
 騣	;dzlqlzkld
 惷	eehf	eehfff
 藱	ef.xx;
@@ -12307,7 +12307,7 @@ encoder:
 舗	o,vv	o,vvvv
 﨑	vkudyk
 叙	oikf	oikfff
-离	iz	izzzzz
+离	iz	izzz
 痲	.xrxrx
 綉	wfrdm,
 虱	pe/f	pe/fff
@@ -12318,7 +12318,7 @@ encoder:
 玅	weze	wezeee
 玆	wewe	weweee
 攷	i/k;	i/k;;;
-査	ro	rooooo
+査	ro	rooo
 昵	sfjljj
 屉	jlau	jlauuu
 倣	jf.vk;
@@ -12326,14 +12326,14 @@ encoder:
 蜺	/fgajs
 釬	cj,h	cj,hhh
 嬭	ujwx	ujwxxx
-无	ua	uaaaaa
-与	hz	hzzzzz
+无	ua	uaaa
+与	hz	hzzz
 样	rj;j	rj;jjj
 国	qjch	qjchhh
 吨	ffec	ffeccc
-户	os	osssss
-巩	ir	irrrrr
-却	jk	jkkkkk
+户	os	osss
+巩	ir	irrr
+却	jk	jkkk
 担	kksg	kksggg
 撑	kkoakj
 携	kkpjm,
@@ -12347,13 +12347,13 @@ encoder:
 咏	ffda	ffdaaa
 踪	llofxj
 叹	ffkf	ffkfff
-网	ws	wsssss
-冈	v,	v,,,,,
+网	ws	wsss
+冈	v,	v,,,
 岭	vkfu	vkfuuu
-复	lc	lccccc
+复	lc	lccc
 笋	ejkt	ejkttt
 偬	jfonhf
-众	jr	jrrrrr
+众	jr	jrrr
 脚	dfjk	dfjkkk
 胆	dfsg	dfsggg
 庄	ojvj	ojvjjj
@@ -12372,7 +12372,7 @@ encoder:
 苁	efjd	efjddd
 栅	rjxa	rjxaaa
 虬	/fqd	/fqddd
-吕	fa	faaaaa
+吕	fa	faaa
 咤	ffofeo
 罎	gzsfd;d/
 秆	rd,h	rd,hhh
@@ -12386,7 +12386,7 @@ encoder:
 泞	djofi;
 姗	ujxa	ujxaaa
 耤	iudv	iudvvv
-耑	eh	ehhhhh
+耑	eh	ehhh
 苺	efmk	efmkkk
 崳	vk.i	vk.iii
 譆	fjydff
@@ -12452,7 +12452,7 @@ encoder:
 琎	ckljo;
 蹠	llojamsj
 腘	dfqjch
-釆	;w	;wwwww
+釆	;w	;www
 摀	kkpw	kkpwww
 碶	vocxuf
 厢	vlrjhj
@@ -12462,7 +12462,7 @@ encoder:
 伕	jfus	jfusss
 禀	oxxj	oxxjjj
 幵	,h,h	,h,hhh
-眞	xh	xhhhhh
+眞	xh	xhhh
 繈	wf,jqh/f
 埜	rhvj	rhvjjj
 疍	losg	losggg
@@ -12475,17 +12475,17 @@ encoder:
 叠	kfawqkxm
 湣	djm;sf
 俵	jfwm	jfwmmm
-开	ii	iiiiii
-录	xg	xggggg
+开	ii	iiii
+录	xg	xggg
 献	ya;l	ya;lll
 园	qjjw	qjjwww
 杀	zlrj	zlrjjj
-卬	jp	jppppp
+卬	jp	jppp
 寻	kbkl	kbklll
 邓	kfva	kfvaaa
 茍	efmjff
 吓	ffa;	ffa;;;
-彔	xg	xggggg
+彔	xg	xggg
 瓖	ckwu	ckwuuu
 挶	kkjlqfff
 菫	efafffra
@@ -12524,7 +12524,7 @@ encoder:
 顔	udvlz;hk
 权	rjkf	rjkfff
 杂	kwrj	kwrjjj
-丽	;c	;ccccc
+丽	;c	;ccc
 垯	vjlm	vjlmmm
 币	zjwl	zjwlll
 仅	jfkf	jfkfff
@@ -12634,7 +12634,7 @@ encoder:
 詶	fjd,	fjd,,,
 訑	fj/d	fj/ddd
 痳	.xrh	.xrhhh
-关	zm	zmmmmm
+关	zm	zmmm
 忏	hfjg	hfjggg
 汍	dju;	dju;;;
 溈	djkz	djkzzz
@@ -12686,63 +12686,63 @@ encoder:
 勦	dkr;ij
 纁	wfsu	wfsuuu
 婬	ujkaig
-毌	/u	/uuuuu
+毌	/u	/uuu
 现	ckhu	ckhuuu
-个	eu	euuuuu
+个	eu	euuu
 说	fjz,	fjz,,,
-为	kz	kzzzzz
+为	kz	kzzz
 没	djkg	djkggg
 这	ljuk	ljukkk
 对	kfkl	kfklll
-发	l;	l;;;;;
-两	ae	aeeeee
+发	l;	l;;;
+两	ae	aeee
 项	ifhk	ifhkkk
-专	wg	wggggg
-来	rs	rsssss
+专	wg	wggg
+来	rs	rsss
 动	d/ij	d/ijjj
-长	ml	mlllll
+长	ml	mlll
 联	h;zm	h;zmmm
 帮	ravawl
 热	kku;sj
 拨	kkl;	kkl;;;
-带	wh	whhhhh
+带	wh	whhh
 节	efjk	efjkkk
 标	rjxj	rjxjjj
 横	rjul	rjulll
-龙	/h	/hhhhh
-页	hk	hkkkkk
+龙	/h	/hhh
+页	hk	hkkk
 顾	vljkhk
-车	.j	.jjjjj
+车	.j	.jjj
 区	q;zl	q;zlll
 暂	.jilsf
 轨	.jkw	.jkwww
 软	.jfs	.jfsss
 点	xvsj	xvsjjj
-旧	pu	puuuuu
-齿	hq	hqqqqq
+旧	pu	puuu
+齿	hq	hqqq
 别	hxcf	hxcfff
-员	cm	cmmmmm
+员	cm	cmmm
 吗	ff;d	ff;ddd
 时	sfkl	sfklll
-业	is	isssss
+业	is	isss
 当	zdkb	zdkbbb
-电	si	siiiii
+电	si	siii
 贱	/j,r	/j,rrr
 败	/jk;	/jk;;;
-内	oc	occccc
+内	oc	occc
 贩	/jkv	/jkvvv
-见	hu	huuuuu
+见	hu	huuu
 赔	/jei	/jeiii
-县	wb	wbbbbb
+县	wb	wbbb
 税	rdz,	rdz,,,
-气	dw	dwwwww
+气	dw	dwww
 传	jfwg	jfwggg
 顺	dkhk	dkhkkk
 们	jfod	jfoddd
 伪	jfkz	jfkzzz
-会	gi	giiiii
+会	gi	giii
 领	fuhk	fuhkkk
-从	jd	jddddd
+从	jd	jddd
 镇	cjxh	cjxhhh
 须	z;hk	z;hkkk
 钱	cj,r	cj,rrr
@@ -12754,17 +12754,17 @@ encoder:
 腻	df,;ad/j
 独	;l/f	;l/fff
 肿	dfal	dfalll
-风	pa	paaaaa
+风	pa	paaa
 脱	dfz,	dfz,,,
-鱼	/k	/kkkkk
+鱼	/k	/kkk
 条	ldrj	ldrjjj
-乐	yf	yfffff
+乐	yf	yfff
 争	jakt	jakttt
-鸟	pf	pfffff
+鸟	pf	pfff
 讲	fjo;	fjo;;;
 让	fjak	fjakkk
 调	fjve	fjveee
-齐	rw	rwwwww
+齐	rw	rwww
 诉	fjom	fjommm
 设	fjkg	fjkggg
 该	fj;i	fj;iii
@@ -12774,7 +12774,7 @@ encoder:
 闭	odel	odelll
 问	odff	odffff
 间	odsf	odsfff
-门	od	oddddd
+门	od	oddd
 将	.sddkl
 应	ojzvaf
 疗	.xmd	.xmddd
@@ -12782,7 +12782,7 @@ encoder:
 类	rfuf	rfufff
 炼	sjri	sjriii
 总	zihf	zihfff
-单	ia	iaaaaa
+单	ia	iaaa
 粮	rfoz	rfozzz
 数	uhk;	uhk;;;
 洒	djgs	djgsss
@@ -12796,7 +12796,7 @@ encoder:
 补	wkxf	wkxfff
 审	ofs,	ofs,,,
 实	ofdluf
-马	;d	;ddddd
+马	;d	;ddd
 层	jld/	jld///
 颇	h.hk	h.hkkk
 观	kfhu	kfhuuu
@@ -12809,7 +12809,7 @@ encoder:
 费	,u/j	,u/jjj
 办	ijzk	ijzkkk
 阴	v;df	v;dfff
-习	pr	prrrrr
+习	pr	prrr
 弹	,jia	,jiaaa
 随	v;ljksdf
 红	wfif	wfifff
@@ -12827,9 +12827,9 @@ encoder:
 鹉	,flfpf
 垩	qmvj	qmvjjj
 严	afiszj
-亚	qm	qmmmmm
+亚	qm	qmmm
 恶	qmhf	qmhfff
-画	xe	xeeeee
+画	xe	xeee
 残	hc,r	hc,rrr
 殒	hccm	hccmmm
 歼	hcjg	hcjggg
@@ -12842,12 +12842,12 @@ encoder:
 坛	vjd/	vjd///
 墙	vjvjzkds
 盐	vjxfg;
-韦	lz	lzzzzz
+韦	lz	lzzz
 颉	cohk	cohkkk
 埘	vjsfkl
 坝	vj/j	vj/jjj
 趱	lklxlx/j
-进	lj	ljjjjj
+进	lj	ljjj
 辇	usus.j
 规	ushu	ushuuu
 赵	lkzl	lkzlll
@@ -12860,14 +12860,14 @@ encoder:
 夹	ufeg	ufeggg
 郏	ufegva
 壶	clqkis
-壳	ye	yeeeee
-声	ys	ysssss
+壳	ye	yeee
+声	ys	ysss
 韫	lzsfg;
 场	vjse	vjseee
 韬	lzkaga
 运	ljd/	ljd///
 玮	cklz	cklzzz
-寿	m.	m.....
+寿	m.	m...
 焘	m.sj	m.sjjj
 耢	iuefqkij
 环	ckek	ckekkk
@@ -12876,7 +12876,7 @@ encoder:
 琏	cklj.j
 职	h;ffzk
 璎	ck/j/juj
-责	/i	/iiiii
+责	/i	/iii
 瑶	ckkagz
 玑	ck.a	ck.aaa
 靓	eahu	eahuuu
@@ -12955,7 +12955,7 @@ encoder:
 𦭜	efffzk
 莳	efsfkl
 蓝	efxo	efxooo
-黄	ul	ulllll
+黄	ul	ulll
 蓦	ew;d	ew;ddd
 蔂	efvfwf
 苘	efqkff
@@ -12971,7 +12971,7 @@ encoder:
 𬜬	efodff
 蔺	efodpj
 蒋	ef.sddkl
-丧	rz	rzzzzz
+丧	rz	rzzz
 啬	vjzkds
 蕲	efiail
 荡	efdjse
@@ -12989,7 +12989,7 @@ encoder:
 萦	efqkwf
 茎	efwa	efwaaa
 萧	efde	efdeee
-卖	//	//////
+卖	//	////
 艺	efqe	efqeee
 荪	efmfzd
 苏	efijzk
@@ -13026,7 +13026,7 @@ encoder:
 赖	rkja/j
 榇	rjudrj
 霁	d;rw	d;rwww
-术	rx	rxxxxx
+术	rx	rxxx
 酿	geoz	geozzz
 桩	rjojvj
 榈	rjodfa
@@ -13076,7 +13076,7 @@ encoder:
 轧	.jqd	.jqddd
 辅	.jvv	.jvvvv
 颐	x.hk	x.hkkk
-尧	vu	vuuuuu
+尧	vu	vuuu
 翘	vupr	vuprrr
 轾	.j,l	.j,lll
 卧	x.xf	x.xfff
@@ -13085,7 +13085,7 @@ encoder:
 匮	q;ku/j
 轵	.jffzk
 轴	.j,g	.j,ggg
-东	.d	.ddddd
+东	.d	.ddd
 辊	.jsfjm
 辋	.jwsxl
 盏	,rg;	,rg;;;
@@ -13118,12 +13118,12 @@ encoder:
 战	xv,f	xv,fff
 蝇	/f/a	/f/aaa
 蜗	/fhs	/fhsss
-卤	gy	gyyyyy
+卤	gy	gyyy
 蛳	/fcfafwl
 频	lrhk	lrhkkk
 虚	;;is	;;isss
 蛊	/fg;	/fg;;;
-贞	xr	xrrrrr
+贞	xr	xrrr
 蚬	/fhu	/fhuuu
 龄	hqfu	hqfuuu
 赀	lfjj/j
@@ -13136,7 +13136,7 @@ encoder:
 卢	xfjl	xfjlll
 蚂	/f;d	/f;ddd
 虏	;;ij	;;ijjj
-吴	fc	fccccc
+吴	fc	fccc
 哑	ffqm	ffqmmm
 贵	ku/j	ku/jjj
 围	qjlz	qjlzzz
@@ -13163,7 +13163,7 @@ encoder:
 颚	ffffyohk
 圆	qjcm	qjcmmm
 骂	ffff;d
-黾	/a	/aaaaa
+黾	/a	/aaa
 呗	ff/j	ff/jjj
 啰	ffaadd
 郧	cmva	cmvaaa
@@ -13205,7 +13205,7 @@ encoder:
 帅	cfwl	cfwlll
 𬀪	sfhu	sfhuuu
 临	xoff	xoffff
-监	xo	xooooo
+监	xo	xooo
 览	xohu	xohuuu
 鉴	xocj	xocjjj
 晔	sfer	sferrr
@@ -13258,7 +13258,7 @@ encoder:
 𪾢	hjhu	hjhuuu
 婴	/j/juj
 峤	vkzjufzk
-贝	/j	/jjjjj
+贝	/j	/jjj
 赌	/jsk	/jskkk
 则	/jcf	/jcfff
 赂	/jle	/jleee
@@ -13281,7 +13281,7 @@ encoder:
 剀	.;cf	.;cfff
 觊	.;hu	.;huuu
 凯	.;.a	.;.aaa
-岂	.;	.;;;;;
+岂	.;	.;;;
 悬	wbhf	wbhfff
 丢	zjug	zjuggg
 筹	ejm.	ejm...
@@ -13339,12 +13339,12 @@ encoder:
 伤	jfjhij
 俭	jfje	jfjeee
 伦	jfxz	jfxzzz
-华	er	errrrr
+华	er	errr
 倾	jfjjhk
 货	j;/j	j;/jjj
 储	jffjsk
 侪	jfrw	jfrwww
-奥	oy	oyyyyy
+奥	oy	oyyy
 鹪	pjsjpf
 偻	jfuh	jfuhhh
 伫	jfofaf
@@ -13357,7 +13357,7 @@ encoder:
 敛	jek;	jek;;;
 刽	gicf	gicfff
 饵	gjh;	gjh;;;
-仓	ow	owwwww
+仓	ow	owww
 馕	gjwy	gjwyyy
 馍	gjew	gjewww
 馓	gjrg	gjrggg
@@ -13388,12 +13388,12 @@ encoder:
 馋	gjw/dl
 馅	gjjaga
 饮	gjfs	gjfsss
-仑	xz	xzzzzz
+仑	xz	xzzz
 馏	gjcavf
 饱	gjmj	gjmjjj
 颔	guffhk
 贪	gu/j	gu/jjj
-伞	i.	i.....
+伞	i.	i...
 饼	gjjc	gjjccc
 馐	gj;jkq
 邻	fuva	fuvaaa
@@ -13548,7 +13548,7 @@ encoder:
 铫	cjdi	cjdiii
 铴	cjdjse
 锭	cjoflg
-爱	fw	fwwwww
+爱	fw	fwww
 镩	cjov/u
 铋	cj,/	cj,///
 镔	cjofilkd
@@ -13639,17 +13639,17 @@ encoder:
 鳂	/kxp	/kxppp
 鲳	/kfo	/kfooo
 鳗	/ksfaakf
-尔	ww	wwwwww
+尔	ww	wwww
 鲲	/ksfjm
 鲁	/ksf	/ksfff
 迩	ljww	ljwwww
 鳃	/khg	/khggg
 鲣	/kadkfvj
 鳎	/ksfpr
-龟	/;	/;;;;;
+龟	/;	/;;;
 鲷	/kve	/kveee
 鲖	/kgf	/kgfff
-奂	j/	j/////
+奂	j/	j///
 鳏	/kaadj
 岛	pfvk	pfvkkk
 负	ja/j	ja/jjj
@@ -13667,7 +13667,7 @@ encoder:
 鷈	pfzh;;
 鳐	/kkagz
 凫	pf.a	pf.aaa
-毕	iq	iqqqqq
+毕	iq	iqqq
 鲦	/kldrj
 𬶋	/kqi	/kqiii
 鲍	/kmj	/kmjjj
@@ -13695,7 +13695,7 @@ encoder:
 鸳	ddjkpf
 匀	mjdl	mjdlll
 鱾	/kma	/kmaaa
-乌	pw	pwwwww
+乌	pw	pwww
 枭	pfrj	pfrjjj
 鲐	/kmw	/kmwww
 𬣙	fjyl	fjylll
@@ -13746,7 +13746,7 @@ encoder:
 误	fjfc	fjfccc
 颤	oxsghk
 识	fjffzk
-赢	/o	/ooooo
+赢	/o	/ooo
 诽	fjpd	fjpddd
 刘	ukcf	ukcfff
 栾	uzrj	uzrjjj
@@ -13909,14 +13909,14 @@ encoder:
 慑	hfh;kfkf
 愤	hfed/j
 懒	hfrkja/j
-娄	uh	uhhhhh
+娄	uh	uhhh
 恹	hfvl;l
 烦	sjhk	sjhkkk
 郑	zmva	zmvaaa
 烧	sjvu	sjvuuu
 怄	hfq;zl
 惭	hf.jil
-兑	z,	z,,,,,
+兑	z,	z,,,
 兽	iaff	iaffff
 悭	hfadkfvj
 灿	sjvk	sjvkkk
@@ -13942,7 +13942,7 @@ encoder:
 惯	hf/u/j
 兹	egwdwd
 举	kckk	kckkkk
-兴	kc	kccccc
+兴	kc	kccc
 誉	kcfj	kcfjjj
 𬇕	djjt	djjttt
 洼	djvh	djvhhh
@@ -14069,7 +14069,7 @@ encoder:
 属	jl/x	jl/xxx
 驯	;ddk	;ddkkk
 骓	;dpj	;dpjjj
-肃	de	deeeee
+肃	de	deee
 骅	;der	;derrr
 骢	;dohhf
 驳	;dzs	;dzsss
@@ -14084,7 +14084,7 @@ encoder:
 骧	;dwu	;dwuuu
 昼	icsg	icsggg
 𫘜	;duk	;dukkk
-尽	g/	g/////
+尽	g/	g///
 骇	;d;i	;d;iii
 骥	;djux/
 骈	;djc	;djccc
@@ -14121,7 +14121,7 @@ encoder:
 阶	v;jv	v;jvvv
 弥	,jww	,jwwww
 隐	v;jakbhf
-飞	pe	peeeee
+飞	pe	peee
 导	mskl	msklll
 𠙶	mdql	mdqlll
 纡	wfyl	wfylll
@@ -14236,9 +14236,9 @@ encoder:
 纠	wfqu	wfquuu
 绐	wfmw	wfmwww
 缫	wfdkr;
-乡	vz	vzzzzz
+乡	vz	vzzz
 飨	vzgj	vzgjjj
-芈	;u	;uuuuu
+芈	;u	;uuu
 鹝	c.pf	c.pfff
 戬	,o,f	,o,fff
 鹂	;cpf	;cpfff
@@ -14516,7 +14516,7 @@ encoder:
 匦	q;.jkw
 𬌗	hagk	hagkkk
 𬸘	q;sfujpf
-戋	,r	,rrrrr
+戋	,r	,rrr
 刬	,rcf	,rcfff
 欧	q;zlfs
 鸥	q;zlpf
@@ -14581,7 +14581,7 @@ encoder:
 𫑡	/ava	/avaaa
 嘤	ff/j/juj
 呐	ffoc	ffoccc
-呙	hs	hsssss
+呙	hs	hsss
 剐	hscf	hscfff
 哕	ffvkdd
 勋	cmij	cmijjj
@@ -14696,7 +14696,7 @@ encoder:
 雠	pjfjpj
 鹎	,bpf	,bpfff
 魉	x;ae	x;aeee
-囱	oh	ohhhhh
+囱	oh	ohhh
 偿	jfzdqkd/
 傥	jfoajs
 侩	jfgi	jfgiii
@@ -14704,7 +14704,7 @@ encoder:
 㑊	jfuz	jfuzzz
 仪	jfzfzl
 𫢸	jfia	jfiaaa
-佥	je	jeeeee
+佥	je	jeee
 㙦	oigovj
 颌	gkhk	gkhkkk
 鸽	gkpf	gkpfff
@@ -15192,7 +15192,7 @@ encoder:
 骕	;dde	;ddeee
 骚	;d/w	;d/www
 骎	;dkbqkkf
-书	xd	xddddd
+书	xd	xddd
 堕	v;ksdfvj
 骘	v;lr;d
 𬯎	v;ku/j
@@ -16221,7 +16221,7 @@ encoder:
 𦡥	dfdjpv
 𬌔	.whf	.whfff
 𫅩	prk/	prk///
-吿	;v	;vvvvv
+吿	;v	;vvv
 𫘿	mlz;ktff
 𪞍	kigk	kigkkk
 𪟶	ccoa	ccoaaa
@@ -16606,7 +16606,7 @@ encoder:
 𤀞	djefsk
 𡏧	vjjfei
 耚	iuh.	iuh...
-㝵	/,	/,,,,,
+㝵	/,	/,,,
 𩦓	;dodii
 𡨌	ofklal
 𨃶	llrjle
@@ -16789,7 +16789,7 @@ encoder:
 𧒊	/f,kffsf
 𨐷	xkfjid
 𣻕	dje;	dje;;;
-𧘇	wk	wkkkkk
+𧘇	wk	wkkk
 𫭻	vjmahf
 𢹌	kkljj.;f
 𠼽	ffkahu
@@ -16815,7 +16815,7 @@ encoder:
 𪬼	cvhfadkf/j
 𢂌	wljf,;
 𨘱	ljrkjakt
-尙	oa	oaaaaa
+尙	oa	oaaa
 𢺀	kkfjew
 䘹	wkwn	wkwnnn
 𤠚	;lwv	;lwvvv
@@ -17356,7 +17356,7 @@ encoder:
 𨅍	llodsf
 趂	lkww	lkwwww
 𡐮	vjkz	vjkzzz
-𫧇	jm	jmmmmm
+𫧇	jm	jmmm
 𢪀	kkxfqf
 𩄏	d;pa	d;paaa
 𬧾	d;vf.j
@@ -19559,7 +19559,7 @@ encoder:
 𥢳	rddjsk
 𢠦	hfuo	hfuooo
 𩳳	x;rs	x;rsss
-𫜹	kb	kbbbbb
+𫜹	kb	kbbb
 𢶽	kkv;kaga
 㕪	ffqkjs
 𨇘	/hll	/hllll
@@ -19896,7 +19896,7 @@ encoder:
 𨮈	cjflfs
 𠴑	ffefuj
 𣑴	rjdjif
-𫜵	ka	kaaaaa
+𫜵	ka	kaaa
 頺	rdm,hk
 𢰽	kkjakbhf
 𩅀	d;xyu;
